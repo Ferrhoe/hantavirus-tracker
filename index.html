@@ -385,7 +385,7 @@
                 <div class="stat-card">
                     <div class="stat-label">Countries Affected</div>
                     <div class="stat-value" id="countriesCount">—</div>
-                    <div class="stat-change" id="lastUpdate" class="last-update-time"></div>
+                    <div class="stat-change">Spread across regions</div>
                 </div>
             </div>
 
@@ -468,7 +468,6 @@
             // Format last update time
             const lastUpdate = new Date(trackerData.last_updated);
             const timeStr = lastUpdate.toLocaleString();
-            document.getElementById('lastUpdate').textContent = 'Updated: ' + timeStr;
             document.getElementById('topUpdateTime').textContent = timeStr;
             document.getElementById('footerUpdate').textContent = 'Last updated: ' + timeStr;
         }
