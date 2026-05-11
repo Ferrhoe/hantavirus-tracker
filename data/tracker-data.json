@@ -1,0 +1,87 @@
+{
+  "confirmed": 7,
+  "probable": 5,
+  "deaths": 3,
+  "last_updated": "2026-05-11T14:45:00Z",
+  "countries": {
+    "Spain": {
+      "confirmed": 2,
+      "probable": 0,
+      "deaths": 1
+    },
+    "United States": {
+      "confirmed": 3,
+      "probable": 1,
+      "deaths": 0
+    },
+    "Switzerland": {
+      "confirmed": 1,
+      "probable": 0,
+      "deaths": 0
+    },
+    "South Africa": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 1
+    },
+    "France": {
+      "confirmed": 2,
+      "probable": 1,
+      "deaths": 0
+    },
+    "United Kingdom": {
+      "confirmed": 0,
+      "probable": 2,
+      "deaths": 0
+    }
+  },
+  "timeline": [
+    {
+      "date": "Apr 11",
+      "confirmed": 1,
+      "probable": 0,
+      "deaths": 1
+    },
+    {
+      "date": "Apr 24",
+      "confirmed": 1,
+      "probable": 0,
+      "deaths": 2
+    },
+    {
+      "date": "May 2",
+      "confirmed": 3,
+      "probable": 0,
+      "deaths": 2
+    },
+    {
+      "date": "May 6",
+      "confirmed": 4,
+      "probable": 2,
+      "deaths": 2
+    },
+    {
+      "date": "May 11",
+      "confirmed": 7,
+      "probable": 5,
+      "deaths": 3
+    }
+  ],
+  "news": [
+    {
+      "date": "May 11, 2026",
+      "text": "Two additional passengers test positive for hantavirus after evacuation in Canary Islands.",
+      "badge": "LATEST"
+    },
+    {
+      "date": "May 11, 2026",
+      "text": "16 American passengers at University of Nebraska Medical Center remain asymptomatic.",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 10, 2026",
+      "text": "MV Hondius evacuates all remaining passengers in Tenerife, Canary Islands.",
+      "badge": "EVENT"
+    }
+  ]
+}
