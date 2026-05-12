@@ -170,9 +170,9 @@ def get_latest_news(current_data):
 
     existing_titles = [n.get('text', '') for n in current_data.get('news', [])[:5]]
 
-    prompt = f"""Search the web right now for the latest news articles about the MV Hondius hantavirus outbreak in 2026.
+    prompt = f"""Search the web right now for recent news articles about the MV Hondius hantavirus outbreak in 2026.
 
-Find up to 5 recent articles published after {current_data['last_updated'][:10]}.
+Find up to 5 of the most recent and relevant articles.
 
 Already known headlines (do not include these):
 {json.dumps(existing_titles, indent=2)}
@@ -187,7 +187,7 @@ Respond with ONLY a valid JSON array, no markdown, no explanation:
   }}
 ]
 
-If no new articles are found, respond with only: NO_UPDATE"""
+If no articles are found at all, respond with only: NO_UPDATE"""
 
     result = ask_gemini(prompt)
     if not result:
