@@ -6,7 +6,7 @@ Simplified version that's more reliable
 
 import json
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 import feedparser
 import re
 
@@ -27,7 +27,7 @@ def get_default_data():
         "confirmed": 11,
         "probable": 0,
         "deaths": 3,
-        "last_updated": datetime.now().isoformat(),
+        "last_updated": datetime.now(timezone.utc).isoformat(),
         "countries": {
             "Spain": {"confirmed": 2, "probable": 0, "deaths": 1},
             "United States": {"confirmed": 4, "probable": 0, "deaths": 0},
@@ -144,7 +144,7 @@ def update_tracker_data():
     for entry in news_entries[:5]:
         if entry['title'] not in existing_titles:
             current_data['news'].insert(0, {
-                'date': datetime.now().strftime('%B %d, %Y'),
+                'date': datetime.now(timezone.utc).strftime('%B %d, %Y'),
                 'text': entry['title'],
                 'badge': 'UPDATE',
                 'link': entry.get('link', '')
@@ -154,7 +154,7 @@ def update_tracker_data():
     current_data['news'] = current_data['news'][:10]
     
     # Update timestamp
-    current_data['last_updated'] = datetime.now().isoformat()
+    current_data['last_updated'] = datetime.now(timezone.utc).isoformat()
     
     print(f"\nFinal data:")
     print(f"Confirmed: {current_data['confirmed']}")
@@ -179,7 +179,7 @@ def main():
     print("=" * 50)
     print("Hantavirus News Monitor")
     print("=" * 50)
-    print(f"Time: {datetime.now().isoformat()}\n")
+    print(f"Time: {datetime.now(timezone.utc).isoformat()}\n")
     
     # Update data
     updated_data = update_tracker_data()
