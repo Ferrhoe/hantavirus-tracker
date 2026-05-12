@@ -262,6 +262,12 @@ def main():
             current_data['countries'] = new_numbers['countries']
             print("✓ Updated country breakdown")
 
+        # Recalculate top-level totals from country data to ensure consistency
+        current_data['confirmed'] = sum(c.get('confirmed', 0) for c in current_data['countries'].values())
+        current_data['probable'] = sum(c.get('probable', 0) for c in current_data['countries'].values())
+        current_data['deaths'] = sum(c.get('deaths', 0) for c in current_data['countries'].values())
+        print(f"✓ Recalculated totals from countries: {current_data['confirmed']} confirmed, {current_data['probable']} probable, {current_data['deaths']} deaths")
+
     # 2. Wait briefly before second API call
     time.sleep(10)
 

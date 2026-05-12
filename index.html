@@ -468,10 +468,11 @@
         function updateUI() {
             if (!trackerData) return;
 
-            const confirmed = trackerData.confirmed;
-            const probable = trackerData.probable;
+            // Always calculate totals from country breakdown for consistency
+            const confirmed = Object.values(trackerData.countries).reduce((sum, c) => sum + (c.confirmed || 0), 0);
+            const probable = Object.values(trackerData.countries).reduce((sum, c) => sum + (c.probable || 0), 0);
+            const deaths = Object.values(trackerData.countries).reduce((sum, c) => sum + (c.deaths || 0), 0);
             const total = confirmed + probable;
-            const deaths = trackerData.deaths;
 
             document.getElementById('confirmedCases').textContent = confirmed;
             document.getElementById('probableCases').textContent = probable;
