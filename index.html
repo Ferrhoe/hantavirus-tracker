@@ -180,12 +180,16 @@
         #map {
             width: 100%;
             height: 500px;
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            background: transparent;
             border-radius: 8px;
-            overflow: visible;
+            overflow: hidden;
             border: 2px solid #dee2e6;
             position: relative;
             margin-bottom: 60px;
+        }
+
+        #map svg {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
         }
 
         .map-tooltip {
@@ -527,7 +531,7 @@
                         // Highlight the country
                         d3.select(this).attr('opacity', 1).attr('stroke-width', 2).attr('stroke', '#667eea');
                         
-                        // Show tooltip if it's an affected country
+                        // Show tooltip for ALL countries
                         if (country && trackerData.countries[country]) {
                             const data = trackerData.countries[country];
                             
@@ -537,6 +541,18 @@
                                     Confirmed: <strong>${data.confirmed}</strong><br>
                                     Probable: <strong>${data.probable}</strong><br>
                                     Deaths: <strong>${data.deaths}</strong>
+                                </div>
+                            `;
+                            
+                            tooltip.classList.add('active');
+                        } else {
+                            // Show unaffected country with 0 cases
+                            tooltip.innerHTML = `
+                                <div class="map-tooltip-country">Unaffected</div>
+                                <div class="map-tooltip-stat">
+                                    Confirmed: <strong>0</strong><br>
+                                    Probable: <strong>0</strong><br>
+                                    Deaths: <strong>0</strong>
                                 </div>
                             `;
                             
