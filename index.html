@@ -179,7 +179,7 @@
 
         #map {
             width: 100%;
-            height: 650px;
+            height: 700px;
             background: transparent;
             border-radius: 8px;
             overflow: hidden;
@@ -479,9 +479,18 @@
             document.getElementById('deaths').textContent = deaths;
             document.getElementById('countriesCount').textContent = Object.values(trackerData.countries).filter(c => c.confirmed + c.probable + c.deaths > 0).length;
 
-            // Format last update time
+            // Format last update time in Eastern Time
             const lastUpdate = new Date(trackerData.last_updated);
-            const timeStr = lastUpdate.toLocaleString();
+            const timeStr = lastUpdate.toLocaleString('en-US', { 
+                timeZone: 'America/New_York',
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: true
+            });
             document.getElementById('topUpdateTime').textContent = timeStr;
             document.getElementById('footerUpdate').textContent = 'Last updated: ' + timeStr;
         }
