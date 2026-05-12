@@ -479,22 +479,20 @@
             document.getElementById('deaths').textContent = deaths;
             document.getElementById('countriesCount').textContent = Object.values(trackerData.countries).filter(c => c.confirmed + c.probable + c.deaths > 0).length;
 
-            // Format last update time in Eastern Time
+            // Format last update time in UTC
             const lastUpdate = new Date(trackerData.last_updated);
-            // Create a formatter for Eastern Time
-            const formatter = new Intl.DateTimeFormat('en-US', {
-                timeZone: 'America/New_York',
+            const timeStr = lastUpdate.toLocaleString('en-US', { 
                 year: 'numeric',
                 month: '2-digit',
                 day: '2-digit',
                 hour: '2-digit',
                 minute: '2-digit',
                 second: '2-digit',
-                hour12: true
+                hour12: true,
+                timeZone: 'UTC'
             });
-            const timeStr = formatter.format(lastUpdate);
-            document.getElementById('topUpdateTime').textContent = timeStr + ' ET';
-            document.getElementById('footerUpdate').textContent = 'Last updated: ' + timeStr + ' ET';
+            document.getElementById('topUpdateTime').textContent = timeStr + ' UTC';
+            document.getElementById('footerUpdate').textContent = 'Last updated: ' + timeStr + ' UTC';
         }
 
         function renderMap() {
