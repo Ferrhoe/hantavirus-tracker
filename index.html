@@ -179,7 +179,7 @@
 
         #map {
             width: 100%;
-            height: 500px;
+            height: 650px;
             background: transparent;
             border-radius: 8px;
             overflow: hidden;
@@ -527,16 +527,17 @@
                     .style('cursor', d => countryCodeMap[d.id] ? 'pointer' : 'default')
                     .on('mouseover', function(event, d) {
                         const country = countryCodeMap[d.id];
+                        const countryName = country || (d.properties?.name || 'Country');
                         
                         // Highlight the country
                         d3.select(this).attr('opacity', 1).attr('stroke-width', 2).attr('stroke', '#667eea');
                         
-                        // Show tooltip for ALL countries
+                        // Show tooltip for ALL countries with actual country name
                         if (country && trackerData.countries[country]) {
                             const data = trackerData.countries[country];
                             
                             tooltip.innerHTML = `
-                                <div class="map-tooltip-country">${country}</div>
+                                <div class="map-tooltip-country">${countryName}</div>
                                 <div class="map-tooltip-stat">
                                     Confirmed: <strong>${data.confirmed}</strong><br>
                                     Probable: <strong>${data.probable}</strong><br>
@@ -546,9 +547,9 @@
                             
                             tooltip.classList.add('active');
                         } else {
-                            // Show unaffected country with 0 cases
+                            // Show unaffected country with actual name and 0 cases
                             tooltip.innerHTML = `
-                                <div class="map-tooltip-country">Unaffected</div>
+                                <div class="map-tooltip-country">${countryName}</div>
                                 <div class="map-tooltip-stat">
                                     Confirmed: <strong>0</strong><br>
                                     Probable: <strong>0</strong><br>
