@@ -9,6 +9,7 @@ Requires GEMINI_API_KEY set as a GitHub Actions secret.
 import json
 import os
 import requests
+import time
 from datetime import datetime, timezone
 
 DATA_FILE = 'data/tracker-data.json'
@@ -45,16 +46,17 @@ def get_default_data():
         "news": []
     }
 
-def ask_gemini(prompt):
+def ask_gemini(prompt, retries=3):
     """
     Call Gemini API with Google Search grounding enabled.
-    This lets Gemini search the web in real time - similar to what Claude does.
+    Retries on rate limit errors with exponential backoff.
     """
     if not GEMINI_API_KEY:
-        print("? GEMINI_API_KEY not set")
+        print("✗ GEMINI_API_KEY not set")
         return None
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+    # gemini-1.5-flash has higher free tier limits than gemini-2.0-flash
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
 
     body = {
         "contents": [
@@ -64,37 +66,59 @@ def ask_gemini(prompt):
         ],
         "tools": [
             {
-                "google_search": {}  # Enables real-time web search (grounding)
+                "google_search_retrieval": {
+                    "dynamic_retrieval_config": {
+                        "mode": "MODE_DYNAMIC",
+                        "dynamic_threshold": 0.3
+                    }
+                }
             }
         ],
         "generationConfig": {
-            "temperature": 0.1  # Low temperature for factual responses
+            "temperature": 0.1
         }
     }
 
-    try:
-        response = requests.post(url, json=body, timeout=60)
-        response.raise_for_status()
-        data = response.json()
+    for attempt in range(retries):
+        try:
+            response = requests.post(url, json=body, timeout=60)
 
-        # Extract text from response
-        candidates = data.get('candidates', [])
-        if candidates:
-            parts = candidates[0].get('content', {}).get('parts', [])
-            text_parts = [p['text'] for p in parts if 'text' in p]
-            return '\n'.join(text_parts)
+            if response.status_code == 429:
+                wait = 30 * (attempt + 1)  # 30s, 60s, 90s
+                print(f"   Rate limited, waiting {wait}s before retry {attempt + 1}/{retries}...")
+                time.sleep(wait)
+                continue
 
-        return None
+            response.raise_for_status()
+            data = response.json()
 
-    except Exception as e:
-        print(f"? Gemini API error: {str(e)}")
-        return None
+            candidates = data.get('candidates', [])
+            if candidates:
+                parts = candidates[0].get('content', {}).get('parts', [])
+                text_parts = [p['text'] for p in parts if 'text' in p]
+                return '\n'.join(text_parts)
+
+            return None
+
+        except requests.exceptions.HTTPError as e:
+            if attempt < retries - 1:
+                wait = 30 * (attempt + 1)
+                print(f"   HTTP error: {e}, retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                print(f"✗ Gemini API error after {retries} attempts: {str(e)}")
+                return None
+        except Exception as e:
+            print(f"✗ Gemini API error: {str(e)}")
+            return None
+
+    return None
 
 def get_latest_case_numbers(current_data):
     """
     Ask Gemini to search for the latest case numbers.
     """
-    print("\n?? Searching for latest case numbers...")
+    print("\n🔍 Searching for latest case numbers...")
 
     prompt = f"""Search the web right now for the latest news about the MV Hondius hantavirus outbreak in 2026.
 
@@ -139,7 +163,7 @@ If you find no new information beyond what is already known, respond with only: 
         if start >= 0 and end > start:
             return json.loads(result[start:end])
     except json.JSONDecodeError as e:
-        print(f"   ? Could not parse JSON: {e}")
+        print(f"   ✗ Could not parse JSON: {e}")
 
     return None
 
@@ -147,7 +171,7 @@ def get_latest_news(current_data):
     """
     Ask Gemini to find recent news articles about the outbreak.
     """
-    print("\n?? Searching for latest news articles...")
+    print("\n📰 Searching for latest news articles...")
 
     existing_titles = [n.get('text', '') for n in current_data.get('news', [])[:5]]
 
@@ -189,7 +213,7 @@ If no new articles are found, respond with only: NO_UPDATE"""
             print(f"   Found {len(articles)} new articles")
             return articles
     except json.JSONDecodeError as e:
-        print(f"   ? Could not parse JSON: {e}")
+        print(f"   ✗ Could not parse JSON: {e}")
 
     return []
 
@@ -208,7 +232,7 @@ def update_timeline(current_data):
             "probable": current_data['probable'],
             "deaths": current_data['deaths']
         })
-        print(f"   ? Added timeline entry for {today}")
+        print(f"   ✓ Added timeline entry for {today}")
 
     return current_data
 
@@ -227,7 +251,7 @@ def main():
     new_numbers = get_latest_case_numbers(current_data)
     if new_numbers:
         if new_numbers.get('confirmed', 0) >= current_data['confirmed']:
-            print(f"\n? Confirmed: {current_data['confirmed']} ? {new_numbers['confirmed']}")
+            print(f"\n✓ Confirmed: {current_data['confirmed']} → {new_numbers['confirmed']}")
             current_data['confirmed'] = new_numbers['confirmed']
             updated = True
 
@@ -235,15 +259,18 @@ def main():
             current_data['probable'] = new_numbers['probable']
 
         if new_numbers.get('deaths', 0) >= current_data['deaths']:
-            print(f"? Deaths: {current_data['deaths']} ? {new_numbers['deaths']}")
+            print(f"✓ Deaths: {current_data['deaths']} → {new_numbers['deaths']}")
             current_data['deaths'] = new_numbers['deaths']
             updated = True
 
         if 'countries' in new_numbers:
             current_data['countries'] = new_numbers['countries']
-            print("? Updated country breakdown")
+            print("✓ Updated country breakdown")
 
-    # 2. Get latest news articles
+    # 2. Wait briefly before second API call
+    time.sleep(10)
+
+    # 3. Get latest news articles
     new_articles = get_latest_news(current_data)
     if new_articles:
         existing_titles = {n.get('text', '') for n in current_data.get('news', [])}
@@ -265,9 +292,9 @@ def main():
     try:
         with open(DATA_FILE, 'w') as f:
             json.dump(current_data, f, indent=2)
-        print(f"\n? Saved to {DATA_FILE}")
+        print(f"\n✓ Saved to {DATA_FILE}")
     except Exception as e:
-        print(f"? Error saving: {e}")
+        print(f"✗ Error saving: {e}")
 
     print("\n" + "=" * 60)
     print(f"Done: {current_data['confirmed']} confirmed, {current_data['deaths']} deaths, {len(current_data['news'])} news items")
