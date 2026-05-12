@@ -1,8 +1,8 @@
 {
-  "confirmed": 9,
-  "probable": 5,
-  "deaths": 3,
-  "last_updated": "2026-05-12T22:26:47.722186+00:00",
+  "confirmed": 6,
+  "probable": 1,
+  "deaths": 1,
+  "last_updated": "2026-05-12T22:32:29.959920+00:00",
   "countries": {
     "Spain": {
       "confirmed": 1,
@@ -20,9 +20,9 @@
       "deaths": 0
     },
     "South Africa": {
-      "confirmed": 0,
+      "confirmed": 1,
       "probable": 0,
-      "deaths": 0
+      "deaths": 1
     },
     "France": {
       "confirmed": 1,
@@ -71,9 +71,45 @@
       "confirmed": 9,
       "probable": 5,
       "deaths": 3
+    },
+    {
+      "date": "May 12",
+      "confirmed": 6,
+      "probable": 1,
+      "deaths": 1
     }
   ],
   "news": [
+    {
+      "date": "May 10, 2026",
+      "text": "Passengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak 'not another COVID' | UN News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_PNsLtf4QOxZskN-lkKaQ0WaWsYNCznh0B5wlGFWwKmETzu_zmJeJ1F4Xg-0NX30n_WrvenNKVy4tJOaNsS6649_58Zn7itUQcoRMYYe_wdJR2Rf36DBtvC0B4V8Y-z6CrmFak810",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "Two N.H. residents traveled aboard cruise ship with hantavirus outbreak | WBUR News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGRfVASuS2BD0ffbSEhDvczmj1JSvu65HYSWeALa7LoGS-UcDQw-R9rpL1ccSIBt-FPqi2bDuPavgfJ-9wZd66bcYQ6qsPfH-v-2gFM3dpTsZzvb2Gj1I0sJP2n1JvHDbmLz3rP_0uzayINrrUuB_ze4QYICwD7OAzNFrP_nSvXHIOKCJIJQIkyQSIKB6g",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "Hantavirus update: Cases continue to rise as final MV Hondius passengers disembark - ITIJ",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1OgcdMk0_UUZbpLgpme9Ia5JwDr1ah_6e2wDvJPjsHNEKo3hOl5aiX1TqHtNsc8u44_pZ1NfWmLl5rL9YHNaDH5efKmDfIKTI73VZnOyEo7befQFBaRPbWtiWceXRtzWsR9lGJGpQjZMqWyb_0lIM-B4HtPjH0fLM47y6IZpj2hzN44tJzUyhItNv2beOSDI0zhjXfeviF7VPS3PUA7UmplINdfJMdg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECj8lJgJhpXMMFvs-X1DAqdp98_u97WcvYGY1MaVJXxtw2AAgec7MUdS24v7KgbBC2ivS8SDM3Y_iEU6Km6vtU5aX3D0giqiDIB4kOyOyxqQAqs-w-bzFvTDMI3VcggVeTADAT2HTGc1An-DR30N-TE5tR-FwbZEit4bwO_nPuOpaB8VlH6LrxhVKAzdOoHxwCax-rxu5Tpp0Ad_tMAV0L5sIXUekR8X65bQfO70oVeTuy1sbi8O0z5Ha6XoVdrXj1zp37aw==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "UKHSA update on the hantavirus cruise ship outbreak - GOV.UK",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxuDTmwyfhvW93Lx6OCUArjcIuHttog9-GQzAjUHNFd85AuxwlrprSLVhvw4u4goAO0JaJfjyjmOHCRXvQEQYSmA3ht7D2IqR_Jgi15_OZR6z4b5bL2S-AN6zHe6umHZYO-D_96H6T95FAffkkkRsvYZB6DGjxOGZbxaxZijt8mjhkHtyt3gEEJ4cJKQ1uHn9d",
+      "badge": "UPDATE"
+    },
     {
       "date": "May 09, 2026",
       "text": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak",
