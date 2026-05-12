@@ -2,7 +2,7 @@
   "confirmed": 9,
   "probable": 5,
   "deaths": 3,
-  "last_updated": "2026-05-12T22:23:00.342676+00:00",
+  "last_updated": "2026-05-12T22:26:47.722186+00:00",
   "countries": {
     "Spain": {
       "confirmed": 1,
@@ -10,7 +10,7 @@
       "deaths": 0
     },
     "United States": {
-      "confirmed": 1,
+      "confirmed": 0,
       "probable": 0,
       "deaths": 0
     },
@@ -22,7 +22,7 @@
     "South Africa": {
       "confirmed": 0,
       "probable": 0,
-      "deaths": 1
+      "deaths": 0
     },
     "France": {
       "confirmed": 1,
@@ -74,6 +74,36 @@
     }
   ],
   "news": [
+    {
+      "date": "May 09, 2026",
+      "text": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGITmZk-fhoOeOTtA1plUyrVYunBf0KtXouwz9YsRJVhhTob5svwhKAXGHK7M5T8omo7OG46rNp3vv8uODMSJbQP5gDEqzdFhsa3yFuDhGE__-5OilXJRtPgXC3QmjX1AJeDAsSH29760eZ3fD0jUZxg410JDzmiHifKTKrduOLopw1B-RrfguzYZJVtNId5tj-3JRUDPiM1kEWz_ZIu6F84q6sOuM77i7JgkTVR4S4YdwmB06D",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 11, 2026",
+      "text": "Americans from cruise ship linked to hantavirus outbreak to arrive in U.S. for monitoring as Georgia residents remain under watch - CBS News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcDA0IkMZNmsO3f5CPMYXQKByRo1zffMg7AYITnzwF8K6tz0sgp1AuK_hNv-PFMzVSJBdBV1wOY6NE7iZJZ0u0zNUIUlAq1XnQJHdyYhMmExJqx4YKuZeNSpJrtVZKK_ly4ajS-StspBXglU8DCUPzZfmhkn7YDZUPvy6hU_PrBlEahezgw6Y7omRklB0AgtBpiOvQihH2clyXnEfyiL2kk8pQ4eId0aTr8-8-dyycaqjwkcRn_y3xfFaYWRQuSj31FEmyRsW_uYc8rGe2",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 11, 2026",
+      "text": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLZ0Lnnwkdrp2m8C24V3dcgJzijpxj11M4vjVGqWJSN-RYD6-nDBXSssKVWerYGywAkoBcrVenrhUO-Zc66BgzwPi1KHNuoFVQoYtG86AlYreDQsrjohLoV2IQv5wSz2kXqr-a6KuDyr_di8t24aSntNXH8c_m0PimfqzrmGNzkagFwXubrnT0QZduqK6s4jzpe6MWLAZgNfGp4xaT8460TqhQ1e2fIwqX76K9gFS59HOxUFnVmA2cr-zha0P4hjQ=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "What you need to know about the hantavirus outbreak linked to the Dutch cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOInm0dbuPwG_U8vUl8k9BuFXFWuQII5UCrc_tBLbkTvZXKZLMqwe-hRdTlqjq7apsJnftvAJrw1vQr__INLuF1RqeX8B1NuL_ZYNuLDnTrRW9rRD-wtnKerfoH47Mo826fIRJCYw6dZSFQIlX1oi2EZ8hu4qmKuvmZqxrr9oURgX6jJMGuNQVhhVXTUbkR5FmtL-ITlGtWfvAkcjmZokisznAVuUNTcwpP5uN_Qj6WDOac78=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "Andes hantavirus outbreak in cruise ship, 12 May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBqVSZ6FLyP9n6KFyjjpebDCHT0bZ6HkJPGvHqzfMmBNZD_Fo_VU4q7Yv5631ryfmDyLmpF5qPtwXIA97wA3HoDQv4xccRz1EArJi6TxefMUVvwElLmv3Fsln9wcP-SftDClWfndkrpzWPeBVwkAaNWDeuyS5nNAO-LQsUwjjdy5hOzUZS2Nz0hz_5ryGKigx_0e_x5pbtCyBZ9QGY1bJwvwz8qWVFnPTbDGzXyzQQ1jv7pCUrpNUZ43pWCFv6Lo0qDTwt92FZHKEao3k9qrydLc-Eshsq4kWlGSQg==",
+      "badge": "UPDATE"
+    },
     {
       "date": "May 11, 2026",
       "text": "Two additional passengers test positive for hantavirus after evacuation in Canary Islands.",
