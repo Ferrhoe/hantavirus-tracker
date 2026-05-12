@@ -186,8 +186,42 @@
             height: 400px;
             background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
             border-radius: 8px;
-            overflow: hidden;
+            overflow: visible;
             border: 2px solid #dee2e6;
+            position: relative;
+        }
+
+        .map-tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.95);
+            color: white;
+            padding: 12px 16px;
+            border-radius: 8px;
+            font-size: 13px;
+            pointer-events: none;
+            z-index: 1000;
+            white-space: nowrap;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+            display: none;
+            line-height: 1.6;
+        }
+
+        .map-tooltip.active {
+            display: block;
+        }
+
+        .map-tooltip-country {
+            font-weight: 600;
+            font-size: 14px;
+            margin-bottom: 6px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            padding-bottom: 6px;
+        }
+
+        .map-tooltip-stat {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
         }
 
         .legend {
@@ -350,13 +384,8 @@
             </div>
 
             <div class="controls">
-                <button onclick="reloadData()">
-                    <span>🔄</span> Reload Data
-                </button>
-                <button onclick="window.location.reload()">
-                    <span>⟳</span> Hard Refresh
-                </button>
                 <div class="last-update-badge">
+                    <span class="status-dot" style="background: #4caf50;"></span>
                     Last updated: <strong id="topUpdateTime">Loading...</strong>
                 </div>
             </div>
@@ -385,12 +414,14 @@
                 <div class="stat-card">
                     <div class="stat-label">Countries Affected</div>
                     <div class="stat-value" id="countriesCount">—</div>
+                    <div class="stat-change">Spread across regions</div>
                 </div>
             </div>
 
             <div class="section">
                 <h2>Global Case Distribution</h2>
                 <div id="map"></div>
+                <div id="mapTooltip" class="map-tooltip"></div>
             </div>
 
             <div class="section">
@@ -493,6 +524,7 @@
 
                 const projection = d3.geoNaturalEarth1().scale(200).translate([480, 300]);
                 const path = d3.geoPath(projection);
+                const tooltip = document.getElementById('mapTooltip');
 
                 svg.selectAll('path')
                     .data(topojson.feature(world, world.objects.countries).features)
@@ -507,12 +539,38 @@
                         return colorScale(total);
                     })
                     .attr('opacity', d => countryCodeMap[d.id] ? 1 : 0.5)
-                    .style('cursor', 'pointer')
-                    .on('mouseover', function(d) {
-                        d3.select(this).attr('opacity', 1).attr('stroke-width', 2);
+                    .style('cursor', d => countryCodeMap[d.id] ? 'pointer' : 'default')
+                    .on('mouseover', function(event, d) {
+                        const country = countryCodeMap[d.id];
+                        
+                        // Highlight the country
+                        d3.select(this).attr('opacity', 1).attr('stroke-width', 2).attr('stroke', '#667eea');
+                        
+                        // Show tooltip if it's an affected country
+                        if (country && trackerData.countries[country]) {
+                            const data = trackerData.countries[country];
+                            
+                            tooltip.innerHTML = `
+                                <div class="map-tooltip-country">${country}</div>
+                                <div class="map-tooltip-stat">
+                                    Confirmed: <strong>${data.confirmed}</strong> | 
+                                    Probable: <strong>${data.probable}</strong> | 
+                                    Deaths: <strong>${data.deaths}</strong>
+                                </div>
+                            `;
+                            
+                            tooltip.classList.add('active');
+                        }
+                    })
+                    .on('mousemove', function(event) {
+                        const mapRect = document.getElementById('map').getBoundingClientRect();
+                        const coords = d3.pointer(event, svg.node());
+                        tooltip.style.left = (coords[0] + 20) + 'px';
+                        tooltip.style.top = (coords[1] - 30) + 'px';
                     })
                     .on('mouseout', function(d) {
-                        d3.select(this).attr('opacity', countryCodeMap[d.target.__data__.id] ? 1 : 0.5).attr('stroke-width', 0.5);
+                        d3.select(this).attr('opacity', countryCodeMap[d.id] ? 1 : 0.5).attr('stroke-width', 0.5).attr('stroke', '#999');
+                        tooltip.classList.remove('active');
                     });
             });
         }
@@ -647,11 +705,7 @@
             `).join('');
         }
 
-        function reloadData() {
-            location.reload();
-        }
-
-        // Reload data every 5 minutes to check for updates
+        // Auto-reload data every 5 minutes
         setInterval(() => {
             fetch('data/tracker-data.json?' + new Date().getTime())
                 .then(response => response.json())
