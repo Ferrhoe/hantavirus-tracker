@@ -55,8 +55,8 @@ def ask_gemini(prompt, retries=3):
         print("✗ GEMINI_API_KEY not set")
         return None
 
-    # gemini-1.5-flash has higher free tier limits than gemini-2.0-flash
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+    # gemini-2.5-flash is the current free tier model
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
 
     body = {
         "contents": [
@@ -66,12 +66,7 @@ def ask_gemini(prompt, retries=3):
         ],
         "tools": [
             {
-                "google_search_retrieval": {
-                    "dynamic_retrieval_config": {
-                        "mode": "MODE_DYNAMIC",
-                        "dynamic_threshold": 0.3
-                    }
-                }
+                "google_search": {}
             }
         ],
         "generationConfig": {
