@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
-Monitor news sources for hantavirus updates and update tracker data
-Simplified version that's more reliable
+Monitor web for hantavirus updates and extract case numbers
+Uses web search to find real case data
 """
 
 import json
-import requests
+import subprocess
 from datetime import datetime, timezone
-import feedparser
 import re
 
 # Configuration
@@ -46,120 +45,174 @@ def get_default_data():
         "news": []
     }
 
-def fetch_news_feeds():
-    """Fetch and parse news feeds"""
-    all_entries = []
-    
-    news_sources = [
-        'https://feeds.bloomberg.com/markets/news.rss',
-        'https://feeds.reuters.com/reuters/businessNews',
-        'https://feeds.bbc.co.uk/news/world/rss.xml',
-    ]
-    
-    for feed_url in news_sources:
-        try:
-            feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:10]:  # Check last 10 entries per feed
-                title = entry.get('title', '')
-                summary = entry.get('summary', '')
-                published = entry.get('published', '')
-                
-                # Check if entry mentions hantavirus or MV Hondius
-                content = (title + ' ' + summary).lower()
-                if 'hantavirus' in content or 'hondius' in content or 'andes' in content:
-                    all_entries.append({
-                        'title': title,
-                        'summary': summary,
-                        'link': entry.get('link', ''),
-                        'published': published,
-                    })
-                    print(f"Found: {title}")
-        except Exception as e:
-            print(f"Error fetching {feed_url}: {str(e)}")
-            continue
-    
-    return all_entries
+def search_web(query):
+    """
+    Search the web using curl and return results
+    This simulates web search functionality
+    """
+    try:
+        # Using DuckDuckGo which doesn't require API key
+        url = f"https://duckduckgo.com/?q={query}&format=json"
+        result = subprocess.run(
+            ['curl', '-s', url],
+            capture_output=True,
+            text=True,
+            timeout=10
+        )
+        
+        if result.returncode == 0:
+            return result.stdout
+        else:
+            print(f"Search error: {result.stderr}")
+            return None
+    except Exception as e:
+        print(f"Error during web search: {str(e)}")
+        return None
 
-def extract_numbers(text):
-    """Extract case numbers from news text"""
+def extract_case_numbers(text):
+    """
+    Extract case numbers from search results or article text
+    """
     numbers = {
         'confirmed': None,
         'probable': None,
-        'deaths': None
+        'deaths': None,
+        'total': None
     }
     
     text_lower = text.lower()
     
-    # Look for patterns like "X confirmed cases", "X deaths", etc.
-    confirmed_match = re.search(r'(\d+)\s+(?:confirmed|confirm)\s+cases?', text_lower)
-    if confirmed_match:
-        numbers['confirmed'] = int(confirmed_match.group(1))
+    # Look for confirmed cases
+    # Patterns: "X confirmed cases", "X confirmed", "confirmed: X"
+    confirmed_patterns = [
+        r'(\d+)\s+(?:confirmed|confirm)\s+cases?',
+        r'confirmed[:\s]+(\d+)',
+        r'(\d+)\s+confirmed\s+(?:cases?|patients?|people?)'
+    ]
+    for pattern in confirmed_patterns:
+        match = re.search(pattern, text_lower)
+        if match:
+            numbers['confirmed'] = int(match.group(1))
+            break
     
-    probable_match = re.search(r'(\d+)\s+(?:probable|suspected)\s+cases?', text_lower)
-    if probable_match:
-        numbers['probable'] = int(probable_match.group(1))
+    # Look for probable cases
+    probable_patterns = [
+        r'(\d+)\s+(?:probable|suspected)\s+cases?',
+        r'probable[:\s]+(\d+)',
+        r'(\d+)\s+(?:probable|suspected)\s+(?:cases?|patients?)'
+    ]
+    for pattern in probable_patterns:
+        match = re.search(pattern, text_lower)
+        if match:
+            numbers['probable'] = int(match.group(1))
+            break
     
-    death_match = re.search(r'(\d+)\s+deaths?', text_lower)
-    if death_match:
-        numbers['deaths'] = int(death_match.group(1))
+    # Look for deaths
+    death_patterns = [
+        r'(\d+)\s+deaths?',
+        r'deaths?[:\s]+(\d+)',
+        r'(\d+)\s+(?:dead|fatalities?|died)',
+        r'mortality[:\s]+(\d+)'
+    ]
+    for pattern in death_patterns:
+        match = re.search(pattern, text_lower)
+        if match:
+            numbers['deaths'] = int(match.group(1))
+            break
+    
+    # Look for total cases
+    total_patterns = [
+        r'total[:\s]+(\d+)',
+        r'(\d+)\s+total\s+cases?',
+        r'(\d+)\s+cases?'
+    ]
+    for pattern in total_patterns:
+        match = re.search(pattern, text_lower)
+        if match:
+            numbers['total'] = int(match.group(1))
+            break
     
     return numbers
 
+def search_for_hantavirus_data():
+    """
+    Search for latest hantavirus case information
+    """
+    print("\n🔍 Searching for latest hantavirus data...")
+    
+    search_queries = [
+        "hantavirus MV Hondius cases 2026",
+        "hantavirus outbreak May 2026 cases deaths",
+        "andes virus cruise ship cases confirmed",
+        "hantavirus cases confirmed deaths 2026"
+    ]
+    
+    all_data = {
+        'confirmed': [],
+        'probable': [],
+        'deaths': [],
+        'news': []
+    }
+    
+    for query in search_queries:
+        print(f"   Searching: {query}")
+        results = search_web(query)
+        
+        if results:
+            # Extract numbers from search results
+            numbers = extract_case_numbers(results)
+            
+            if numbers['confirmed']:
+                all_data['confirmed'].append(numbers['confirmed'])
+                print(f"   Found confirmed: {numbers['confirmed']}")
+            if numbers['probable']:
+                all_data['probable'].append(numbers['probable'])
+                print(f"   Found probable: {numbers['probable']}")
+            if numbers['deaths']:
+                all_data['deaths'].append(numbers['deaths'])
+                print(f"   Found deaths: {numbers['deaths']}")
+    
+    return all_data
+
 def update_tracker_data():
-    """Update tracker data based on latest news"""
+    """
+    Update tracker data based on web search results
+    """
     current_data = load_current_data()
     
-    print("Starting news monitor...")
-    print(f"Current confirmed cases: {current_data['confirmed']}")
+    print("Starting hantavirus news monitor...")
+    print(f"Current confirmed: {current_data['confirmed']}")
     print(f"Current deaths: {current_data['deaths']}")
     
-    # Fetch news
-    print("\nFetching news feeds...")
-    news_entries = fetch_news_feeds()
-    print(f"Found {len(news_entries)} relevant articles")
+    # Search for new data
+    search_results = search_for_hantavirus_data()
     
-    # Process recent news entries for case updates
-    for entry in news_entries[:5]:
-        content = entry['title'] + ' ' + entry['summary']
-        numbers = extract_numbers(content)
-        
-        print(f"\nAnalyzing: {entry['title'][:60]}...")
-        print(f"Extracted numbers: {numbers}")
-        
-        # Only update if we found higher numbers (never decrease)
-        if numbers['confirmed'] and numbers['confirmed'] > current_data['confirmed']:
-            print(f"Updating confirmed: {current_data['confirmed']} -> {numbers['confirmed']}")
-            current_data['confirmed'] = numbers['confirmed']
-        
-        if numbers['probable'] and numbers['probable'] > current_data['probable']:
-            print(f"Updating probable: {current_data['probable']} -> {numbers['probable']}")
-            current_data['probable'] = numbers['probable']
-        
-        if numbers['deaths'] and numbers['deaths'] > current_data['deaths']:
-            print(f"Updating deaths: {current_data['deaths']} -> {numbers['deaths']}")
-            current_data['deaths'] = numbers['deaths']
+    # Update with highest numbers found (never decrease)
+    if search_results['confirmed']:
+        max_confirmed = max(search_results['confirmed'])
+        if max_confirmed > current_data['confirmed']:
+            print(f"\n✓ Updating confirmed: {current_data['confirmed']} → {max_confirmed}")
+            current_data['confirmed'] = max_confirmed
     
-    # Add news items (deduplicate by title)
-    existing_titles = {n.get('text', '') for n in current_data.get('news', [])}
-    for entry in news_entries[:5]:
-        if entry['title'] not in existing_titles:
-            current_data['news'].insert(0, {
-                'date': datetime.now(timezone.utc).strftime('%B %d, %Y'),
-                'text': entry['title'],
-                'badge': 'UPDATE',
-                'link': entry.get('link', '')
-            })
+    if search_results['probable']:
+        max_probable = max(search_results['probable'])
+        if max_probable > current_data['probable']:
+            print(f"✓ Updating probable: {current_data['probable']} → {max_probable}")
+            current_data['probable'] = max_probable
     
-    # Keep only last 10 news items
-    current_data['news'] = current_data['news'][:10]
+    if search_results['deaths']:
+        max_deaths = max(search_results['deaths'])
+        if max_deaths > current_data['deaths']:
+            print(f"✓ Updating deaths: {current_data['deaths']} → {max_deaths}")
+            current_data['deaths'] = max_deaths
     
     # Update timestamp
     current_data['last_updated'] = datetime.now(timezone.utc).isoformat()
     
     print(f"\nFinal data:")
     print(f"Confirmed: {current_data['confirmed']}")
+    print(f"Probable: {current_data['probable']}")
     print(f"Deaths: {current_data['deaths']}")
-    print(f"News items: {len(current_data['news'])}")
     
     return current_data
 
