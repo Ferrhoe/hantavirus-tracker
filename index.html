@@ -481,8 +481,9 @@
 
             // Format last update time in Eastern Time
             const lastUpdate = new Date(trackerData.last_updated);
-            const estTime = new Date(lastUpdate.toLocaleString('en-US', { timeZone: 'America/New_York' }));
-            const timeStr = estTime.toLocaleString('en-US', { 
+            // Create a formatter for Eastern Time
+            const formatter = new Intl.DateTimeFormat('en-US', {
+                timeZone: 'America/New_York',
                 year: 'numeric',
                 month: '2-digit',
                 day: '2-digit',
@@ -491,6 +492,7 @@
                 second: '2-digit',
                 hour12: true
             });
+            const timeStr = formatter.format(lastUpdate);
             document.getElementById('topUpdateTime').textContent = timeStr + ' ET';
             document.getElementById('footerUpdate').textContent = 'Last updated: ' + timeStr + ' ET';
         }
