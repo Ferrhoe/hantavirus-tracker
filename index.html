@@ -192,7 +192,7 @@
         }
 
         .map-tooltip {
-            position: absolute;
+            position: fixed;
             background: rgba(0, 0, 0, 0.95);
             color: white;
             padding: 12px 16px;
@@ -414,7 +414,6 @@
                 <div class="stat-card">
                     <div class="stat-label">Countries Affected</div>
                     <div class="stat-value" id="countriesCount">—</div>
-                    <div class="stat-change">Spread across regions</div>
                 </div>
             </div>
 
@@ -511,6 +510,7 @@
 
             d3.select('#map').selectAll('svg').remove();
 
+            const mapContainer = document.getElementById('map');
             const svg = d3.select('#map').append('svg')
                 .attr('viewBox', '0 0 960 600')
                 .attr('width', '100%')
@@ -553,8 +553,8 @@
                             tooltip.innerHTML = `
                                 <div class="map-tooltip-country">${country}</div>
                                 <div class="map-tooltip-stat">
-                                    Confirmed: <strong>${data.confirmed}</strong> | 
-                                    Probable: <strong>${data.probable}</strong> | 
+                                    Confirmed: <strong>${data.confirmed}</strong><br>
+                                    Probable: <strong>${data.probable}</strong><br>
                                     Deaths: <strong>${data.deaths}</strong>
                                 </div>
                             `;
@@ -563,10 +563,11 @@
                         }
                     })
                     .on('mousemove', function(event) {
-                        const mapRect = document.getElementById('map').getBoundingClientRect();
-                        const coords = d3.pointer(event, svg.node());
-                        tooltip.style.left = (coords[0] + 20) + 'px';
-                        tooltip.style.top = (coords[1] - 30) + 'px';
+                        // Position tooltip relative to page, not SVG
+                        const pageX = event.pageX;
+                        const pageY = event.pageY;
+                        tooltip.style.left = (pageX + 15) + 'px';
+                        tooltip.style.top = (pageY + 15) + 'px';
                     })
                     .on('mouseout', function(d) {
                         d3.select(this).attr('opacity', countryCodeMap[d.id] ? 1 : 0.5).attr('stroke-width', 0.5).attr('stroke', '#999');
