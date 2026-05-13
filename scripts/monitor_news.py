@@ -291,11 +291,6 @@ def main():
             print(f"✓ Deaths: {current_data['deaths']} → {new_numbers['deaths']}")
             current_data['deaths'] = new_numbers['deaths']
             updated = True
-			
-		if new_numbers.get('monitoring', 0) >= current_data['monitoring']:
-			print(f"✓ Monitoring: {current_data['monitoring']} → {new_numbers['monitoring']}")
-			current_data['monitoring'] = new_numbers['monitoring']
-			updated = True
 
         if 'countries' in new_numbers:
             current_data['countries'] = new_numbers['countries']
