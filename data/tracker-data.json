@@ -68,14 +68,14 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 2,
-	  "monitoring": 0
+	  "monitoring": 10
     },
     {
       "date": "May 6",
       "confirmed": 4,
       "probable": 2,
       "deaths": 2,
-	  "monitoring": 30
+	  "monitoring": 20
     },
     {
       "date": "May 11",
