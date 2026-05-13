@@ -39,11 +39,11 @@ def get_default_data():
             "Netherlands":    {"confirmed": 2, "probable": 0, "deaths": 0, "monitoring": 0}
         },
         "timeline": [
-            {"date": "Apr 11", "confirmed": 1,  "probable": 0, "deaths": 1, "monitoring": 0},
-            {"date": "Apr 24", "confirmed": 1,  "probable": 0, "deaths": 2, "monitoring": 0},
-            {"date": "May 2",  "confirmed": 3,  "probable": 0, "deaths": 2, "monitoring": 10},
-            {"date": "May 6",  "confirmed": 4,  "probable": 2, "deaths": 2, "monitoring": 30},
-            {"date": "May 11", "confirmed": 9,  "probable": 2, "deaths": 3, "monitoring": 60}
+            {"date": "Apr 11", "confirmed": 1,  "probable": 0, "deaths": 1},
+            {"date": "Apr 24", "confirmed": 1,  "probable": 0, "deaths": 2},
+            {"date": "May 2",  "confirmed": 3,  "probable": 0, "deaths": 2},
+            {"date": "May 6",  "confirmed": 4,  "probable": 2, "deaths": 2},
+            {"date": "May 11", "confirmed": 9,  "probable": 2, "deaths": 3}
         ],
         "news": []
     }
@@ -118,30 +118,29 @@ def get_latest_case_numbers(current_data):
     """
     print("\n🔍 Searching for latest case numbers...")
 
+    # Build current countries string dynamically from data
+    countries_str = '\n'.join([f"- {k}: {v}" for k, v in current_data['countries'].items()])
+
     prompt = f"""Search the web right now for the latest official case numbers for the MV Hondius hantavirus outbreak in 2026.
 
 Only look for numbers explicitly stated by official sources such as WHO, CDC, ECDC, national health ministries, or major news outlets (Reuters, BBC, AP).
 
-Current known numbers (do NOT change these unless you find a clearly sourced update):
+Current known numbers (do NOT reduce these, only update if you find higher sourced numbers):
 - Confirmed: {current_data['confirmed']}
 - Probable: {current_data['probable']}
 - Deaths: {current_data['deaths']}
 - Under monitoring/contact tracing: {current_data.get('monitoring', 0)}
-- Spain: {current_data['countries']['Spain']}
-- United States: {current_data['countries']['United States']}
-- Switzerland: {current_data['countries']['Switzerland']}
-- South Africa: {current_data['countries']['South Africa']}
-- France: {current_data['countries']['France']}
-- United Kingdom: {current_data['countries']['United Kingdom']}
-- Netherlands: {current_data['countries'].get('Netherlands', {'confirmed': 0, 'probable': 0, 'deaths': 0, 'monitoring': 0})}
+- Known countries:
+{countries_str}
 
 IMPORTANT RULES:
 - Do NOT guess or infer numbers
-- Do NOT add countries unless explicitly mentioned in a source
 - Do NOT reduce existing numbers
 - Only return updated numbers if you find a direct quote or official report with new figures
 - If you are not 100% certain of a number from a real source, keep the existing value
 - "monitoring" means people under contact tracing or quarantine watch, not cases
+- ADD any new country if you find it explicitly mentioned in an official source with case or monitoring data
+- Include ALL existing countries in your response, even if unchanged
 
 If you find clearly sourced new numbers, respond with ONLY this JSON (no markdown):
 {{
@@ -150,13 +149,8 @@ If you find clearly sourced new numbers, respond with ONLY this JSON (no markdow
   "deaths": <number>,
   "monitoring": <total people under monitoring across all countries>,
   "countries": {{
-    "Spain":          {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
-    "United States":  {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
-    "Switzerland":    {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
-    "South Africa":   {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
-    "France":         {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
-    "United Kingdom": {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
-    "Netherlands":    {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}}
+    "<Country Name>": {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
+    ...include all known countries plus any new ones found...
   }}
 }}
 
@@ -186,7 +180,6 @@ If you find NO clearly sourced updates, respond with only: NO_UPDATE"""
                     values['confirmed'] = max(values.get('confirmed', 0), current.get('confirmed', 0))
                     values['probable']  = max(values.get('probable',  0), current.get('probable',  0))
                     values['deaths']    = max(values.get('deaths',    0), current.get('deaths',    0))
-                    values['monitoring'] = values.get('monitoring', current.get('monitoring', 0))
 
             return new_data
     except json.JSONDecodeError as e:
@@ -212,7 +205,8 @@ Already known headlines (do not include these):
 Respond with ONLY a valid JSON array, no markdown, no explanation:
 [
   {{
-    "date": "Month DD, YYYY",
+    "date": "YYYY-MM-DD",
+    "display_date": "Month DD, YYYY",
     "text": "Exact article headline",
     "link": "https://full-url-to-article",
     "badge": "UPDATE"
@@ -251,15 +245,13 @@ def update_timeline(current_data):
 
     if (last_entry.get('confirmed') != current_data['confirmed'] or
         last_entry.get('probable') != current_data['probable'] or
-        last_entry.get('deaths') != current_data['deaths'] or
-        last_entry.get('monitoring') != current_data['monitoring']):
+        last_entry.get('deaths') != current_data['deaths']):
 
         current_data['timeline'].append({
             "date": today,
             "confirmed": current_data['confirmed'],
             "probable": current_data['probable'],
-            "deaths": current_data['deaths'],
-			"monitoring": current_data['monitoring']
+            "deaths": current_data['deaths']
         })
         print(f"   ✓ Added timeline entry for {today}")
 
@@ -291,11 +283,6 @@ def main():
             print(f"✓ Deaths: {current_data['deaths']} → {new_numbers['deaths']}")
             current_data['deaths'] = new_numbers['deaths']
             updated = True
-			
-        if new_numbers.get('monitoring', 0) >= current_data['monitoring']:
-            print(f"✓ Monitoring: {current_data['monitoring']} → {new_numbers['monitoring']}")
-            current_data['monitoring'] = new_numbers['monitoring']
-            updated = True
 
         if 'countries' in new_numbers:
             current_data['countries'] = new_numbers['countries']
@@ -305,8 +292,7 @@ def main():
         current_data['confirmed'] = sum(c.get('confirmed', 0) for c in current_data['countries'].values())
         current_data['probable'] = sum(c.get('probable', 0) for c in current_data['countries'].values())
         current_data['deaths'] = sum(c.get('deaths', 0) for c in current_data['countries'].values())
-        current_data['monitoring'] = sum(c.get('monitoring', 0) for c in current_data['countries'].values())
-        print(f"✓ Recalculated totals from countries: {current_data['confirmed']} confirmed, {current_data['probable']} probable, {current_data['deaths']} deaths, {current_data['monitoring']} monitoring")
+        print(f"✓ Recalculated totals from countries: {current_data['confirmed']} confirmed, {current_data['probable']} probable, {current_data['deaths']} deaths")
 
     # 2. Wait briefly before second API call
     time.sleep(10)
@@ -317,10 +303,25 @@ def main():
         existing_titles = {n.get('text', '') for n in current_data.get('news', [])}
         for article in new_articles:
             if article.get('text') not in existing_titles:
+                # Ensure both date (ISO for sorting) and display_date fields exist
+                raw_date = article.get('date', datetime.now(timezone.utc).strftime('%B %d, %Y'))
+                try:
+                    parsed = datetime.strptime(raw_date, '%B %d, %Y')
+                    article['date'] = parsed.strftime('%Y-%m-%d')
+                    article['display_date'] = raw_date
+                except ValueError:
+                    article['date'] = raw_date
+                    article['display_date'] = raw_date
                 current_data['news'].insert(0, article)
                 existing_titles.add(article.get('text', ''))
                 updated = True
-        current_data['news'] = current_data['news'][:15]
+
+        # Sort by ISO date descending and keep 15 most recent
+        current_data['news'] = sorted(
+            current_data['news'],
+            key=lambda x: x.get('date', ''),
+            reverse=True
+        )[:15]
 
     # 3. Update timeline if numbers changed
     if updated:

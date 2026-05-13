@@ -513,9 +513,38 @@
                 .attr('style', 'max-width: 100%;');
 
             d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(world => {
+                // Comprehensive ISO numeric code map - covers all likely affected countries
                 const countryCodeMap = {
-                    '724': 'Spain', '840': 'United States', '756': 'Switzerland',
-                    '710': 'South Africa', '250': 'France', '826': 'United Kingdom'
+                    '724': 'Spain',
+                    '840': 'United States',
+                    '756': 'Switzerland',
+                    '710': 'South Africa',
+                    '250': 'France',
+                    '826': 'United Kingdom',
+                    '528': 'Netherlands',
+                    '124': 'Canada',
+                    '036': 'Australia',
+                    '276': 'Germany',
+                    '380': 'Italy',
+                    '076': 'Brazil',
+                    '032': 'Argentina',
+                    '152': 'Chile',
+                    '554': 'New Zealand',
+                    '056': 'Belgium',
+                    '620': 'Portugal',
+                    '752': 'Sweden',
+                    '578': 'Norway',
+                    '208': 'Denmark',
+                    '246': 'Finland',
+                    '040': 'Austria',
+                    '616': 'Poland',
+                    '372': 'Ireland',
+                    '356': 'India',
+                    '392': 'Japan',
+                    '410': 'South Korea',
+                    '702': 'Singapore',
+                    '076': 'Brazil',
+                    '484': 'Mexico'
                 };
 
                 const projection = d3.geoNaturalEarth1().scale(200).translate([420, 300]);
@@ -716,15 +745,22 @@
             const feed = document.getElementById('newsFeed');
             
             if (trackerData.news.length === 0) {
-                feed.innerHTML = '<p style="color: #999; text-align: center; padding: 40px;">No recent updates yet. Data fetches automatically every hour.</p>';
+                feed.innerHTML = '<p style="color: #999; text-align: center; padding: 40px;">No recent updates yet. Data fetches automatically every 6 hours.</p>';
                 return;
             }
 
-            feed.innerHTML = trackerData.news.map(item => `
+            // Sort by date descending (most recent first)
+            const sorted = [...trackerData.news].sort((a, b) => {
+                const dateA = new Date(a.date || a.display_date || 0);
+                const dateB = new Date(b.date || b.display_date || 0);
+                return dateB - dateA;
+            });
+
+            feed.innerHTML = sorted.map(item => `
                 <div class="news-item">
                     <div class="news-date">
                         <span class="news-badge">${item.badge || 'UPDATE'}</span>
-                        ${item.date}
+                        ${item.display_date || item.date}
                     </div>
                     <div class="news-text">${item.text}</div>
                     ${item.link ? `<div style="margin-top: 8px;"><a href="${item.link}" target="_blank" style="color: #667eea; font-size: 12px; text-decoration: none;">Read more →</a></div>` : ''}
