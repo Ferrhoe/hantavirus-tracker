@@ -1,16 +1,16 @@
 {
-  "confirmed": 6,
-  "probable": 1,
-  "deaths": 1,
-  "last_updated": "2026-05-12T22:32:29.959920+00:00",
+  "confirmed": 9,
+  "probable": 2,
+  "deaths": 3,
+  "last_updated": "2026-05-12T22:30:00Z",
   "countries": {
     "Spain": {
-      "confirmed": 1,
+      "confirmed": 2,
       "probable": 0,
-      "deaths": 0
+      "deaths": 1
     },
     "United States": {
-      "confirmed": 0,
+      "confirmed": 3,
       "probable": 0,
       "deaths": 0
     },
@@ -26,13 +26,13 @@
     },
     "France": {
       "confirmed": 1,
-      "probable": 0,
+      "probable": 1,
       "deaths": 0
     },
     "United Kingdom": {
-      "confirmed": 2,
+      "confirmed": 1,
       "probable": 1,
-      "deaths": 0
+      "deaths": 1
     }
   },
   "timeline": [
@@ -65,18 +65,6 @@
       "confirmed": 7,
       "probable": 5,
       "deaths": 3
-    },
-    {
-      "date": "May 12",
-      "confirmed": 9,
-      "probable": 5,
-      "deaths": 3
-    },
-    {
-      "date": "May 12",
-      "confirmed": 6,
-      "probable": 1,
-      "deaths": 1
     }
   ],
   "news": [

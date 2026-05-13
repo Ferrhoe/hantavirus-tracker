@@ -112,19 +112,33 @@ def ask_gemini(prompt, retries=3):
 def get_latest_case_numbers(current_data):
     """
     Ask Gemini to search for the latest case numbers.
+    Very conservative - only updates if clearly sourced numbers are found.
     """
     print("\n🔍 Searching for latest case numbers...")
 
-    prompt = f"""Search the web right now for the latest news about the MV Hondius hantavirus outbreak in 2026.
+    prompt = f"""Search the web right now for the latest official case numbers for the MV Hondius hantavirus outbreak in 2026.
 
-Current known data as of {current_data['last_updated'][:10]}:
-- Confirmed cases: {current_data['confirmed']}
-- Probable cases: {current_data['probable']}  
+Only look for numbers explicitly stated by official sources such as WHO, CDC, national health ministries, or major news outlets (Reuters, BBC, AP).
+
+Current known numbers (do NOT change these unless you find a clearly sourced update):
+- Confirmed: {current_data['confirmed']}
+- Probable: {current_data['probable']}
 - Deaths: {current_data['deaths']}
+- Spain: {current_data['countries']['Spain']}
+- United States: {current_data['countries']['United States']}
+- Switzerland: {current_data['countries']['Switzerland']}
+- South Africa: {current_data['countries']['South Africa']}
+- France: {current_data['countries']['France']}
+- United Kingdom: {current_data['countries']['United Kingdom']}
 
-Look for any updates with new case counts or deaths.
+IMPORTANT RULES:
+- Do NOT guess or infer numbers
+- Do NOT add countries unless explicitly mentioned in a source
+- Do NOT reduce existing numbers
+- Only return updated numbers if you find a direct quote or official report with new figures
+- If you are not 100% certain of a number from a real source, keep the existing value
 
-Respond with ONLY a valid JSON object, no markdown, no explanation:
+If you find clearly sourced new numbers, respond with ONLY this JSON (no markdown):
 {{
   "confirmed": <number>,
   "probable": <number>,
@@ -139,7 +153,7 @@ Respond with ONLY a valid JSON object, no markdown, no explanation:
   }}
 }}
 
-If you find no new information beyond what is already known, respond with only: NO_UPDATE"""
+If you find NO clearly sourced updates, respond with only: NO_UPDATE"""
 
     result = ask_gemini(prompt)
     if not result:
@@ -156,7 +170,17 @@ If you find no new information beyond what is already known, respond with only: 
         start = result.find('{')
         end = result.rfind('}') + 1
         if start >= 0 and end > start:
-            return json.loads(result[start:end])
+            new_data = json.loads(result[start:end])
+
+            # Safety check: never allow any country to go below current values
+            for country, values in new_data.get('countries', {}).items():
+                if country in current_data['countries']:
+                    current = current_data['countries'][country]
+                    values['confirmed'] = max(values.get('confirmed', 0), current.get('confirmed', 0))
+                    values['probable']  = max(values.get('probable',  0), current.get('probable',  0))
+                    values['deaths']    = max(values.get('deaths',    0), current.get('deaths',    0))
+
+            return new_data
     except json.JSONDecodeError as e:
         print(f"   ✗ Could not parse JSON: {e}")
 
