@@ -251,7 +251,7 @@ def update_timeline(current_data):
 
     if (last_entry.get('confirmed') != current_data['confirmed'] or
         last_entry.get('probable') != current_data['probable'] or
-        last_entry.get('deaths') != current_data['deaths']) or
+        last_entry.get('deaths') != current_data['deaths'] or
         last_entry.get('monitoring') != current_data['monitoring']):
 
         current_data['timeline'].append({
