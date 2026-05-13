@@ -1,9 +1,9 @@
 {
-  "confirmed": 16,
+  "confirmed": 19,
   "probable": 3,
   "deaths": 5,
   "monitoring": 159,
-  "last_updated": "2026-05-13T10:03:11.726496+00:00",
+  "last_updated": "2026-05-13T18:31:03.424005+00:00",
   "countries": {
     "Spain": {
       "confirmed": 2,
@@ -12,7 +12,7 @@
       "monitoring": 14
     },
     "United States": {
-      "confirmed": 3,
+      "confirmed": 4,
       "probable": 0,
       "deaths": 0,
       "monitoring": 19
@@ -24,13 +24,13 @@
       "monitoring": 0
     },
     "South Africa": {
-      "confirmed": 1,
+      "confirmed": 2,
       "probable": 0,
       "deaths": 1,
       "monitoring": 62
     },
     "France": {
-      "confirmed": 4,
+      "confirmed": 5,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -104,9 +104,34 @@
       "probable": 3,
       "deaths": 5,
       "monitoring": 159
+    },
+    {
+      "date": "May 13",
+      "confirmed": 19,
+      "probable": 3,
+      "deaths": 5,
+      "monitoring": 159
     }
   ],
   "news": [
+    {
+      "date": "May 12, 2026",
+      "text": "Hantavirus outbreak grows to 11 cases, 9 confirmed",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJVvtGvzicYalZU2SheZBF5TH8DYddYyCOasOPyhsjXasoZcGMO24MCOfc6kKXhNzpD44WsUTWwNeVwfI5U8GLnGTCYApiZsgup6-dw6BcnOfXqkQMpo3caEUO2m9Sdib_9idH3E4h5pX7gpVQw8JkqBBNURDim25ebIY3Agzo81pSKx79yWyZYH2r8HBkqmzrvNcZkP3Hb5Y==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 13, 2026",
+      "text": "Operator of hantavirus-hit ship will say by week's end when the vessel will resume cruises",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVhCKgfS_kY8YkfGe6i1MHGX3l-WkGb6hk4eTLIky1vEKpBP3S5jZZcaztdtTe_-BYY0iugxP-BF5uFFAOBUSp_P2jvMTzqAa7-1afFnZyiLR_413ULeby8UwTyGEFMACBX21vTAcKLD3QMfT8v-zJ4ptIJIB3AC00wswch7CDRfkdDk91KUB9k0HN8lWPkw1GMbTbR3NIwrC7Jeve_8ScidUb1BKlQfP_TEMZYPZGWjHWzlsWKgNA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 13, 2026",
+      "text": "Andes hantavirus outbreak in cruise ship, 13 May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCvQ6RwsF8EHHUrks3fPGCg-mM_6akbPmGDkp6LvgwJPHjSVoaZO5_FVRVhtNPs_Kw7WGgsZ4ai6Y-CUnw-oImA_8ye36g8l6pGlg==",
+      "badge": "UPDATE"
+    },
     {
       "date": "May 08, 2026",
       "text": "Rapid risk assessment: Hantavirus (Andes virus) outbreak on international cruise ship",
@@ -178,21 +203,6 @@
       "text": "Andes hantavirus outbreak in cruise ship, 12 May 2026",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkka48xcMF3IBt1zsgXpdgPydXfKHFdXmvimKEEpA997O4gdl9HRYSXUNF_Er2UzpwYvXeFB03ELOuDXPCzqZpkRLhRqWtLMVfQPJhXbb_2xCawMdVx0ZbG53e5gySsM_F6kL_dPeM40pTqTe7lFnsU6yefRjROsAvElfMe91SR-qxCuBSHsHY96lMrboz2fAMecmVeaZ115yv9eYo32IDD062_LYEw1Jus5EkbIw0akheArxTO_L0Q==",
       "badge": "UPDATE"
-    },
-    {
-      "date": "May 11, 2026",
-      "text": "Two additional passengers test positive for hantavirus after evacuation in Canary Islands.",
-      "badge": "LATEST"
-    },
-    {
-      "date": "May 11, 2026",
-      "text": "16 American passengers at University of Nebraska Medical Center remain asymptomatic.",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "May 10, 2026",
-      "text": "MV Hondius evacuates all remaining passengers in Tenerife, Canary Islands.",
-      "badge": "EVENT"
     }
   ]
 }
