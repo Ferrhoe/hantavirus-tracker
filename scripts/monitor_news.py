@@ -291,6 +291,11 @@ def main():
             print(f"✓ Deaths: {current_data['deaths']} → {new_numbers['deaths']}")
             current_data['deaths'] = new_numbers['deaths']
             updated = True
+			
+        if new_numbers.get('monitoring', 0) >= current_data['monitoring']:
+            print(f"✓ Monitoring: {current_data['monitoring']} → {new_numbers['monitoring']}")
+            current_data['monitoring'] = new_numbers['monitoring']
+            updated = True
 
         if 'countries' in new_numbers:
             current_data['countries'] = new_numbers['countries']
@@ -300,7 +305,7 @@ def main():
         current_data['confirmed'] = sum(c.get('confirmed', 0) for c in current_data['countries'].values())
         current_data['probable'] = sum(c.get('probable', 0) for c in current_data['countries'].values())
         current_data['deaths'] = sum(c.get('deaths', 0) for c in current_data['countries'].values())
-		current_data['monitoring'] = sum(c.get('monitoring', 0) for c in current_data['countries'].values())
+	    current_data['monitoring'] = sum(c.get('monitoring', 0) for c in current_data['countries'].values())
         print(f"✓ Recalculated totals from countries: {current_data['confirmed']} confirmed, {current_data['probable']} probable, {current_data['deaths']} deaths, {current_data['monitoring']} monitoring")
 
     # 2. Wait briefly before second API call
