@@ -393,22 +393,22 @@
                 <div class="stat-card">
                     <div class="stat-label">Confirmed Cases</div>
                     <div class="stat-value" id="confirmedCases">—</div>
-                    <div class="stat-change" id="confirmedChange"></div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-label">Probable Cases</div>
                     <div class="stat-value" id="probableCases">—</div>
-                    <div class="stat-change" id="probableChange"></div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-label">Total Cases</div>
                     <div class="stat-value" id="totalCases">—</div>
-                    <div class="stat-change" id="totalChange"></div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-label">Deaths</div>
                     <div class="stat-value" id="deaths">—</div>
-                    <div class="stat-change" id="deathChange"></div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Under Monitoring</div>
+                    <div class="stat-value" id="monitoring">—</div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-label">Countries Affected</div>
@@ -478,6 +478,7 @@
             document.getElementById('probableCases').textContent = probable;
             document.getElementById('totalCases').textContent = total;
             document.getElementById('deaths').textContent = deaths;
+            document.getElementById('monitoring').textContent = trackerData.monitoring || '—';
             document.getElementById('countriesCount').textContent = Object.values(trackerData.countries).filter(c => c.confirmed + c.probable + c.deaths > 0).length;
 
             // Format last update time in UTC
@@ -551,7 +552,8 @@
                                 <div class="map-tooltip-stat">
                                     Confirmed: <strong>${data.confirmed}</strong><br>
                                     Probable: <strong>${data.probable}</strong><br>
-                                    Deaths: <strong>${data.deaths}</strong>
+                                    Deaths: <strong>${data.deaths}</strong><br>
+                                    Monitoring: <strong>${data.monitoring || 0}</strong>
                                 </div>
                             `;
                             
@@ -685,6 +687,10 @@
                         <div class="country-stat">
                             <span>Deaths:</span>
                             <span class="value">${data.deaths}</span>
+                        </div>
+                        <div class="country-stat">
+                            <span>Monitoring:</span>
+                            <span class="value">${data.monitoring || 0}</span>
                         </div>
                     `;
                     grid.appendChild(card);

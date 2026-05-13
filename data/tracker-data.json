@@ -2,37 +2,50 @@
   "confirmed": 9,
   "probable": 2,
   "deaths": 3,
+  "monitoring": 119,
   "last_updated": "2026-05-12T22:30:00Z",
   "countries": {
     "Spain": {
       "confirmed": 2,
       "probable": 0,
-      "deaths": 1
+      "deaths": 1,
+      "monitoring": 14
     },
     "United States": {
-      "confirmed": 3,
+      "confirmed": 1,
       "probable": 0,
-      "deaths": 0
+      "deaths": 0,
+      "monitoring": 19
     },
     "Switzerland": {
       "confirmed": 1,
       "probable": 0,
-      "deaths": 0
+      "deaths": 0,
+      "monitoring": 0
     },
     "South Africa": {
       "confirmed": 1,
       "probable": 0,
-      "deaths": 1
+      "deaths": 1,
+      "monitoring": 62
     },
     "France": {
       "confirmed": 1,
       "probable": 1,
-      "deaths": 0
+      "deaths": 0,
+      "monitoring": 8
     },
     "United Kingdom": {
       "confirmed": 1,
       "probable": 1,
-      "deaths": 1
+      "deaths": 1,
+      "monitoring": 30
+    },
+    "Netherlands": {
+      "confirmed": 2,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
     }
   },
   "timeline": [

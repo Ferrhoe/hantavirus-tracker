@@ -24,24 +24,26 @@ def load_current_data():
 
 def get_default_data():
     return {
-        "confirmed": 11,
-        "probable": 0,
+        "confirmed": 9,
+        "probable": 2,
         "deaths": 3,
+        "monitoring": 119,
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "countries": {
-            "Spain":          {"confirmed": 2, "probable": 0, "deaths": 1},
-            "United States":  {"confirmed": 4, "probable": 0, "deaths": 0},
-            "Switzerland":    {"confirmed": 1, "probable": 0, "deaths": 0},
-            "South Africa":   {"confirmed": 0, "probable": 0, "deaths": 1},
-            "France":         {"confirmed": 2, "probable": 0, "deaths": 0},
-            "United Kingdom": {"confirmed": 2, "probable": 0, "deaths": 0}
+            "Spain":          {"confirmed": 2, "probable": 0, "deaths": 1, "monitoring": 14},
+            "United States":  {"confirmed": 1, "probable": 0, "deaths": 0, "monitoring": 19},
+            "Switzerland":    {"confirmed": 1, "probable": 0, "deaths": 0, "monitoring": 0},
+            "South Africa":   {"confirmed": 1, "probable": 0, "deaths": 1, "monitoring": 62},
+            "France":         {"confirmed": 1, "probable": 1, "deaths": 0, "monitoring": 8},
+            "United Kingdom": {"confirmed": 1, "probable": 1, "deaths": 1, "monitoring": 30},
+            "Netherlands":    {"confirmed": 2, "probable": 0, "deaths": 0, "monitoring": 0}
         },
         "timeline": [
             {"date": "Apr 11", "confirmed": 1,  "probable": 0, "deaths": 1},
             {"date": "Apr 24", "confirmed": 1,  "probable": 0, "deaths": 2},
             {"date": "May 2",  "confirmed": 3,  "probable": 0, "deaths": 2},
             {"date": "May 6",  "confirmed": 4,  "probable": 2, "deaths": 2},
-            {"date": "May 11", "confirmed": 11, "probable": 0, "deaths": 3}
+            {"date": "May 11", "confirmed": 9,  "probable": 2, "deaths": 3}
         ],
         "news": []
     }
@@ -118,18 +120,20 @@ def get_latest_case_numbers(current_data):
 
     prompt = f"""Search the web right now for the latest official case numbers for the MV Hondius hantavirus outbreak in 2026.
 
-Only look for numbers explicitly stated by official sources such as WHO, CDC, national health ministries, or major news outlets (Reuters, BBC, AP).
+Only look for numbers explicitly stated by official sources such as WHO, CDC, ECDC, national health ministries, or major news outlets (Reuters, BBC, AP).
 
 Current known numbers (do NOT change these unless you find a clearly sourced update):
 - Confirmed: {current_data['confirmed']}
 - Probable: {current_data['probable']}
 - Deaths: {current_data['deaths']}
+- Under monitoring/contact tracing: {current_data.get('monitoring', 0)}
 - Spain: {current_data['countries']['Spain']}
 - United States: {current_data['countries']['United States']}
 - Switzerland: {current_data['countries']['Switzerland']}
 - South Africa: {current_data['countries']['South Africa']}
 - France: {current_data['countries']['France']}
 - United Kingdom: {current_data['countries']['United Kingdom']}
+- Netherlands: {current_data['countries'].get('Netherlands', {{'confirmed': 0, 'probable': 0, 'deaths': 0, 'monitoring': 0}})}
 
 IMPORTANT RULES:
 - Do NOT guess or infer numbers
@@ -137,19 +141,22 @@ IMPORTANT RULES:
 - Do NOT reduce existing numbers
 - Only return updated numbers if you find a direct quote or official report with new figures
 - If you are not 100% certain of a number from a real source, keep the existing value
+- "monitoring" means people under contact tracing or quarantine watch, not cases
 
 If you find clearly sourced new numbers, respond with ONLY this JSON (no markdown):
 {{
   "confirmed": <number>,
   "probable": <number>,
   "deaths": <number>,
+  "monitoring": <total people under monitoring across all countries>,
   "countries": {{
-    "Spain":          {{"confirmed": <n>, "probable": <n>, "deaths": <n>}},
-    "United States":  {{"confirmed": <n>, "probable": <n>, "deaths": <n>}},
-    "Switzerland":    {{"confirmed": <n>, "probable": <n>, "deaths": <n>}},
-    "South Africa":   {{"confirmed": <n>, "probable": <n>, "deaths": <n>}},
-    "France":         {{"confirmed": <n>, "probable": <n>, "deaths": <n>}},
-    "United Kingdom": {{"confirmed": <n>, "probable": <n>, "deaths": <n>}}
+    "Spain":          {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
+    "United States":  {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
+    "Switzerland":    {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
+    "South Africa":   {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
+    "France":         {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
+    "United Kingdom": {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}},
+    "Netherlands":    {{"confirmed": <n>, "probable": <n>, "deaths": <n>, "monitoring": <n>}}
   }}
 }}
 
