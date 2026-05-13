@@ -186,7 +186,7 @@ If you find NO clearly sourced updates, respond with only: NO_UPDATE"""
                     values['confirmed'] = max(values.get('confirmed', 0), current.get('confirmed', 0))
                     values['probable']  = max(values.get('probable',  0), current.get('probable',  0))
                     values['deaths']    = max(values.get('deaths',    0), current.get('deaths',    0))
-					values['monitoring'] = values.get('monitoring', current.get('monitoring', 0))
+                    values['monitoring'] = values.get('monitoring', current.get('monitoring', 0))
 
             return new_data
     except json.JSONDecodeError as e:
