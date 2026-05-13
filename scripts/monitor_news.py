@@ -39,11 +39,11 @@ def get_default_data():
             "Netherlands":    {"confirmed": 2, "probable": 0, "deaths": 0, "monitoring": 0}
         },
         "timeline": [
-            {"date": "Apr 11", "confirmed": 1,  "probable": 0, "deaths": 1},
-            {"date": "Apr 24", "confirmed": 1,  "probable": 0, "deaths": 2},
-            {"date": "May 2",  "confirmed": 3,  "probable": 0, "deaths": 2},
-            {"date": "May 6",  "confirmed": 4,  "probable": 2, "deaths": 2},
-            {"date": "May 11", "confirmed": 9,  "probable": 2, "deaths": 3}
+            {"date": "Apr 11", "confirmed": 1,  "probable": 0, "deaths": 1, "monitoring": 0},
+            {"date": "Apr 24", "confirmed": 1,  "probable": 0, "deaths": 2, "monitoring": 0},
+            {"date": "May 2",  "confirmed": 3,  "probable": 0, "deaths": 2, "monitoring": 10},
+            {"date": "May 6",  "confirmed": 4,  "probable": 2, "deaths": 2, "monitoring": 30},
+            {"date": "May 11", "confirmed": 9,  "probable": 2, "deaths": 3, "monitoring": 60}
         ],
         "news": []
     }
@@ -186,6 +186,7 @@ If you find NO clearly sourced updates, respond with only: NO_UPDATE"""
                     values['confirmed'] = max(values.get('confirmed', 0), current.get('confirmed', 0))
                     values['probable']  = max(values.get('probable',  0), current.get('probable',  0))
                     values['deaths']    = max(values.get('deaths',    0), current.get('deaths',    0))
+					values['monitoring'] = values.get('monitoring', current.get('monitoring', 0))
 
             return new_data
     except json.JSONDecodeError as e:
@@ -250,13 +251,15 @@ def update_timeline(current_data):
 
     if (last_entry.get('confirmed') != current_data['confirmed'] or
         last_entry.get('probable') != current_data['probable'] or
-        last_entry.get('deaths') != current_data['deaths']):
+        last_entry.get('deaths') != current_data['deaths']) or
+        last_entry.get('monitoring') != current_data['monitoring']):
 
         current_data['timeline'].append({
             "date": today,
             "confirmed": current_data['confirmed'],
             "probable": current_data['probable'],
-            "deaths": current_data['deaths']
+            "deaths": current_data['deaths'],
+			"monitoring": current_data['monitoring']
         })
         print(f"   ✓ Added timeline entry for {today}")
 
@@ -288,6 +291,11 @@ def main():
             print(f"✓ Deaths: {current_data['deaths']} → {new_numbers['deaths']}")
             current_data['deaths'] = new_numbers['deaths']
             updated = True
+			
+		if new_numbers.get('monitoring', 0) >= current_data['monitoring']:
+            print(f"✓ Monitoring: {current_data['monitoring']} → {new_numbers['monitoring']}")
+            current_data['monitoring'] = new_numbers['monitoring']
+            updated = True
 
         if 'countries' in new_numbers:
             current_data['countries'] = new_numbers['countries']
@@ -297,7 +305,8 @@ def main():
         current_data['confirmed'] = sum(c.get('confirmed', 0) for c in current_data['countries'].values())
         current_data['probable'] = sum(c.get('probable', 0) for c in current_data['countries'].values())
         current_data['deaths'] = sum(c.get('deaths', 0) for c in current_data['countries'].values())
-        print(f"✓ Recalculated totals from countries: {current_data['confirmed']} confirmed, {current_data['probable']} probable, {current_data['deaths']} deaths")
+		current_data['monitoring'] = sum(c.get('monitoring', 0) for c in current_data['countries'].values())
+        print(f"✓ Recalculated totals from countries: {current_data['confirmed']} confirmed, {current_data['probable']} probable, {current_data['deaths']} deaths, {current_data['monitoring']} monitoring")
 
     # 2. Wait briefly before second API call
     time.sleep(10)
