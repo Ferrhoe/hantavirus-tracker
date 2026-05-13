@@ -2,7 +2,7 @@
   "confirmed": 9,
   "probable": 2,
   "deaths": 3,
-  "last_updated": "2026-05-12T22:30:00Z",
+  "last_updated": "2026-05-13T02:54:05.343602+00:00",
   "countries": {
     "Spain": {
       "confirmed": 2,
@@ -65,9 +65,33 @@
       "confirmed": 7,
       "probable": 5,
       "deaths": 3
+    },
+    {
+      "date": "May 13",
+      "confirmed": 9,
+      "probable": 2,
+      "deaths": 3
     }
   ],
   "news": [
+    {
+      "date": "May 08, 2026",
+      "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
+      "link": "https://www.cdc.gov/media/releases/2026/s0508-hantavirus-outbreak.html",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "WHO head tells countries to prepare for more hantavirus cases",
+      "link": "https://www.theguardian.com/world/2026/may/12/who-head-tells-countries-to-prepare-for-more-hantavirus-cases",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 12, 2026",
+      "text": "Governments downplay pandemic risk as MV Hondius hantavirus cases mount in US, Europe",
+      "link": "https://www.wsws.org/en/articles/2026/05/12/hant-m12.html",
+      "badge": "UPDATE"
+    },
     {
       "date": "May 10, 2026",
       "text": "Passengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak 'not another COVID' | UN News",
@@ -137,11 +161,6 @@
       "date": "May 11, 2026",
       "text": "16 American passengers at University of Nebraska Medical Center remain asymptomatic.",
       "badge": "UPDATE"
-    },
-    {
-      "date": "May 10, 2026",
-      "text": "MV Hondius evacuates all remaining passengers in Tenerife, Canary Islands.",
-      "badge": "EVENT"
     }
   ]
 }
