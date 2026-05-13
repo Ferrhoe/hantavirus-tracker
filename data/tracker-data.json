@@ -1,33 +1,153 @@
 {
-  "confirmed": 9,
-  "probable": 2,
-  "deaths": 3,
+  "confirmed": 19,
+  "probable": 3,
+  "deaths": 5,
   "monitoring": 159,
-  "last_updated": "2026-05-13T10:03:11.726496+00:00",
+  "last_updated": "2026-05-13T18:31:03.424005+00:00",
   "countries": {
-    "Spain":          {"confirmed": 2, "probable": 0, "deaths": 1, "monitoring": 14},
-    "United States":  {"confirmed": 1, "probable": 2, "deaths": 0, "monitoring": 19},
-    "Switzerland":    {"confirmed": 1, "probable": 0, "deaths": 0, "monitoring": 0},
-    "South Africa":   {"confirmed": 1, "probable": 0, "deaths": 1, "monitoring": 62},
-    "France":         {"confirmed": 2, "probable": 0, "deaths": 0, "monitoring": 8},
-    "United Kingdom": {"confirmed": 1, "probable": 0, "deaths": 1, "monitoring": 30},
-    "Netherlands":    {"confirmed": 1, "probable": 0, "deaths": 0, "monitoring": 12},
-    "Canada":         {"confirmed": 0, "probable": 0, "deaths": 0, "monitoring": 10}
+    "Spain": {
+      "confirmed": 2,
+      "probable": 1,
+      "deaths": 1,
+      "monitoring": 14
+    },
+    "United States": {
+      "confirmed": 4,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 19
+    },
+    "Switzerland": {
+      "confirmed": 1,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "South Africa": {
+      "confirmed": 2,
+      "probable": 0,
+      "deaths": 1,
+      "monitoring": 62
+    },
+    "France": {
+      "confirmed": 5,
+      "probable": 1,
+      "deaths": 0,
+      "monitoring": 22
+    },
+    "United Kingdom": {
+      "confirmed": 2,
+      "probable": 1,
+      "deaths": 1,
+      "monitoring": 30
+    },
+    "Netherlands": {
+      "confirmed": 3,
+      "probable": 0,
+      "deaths": 2,
+      "monitoring": 12
+    }
   },
   "timeline": [
-    {"date": "Apr 11", "confirmed": 1, "probable": 0, "deaths": 1, "monitoring": 0},
-    {"date": "Apr 24", "confirmed": 1, "probable": 0, "deaths": 2, "monitoring": 0},
-    {"date": "May 2",  "confirmed": 3, "probable": 0, "deaths": 2, "monitoring": 10},
-    {"date": "May 6",  "confirmed": 4, "probable": 2, "deaths": 2, "monitoring": 20},
-    {"date": "May 11", "confirmed": 7, "probable": 5, "deaths": 3, "monitoring": 50},
-    {"date": "May 13", "confirmed": 9, "probable": 2, "deaths": 3, "monitoring": 159}
+    {
+      "date": "Apr 11",
+      "confirmed": 1,
+      "probable": 0,
+      "deaths": 1,
+      "monitoring": 0
+    },
+    {
+      "date": "Apr 24",
+      "confirmed": 1,
+      "probable": 0,
+      "deaths": 2,
+      "monitoring": 0
+    },
+    {
+      "date": "May 2",
+      "confirmed": 3,
+      "probable": 0,
+      "deaths": 2,
+      "monitoring": 10
+    },
+    {
+      "date": "May 6",
+      "confirmed": 4,
+      "probable": 2,
+      "deaths": 2,
+      "monitoring": 20
+    },
+    {
+      "date": "May 11",
+      "confirmed": 7,
+      "probable": 5,
+      "deaths": 3,
+      "monitoring": 50
+    },
+    {
+      "date": "May 13",
+      "confirmed": 12,
+      "probable": 2,
+      "deaths": 4,
+      "monitoring": 100
+    },
+    {
+      "date": "May 13",
+      "confirmed": 13,
+      "probable": 3,
+      "deaths": 5,
+      "monitoring": 145
+    },
+    {
+      "date": "May 13",
+      "confirmed": 16,
+      "probable": 3,
+      "deaths": 5,
+      "monitoring": 159
+    },
+    {
+      "date": "May 13",
+      "confirmed": 19,
+      "probable": 3,
+      "deaths": 5,
+      "monitoring": 159
+    }
   ],
   "news": [
     {
-      "date": "2026-05-13",
-      "display_date": "May 13, 2026",
+      "date": "May 12, 2026",
+      "text": "Hantavirus outbreak grows to 11 cases, 9 confirmed",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJVvtGvzicYalZU2SheZBF5TH8DYddYyCOasOPyhsjXasoZcGMO24MCOfc6kKXhNzpD44WsUTWwNeVwfI5U8GLnGTCYApiZsgup6-dw6BcnOfXqkQMpo3caEUO2m9Sdib_9idH3E4h5pX7gpVQw8JkqBBNURDim25ebIY3Agzo81pSKx79yWyZYH2r8HBkqmzrvNcZkP3Hb5Y==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 13, 2026",
+      "text": "Operator of hantavirus-hit ship will say by week's end when the vessel will resume cruises",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVhCKgfS_kY8YkfGe6i1MHGX3l-WkGb6hk4eTLIky1vEKpBP3S5jZZcaztdtTe_-BYY0iugxP-BF5uFFAOBUSp_P2jvMTzqAa7-1afFnZyiLR_413ULeby8UwTyGEFMACBX21vTAcKLD3QMfT8v-zJ4ptIJIB3AC00wswch7CDRfkdDk91KUB9k0HN8lWPkw1GMbTbR3NIwrC7Jeve_8ScidUb1BKlQfP_TEMZYPZGWjHWzlsWKgNA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 13, 2026",
+      "text": "Andes hantavirus outbreak in cruise ship, 13 May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCvQ6RwsF8EHHUrks3fPGCg-mM_6akbPmGDkp6LvgwJPHjSVoaZO5_FVRVhtNPs_Kw7WGgsZ4ai6Y-CUnw-oImA_8ye36g8l6pGlg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 08, 2026",
+      "text": "Rapid risk assessment: Hantavirus (Andes virus) outbreak on international cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqgHrmSm8g_D49Mr27GXaZPMQUrAqmy3J-ixi8sPFwzGlOrGY-fN5w7LzKQaSp_pkvH9X5y65zfrFkFa3uzUG9Cj7x7T5nZ3ykmBKuymGGaJzWEA8XRI-bIP2gA67CuPxSa1DnQt8Cqcap_t1N-n9oWLbvrw_v792ur1d_f-hOITKb6zm8_tPguKpM8xPKBaDXEKhktHaK9GpU4awAm8PE2qdRreciuv6RCE7kd5PG7V0JYuvzkU6g-8F2yrx3YdEFwzVTKSzfNjz7QL9mPqfmJq1qTSnJ2i7E_BKlTkLp2W-mjI5ksfkGpU6ayf_Dy17UBAUqRbAWXnKMUVkI2dCv4Ngo7bDBfF_RS1jtWDqXgdjfeQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 13, 2026",
       "text": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius",
-      "link": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGio5xOTklmuL2MBMtuaE9z620vimUya8G5YpBwsI8-0L9ql29niAQmfZw_HEmnddp0pmnM11R7PLYo2x2_hjDAhVM2MyurUndnxMDCVhSvni0UJ7Nsmocr9VIb98JGjxLTuBYm6He5w3qSrb6bhUcRD_OKI06nyddJQ16Q3YL02Tjp4o5BSL-0xDAjceNVT1_fKWGTKwLydFvup1hTy-a5qiaUf3JupXrFx3dqpGWOMqzyYWlWZ1wZg8b-5vBGKPol4yDIuA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 08, 2026",
+      "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
+      "link": "https://www.cdc.gov/media/releases/2026/s0508-hantavirus-update.html",
       "badge": "UPDATE"
     },
     {
@@ -56,41 +176,6 @@
       "display_date": "May 11, 2026",
       "text": "American cruise ship passenger tests positive for hantavirus after evacuation | PBS News",
       "link": "https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-11",
-      "display_date": "May 11, 2026",
-      "text": "Americans from cruise ship linked to hantavirus outbreak to arrive in U.S. for monitoring",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxH4cFko4c6jFpExGtFL7qK5qs1BaAli2QnIUJd7C3ASU6SGFig3hlj6_45ovmJ_dOPrRCEQPb_jlgZB6KebiR0M-j6VFGJNiN6ikPLF_Pty4czTi49ne3_hKdRb_H1qxnJL0nV7Mw5LPE6ppIleMCbyMViDkrQg8J5sdCd9pMASTzJOK4kQUQgXQTLCsYSIy3B7IbBiJduKfgZSEaE7FtTISMLygODx3aQWFDxAIt_djoWH59Oq6-p979poH9ZnY0_1biqLNu4_aa8gA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-09",
-      "display_date": "May 9, 2026",
-      "text": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak",
-      "link": "https://theconversation.com/medical-epidemiologist-explains-what-to-know-about-the-cruise-ship-hantavirus-outbreak-256789",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-08",
-      "display_date": "May 8, 2026",
-      "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
-      "link": "https://www.cdc.gov/media/releases/2026/s0508-hantavirus-update.html",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-08",
-      "display_date": "May 8, 2026",
-      "text": "Hantavirus cluster linked to cruise ship travel, Multi-country",
-      "link": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON519",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-08",
-      "display_date": "May 8, 2026",
-      "text": "Rapid risk assessment: Hantavirus (Andes virus) outbreak on international cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqgHrmSm8g_D49Mr27GXaZPMQUrAqmy3J-ixi8sPFwzGlOrGY-fN5w7LzKQaSp_pkvH9X5y65zfrFkFa3uzUG9Cj7x7T5nZ3ykmBKuymGGaJzWEA8XRI-bIP2gA67CuPxSa1DnQt8Cqcap_t1N-n9oWLbvrw_v792ur1d_f-hOITKb6zm8_tPguKpM8xPKBaDXEKhktHaK9GpU4awAm8PE2qdRreciuv6RCE7kd5PG7V0JYuvzkU6g-8F2yrx3YdEFwzVTKSzfNjz7QL9mPqfmJq1qTSnJ2i7E_BKlTkLp2W-mjI5ksfkGpU6ayf_Dy17UBAUqRbAWXnKMUVkI2dCv4Ngo7bDBfF_RS1jtWDqXgdjfeQ==",
       "badge": "UPDATE"
     }
   ]
