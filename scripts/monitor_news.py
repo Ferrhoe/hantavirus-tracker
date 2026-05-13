@@ -133,7 +133,7 @@ Current known numbers (do NOT change these unless you find a clearly sourced upd
 - South Africa: {current_data['countries']['South Africa']}
 - France: {current_data['countries']['France']}
 - United Kingdom: {current_data['countries']['United Kingdom']}
-- Netherlands: {current_data['countries'].get('Netherlands', {{'confirmed': 0, 'probable': 0, 'deaths': 0, 'monitoring': 0}})}
+- Netherlands: {current_data['countries'].get('Netherlands', {'confirmed': 0, 'probable': 0, 'deaths': 0, 'monitoring': 0})}
 
 IMPORTANT RULES:
 - Do NOT guess or infer numbers
