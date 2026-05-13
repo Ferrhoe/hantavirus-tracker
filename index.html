@@ -595,6 +595,7 @@
                 chartInstance.data.datasets[0].data = trackerData.timeline.map(d => d.confirmed);
                 chartInstance.data.datasets[1].data = trackerData.timeline.map(d => d.probable);
                 chartInstance.data.datasets[2].data = trackerData.timeline.map(d => d.deaths);
+				chartInstance.data.datasets[3].data = trackerData.timeline.map(d => d.monitoring);
                 chartInstance.update();
             } else {
                 chartInstance = new Chart(ctx, {
@@ -631,6 +632,17 @@
                                 borderWidth: 3,
                                 pointRadius: 5,
                                 pointBackgroundColor: '#E24B4A',
+                                tension: 0.4
+                            },
+                            {
+                                label: 'Monitored',
+                                data: trackerData.timeline.map(d => d.monitoring),
+                                borderColor: '#FFD966',
+                                backgroundColor: 'rgba(255, 217, 102, 0.1)',
+                                borderWidth: 3,
+								borderDash: [5, 5],
+                                pointRadius: 5,
+                                pointBackgroundColor: '#FFD966',
                                 tension: 0.4
                             }
                         ]
