@@ -1,9 +1,9 @@
 {
-  "confirmed": 19,
+  "confirmed": 21,
   "probable": 3,
-  "deaths": 5,
+  "deaths": 6,
   "monitoring": 159,
-  "last_updated": "2026-05-13T18:31:03.424005+00:00",
+  "last_updated": "2026-05-13T20:16:17.661907+00:00",
   "countries": {
     "Spain": {
       "confirmed": 2,
@@ -12,7 +12,7 @@
       "monitoring": 14
     },
     "United States": {
-      "confirmed": 4,
+      "confirmed": 5,
       "probable": 0,
       "deaths": 0,
       "monitoring": 19
@@ -30,7 +30,7 @@
       "monitoring": 62
     },
     "France": {
-      "confirmed": 5,
+      "confirmed": 6,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -46,6 +46,66 @@
       "probable": 0,
       "deaths": 2,
       "monitoring": 12
+    },
+    "Germany": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 1,
+      "monitoring": 0
+    },
+    "Canada": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Denmark": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "New Zealand": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Saint Kitts and Nevis": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Singapore": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Sweden": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "T\u00fcrkiye": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Ireland": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Belgium": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
     }
   },
   "timeline": [
@@ -111,15 +171,15 @@
       "probable": 3,
       "deaths": 5,
       "monitoring": 159
+    },
+    {
+      "date": "May 13",
+      "confirmed": 21,
+      "probable": 3,
+      "deaths": 6
     }
   ],
   "news": [
-    {
-      "date": "May 12, 2026",
-      "text": "Hantavirus outbreak grows to 11 cases, 9 confirmed",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJVvtGvzicYalZU2SheZBF5TH8DYddYyCOasOPyhsjXasoZcGMO24MCOfc6kKXhNzpD44WsUTWwNeVwfI5U8GLnGTCYApiZsgup6-dw6BcnOfXqkQMpo3caEUO2m9Sdib_9idH3E4h5pX7gpVQw8JkqBBNURDim25ebIY3Agzo81pSKx79yWyZYH2r8HBkqmzrvNcZkP3Hb5Y==",
-      "badge": "UPDATE"
-    },
     {
       "date": "May 13, 2026",
       "text": "Operator of hantavirus-hit ship will say by week's end when the vessel will resume cruises",
@@ -133,21 +193,34 @@
       "badge": "UPDATE"
     },
     {
-      "date": "May 08, 2026",
-      "text": "Rapid risk assessment: Hantavirus (Andes virus) outbreak on international cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqgHrmSm8g_D49Mr27GXaZPMQUrAqmy3J-ixi8sPFwzGlOrGY-fN5w7LzKQaSp_pkvH9X5y65zfrFkFa3uzUG9Cj7x7T5nZ3ykmBKuymGGaJzWEA8XRI-bIP2gA67CuPxSa1DnQt8Cqcap_t1N-n9oWLbvrw_v792ur1d_f-hOITKb6zm8_tPguKpM8xPKBaDXEKhktHaK9GpU4awAm8PE2qdRreciuv6RCE7kd5PG7V0JYuvzkU6g-8F2yrx3YdEFwzVTKSzfNjz7QL9mPqfmJq1qTSnJ2i7E_BKlTkLp2W-mjI5ksfkGpU6ayf_Dy17UBAUqRbAWXnKMUVkI2dCv4Ngo7bDBfF_RS1jtWDqXgdjfeQ==",
-      "badge": "UPDATE"
-    },
-    {
       "date": "May 13, 2026",
       "text": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGio5xOTklmuL2MBMtuaE9z620vimUya8G5YpBwsI8-0L9ql29niAQmfZw_HEmnddp0pmnM11R7PLYo2x2_hjDAhVM2MyurUndnxMDCVhSvni0UJ7Nsmocr9VIb98JGjxLTuBYm6He5w3qSrb6bhUcRD_OKI06nyddJQ16Q3YL02Tjp4o5BSL-0xDAjceNVT1_fKWGTKwLydFvup1hTy-a5qiaUf3JupXrFx3dqpGWOMqzyYWlWZ1wZg8b-5vBGKPol4yDIuA==",
       "badge": "UPDATE"
     },
     {
+      "date": "May 12, 2026",
+      "text": "Hantavirus outbreak grows to 11 cases, 9 confirmed",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJVvtGvzicYalZU2SheZBF5TH8DYddYyCOasOPyhsjXasoZcGMO24MCOfc6kKXhNzpD44WsUTWwNeVwfI5U8GLnGTCYApiZsgup6-dw6BcnOfXqkQMpo3caEUO2m9Sdib_9idH3E4h5pX7gpVQw8JkqBBNURDim25ebIY3Agzo81pSKx79yWyZYH2r8HBkqmzrvNcZkP3Hb5Y==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "May 08, 2026",
+      "text": "Rapid risk assessment: Hantavirus (Andes virus) outbreak on international cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqgHrmSm8g_D49Mr27GXaZPMQUrAqmy3J-ixi8sPFwzGlOrGY-fN5w7LzKQaSp_pkvH9X5y65zfrFkFa3uzUG9Cj7x7T5nZ3ykmBKuymGGaJzWEA8XRI-bIP2gA67CuPxSa1DnQt8Cqcap_t1N-n9oWLbvrw_v792ur1d_f-hOITKb6zm8_tPguKpM8xPKBaDXEKhktHaK9GpU4awAm8PE2qdRreciuv6RCE7kd5PG7V0JYuvzkU6g-8F2yrx3YdEFwzVTKSzfNjz7QL9mPqfmJq1qTSnJ2i7E_BKlTkLp2W-mjI5ksfkGpU6ayf_Dy17UBAUqRbAWXnKMUVkI2dCv4Ngo7bDBfF_RS1jtWDqXgdjfeQ==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "May 08, 2026",
       "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
       "link": "https://www.cdc.gov/media/releases/2026/s0508-hantavirus-update.html",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-12",
+      "display_date": "2026-05-12",
+      "text": "What you need to know about the hantavirus outbreak linked to the Dutch cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPJeYODZpTmIHkUzKn4Kemrpp2CVfwaiHACEyLM6mB56hQxaTt6UcHB9LanYzU5YuYyNrAqusdHrfFz6o-JlDO9Dl0WfDZqsJ_eXkTm6nvbIdlmclCKE2hSCl9bgk8_nkCQLi6-eQ-Ne255yTS-h3YfofuWNw-r78KKmrQvcl-tg8xQLDAtKqCQsvDn14UqQjCMDvtjpiwiDsDhcapEOfYNJCcswqB7RUqAFcA6HEaf_d6g==",
       "badge": "UPDATE"
     },
     {
@@ -173,9 +246,23 @@
     },
     {
       "date": "2026-05-11",
+      "display_date": "2026-05-11",
+      "text": "Statement from the Illinois Department of Public Health (IDPH) Regarding MV Hondius Hantavirus Cases and Preparedness",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG1i9CY_UBRkPMkGmMxoSicYYtvetRe86TyQV1viJsUAfRJy7sucpWjBzqrjgpnFZZtz8mBh31uRNIwmp4tnO4-r6QomPl8KJKev2Pj9Vv4Gs8wR4ffeZWM02haIkrWqo89Mik5tqFcbNHh-uNQEZROpaiBTjq1XLm5IIaPIxYR0ZaTNzYcTZ59UNBmrOhqQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-11",
       "display_date": "May 11, 2026",
       "text": "American cruise ship passenger tests positive for hantavirus after evacuation | PBS News",
       "link": "https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-10",
+      "display_date": "2026-05-10",
+      "text": "Preliminary analysis of Orthohantavirus andesense virus sequences from a cruise-ship related cluster, May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3hnWvBr3lVakaWwI9qMAxPnL6UbLIzWQcM-GDjvdyimU2elT2xEw2islXXDCakT0tXq3KYKYILErEOdQ987oSAE88nrOkMlnt7l-RKFWwcPZvqWATf56mzpXq70On4Ak8q19PIloG97XqVSHEUm-u76GRoa5wN7n5qfIA5RSHP5aWtCAf2i9ykrMk1BpPBarE3-bUoJNnqhVH8akgFmwaubJMEZhI0PRd6OqhH2UeqF7p_Sl0zL_PpSbp2gXREiEn_DpGQ8yS",
       "badge": "UPDATE"
     }
   ]
