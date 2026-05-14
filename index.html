@@ -203,7 +203,7 @@
             position: fixed;
             background: rgba(0, 0, 0, 0.95);
             color: white;
-            padding: 12px 16px;
+            padding: 10px 14px;
             border-radius: 8px;
             font-size: 13px;
             pointer-events: none;
@@ -212,6 +212,7 @@
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
             display: none;
             line-height: 1.6;
+            max-width: calc(100vw - 30px);
         }
 
         .map-tooltip.active {
@@ -220,16 +221,25 @@
 
         .map-tooltip-country {
             font-weight: 600;
-            font-size: 14px;
+            font-size: 13px;
             margin-bottom: 6px;
             border-bottom: 1px solid rgba(255, 255, 255, 0.3);
             padding-bottom: 6px;
+            white-space: normal;
         }
 
         .map-tooltip-stat {
-            display: flex;
-            justify-content: space-between;
-            gap: 20px;
+            display: grid;
+            grid-template-columns: auto auto;
+            gap: 2px 12px;
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .map-tooltip {
+                font-size: 12px;
+                padding: 8px 12px;
+            }
         }
 
         .legend {
@@ -589,28 +599,46 @@
                             tooltip.innerHTML = `
                                 <div class="map-tooltip-country">${country}</div>
                                 <div class="map-tooltip-stat">
-                                    Confirmed: <strong>${data.confirmed}</strong><br>
-                                    Probable: <strong>${data.probable}</strong><br>
-                                    Deaths: <strong>${data.deaths}</strong><br>
-                                    Monitoring: <strong>${data.monitoring || 0}</strong>
+                                    <span>Confirmed:</span><strong>${data.confirmed}</strong>
+                                    <span>Probable:</span><strong>${data.probable}</strong>
+                                    <span>Deaths:</span><strong>${data.deaths}</strong>
+                                    <span>Monitoring:</span><strong>${data.monitoring || 0}</strong>
                                 </div>
                             `;
                         } else {
                             tooltip.innerHTML = `
                                 <div class="map-tooltip-country">${countryName}</div>
                                 <div class="map-tooltip-stat">
-                                    Confirmed: <strong>0</strong><br>
-                                    Probable: <strong>0</strong><br>
-                                    Deaths: <strong>0</strong><br>
-                                    Monitoring: <strong>0</strong>
+                                    <span>Confirmed:</span><strong>0</strong>
+                                    <span>Probable:</span><strong>0</strong>
+                                    <span>Deaths:</span><strong>0</strong>
+                                    <span>Monitoring:</span><strong>0</strong>
                                 </div>
                             `;
                         }
                         tooltip.classList.add('active');
                     })
                     .on('mousemove', function(event) {
-                        tooltip.style.left = (event.clientX + 15) + 'px';
-                        tooltip.style.top = (event.clientY + 15) + 'px';
+                        const tooltipEl = document.getElementById('mapTooltip');
+                        const tw = tooltipEl.offsetWidth;
+                        const th = tooltipEl.offsetHeight;
+                        const vw = window.innerWidth;
+                        const vh = window.innerHeight;
+
+                        let x = event.clientX + 15;
+                        let y = event.clientY + 15;
+
+                        // Keep within right edge
+                        if (x + tw > vw - 10) x = event.clientX - tw - 15;
+                        // Keep within bottom edge
+                        if (y + th > vh - 10) y = event.clientY - th - 15;
+                        // Keep within left edge
+                        if (x < 10) x = 10;
+                        // Keep within top edge
+                        if (y < 10) y = 10;
+
+                        tooltipEl.style.left = x + 'px';
+                        tooltipEl.style.top = y + 'px';
                     })
                     .on('mouseout', function(event, d) {
                         const country = countryCodeMap[d.id];
