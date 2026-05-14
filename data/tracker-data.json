@@ -3,7 +3,7 @@
   "probable": 4,
   "deaths": 6,
   "monitoring": 159,
-  "last_updated": "2026-05-14T02:44:52.745633+00:00",
+  "last_updated": "2026-05-14T09:40:59.115349+00:00",
   "countries": {
     "Spain": {
       "confirmed": 2,
@@ -45,7 +45,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 2,
-      "monitoring": 12
+      "monitoring": 40
     },
     "Germany": {
       "confirmed": 0,
@@ -225,6 +225,13 @@
     {
       "date": "2026-05-13",
       "display_date": "2026-05-13",
+      "text": "Andes Hantavirus Outbreak Highlights Need for Effective Response and International Coordination - WHN",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6jAL2ZAl7PAxxcS0yb9W44TjWtFVVFK3lblxWht6zs00RcuQEYWkGdhpZmKxQOYr6iO5936rb0u__iIK-Oy1brZLAt0bTtVnPVhyEj0O5dcCXREVTqg1gVvReeKY1euNAJhB4bRXvk_3OWG_ILnESm-RNpGMpZPFMQyb0t1B4OF8EjkpVNfoFiU5Yofs3X6gn0hgl",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-13",
+      "display_date": "2026-05-13",
       "text": "Cruise ship passenger making best of quarantine in US after hantavirus outbreak",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbIUezUiQ96YEvObwRlQ2JsY3Kka4HwlZe_LicR4pVplolEvlhKrqjSF54JWJCusc09izrQ0mWatIPaqp6ZHpFn86Nkr709ykpW2t8gAyap0YpizUhFARaOuB3DCT0LXoMSiASLu3cp9HvIu_iJ8HVTUAI8b61tU8Hdqz8IJDM6-z2lhDif8LuNO6GMo9M",
       "badge": "UPDATE"
@@ -253,6 +260,13 @@
     {
       "date": "2026-05-12",
       "display_date": "2026-05-12",
+      "text": "Americans from hantavirus-hit cruise ship arrive in U.S., including 1 who tested positive, another with symptoms - CBS News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwteiQlvo6HU25BGMdIahhIHmEihXSNKGjT4C28n02N3siv9C_9dr2jjDlQkqoA3Sv4uNKN6ByhLrFdaXpntW6MtsAxAZvFrjhQ2caXHVedjcPl3KJ_fK-ZJHl6kyBrymqNvPfRsV4Vrv5sOLJd4-Tj_ZkykDLN9PDInATcNZhtoJuAdThYXTAG2TaPTbreqkitg=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-12",
+      "display_date": "2026-05-12",
       "text": "What you need to know about the hantavirus outbreak linked to the Dutch cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLPJeYODZpTmIHkUzKn4Kemrpp2CVfwaiHACEyLM6mB56hQxaTt6UcHB9LanYzU5YuYyNrAqusdHrfFz6o-JlDO9Dl0WfDZqsJ_eXkTm6nvbIdlmclCKE2hSCl9bgk8_nkCQLi6-eQ-Ne255yTS-h3YfofuWNw-r78KKmrQvcl-tg8xQLDAtKqCQsvDn14UqQjCMDvtjpiwiDsDhcapEOfYNJCcswqB7RUqAFcA6HEaf_d6g==",
       "badge": "UPDATE"
@@ -269,20 +283,6 @@
       "display_date": "May 12, 2026",
       "text": "Governments downplay pandemic risk as MV Hondius hantavirus cases mount in US, Europe",
       "link": "https://www.wsws.org/en/articles/2026/05/12/hant-m12.html",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-12",
-      "display_date": "May 12, 2026",
-      "text": "UKHSA update on the hantavirus cruise ship outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU_7yEAzm2zl7yGsWPRCrw-QMA01TYnk_Om7PyzPVIQ-evo7dkdcBtvUxNaRYOXTb7I8KCdF-McgjPuW-Lx43FdahWexxhHzQ-x_XyrrzILSzlfaC-FmwDqy6KZE59fH_pwxan-ZwrDtUX3kx84FqewdbrG8CF3CdExbKEDCINmP17U6SYkMIkluUYUmh0ktc=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-11",
-      "display_date": "2026-05-11",
-      "text": "Statement from the Illinois Department of Public Health (IDPH) Regarding MV Hondius Hantavirus Cases and Preparedness",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG1i9CY_UBRkPMkGmMxoSicYYtvetRe86TyQV1viJsUAfRJy7sucpWjBzqrjgpnFZZtz8mBh31uRNIwmp4tnO4-r6QomPl8KJKev2Pj9Vv4Gs8wR4ffeZWM02haIkrWqo89Mik5tqFcbNHh-uNQEZROpaiBTjq1XLm5IIaPIxYR0ZaTNzYcTZ59UNBmrOhqQ==",
       "badge": "UPDATE"
     }
   ]
