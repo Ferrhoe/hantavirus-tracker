@@ -561,7 +561,8 @@
                         const country = countryCodeMap[d.id];
                         // Only color if country is in our tracker data
                         if (!country || !trackerData.countries[country]) return '#e8e8e8';
-                        const total = trackerData.countries[country].confirmed + trackerData.countries[country].probable + trackerData.countries[country].monitoring;
+                        total = trackerData.countries[country].confirmed + trackerData.countries[country].probable;
+						if (total == 0 && trackerData.countries[country].monitoring > 1) total = 1;
                         return colorScale(total);
                     })
                     .attr('opacity', d => {
