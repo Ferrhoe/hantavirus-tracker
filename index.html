@@ -188,6 +188,13 @@
             margin-bottom: 60px;
         }
 
+        @media (max-width: 768px) {
+            #map {
+                height: auto;
+                aspect-ratio: 960 / 600;
+            }
+        }
+
         #map svg {
             background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
         }
@@ -602,8 +609,8 @@
                         tooltip.classList.add('active');
                     })
                     .on('mousemove', function(event) {
-                        tooltip.style.left = (event.pageX + 15) + 'px';
-                        tooltip.style.top = (event.pageY + 15) + 'px';
+                        tooltip.style.left = (event.clientX + 15) + 'px';
+                        tooltip.style.top = (event.clientY + 15) + 'px';
                     })
                     .on('mouseout', function(event, d) {
                         const country = countryCodeMap[d.id];
