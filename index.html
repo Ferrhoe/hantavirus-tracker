@@ -559,25 +559,26 @@
                     .attr('stroke-width', 0.5)
                     .attr('fill', d => {
                         const country = countryCodeMap[d.id];
-                        if (!country) return '#e8e8e8';
+                        // Only color if country is in our tracker data
+                        if (!country || !trackerData.countries[country]) return '#e8e8e8';
                         const total = trackerData.countries[country].confirmed + trackerData.countries[country].probable;
                         return colorScale(total);
                     })
-                    .attr('opacity', d => countryCodeMap[d.id] ? 1 : 0.5)
-                    .style('cursor', d => countryCodeMap[d.id] ? 'pointer' : 'default')
+                    .attr('opacity', d => {
+                        const country = countryCodeMap[d.id];
+                        return (country && trackerData.countries[country]) ? 1 : 0.5;
+                    })
+                    .style('cursor', 'pointer')
                     .on('mouseover', function(event, d) {
                         const country = countryCodeMap[d.id];
-                        const countryName = country || (d.properties?.name || 'Country');
-                        
-                        // Highlight the country
+                        const countryName = (country) || (d.properties?.name || 'Country');
+
                         d3.select(this).attr('opacity', 1).attr('stroke-width', 2).attr('stroke', '#667eea');
-                        
-                        // Show tooltip for ALL countries with actual country name
+
                         if (country && trackerData.countries[country]) {
                             const data = trackerData.countries[country];
-                            
                             tooltip.innerHTML = `
-                                <div class="map-tooltip-country">${countryName}</div>
+                                <div class="map-tooltip-country">${country}</div>
                                 <div class="map-tooltip-stat">
                                     Confirmed: <strong>${data.confirmed}</strong><br>
                                     Probable: <strong>${data.probable}</strong><br>
@@ -585,31 +586,29 @@
                                     Monitoring: <strong>${data.monitoring || 0}</strong>
                                 </div>
                             `;
-                            
-                            tooltip.classList.add('active');
                         } else {
-                            // Show unaffected country with actual name and 0 cases
                             tooltip.innerHTML = `
                                 <div class="map-tooltip-country">${countryName}</div>
                                 <div class="map-tooltip-stat">
                                     Confirmed: <strong>0</strong><br>
                                     Probable: <strong>0</strong><br>
-                                    Deaths: <strong>0</strong>
+                                    Deaths: <strong>0</strong><br>
+                                    Monitoring: <strong>0</strong>
                                 </div>
                             `;
-                            
-                            tooltip.classList.add('active');
                         }
+                        tooltip.classList.add('active');
                     })
                     .on('mousemove', function(event) {
-                        // Position tooltip relative to page, not SVG
-                        const pageX = event.pageX;
-                        const pageY = event.pageY;
-                        tooltip.style.left = (pageX + 15) + 'px';
-                        tooltip.style.top = (pageY + 15) + 'px';
+                        tooltip.style.left = (event.pageX + 15) + 'px';
+                        tooltip.style.top = (event.pageY + 15) + 'px';
                     })
-                    .on('mouseout', function(d) {
-                        d3.select(this).attr('opacity', countryCodeMap[d.id] ? 1 : 0.5).attr('stroke-width', 0.5).attr('stroke', '#999');
+                    .on('mouseout', function(event, d) {
+                        const country = countryCodeMap[d.id];
+                        d3.select(this)
+                            .attr('opacity', (country && trackerData.countries[country]) ? 1 : 0.5)
+                            .attr('stroke-width', 0.5)
+                            .attr('stroke', '#999');
                         tooltip.classList.remove('active');
                     });
             });
