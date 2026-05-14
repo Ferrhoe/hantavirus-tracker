@@ -472,14 +472,15 @@
             const confirmed = Object.values(trackerData.countries).reduce((sum, c) => sum + (c.confirmed || 0), 0);
             const probable = Object.values(trackerData.countries).reduce((sum, c) => sum + (c.probable || 0), 0);
             const deaths = Object.values(trackerData.countries).reduce((sum, c) => sum + (c.deaths || 0), 0);
+			const monitoring = Object.values(trackerData.countries).reduce((sum, c) => sum + (c.monitoring || 0), 0);
             const total = confirmed + probable;
 
             document.getElementById('confirmedCases').textContent = confirmed;
             document.getElementById('probableCases').textContent = probable;
             document.getElementById('totalCases').textContent = total;
             document.getElementById('deaths').textContent = deaths;
-            document.getElementById('monitoring').textContent = trackerData.monitoring || '—';
-            document.getElementById('countriesCount').textContent = Object.values(trackerData.countries).filter(c => c.confirmed + c.probable + c.deaths > 0).length;
+            document.getElementById('monitoring').textContent = monitoring;
+            document.getElementById('countriesCount').textContent = Object.values(trackerData.countries).filter(c => c.confirmed + c.probable + c.deaths + c.monitoring > 0).length;
 
             // Format last update time in UTC
             const lastUpdate = new Date(trackerData.last_updated);
