@@ -239,21 +239,32 @@ If no articles are found at all, respond with only: NO_UPDATE"""
     return []
 
 def update_timeline(current_data):
-    """Add a new timeline entry for today if numbers changed."""
+    """Update today's timeline entry if it exists, otherwise add a new one."""
     today = datetime.now(timezone.utc).strftime('%b %-d')
-    last_entry = current_data['timeline'][-1] if current_data['timeline'] else {}
+    monitoring = current_data.get('monitoring', 0)
 
+    new_entry = {
+        "date": today,
+        "confirmed": current_data['confirmed'],
+        "probable": current_data['probable'],
+        "deaths": current_data['deaths'],
+        "monitoring": monitoring
+    }
+
+    # Check if an entry for today already exists — update it instead of appending
+    for i, entry in enumerate(current_data['timeline']):
+        if entry.get('date') == today:
+            current_data['timeline'][i] = new_entry
+            print(f"   ✓ Updated existing timeline entry for {today}")
+            return current_data
+
+    # No entry for today yet — only add if numbers changed from last entry
+    last_entry = current_data['timeline'][-1] if current_data['timeline'] else {}
     if (last_entry.get('confirmed') != current_data['confirmed'] or
         last_entry.get('probable') != current_data['probable'] or
         last_entry.get('deaths') != current_data['deaths']):
-
-        current_data['timeline'].append({
-            "date": today,
-            "confirmed": current_data['confirmed'],
-            "probable": current_data['probable'],
-            "deaths": current_data['deaths']
-        })
-        print(f"   ✓ Added timeline entry for {today}")
+        current_data['timeline'].append(new_entry)
+        print(f"   ✓ Added new timeline entry for {today}")
 
     return current_data
 
