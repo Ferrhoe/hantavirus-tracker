@@ -1,18 +1,18 @@
 {
-  "confirmed": 22,
-  "probable": 4,
+  "confirmed": 25,
+  "probable": 5,
   "deaths": 6,
   "monitoring": 159,
-  "last_updated": "2026-05-14T18:24:10.623613+00:00",
+  "last_updated": "2026-05-14T19:05:13.157617+00:00",
   "countries": {
     "Spain": {
-      "confirmed": 2,
+      "confirmed": 3,
       "probable": 1,
       "deaths": 1,
       "monitoring": 14
     },
     "United States": {
-      "confirmed": 5,
+      "confirmed": 6,
       "probable": 0,
       "deaths": 0,
       "monitoring": 19
@@ -30,14 +30,14 @@
       "monitoring": 62
     },
     "France": {
-      "confirmed": 7,
+      "confirmed": 8,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
     },
     "United Kingdom": {
       "confirmed": 2,
-      "probable": 2,
+      "probable": 3,
       "deaths": 1,
       "monitoring": 30
     },
@@ -99,13 +99,13 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 1
     },
     "Belgium": {
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 1
     }
   },
   "timeline": [
@@ -149,14 +149,14 @@
       "confirmed": 21,
       "probable": 3,
       "deaths": 6,
-	    "monitoring": 159
+      "monitoring": 159
     },
     {
       "date": "May 14",
-      "confirmed": 22,
-      "probable": 4,
+      "confirmed": 25,
+      "probable": 5,
       "deaths": 6,
-	    "monitoring": 197
+      "monitoring": 159
     }
   ],
   "news": [
