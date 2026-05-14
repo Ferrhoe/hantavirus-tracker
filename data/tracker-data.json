@@ -1,9 +1,9 @@
 {
-  "confirmed": 21,
-  "probable": 3,
+  "confirmed": 22,
+  "probable": 4,
   "deaths": 6,
   "monitoring": 159,
-  "last_updated": "2026-05-13T20:16:17.661907+00:00",
+  "last_updated": "2026-05-14T02:44:52.745633+00:00",
   "countries": {
     "Spain": {
       "confirmed": 2,
@@ -30,14 +30,14 @@
       "monitoring": 62
     },
     "France": {
-      "confirmed": 6,
+      "confirmed": 7,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
     },
     "United Kingdom": {
       "confirmed": 2,
-      "probable": 1,
+      "probable": 2,
       "deaths": 1,
       "monitoring": 30
     },
@@ -57,7 +57,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 10
     },
     "Denmark": {
       "confirmed": 0,
@@ -177,6 +177,12 @@
       "confirmed": 21,
       "probable": 3,
       "deaths": 6
+    },
+    {
+      "date": "May 14",
+      "confirmed": 22,
+      "probable": 4,
+      "deaths": 6
     }
   ],
   "news": [
@@ -217,6 +223,34 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-05-13",
+      "display_date": "2026-05-13",
+      "text": "Cruise ship passenger making best of quarantine in US after hantavirus outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbIUezUiQ96YEvObwRlQ2JsY3Kka4HwlZe_LicR4pVplolEvlhKrqjSF54JWJCusc09izrQ0mWatIPaqp6ZHpFn86Nkr709ykpW2t8gAyap0YpizUhFARaOuB3DCT0LXoMSiASLu3cp9HvIu_iJ8HVTUAI8b61tU8Hdqz8IJDM6-z2lhDif8LuNO6GMo9M",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-13",
+      "display_date": "2026-05-13",
+      "text": "Hantavirus Cruise Ship Outbreak: What We Know So Far | The Scientist",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVl4XjQ8hbpH0Wbp6S6jG6CoRyFXirr6-zGPcld9666G3Y06v0HJn-j2CL4h5RgK60QB79VdV1MjvlDB2Jpuihy9Pq_Hb9ThSPdRaRT9a5viYxHO-oQ2m5mADxXiM8xQV1do9y3mDdP_JHK7jvB5T2OPhg9ov_G3XZdULnfuVt1Hfl7TEEhRvB1D2ME72Ly950",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-13",
+      "display_date": "2026-05-13",
+      "text": "Hantavirus questions grow in the wake of a cruise ship outbreak - Science News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFULpDgqOqdmNDiEfv2QcqyJMGYE0bvDkJKtlq2N9C-57Y9jt9yrePShNAZZp3vRSAcmYkAiXUmZiQ8EKAVdUxyXy9MCgGmnxeKJH1JJWDLs0sV_55BmblUjZSZTYc92L6FrU3oz0bm0wPsL-v8sSsUhSgHLUZdBHVk4_c9v2dOtiIqUA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-13",
+      "display_date": "2026-05-13",
+      "text": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzLrHMdE1ulMubyW2fSVy2G7oq_tySziYp4ml1S5xyJ5LnCbOosxPdLppcJHQ5Apf7_V-SWgSHl9GqYglyPX76gIa0YuGHwSNgdZbnNJ3CBP8A_BwHRUhDdsz-rB-VlUuYcgP3AHameojTT9DBBgDgN2IwO3e-_KyG_tv0245c1A==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-05-12",
       "display_date": "2026-05-12",
       "text": "What you need to know about the hantavirus outbreak linked to the Dutch cruise ship",
@@ -249,20 +283,6 @@
       "display_date": "2026-05-11",
       "text": "Statement from the Illinois Department of Public Health (IDPH) Regarding MV Hondius Hantavirus Cases and Preparedness",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG1i9CY_UBRkPMkGmMxoSicYYtvetRe86TyQV1viJsUAfRJy7sucpWjBzqrjgpnFZZtz8mBh31uRNIwmp4tnO4-r6QomPl8KJKev2Pj9Vv4Gs8wR4ffeZWM02haIkrWqo89Mik5tqFcbNHh-uNQEZROpaiBTjq1XLm5IIaPIxYR0ZaTNzYcTZ59UNBmrOhqQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-11",
-      "display_date": "May 11, 2026",
-      "text": "American cruise ship passenger tests positive for hantavirus after evacuation | PBS News",
-      "link": "https://www.pbs.org/newshour/health/american-cruise-ship-passenger-tests-positive-for-hantavirus-after-evacuation",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-10",
-      "display_date": "2026-05-10",
-      "text": "Preliminary analysis of Orthohantavirus andesense virus sequences from a cruise-ship related cluster, May 2026",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3hnWvBr3lVakaWwI9qMAxPnL6UbLIzWQcM-GDjvdyimU2elT2xEw2islXXDCakT0tXq3KYKYILErEOdQ987oSAE88nrOkMlnt7l-RKFWwcPZvqWATf56mzpXq70On4Ak8q19PIloG97XqVSHEUm-u76GRoa5wN7n5qfIA5RSHP5aWtCAf2i9ykrMk1BpPBarE3-bUoJNnqhVH8akgFmwaubJMEZhI0PRd6OqhH2UeqF7p_Sl0zL_PpSbp2gXREiEn_DpGQ8yS",
       "badge": "UPDATE"
     }
   ]
