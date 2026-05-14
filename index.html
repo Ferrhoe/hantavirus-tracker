@@ -513,38 +513,38 @@
                 .attr('style', 'max-width: 100%;');
 
             d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(world => {
-                // Comprehensive ISO numeric code map - covers all likely affected countries
+                // ISO numeric country codes - must match d.id (numeric, no leading zeros)
                 const countryCodeMap = {
-                    '724': 'Spain',
-                    '840': 'United States',
-                    '756': 'Switzerland',
-                    '710': 'South Africa',
-                    '250': 'France',
-                    '826': 'United Kingdom',
-                    '528': 'Netherlands',
-                    '124': 'Canada',
-                    '036': 'Australia',
-                    '276': 'Germany',
-                    '380': 'Italy',
-                    '076': 'Brazil',
-                    '032': 'Argentina',
-                    '152': 'Chile',
-                    '554': 'New Zealand',
-                    '056': 'Belgium',
-                    '620': 'Portugal',
-                    '752': 'Sweden',
-                    '578': 'Norway',
-                    '208': 'Denmark',
-                    '246': 'Finland',
-                    '040': 'Austria',
-                    '616': 'Poland',
-                    '372': 'Ireland',
-                    '356': 'India',
-                    '392': 'Japan',
-                    '410': 'South Korea',
-                    '702': 'Singapore',
-                    '076': 'Brazil',
-                    '484': 'Mexico'
+                    724: 'Spain',
+                    840: 'United States',
+                    756: 'Switzerland',
+                    710: 'South Africa',
+                    250: 'France',
+                    826: 'United Kingdom',
+                    528: 'Netherlands',
+                    124: 'Canada',
+                    36:  'Australia',
+                    276: 'Germany',
+                    380: 'Italy',
+                    76:  'Brazil',
+                    32:  'Argentina',
+                    152: 'Chile',
+                    554: 'New Zealand',
+                    56:  'Belgium',
+                    620: 'Portugal',
+                    752: 'Sweden',
+                    578: 'Norway',
+                    208: 'Denmark',
+                    246: 'Finland',
+                    40:  'Austria',
+                    616: 'Poland',
+                    372: 'Ireland',
+                    356: 'India',
+                    392: 'Japan',
+                    410: 'South Korea',
+                    702: 'Singapore',
+                    76:  'Brazil',
+                    484: 'Mexico'
                 };
 
                 const projection = d3.geoNaturalEarth1().scale(200).translate([420, 300]);
@@ -711,8 +711,11 @@
             const grid = document.getElementById('countryGrid');
             grid.innerHTML = '';
 
-            Object.entries(trackerData.countries).forEach(([country, data]) => {
-                if (data.confirmed + data.probable + data.deaths > 0) {
+            // Sort alphabetically
+            const sorted = Object.entries(trackerData.countries).sort(([a], [b]) => a.localeCompare(b));
+
+            sorted.forEach(([country, data]) => {
+                if (data.confirmed + data.probable + data.deaths + (data.monitoring || 0) > 0) {
                     const card = document.createElement('div');
                     card.className = 'country-card';
                     card.innerHTML = `
@@ -731,7 +734,7 @@
                         </div>
                         <div class="country-stat">
                             <span>Monitoring:</span>
-                            <span class="value">${data.monitoring}</span>
+                            <span class="value">${data.monitoring || 0}</span>
                         </div>
                     `;
                     grid.appendChild(card);
