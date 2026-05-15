@@ -1,9 +1,9 @@
 {
-  "confirmed": 25,
+  "confirmed": 26,
   "probable": 5,
   "deaths": 6,
-  "monitoring": 159,
-  "last_updated": "2026-05-15T05:37:02.785154+00:00",
+  "monitoring": 226,
+  "last_updated": "2026-05-15T10:02:53.206331+00:00",
   "countries": {
     "Spain": {
       "confirmed": 3,
@@ -15,7 +15,7 @@
       "confirmed": 6,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 19
+      "monitoring": 41
     },
     "Switzerland": {
       "confirmed": 1,
@@ -30,7 +30,7 @@
       "monitoring": 62
     },
     "France": {
-      "confirmed": 8,
+      "confirmed": 9,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -69,7 +69,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 1
     },
     "Saint Kitts and Nevis": {
       "confirmed": 0,
@@ -106,6 +106,12 @@
       "probable": 0,
       "deaths": 0,
       "monitoring": 1
+    },
+    "Australia": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 4
     }
   },
   "timeline": [
@@ -157,6 +163,13 @@
       "probable": 5,
       "deaths": 6,
       "monitoring": 199
+    },
+    {
+      "date": "May 15",
+      "confirmed": 26,
+      "probable": 5,
+      "deaths": 6,
+      "monitoring": 226
     }
   ],
   "news": [
@@ -194,6 +207,13 @@
       "date": "May 08, 2026",
       "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
       "link": "https://www.cdc.gov/media/releases/2026/s0508-hantavirus-update.html",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-14",
+      "display_date": "2026-05-14",
+      "text": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness | SPH",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNhANprQV5fLhfKU9qzHJZhYg5kVlUhUdfeCcC3f73aCHnOTahHC1dmYxNcww5v-ez504ZPXNj6zOn8u0Auj3zIDquGBVVTHSQLmsnB_2RcoZBDrvD1VyDRy5uR1pVwtquD5W3NfZCDNT658P1bz0TGkY1WUygyixS1zK15MUdFoEsvekur907hjxrtOJwHAa0GXzbylqMSwkfZB3k5FF2XLX-Vb1GrTbwNynl",
       "badge": "UPDATE"
     },
     {
@@ -250,13 +270,6 @@
       "display_date": "2026-05-13",
       "text": "Andes Hantavirus Outbreak Highlights Need for Effective Response and International Coordination - WHN",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6jAL2ZAl7PAxxcS0yb9W44TjWtFVVFK3lblxWht6zs00RcuQEYWkGdhpZmKxQOYr6iO5936rb0u__iIK-Oy1brZLAt0bTtVnPVhyEj0O5dcCXREVTqg1gVvReeKY1euNAJhB4bRXvk_3OWG_ILnESm-RNpGMpZPFMQyb0t1B4OF8EjkpVNfoFiU5Yofs3X6gn0hgl",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "2026-05-13",
-      "text": "Cruise ship passenger making best of quarantine in US after hantavirus outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbIUezUiQ96YEvObwRlQ2JsY3Kka4HwlZe_LicR4pVplolEvlhKrqjSF54JWJCusc09izrQ0mWatIPaqp6ZHpFn86Nkr709ykpW2t8gAyap0YpizUhFARaOuB3DCT0LXoMSiASLu3cp9HvIu_iJ8HVTUAI8b61tU8Hdqz8IJDM6-z2lhDif8LuNO6GMo9M",
       "badge": "UPDATE"
     }
   ]
