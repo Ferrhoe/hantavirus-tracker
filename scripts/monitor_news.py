@@ -139,8 +139,10 @@ IMPORTANT RULES:
 - Only return updated numbers if you find a direct quote or official report with new figures
 - If you are not 100% certain of a number from a real source, keep the existing value
 - "monitoring" means people under contact tracing or quarantine watch, not cases
-- ADD any new country if you find it explicitly mentioned in an official source with case or monitoring data
+- ADD a new country ONLY if you find it explicitly mentioned in WHO, CDC, ECDC, or a major news outlet (Reuters, BBC, AP, CNN) with a specific case or monitoring number — never add a country based on speculation
+- When adding a new country, you MUST also add a news item about it in the news section with the source URL as proof
 - Include ALL existing countries in your response, even if unchanged
+- PRIORITIZE finding news articles about any new country being added — the article must confirm the case
 
 If you find clearly sourced new numbers, respond with ONLY this JSON (no markdown):
 {{
@@ -197,7 +199,11 @@ def get_latest_news(current_data):
 
     prompt = f"""Search the web right now for recent news articles about the MV Hondius hantavirus outbreak in 2026.
 
-Find up to 5 of the most recent and relevant articles.
+Find up to 5 of the most recent and relevant articles. PRIORITIZE in this order:
+1. Articles reporting new cases in a country not already tracked
+2. Articles reporting new confirmed cases or deaths from official sources
+3. Articles reporting updates on monitoring or contact tracing
+4. General outbreak news
 
 Already known headlines (do not include these):
 {json.dumps(existing_titles, indent=2)}
