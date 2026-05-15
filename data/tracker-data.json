@@ -1,9 +1,9 @@
 {
-  "confirmed": 26,
+  "confirmed": 28,
   "probable": 5,
   "deaths": 6,
   "monitoring": 226,
-  "last_updated": "2026-05-15T10:02:53.206331+00:00",
+  "last_updated": "2026-05-15T17:17:51.665238+00:00",
   "countries": {
     "Spain": {
       "confirmed": 3,
@@ -112,6 +112,12 @@
       "probable": 0,
       "deaths": 0,
       "monitoring": 4
+    },
+    "India": {
+      "confirmed": 2,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
     }
   },
   "timeline": [
@@ -166,7 +172,7 @@
     },
     {
       "date": "May 15",
-      "confirmed": 26,
+      "confirmed": 28,
       "probable": 5,
       "deaths": 6,
       "monitoring": 226
@@ -207,6 +213,13 @@
       "date": "May 08, 2026",
       "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
       "link": "https://www.cdc.gov/media/releases/2026/s0508-hantavirus-update.html",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-15",
+      "display_date": "2026-05-15",
+      "text": "Andes hantavirus outbreak in cruise ship, 15 May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBTWjIQMzX4oUnXy9OYvY8yS_weA1pWjMJ7BP8X_FjCgRLGfNaiHhxymYywkcEf8CcbMx4ZGg4lX4k-WBLaO_dAkSwCVoVjNRVJIenKAaXRQcwzexDQpWd6EUPQPPqwD_M1Vfglzmj80CHhh5RkJFdipTsp8AXcQRmoif47h1xkaB6lTuVHLQgO3BpLZbfh5-zMlj8_0uT-dGAe1T7Bt1HX0ToForFSmn-JpdWF_eNNbW8ExqVtBjqFQ==",
       "badge": "UPDATE"
     },
     {
@@ -263,13 +276,6 @@
       "display_date": "2026-05-13",
       "text": "Hantavirus and the MV Hondius Cruise Ship Outbreak 2026. What UK Returning Travellers and the Public Need to Know",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEery3yqDZLKbRNkrJuWXOeJCrOCV7iPOH3VlLxQUZBrLc2UD4cjHIThOqiKN4z5oHEiKYYXCQfJJK377d1p5j7b6rqdM5cUO43VbtXs6O7rcf3jH2TI4qFwQALg-IwNnJv6OVj2tUzruWpummS6izXCmL-wHOPOlAZFTBZ-SMtUEfPXYpug796ItOQOCUg1ODibH7NsSLeang4hS4i6IHjRGEVgE5FkU_MhI0qrqKoY-hmXFqwVRYTtK7GbwWC6vLc27Ne-aTT1qraaY-8",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "2026-05-13",
-      "text": "Andes Hantavirus Outbreak Highlights Need for Effective Response and International Coordination - WHN",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6jAL2ZAl7PAxxcS0yb9W44TjWtFVVFK3lblxWht6zs00RcuQEYWkGdhpZmKxQOYr6iO5936rb0u__iIK-Oy1brZLAt0bTtVnPVhyEj0O5dcCXREVTqg1gVvReeKY1euNAJhB4bRXvk_3OWG_ILnESm-RNpGMpZPFMQyb0t1B4OF8EjkpVNfoFiU5Yofs3X6gn0hgl",
       "badge": "UPDATE"
     }
   ]
