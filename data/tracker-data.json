@@ -1,9 +1,9 @@
 {
-  "confirmed": 12,
+  "confirmed": 14,
   "probable": 4,
   "deaths": 3,
-  "monitoring": 247,
-  "last_updated": "2026-05-16T15:39:54.405363+00:00",
+  "monitoring": 288,
+  "last_updated": "2026-05-16T20:34:57.881997+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 3,
+      "confirmed": 4,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -57,7 +57,7 @@
       "confirmed": 1,
       "probable": 0,
       "deaths": 2,
-      "monitoring": 64
+      "monitoring": 104
     },
     "New Zealand": {
       "confirmed": 0,
@@ -84,7 +84,7 @@
       "monitoring": 62
     },
     "Spain": {
-      "confirmed": 3,
+      "confirmed": 4,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -124,6 +124,12 @@
       "probable": 0,
       "deaths": 0,
       "monitoring": 5
+    },
+    "Pitcairn Islands": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 1
     }
   },
   "timeline": [
@@ -178,13 +184,20 @@
     },
     {
       "date": "May 16",
-      "confirmed": 12,
+      "confirmed": 14,
       "probable": 4,
       "deaths": 3,
-      "monitoring": 247
+      "monitoring": 288
     }
   ],
   "news": [
+    {
+      "date": "2026-05-16",
+      "display_date": "2026-05-16",
+      "text": "Andes hantavirus outbreak in cruise ship, 16 May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2bKRSTN2azgvDTRM_Mf-VvvaSyHFiotj657MLEcUUUK11LIi5gmbNHHVIbFmYSVkk5Wdsq3esXMr7t0aK7aNXQWMMLPic1L_pfFIF_GrJzzXgYw_bSFS3et81pxOn5QLXm8RRwKS8-fNFqiawcIUPx3GlaDmcfR-C_flvrt1FhxI1DLvosvMmYfv9SUVUgtPaOcnXZdXJQn3IW2szQZBiYI7ykZ35M1cGndKr5sFRhn_spfp2phliNg==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-15",
       "display_date": "2026-05-15",
@@ -225,6 +238,13 @@
       "display_date": "May 15, 2026",
       "text": "Andes hantavirus outbreak in cruise ship, 15 May 2026 - ECDC",
       "link": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-14",
+      "display_date": "2026-05-14",
+      "text": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWz7okhpSFNiDEu0c-q4WRvL6aa89-G56Cl5-h4QtuKqgj8oLxfO_n6T_YRaXadrfHjaN5-HE16jTML1wgtHYrYaWGCdUpW8bnXE6axOWi7slONzz7tLqw51Jw5tvpSS0-uxOoPCEiyXIyWvz7dj4RNGOBRxz6ru5UuJrTf3i-yQ==",
       "badge": "UPDATE"
     },
     {
@@ -271,23 +291,9 @@
     },
     {
       "date": "2026-05-13",
-      "display_date": "May 13, 2026",
-      "text": "Operator of hantavirus-hit ship will say by week's end when the vessel will resume cruises",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVhCKgfS_kY8YkfGe6i1MHGX3l-WkGb6hk4eTLIky1vEKpBP3S5jZZcaztdtTe_-BYY0iugxP-BF5uFFAOBUSp_P2jvMTzqAa7-1afFnZyiLR_413ULeby8UwTyGEFMACBX21vTAcKLD3QMfT8v-zJ4ptIJIB3AC00wswch7CDRfkdDk91KUB9k0HN8lWPkw1GMbTbR3NIwrC7Jeve_8ScidUb1BKlQfP_TEMZYPZGWjHWzlsWKgNA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "May 13, 2026",
-      "text": "Hantavirus questions grow in the wake of a cruise ship outbreak - Science News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFULpDgqOqdmNDiEfv2QcqyJMGYE0bvDkJKtlq2N9C-57Y9jt9yrePShNAZZp3vRSAcmYkAiXUmZiQ8EKAVdUxyXy9MCgGmnxeKJH1JJWDLs0sV_55BmblUjZSZTYc92L6FrU3oz0bm0wPsL-v8sSsUhSgHLUZdBHVk4_c9v2dOtiIqUA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "May 13, 2026",
-      "text": "Hantavirus and the MV Hondius Cruise Ship Outbreak 2026 - What UK Travellers Need to Know",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEery3yqDZLKbRNkrJuWXOeJCrOCV7iPOH3VlLxQUZBrLc2UD4cjHIThOqiKN4z5oHEiKYYXCQfJJK377d1p5j7b6rqdM5cUO43VbtXs6O7rcf3jH2TI4qFwQALg-IwNnJv6OVj2tUzruWpummS6izXCmL-wHOPOlAZFTBZ-SMtUEfPXYpug796ItOQOCUg1ODibH7NsSLeang4hS4i6IHjRGEVgE5FkU_MhI0qrqKoY-hmXFqwVRYTtK7GbwWC6vLc27Ne-aTT1qraaY-8",
+      "display_date": "2026-05-13",
+      "text": "13 May 2026-update on the ANDV (hantavirus) outbreak, MV Hondius: confirmed cases remain limited to passengers and crew; international contact tracing continues",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSHwDlevdL58Fvf60S1fipr79gNdp6zgA7muYrngjBdu6nOzcQIpVMRVrojei-D0x8W8BGVTofhTKjoPeRT9MaJdI0ECxvWxFRMsvWYe6ciVTsh-mnduJmFcKzIRne_4YBf6Xr4dTPllKG3yluz7U4zyHC-fk2fDjY3_l9DlcM8uX4wUvyjS5VeoIiGecA2Dyk2M8120Rtl6JZCZsNzYTlpwg1AAScPeP92i5fES_srGBIEwmJ",
       "badge": "UPDATE"
     }
   ]
