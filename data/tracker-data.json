@@ -2,8 +2,8 @@
   "confirmed": 9,
   "probable": 3,
   "deaths": 3,
-  "monitoring": 245,
-  "last_updated": "2026-05-15T21:40:37.430307+00:00",
+  "monitoring": 235,
+  "last_updated": "2026-05-16T07:33:25.095999+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -111,7 +111,7 @@
       "confirmed": 2,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 30
+      "monitoring": 20
     },
     "United States": {
       "confirmed": 0,
@@ -178,6 +178,20 @@
     }
   ],
   "news": [
+    {
+      "date": "2026-05-15",
+      "display_date": "2026-05-15",
+      "text": "The Public Health Response to Hantavirus: Key Actions, Perspectives, and Takeaways",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo749kM9OrKehvG8P6kL303VfIhQMr5A7_CwsKZV-O-VNmnWswJ3TW0YBowA4kJbrUDPNfK5BZemxYqYHtz4ZCf1v4TBhxhWbs00s0ZkxFQhlkZH_shgmB-vr25Ii4v3FytofHMGJdX4Txgs9i1IrEBucWUUxPE3Y3DQK4B8ZFU0rKMzX688RoaDvbz6f8TSClEqXNJZ5xniyQ66oa",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-15",
+      "display_date": "2026-05-15",
+      "text": "Hantavirus Updates - County of San Luis Obispo",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJhY-SPdS95xUa2FNT-j1e6JHvSxJKpqSH9qwnORZ5eUmVBgO9y4denQR478BDl6UWP9DIToaADjxd--dPMu72X90feyaLI7jQiEIvhWf0tgIR4RZcwHc_SCspShFeuTrvRvNPqPz-tQceLfyXbXPZO5-vvuyAt_cNIJTGb-WJtw4rsOkgsrLDrLUSndzpx_TbE-j5KPeMuL1wejMEP28u70DMBEgFswyhm10hZT-XyXiwPnkW3GaU7K866hHXDp1zWOCikNHpmIB1I8q83dkTaMoHqUj3pxrd1cVV8-IG-v_i1EUCUyo3uKXwTw4lfeppT-Djtg==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-15",
       "display_date": "2026-05-15",
@@ -267,20 +281,6 @@
       "display_date": "May 13, 2026",
       "text": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius - ECDC",
       "link": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "May 13, 2026",
-      "text": "WHO Disease Outbreak News: Hantavirus cluster linked to cruise ship travel, Multi-country",
-      "link": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON601",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-12",
-      "display_date": "2026-05-12",
-      "text": "Americans from hantavirus-hit cruise ship arrive in U.S., including 1 who tested positive, another with symptoms - CBS News",
-      "link": "https://www.cbsnews.com/news/hantavirus-cruise-ship-mv-hondius-americans-repatriated-us-positive-case-symptoms/",
       "badge": "UPDATE"
     }
   ]
