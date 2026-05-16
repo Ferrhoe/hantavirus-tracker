@@ -1,9 +1,9 @@
 {
-  "confirmed": 9,
-  "probable": 3,
+  "confirmed": 12,
+  "probable": 4,
   "deaths": 3,
-  "monitoring": 235,
-  "last_updated": "2026-05-16T07:33:25.095999+00:00",
+  "monitoring": 247,
+  "last_updated": "2026-05-16T15:39:54.405363+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 2,
+      "confirmed": 3,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -57,7 +57,7 @@
       "confirmed": 1,
       "probable": 0,
       "deaths": 2,
-      "monitoring": 52
+      "monitoring": 64
     },
     "New Zealand": {
       "confirmed": 0,
@@ -84,7 +84,7 @@
       "monitoring": 62
     },
     "Spain": {
-      "confirmed": 2,
+      "confirmed": 3,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -109,12 +109,12 @@
     },
     "United Kingdom": {
       "confirmed": 2,
-      "probable": 0,
+      "probable": 1,
       "deaths": 0,
       "monitoring": 20
     },
     "United States": {
-      "confirmed": 0,
+      "confirmed": 1,
       "probable": 0,
       "deaths": 0,
       "monitoring": 41
@@ -175,9 +175,23 @@
       "probable": 3,
       "deaths": 3,
       "monitoring": 245
+    },
+    {
+      "date": "May 16",
+      "confirmed": 12,
+      "probable": 4,
+      "deaths": 3,
+      "monitoring": 247
     }
   ],
   "news": [
+    {
+      "date": "2026-05-15",
+      "display_date": "2026-05-15",
+      "text": "M/V Hondius \u2014 Atlantic Odyssey: Tracking the First Andes Hantavirus Outbreak at Sea",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0E49ErCIY2Gr87ReQeApnIjkp14twktLmGOFQtgxSo9TiF0rPDKGeD90VV4OFtSvFoPl4gVG7H5fv0N7r9Oshhe_eLxAnwQtbUJsjSkRYy5CJTM6hnMjrz3cbygzJfCTGjqQ6mkpRT9738zbgsbOzm8BN6R_UYSVxKvzBvZ7ndfwCo_TpEysEIesqxwlMYVVsR5cVnuMr8c8=",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-15",
       "display_date": "2026-05-15",
@@ -211,6 +225,13 @@
       "display_date": "May 15, 2026",
       "text": "Andes hantavirus outbreak in cruise ship, 15 May 2026 - ECDC",
       "link": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-14",
+      "display_date": "2026-05-14",
+      "text": "Questions and answers on the hantavirus outbreak in a cruise ship - ECDC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoUjrPc21coPcnDGiSz6yzXmpM4Maa19YvU48Ze24dV9iQ0W1u_QmqawxBlPEDlL_JDemjhwC6a7arTyVLT-dcmc4ozZxKC_UfgpXKl6lcsn7tir7VobXtTUtfjmluX98SnFnJNVVf2Q8sjF0vEJnhWv3vvGdLPtGCY3oHkW0daOkPFkqEUZvZiSErY8FkzQk7T3RH9Ko2mii7OmVbgSmlSYUh8Nn_P3IHae6gXzcLieQ9fA0bWkumAP51xQ=",
       "badge": "UPDATE"
     },
     {
@@ -267,20 +288,6 @@
       "display_date": "May 13, 2026",
       "text": "Hantavirus and the MV Hondius Cruise Ship Outbreak 2026 - What UK Travellers Need to Know",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEery3yqDZLKbRNkrJuWXOeJCrOCV7iPOH3VlLxQUZBrLc2UD4cjHIThOqiKN4z5oHEiKYYXCQfJJK377d1p5j7b6rqdM5cUO43VbtXs6O7rcf3jH2TI4qFwQALg-IwNnJv6OVj2tUzruWpummS6izXCmL-wHOPOlAZFTBZ-SMtUEfPXYpug796ItOQOCUg1ODibH7NsSLeang4hS4i6IHjRGEVgE5FkU_MhI0qrqKoY-hmXFqwVRYTtK7GbwWC6vLc27Ne-aTT1qraaY-8",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "May 13, 2026",
-      "text": "Hantavirus Cruise Ship Outbreak: What We Know So Far | The Scientist",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVl4XjQ8hbpH0Wbp6S6jG6CoRyFXirr6-zGPcld9666G3Y06v0HJn-j2CL4h5RgK60QB79VdV1MjvlDB2Jpuihy9Pq_Hb9ThSPdRaRT9a5viYxHO-oQ2m5mADxXiM8xQV1do9y3mDdP_JHK7jvB5T2OPhg9ov_G3XZdULnfuVt1Hfl7TEEhRvB1D2ME72Ly950",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "May 13, 2026",
-      "text": "Updates on Andes virus (hantavirus) outbreak on the cruise ship MV Hondius - ECDC",
-      "link": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
       "badge": "UPDATE"
     }
   ]
