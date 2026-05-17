@@ -1,9 +1,9 @@
 {
-  "confirmed": 14,
+  "confirmed": 16,
   "probable": 4,
   "deaths": 3,
-  "monitoring": 288,
-  "last_updated": "2026-05-16T20:34:57.881997+00:00",
+  "monitoring": 290,
+  "last_updated": "2026-05-17T08:36:18.200951+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 4,
+      "confirmed": 5,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -84,7 +84,7 @@
       "monitoring": 62
     },
     "Spain": {
-      "confirmed": 4,
+      "confirmed": 5,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -111,7 +111,7 @@
       "confirmed": 2,
       "probable": 1,
       "deaths": 0,
-      "monitoring": 20
+      "monitoring": 22
     },
     "United States": {
       "confirmed": 1,
@@ -188,9 +188,23 @@
       "probable": 4,
       "deaths": 3,
       "monitoring": 288
+    },
+    {
+      "date": "May 17",
+      "confirmed": 16,
+      "probable": 4,
+      "deaths": 3,
+      "monitoring": 290
     }
   ],
   "news": [
+    {
+      "date": "2026-05-16",
+      "display_date": "2026-05-16",
+      "text": "Hantavirus Live Tracker \u2014 Map, Case Feed & Ship Position | MV Hondius 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5KS4XfiqF5Rx-1qOau0kn6qlNvlM6cd3F8LRJIKIOaMRz_uNwjZBoQL5rreCsaZVfYpK9aWPw352_8-OoTpQbBw54q_dxk_lypttbSy-KqqH8ew==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-16",
       "display_date": "2026-05-16",
@@ -287,13 +301,6 @@
       "display_date": "May 14, 2026",
       "text": "Hantavirus strikes a cruise ship: Is this the start of something much worse? - LA Times",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPMDY_PLElkM5OCxwXR0dYKiOCJEy9wV2Kqiz-7PpiFZP3UQUN7oRchCC2oi6CZUkPbeEM2GdoMoyShjWwdqbVK1M7KRnPnupHLCduVlBAcYbq14AfN9HjIcCEVh8a92meBztYNgqWI9Stgevf9CiogaeioC3tfbsz8ZBGwHngrlZ02qjfaSFe2WAeI2B_lGMuEvx6iKLUbPAk_vLJwwnzlcLBe57Su2fCag==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-13",
-      "display_date": "2026-05-13",
-      "text": "13 May 2026-update on the ANDV (hantavirus) outbreak, MV Hondius: confirmed cases remain limited to passengers and crew; international contact tracing continues",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSHwDlevdL58Fvf60S1fipr79gNdp6zgA7muYrngjBdu6nOzcQIpVMRVrojei-D0x8W8BGVTofhTKjoPeRT9MaJdI0ECxvWxFRMsvWYe6ciVTsh-mnduJmFcKzIRne_4YBf6Xr4dTPllKG3yluz7U4zyHC-fk2fDjY3_l9DlcM8uX4wUvyjS5VeoIiGecA2Dyk2M8120Rtl6JZCZsNzYTlpwg1AAScPeP92i5fES_srGBIEwmJ",
       "badge": "UPDATE"
     }
   ]
