@@ -1,9 +1,9 @@
 {
-  "confirmed": 21,
-  "probable": 4,
+  "confirmed": 24,
+  "probable": 5,
   "deaths": 3,
   "monitoring": 290,
-  "last_updated": "2026-05-17T20:36:48.498437+00:00",
+  "last_updated": "2026-05-18T12:53:57.689679+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 1,
+      "confirmed": 2,
       "probable": 0,
       "deaths": 0,
       "monitoring": 10
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 7,
+      "confirmed": 8,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -84,7 +84,7 @@
       "monitoring": 62
     },
     "Spain": {
-      "confirmed": 7,
+      "confirmed": 8,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -109,7 +109,7 @@
     },
     "United Kingdom": {
       "confirmed": 2,
-      "probable": 1,
+      "probable": 2,
       "deaths": 0,
       "monitoring": 22
     },
@@ -195,9 +195,23 @@
       "probable": 4,
       "deaths": 3,
       "monitoring": 290
+    },
+    {
+      "date": "May 18",
+      "confirmed": 24,
+      "probable": 5,
+      "deaths": 3,
+      "monitoring": 290
     }
   ],
   "news": [
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
+      "text": "Hantavirus-hit cruise ship arrives in Netherlands",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4NSdFPAjadBc34NDFsGSh44TYtW-IMYbPIKtJcvjfIHI7A1_Pdz1wXxzlYY_OdY_gVvnfrZhhE2OTx9SCsIM2IwAsMWzPHFMQbVFmBnkr5MCL9GKCx3GIAMQVHnN4j4FMoEcOQ61qFGK_sSTnVO-fSgbURJDlgf7gz_tBv7P6UxnSs8VdZ6oj3w==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-17",
       "display_date": "2026-05-17",
@@ -278,6 +292,13 @@
     {
       "date": "2026-05-14",
       "display_date": "2026-05-14",
+      "text": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness | SPH",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6WISeU4jP1pChIVlM6ZF5iSXZ7s9oezATFbD1S0iMiupF1_1KtEBpqoZ4Kt_dOXLgL_U3b5_-QI9dEyR6M1tubK2toLQ3FY3zNgZQbQX8Vg1Mj1jV4ZJPuMt-kzRlZlNf76lrqK-SSubVOekhrssvTkiWshtBRXI72yRP0eAihbnKCkQJCwDg1YgYSqgcA7H7jhD_R6hDaMLYfMdALiu-9ZugkKXBxwPcg-mu",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-14",
+      "display_date": "2026-05-14",
       "text": "Hantavirus cluster linked to cruise ship travel, Multi-country",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWz7okhpSFNiDEu0c-q4WRvL6aa89-G56Cl5-h4QtuKqgj8oLxfO_n6T_YRaXadrfHjaN5-HE16jTML1wgtHYrYaWGCdUpW8bnXE6axOWi7slONzz7tLqw51Jw5tvpSS0-uxOoPCEiyXIyWvz7dj4RNGOBRxz6ru5UuJrTf3i-yQ==",
       "badge": "UPDATE"
@@ -287,20 +308,6 @@
       "display_date": "2026-05-14",
       "text": "Questions and answers on the hantavirus outbreak in a cruise ship - ECDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoUjrPc21coPcnDGiSz6yzXmpM4Maa19YvU48Ze24dV9iQ0W1u_QmqawxBlPEDlL_JDemjhwC6a7arTyVLT-dcmc4ozZxKC_UfgpXKl6lcsn7tir7VobXtTUtfjmluX98SnFnJNVVf2Q8sjF0vEJnhWv3vvGdLPtGCY3oHkW0daOkPFkqEUZvZiSErY8FkzQk7T3RH9Ko2mii7OmVbgSmlSYUh8Nn_P3IHae6gXzcLieQ9fA0bWkumAP51xQ=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-14",
-      "display_date": "2026-05-14",
-      "text": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE",
-      "link": "https://www.kdhe.ks.gov/1939/2026-Multi-country-Andes-Strain-Hantavi",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-14",
-      "display_date": "2026-05-14",
-      "text": "Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)",
-      "link": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
       "badge": "UPDATE"
     }
   ]
