@@ -1,9 +1,9 @@
 {
-  "confirmed": 24,
+  "confirmed": 26,
   "probable": 5,
   "deaths": 3,
   "monitoring": 290,
-  "last_updated": "2026-05-18T12:53:57.689679+00:00",
+  "last_updated": "2026-05-18T21:56:35.626728+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 8,
+      "confirmed": 9,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -84,7 +84,7 @@
       "monitoring": 62
     },
     "Spain": {
-      "confirmed": 8,
+      "confirmed": 9,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -198,13 +198,34 @@
     },
     {
       "date": "May 18",
-      "confirmed": 24,
+      "confirmed": 26,
       "probable": 5,
       "deaths": 3,
       "monitoring": 290
     }
   ],
   "news": [
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
+      "text": "Hantavirus risk is low, but hospitals should prepare",
+      "link": "https://www.advisory.com/daily-briefing/2026/05/18/hantavirus-outbreak",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
+      "text": "Hantavirus-Hit Cruise Ship To Be Disinfected In Netherlands (Live Updates)",
+      "link": "https://www.forbes.com/sites/forbesstaff/2026/05/18/hantavirus-hit-cruise-ship-to-be-disinfected-in-netherlands-live-updates/",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
+      "text": "Andes hantavirus outbreak in cruise ship, 18 May 2026",
+      "link": "https://www.ecdc.europa.eu/en/publications-data/andes-hantavirus-outbreak-cruise-ship-18-may-2026",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-18",
       "display_date": "2026-05-18",
@@ -287,27 +308,6 @@
       "display_date": "May 15, 2026",
       "text": "Andes hantavirus outbreak in cruise ship, 15 May 2026 - ECDC",
       "link": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-14",
-      "display_date": "2026-05-14",
-      "text": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness | SPH",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6WISeU4jP1pChIVlM6ZF5iSXZ7s9oezATFbD1S0iMiupF1_1KtEBpqoZ4Kt_dOXLgL_U3b5_-QI9dEyR6M1tubK2toLQ3FY3zNgZQbQX8Vg1Mj1jV4ZJPuMt-kzRlZlNf76lrqK-SSubVOekhrssvTkiWshtBRXI72yRP0eAihbnKCkQJCwDg1YgYSqgcA7H7jhD_R6hDaMLYfMdALiu-9ZugkKXBxwPcg-mu",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-14",
-      "display_date": "2026-05-14",
-      "text": "Hantavirus cluster linked to cruise ship travel, Multi-country",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWz7okhpSFNiDEu0c-q4WRvL6aa89-G56Cl5-h4QtuKqgj8oLxfO_n6T_YRaXadrfHjaN5-HE16jTML1wgtHYrYaWGCdUpW8bnXE6axOWi7slONzz7tLqw51Jw5tvpSS0-uxOoPCEiyXIyWvz7dj4RNGOBRxz6ru5UuJrTf3i-yQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-14",
-      "display_date": "2026-05-14",
-      "text": "Questions and answers on the hantavirus outbreak in a cruise ship - ECDC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoUjrPc21coPcnDGiSz6yzXmpM4Maa19YvU48Ze24dV9iQ0W1u_QmqawxBlPEDlL_JDemjhwC6a7arTyVLT-dcmc4ozZxKC_UfgpXKl6lcsn7tir7VobXtTUtfjmluX98SnFnJNVVf2Q8sjF0vEJnhWv3vvGdLPtGCY3oHkW0daOkPFkqEUZvZiSErY8FkzQk7T3RH9Ko2mii7OmVbgSmlSYUh8Nn_P3IHae6gXzcLieQ9fA0bWkumAP51xQ=",
       "badge": "UPDATE"
     }
   ]
