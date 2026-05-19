@@ -1,9 +1,9 @@
 {
-  "confirmed": 26,
+  "confirmed": 29,
   "probable": 5,
   "deaths": 3,
-  "monitoring": 290,
-  "last_updated": "2026-05-18T21:56:35.626728+00:00",
+  "monitoring": 317,
+  "last_updated": "2026-05-19T11:46:23.489133+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 2,
+      "confirmed": 3,
       "probable": 0,
       "deaths": 0,
       "monitoring": 10
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 9,
+      "confirmed": 10,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -57,7 +57,7 @@
       "confirmed": 1,
       "probable": 0,
       "deaths": 2,
-      "monitoring": 104
+      "monitoring": 131
     },
     "New Zealand": {
       "confirmed": 0,
@@ -84,7 +84,7 @@
       "monitoring": 62
     },
     "Spain": {
-      "confirmed": 9,
+      "confirmed": 10,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -202,9 +202,30 @@
       "probable": 5,
       "deaths": 3,
       "monitoring": 290
+    },
+    {
+      "date": "May 19",
+      "confirmed": 29,
+      "probable": 5,
+      "deaths": 3,
+      "monitoring": 317
     }
   ],
   "news": [
+    {
+      "date": "2026-05-19",
+      "display_date": "2026-05-19",
+      "text": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMIhbKGO2VyALxteJsV2JGxNfHLPYFeXAkNaJSN-F-LlKEuQCo6abPdR0bOdPeHZo6iVFFb0YJ7LNfPR4tfh7308brGSaM1eMU40pHMbutGxJGCV-pY3F4dQGJxLhUufKTeSogmv6jlv6WX_B3pyMelazHnbtiYWAvDjsqq3QAK2kH9QQae1rzs7TdIg86khL8f0m9dgvpL1505NtyRQRpaC2_KrbOStOGJMu9I5v0o9ieVQ6DPILTem-UlZ3yoiWhlA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
+      "text": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxKmzUTxOklmQE3MgEncS2ThXq2bClcov6s0DPWXBbRNbd6lkB8WzJ64E__7DTZyH_JctRNv_siXFDYWUVCq0gQSgZUqXO4Gn8JrFus4xYGrcdBKaTd2bi0tnRDZYE7l-Tl8dfeyWnN89XHE-gDzczrJ8y2WEA1y5LdH_m2ei_r-b5lkp8bVUMtDOegjTcFJmbZso4Kn9ylIb7GsbwaT9ImUCm3kDg-YM=",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-18",
       "display_date": "2026-05-18",
@@ -294,20 +315,6 @@
       "display_date": "2026-05-15",
       "text": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
       "link": "https://www.cbsnews.com/news/mv-hondius-hantavirus-outbreak-cases-deaths-countries-affected/",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-15",
-      "display_date": "2026-05-15",
-      "text": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries",
-      "link": "https://www.cidrap.umn.edu/news-perspective/2026/05/hantavirus-outbreak-reduced-10-cases-ship-passengers-return-home-countries",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-15",
-      "display_date": "May 15, 2026",
-      "text": "Andes hantavirus outbreak in cruise ship, 15 May 2026 - ECDC",
-      "link": "https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak",
       "badge": "UPDATE"
     }
   ]
