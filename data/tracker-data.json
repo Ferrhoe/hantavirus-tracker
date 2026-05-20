@@ -1,9 +1,9 @@
 {
-  "confirmed": 32,
-  "probable": 6,
+  "confirmed": 35,
+  "probable": 7,
   "deaths": 4,
   "monitoring": 324,
-  "last_updated": "2026-05-20T10:40:13.751094+00:00",
+  "last_updated": "2026-05-20T19:57:49.978784+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 4,
+      "confirmed": 5,
       "probable": 0,
       "deaths": 0,
       "monitoring": 10
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 11,
+      "confirmed": 12,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -84,7 +84,7 @@
       "monitoring": 62
     },
     "Spain": {
-      "confirmed": 11,
+      "confirmed": 12,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -109,7 +109,7 @@
     },
     "United Kingdom": {
       "confirmed": 2,
-      "probable": 2,
+      "probable": 3,
       "deaths": 0,
       "monitoring": 22
     },
@@ -218,13 +218,20 @@
     },
     {
       "date": "May 20",
-      "confirmed": 32,
-      "probable": 6,
+      "confirmed": 35,
+      "probable": 7,
       "deaths": 4,
       "monitoring": 324
     }
   ],
   "news": [
+    {
+      "date": "2026-05-20",
+      "display_date": "2026-05-20",
+      "text": "Andes hantavirus outbreak in cruise ship, 20 May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUhFT8q1C7RkAjgdEw0viTObIu2HSc5rHvu-Jr6PUEh2WsGdnXfV3uBgKZ61fv9baRZ6DSjUJRJ_rgICAwzSLLkXkqJrg32X-rR4xZ6W1Ul1HWZjuyQeSdAkLh4sNoAjmpGHGEOnL5gdpuX_braA3DPCTqhY3sdnKpMadZ-g9KgtEL2KSVzGjWK5p8zh2hI96Odq8fA5xZlbBLgDhaDxbUam9bt5GrKIQQ1dgQxXmOrkAlRQc9DbmXArg",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-19",
       "display_date": "2026-05-19",
@@ -258,6 +265,13 @@
       "display_date": "2026-05-19",
       "text": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMIhbKGO2VyALxteJsV2JGxNfHLPYFeXAkNaJSN-F-LlKEuQCo6abPdR0bOdPeHZo6iVFFb0YJ7LNfPR4tfh7308brGSaM1eMU40pHMbutGxJGCV-pY3F4dQGJxLhUufKTeSogmv6jlv6WX_B3pyMelazHnbtiYWAvDjsqq3QAK2kH9QQae1rzs7TdIg86khL8f0m9dgvpL1505NtyRQRpaC2_KrbOStOGJMu9I5v0o9ieVQ6DPILTem-UlZ3yoiWhlA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
+      "text": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection | PBS News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfvPzMQsZFO9XYSA3Il75NcsDgwJs5oJxSrHyZPPVmPeYaPLiZS8Cn-B9-GURqSXpreSEfRCM5LbaXtWjIA3gR3DAV5_W_Gl4hz0JIvM39yafPiLLjkxOgcIglue0gyz7lhiocV2XSMlZF8YkQElarRoRO1kTVa0z2ls1ZSCTP9-LMwhUjl0svdHLkFVc4C4Yn8cefDKcJ_Sg2fsQt_z2JPcFaqN12oLY",
       "badge": "UPDATE"
     },
     {
@@ -314,20 +328,6 @@
       "display_date": "2026-05-17",
       "text": "Andes hantavirus outbreak in cruise ship, 17 May 2026",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrdm0SGbZqo7KKVQ4cXBabaNuHrHk7MrLXCzrah7Byj1NXt9DhrRhGWC2rlpHjkjH3ZJhQqloYOUbEAPLjVnk1AxmD5RS1mvZjP6JfVgixstunXqfkF1mimS-srlocTH5pdCCS_hDeAelj0ZanR4uP8I4ZU-psShr5rjLHL-8NKcbuAp7EeWYFo7aA0UrDLTS939LqmfT1FBANxxavDtJq4ZsV6mCEYlHFExCQFx1mU5KthhW-QwQCMnE=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-16",
-      "display_date": "2026-05-16",
-      "text": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKRcOkYXFtqkbJ2iBze4ZzdbZ6sD-AVFEyw0V2KOhNvlv8j5U7rUEW-aHPjh3F43zKmNKaWT2Mb_6vIz5YER7hrNQbIBZaFC8E7avUTfL_aNDmv1-XyGCJK8D-SlHzy0DKO7MY61uGhvT-oiup7hmR5i2EmlyXhQETAlQ2pAV_AV3CBXE3pbkAxaD4EAA=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-16",
-      "display_date": "2026-05-16",
-      "text": "Hantavirus Live Tracker \u2014 Map, Case Feed & Ship Position | MV Hondius 2026",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5KS4XfiqF5Rx-1qOau0kn6qlNvlM6cd3F8LRJIKIOaMRz_uNwjZBoQL5rreCsaZVfYpK9aWPw352_8-OoTpQbBw54q_dxk_lypttbSy-KqqH8ew==",
       "badge": "UPDATE"
     }
   ]
