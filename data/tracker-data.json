@@ -1,9 +1,9 @@
 {
   "confirmed": 32,
-  "probable": 5,
-  "deaths": 3,
-  "monitoring": 317,
-  "last_updated": "2026-05-19T18:29:17.132120+00:00",
+  "probable": 6,
+  "deaths": 4,
+  "monitoring": 324,
+  "last_updated": "2026-05-20T10:40:13.751094+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -39,7 +39,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 1,
-      "monitoring": 0
+      "monitoring": 6
     },
     "India": {
       "confirmed": 0,
@@ -80,7 +80,7 @@
     "South Africa": {
       "confirmed": 1,
       "probable": 0,
-      "deaths": 0,
+      "deaths": 1,
       "monitoring": 62
     },
     "Spain": {
@@ -121,11 +121,17 @@
     },
     "Tristan da Cunha": {
       "confirmed": 0,
-      "probable": 0,
+      "probable": 1,
       "deaths": 0,
       "monitoring": 5
     },
     "Pitcairn Islands": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 1
+    },
+    "Czech Republic": {
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
@@ -209,9 +215,30 @@
       "probable": 5,
       "deaths": 3,
       "monitoring": 317
+    },
+    {
+      "date": "May 20",
+      "confirmed": 32,
+      "probable": 6,
+      "deaths": 4,
+      "monitoring": 324
     }
   ],
   "news": [
+    {
+      "date": "2026-05-19",
+      "display_date": "2026-05-19",
+      "text": "Hantavirus outbreak doesn't appear to have originated on Dutch cruise ship, CEO says",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG3uduTBdGYO6Xxh-BW04j68HesYN1OiQJSRD8q63YfS-wGBxWvdE35qNfTiWU0ZIzdHwBuibSVYPnMh4uRrMfrDEbkmKafBeu5xI1tT3Z7RDZDlRYsKGpdyAHjTajNU6Zr5OXsrr2iM_Bc_HkQlGY6ccCnEmbvNXwQcW90cERWRnh-cXBs-ZPC58EeE666YRiwjLrpDZDs1s",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-19",
+      "display_date": "2026-05-19",
+      "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1qMHFPoDD95QYcIdi_Hq2OHrJk_6EW7-DsLDwtFR7CafExK-vzxc8p67U8kCXwRWWKCtDhFpZmztlSZ3VcAjO4yBTxTGaqR_oUaLy6z3h3IihfljZAQq4UxbZccqpqu20s2bH8LJ5xPB3gTRYvkOIkvdcmQ29sstnrEG7gY42QS009Mn1H7pJm6lo84irnvqUa_Qy_jHZ3IihfljZAQq4UxbZccqpqu20s2bH8LJ5xPB3gTRYvkOIkvdcmQ29sstnrEG7gY42QS009Mn1H7pJm6lo84irnvqUa_Qy_jNVAqdMkqNDbGao=",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-19",
       "display_date": "2026-05-19",
@@ -301,20 +328,6 @@
       "display_date": "2026-05-16",
       "text": "Hantavirus Live Tracker \u2014 Map, Case Feed & Ship Position | MV Hondius 2026",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5KS4XfiqF5Rx-1qOau0kn6qlNvlM6cd3F8LRJIKIOaMRz_uNwjZBoQL5rreCsaZVfYpK9aWPw352_8-OoTpQbBw54q_dxk_lypttbSy-KqqH8ew==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-16",
-      "display_date": "2026-05-16",
-      "text": "Andes hantavirus outbreak in cruise ship, 16 May 2026",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2bKRSTN2azgvDTRM_Mf-VvvaSyHFiotj657MLEcUUUK11LIi5gmbNHHVIbFmYSVkk5Wdsq3esXMr7t0aK7aNXQWMMLPic1L_pfFIF_GrJzzXgYw_bSFS3et81pxOn5QLXm8RRwKS8-fNFqiawcIUPx3GlaDmcfR-C_flvrt1FhxI1DLvosvMmYfv9SUVUgtPaOcnXZdXJQn3IW2szQZBiYI7ykZ35M1cGndKr5sFRhn_spfp2phliNg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-15",
-      "display_date": "2026-05-15",
-      "text": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDqW9IvO8RlhgRbjxu_THLyuQVWFMUrAdG5zDcj5bGkjbygcmhK4pbJiD0TAReV7jSRnIN2frWlBtW9gOgqT1UEKiMufyAvTqkK3YNwIjBjy2_iO6pBEBHSGYZXBQAOj2k0I_M8XX0xmixAfE0RvfbvZuzjw0uQ8QlS4fNm12PjAFqePKXS3VyGNWaztxY1sd0ys0n7J6nO4fVr_eElAzih8OLbIBsj4fDLgInT0vS6oLZZP5a",
       "badge": "UPDATE"
     }
   ]
