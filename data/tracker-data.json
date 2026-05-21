@@ -2,8 +2,8 @@
   "confirmed": 38,
   "probable": 7,
   "deaths": 4,
-  "monitoring": 324,
-  "last_updated": "2026-05-21T11:59:18.119329+00:00",
+  "monitoring": 352,
+  "last_updated": "2026-05-21T18:30:39.243511+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -81,7 +81,7 @@
       "confirmed": 1,
       "probable": 0,
       "deaths": 1,
-      "monitoring": 62
+      "monitoring": 90
     },
     "Spain": {
       "confirmed": 13,
@@ -228,10 +228,24 @@
       "confirmed": 38,
       "probable": 7,
       "deaths": 4,
-      "monitoring": 324
+      "monitoring": 352
     }
   ],
   "news": [
+    {
+      "date": "2026-05-21",
+      "display_date": "2026-05-21",
+      "text": "News: Hantavirus infection cluster update",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn4c8fqxs4dss5b4ftSQwBMUQ1TcsquOeh8T-_h0feRyRbZ3H9pq-FM2YdZrKvi9uPae2zxwun6hxU7KcFA97cdhu5nNs1Yv_FhIm6yi9cVeYMAJcmmRWqrUBGAc_tNdW121CoaT7H",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-21",
+      "display_date": "2026-05-21",
+      "text": "Andes hantavirus outbreak in cruise ship, 21 May 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSONret4m_CjMkI_3sJ0CnLeAILzYFucxcouYvs3hndXODJJ8751pn5zQ3O_K_6I5Oq4hC1y8aGUgj4eOskKNbEXqippnCc8MG3RgPr_nF7OcCQCzZi_b0hbzVVoxxmhbgSmM-6F86LcGFCryRu12A4UJ8-XjAmnnlRtGEHIjwaSesCZferwBZXndTjdJMUND00Q1QagEt7OTY1SCcp--vPwTZ6e0Mhj4VRGRiRc7Ogz8lweyTrrluH8Q",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-20",
       "display_date": "2026-05-20",
@@ -291,6 +305,13 @@
     {
       "date": "2026-05-18",
       "display_date": "2026-05-18",
+      "text": "Canada confirms hantavirus case linked to cruise ship that killed 3 | Fox News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGO4G5sRdU1dS7p_eo0ixE6YY3K91on_YRVJ9kTBWwK92MHGFBFs0HNwHltAq5fKEkXTWm8D8WwIjkuT3V2QX7-AenqcwWp3glSJ_-3DfTaM8U6xbeBzOtSGCY5822Mr8h2eaHEyov0El9MzfXhrm5EgkU9EKJvPO-IQJidbFWTmbOL6awu_eQK5HGVgipJx3qG6hHKTH5GJ7JjDVGJxFSEGKmWuPxGY_syekn",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
       "text": "IDPH Update on Hantavirus - Illinois.gov",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0X9lPDGLWQFZtDGW42t2jaQZtClsg4co3TrK7QUhZgRhKR-gojJs2qstYAmJgpJV4pV1Efa4oKIA5T7wKubboe96eGSreCR7JvJO6sJ7LVoQbeQwokcXn9730uJe7Wqop8JulkTSf3_LanCd7ASZs1iwtBBpAIFnn5mkvNhl383zmby1ii50nV0t-KtKT2w==",
       "badge": "UPDATE"
@@ -314,27 +335,6 @@
       "display_date": "2026-05-18",
       "text": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxKmzUTxOklmQE3MgEncS2ThXq2bClcov6s0DPWXBbRNbd6lkB8WzJ64E__7DTZyH_JctRNv_siXFDYWUVCq0gQSgZUqXO4Gn8JrFus4xYGrcdBKaTd2bi0tnRDZYE7l-Tl8dfeyWnN89XHE-gDzczrJ8y2WEA1y5LdH_m2ei_r-b5lkp8bVUMtDOegjTcFJmbZso4Kn9ylIb7GsbwaT9ImUCm3kDg-YM=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-18",
-      "display_date": "2026-05-18",
-      "text": "Hantavirus risk is low, but hospitals should prepare",
-      "link": "https://www.advisory.com/daily-briefing/2026/05/18/hantavirus-outbreak",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-18",
-      "display_date": "2026-05-18",
-      "text": "Hantavirus-Hit Cruise Ship To Be Disinfected In Netherlands (Live Updates)",
-      "link": "https://www.forbes.com/sites/forbesstaff/2026/05/18/hantavirus-hit-cruise-ship-to-be-disinfected-in-netherlands-live-updates/",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-18",
-      "display_date": "2026-05-18",
-      "text": "Andes hantavirus outbreak in cruise ship, 18 May 2026",
-      "link": "https://www.ecdc.europa.eu/en/publications-data/andes-hantavirus-outbreak-cruise-ship-18-may-2026",
       "badge": "UPDATE"
     }
   ]
