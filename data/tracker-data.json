@@ -3,7 +3,7 @@
   "probable": 7,
   "deaths": 4,
   "monitoring": 352,
-  "last_updated": "2026-05-22T10:39:16.997411+00:00",
+  "last_updated": "2026-05-22T18:26:23.929095+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -319,6 +319,13 @@
     {
       "date": "2026-05-18",
       "display_date": "2026-05-18",
+      "text": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection | PBS News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA6QYM6e7i64X2Iioe2Cw39ZFpxSGoLF1pXUDGBuXltl2Y3tR8I8FAusqOO1ovOHWsw0x5hAYJpPxsFFJ-aRhuoxCaqal0TlDLCMnzjQplGV7h0OT488o7fP3r35ELFPZXYtS78NcEC-rEvOjVdgoMbVok_jR93N68ATAiwQ5d7BiFzLt7Pxr0u6z2fP7Xf4W0anak8kg51fKEHueiGVEQ-AKXYaNaB6g=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-18",
+      "display_date": "2026-05-18",
       "text": "2026 Hantavirus Outbreak: Testing for Potential Infection | HAN - CDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH27niNWV3kPMaovjx2pD4yV41GGxelTj0fRFuBmoasHlH7eshCAKcs02MmVUCr3jbPPtwYm2DhuoH4Hi1YyYOuHkB6iNMDpYaqtGHVew6Q4l3rLEFQNryctVgbzOcbLQv-CXl58A79-ksSMgw=",
       "badge": "UPDATE"
@@ -328,13 +335,6 @@
       "display_date": "2026-05-18",
       "text": "Canada confirms hantavirus case linked to cruise ship that killed 3 | Fox News",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGO4G5sRdU1dS7p_eo0ixE6YY3K91on_YRVJ9kTBWwK92MHGFBFs0HNwHltAq5fKEkXTWm8D8WwIjkuT3V2QX7-AenqcwWp3glSJ_-3DfTaM8U6xbeBzOtSGCY5822Mr8h2eaHEyov0El9MzfXhrm5EgkU9EKJvPO-IQJidbFWTmbOL6awu_eQK5HGVgipJx3qG6hHKTH5GJ7JjDVGJxFSEGKmWuPxGY_syekn",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-18",
-      "display_date": "2026-05-18",
-      "text": "IDPH Update on Hantavirus - Illinois.gov",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0X9lPDGLWQFZtDGW42t2jaQZtClsg4co3TrK7QUhZgRhKR-gojJs2qstYAmJgpJV4pV1Efa4oKIA5T7wKubboe96eGSreCR7JvJO6sJ7LVoQbeQwokcXn9730uJe7Wqop8JulkTSf3_LanCd7ASZs1iwtBBpAIFnn5mkvNhl383zmby1ii50nV0t-KtKT2w==",
       "badge": "UPDATE"
     }
   ]
