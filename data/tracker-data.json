@@ -1,9 +1,9 @@
 {
-  "confirmed": 44,
+  "confirmed": 47,
   "probable": 8,
   "deaths": 4,
   "monitoring": 352,
-  "last_updated": "2026-05-23T15:49:28.554631+00:00",
+  "last_updated": "2026-05-23T20:36:55.601706+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 7,
+      "confirmed": 8,
       "probable": 1,
       "deaths": 0,
       "monitoring": 10
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 15,
+      "confirmed": 16,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 15,
+      "confirmed": 16,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -232,7 +232,7 @@
     },
     {
       "date": "May 23",
-      "confirmed": 44,
+      "confirmed": 47,
       "probable": 8,
       "deaths": 4,
       "monitoring": 352
@@ -251,6 +251,13 @@
       "display_date": "2026-05-22",
       "text": "MV Hondius hantavirus outbreak - Wikipedia",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPIgK72qFFw9uLw2zdsYMO_ntilZG1czYEgUBzlgyfJiGvkPitZ9r0keTgXuTYfsU255YIXWFcQcclyPD0auGO_Plytc9A3r4GSPMTlGp_d_02OWgI8QaSvoAsigUEfgrcM1OvyqB3i8TRhj-iEhhb0050AiXXCw==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-21",
+      "display_date": "2026-05-21",
+      "text": "Questions about hantavirus? We've got answers. - Tacoma-Pierce County Health Department",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHglifxqua_tZup3uHCf_A2KeLlSvpuugF0A0M9f0iPeHdQX-Wubw9SOsKx3Yaz-IZc5JhpTqI9yuY_NNKmLIdjybipADVJGsMOS2ZOEKp8PZP6SBoYF1dd0lwF4XH0X4Vnpvk0Ya3oJ5w-7Kecf-UraZcZcSGg_SNKEminAQM=",
       "badge": "UPDATE"
     },
     {
@@ -335,13 +342,6 @@
       "display_date": "2026-05-19",
       "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1qMHFPoDD95QYcIdi_Hq2OHrJk_6EW7-DsLDwtFR7CafExK-vzxc8p67U8kCXwRWWKCtDhFpZmztlSZ3VcAjO4yBTxTGaqR_oUaLy6z3h3IihfljZAQq4UxbZccqpqu20s2bH8LJ5xPB3gTRYvkOIkvdcmQ29sstnrEG7gY42QS009Mn1H7pJm6lo84irnvqUa_Qy_jHZ3IihfljZAQq4UxbZccqpqu20s2bH8LJ5xPB3gTRYvkOIkvdcmQ29sstnrEG7gY42QS009Mn1H7pJm6lo84irnvqUa_Qy_jNVAqdMkqNDbGao=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-19",
-      "display_date": "2026-05-19",
-      "text": "Hantavirus-Hit Cruise Ship Will Sail Again In June (Latest Updates) - Forbes",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI37Dpr4Wr-b3xWfIOyflDksLM8kyfuhZBAosJnXWjDB-mVhy5mZm1cxNtBJigPBy5Lh16Qioox1UjpiIsqWmKvUCYFPXMpsT3extnLUXUXz5n_cTJ7_VWRysI_Y0YqS57-eRdpCWriMUx3AYda601pyTpLa2-ZTxdUvdea-zGHyps5EXeyG-G01wKsjqJsnHjFOfwxeZzy8VswuxmHQAcRKBEaLMmh0IcH1SmC9yXDRCe",
       "badge": "UPDATE"
     }
   ]
