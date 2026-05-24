@@ -1,9 +1,9 @@
 {
-  "confirmed": 47,
+  "confirmed": 51,
   "probable": 8,
   "deaths": 4,
-  "monitoring": 352,
-  "last_updated": "2026-05-23T20:36:55.601706+00:00",
+  "monitoring": 353,
+  "last_updated": "2026-05-24T09:11:39.621113+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 8,
+      "confirmed": 9,
       "probable": 1,
       "deaths": 0,
       "monitoring": 10
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 16,
+      "confirmed": 17,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 2,
+      "confirmed": 3,
       "probable": 0,
       "deaths": 2,
       "monitoring": 131
@@ -69,7 +69,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 1
     },
     "Singapore": {
       "confirmed": 0,
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 16,
+      "confirmed": 17,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -236,9 +236,23 @@
       "probable": 8,
       "deaths": 4,
       "monitoring": 352
+    },
+    {
+      "date": "May 24",
+      "confirmed": 51,
+      "probable": 8,
+      "deaths": 4,
+      "monitoring": 353
     }
   ],
   "news": [
+    {
+      "date": "2026-05-23",
+      "display_date": "2026-05-23",
+      "text": "New hantavirus infection confirmed in Hondius crew member isolated in Netherlands",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqpWR4BFAalVZhW4YklSmB9jUlcHzlAKZCwOd5OFOvW4arlusjZ-cO0Jl3b0wMqonCIhlNgd96Y0jwbJkwscWLppJjvIK1GuPZn7QGUY8Ej94tKw1cwaveWQte5qfTAw23k2zL4QNCDUZza54o_c_mdqaGN8tOig6ldjG9ixemN7wJocQCXjWU76CZEwXCk8yvJc3lWMk-4JJ4qU3IG-FGRYyRIA==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-23",
       "display_date": "2026-05-23",
@@ -251,6 +265,13 @@
       "display_date": "2026-05-22",
       "text": "MV Hondius hantavirus outbreak - Wikipedia",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPIgK72qFFw9uLw2zdsYMO_ntilZG1czYEgUBzlgyfJiGvkPitZ9r0keTgXuTYfsU255YIXWFcQcclyPD0auGO_Plytc9A3r4GSPMTlGp_d_02OWgI8QaSvoAsigUEfgrcM1OvyqB3i8TRhj-iEhhb0050AiXXCw==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-21",
+      "display_date": "2026-05-21",
+      "text": "Andes hantavirus outbreak in cruise ship, 21 May 2026 - ECDC - European Union",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw4FzqKAMnXgS6KLeHAoulI39IGwGk1TwMsKWHOyEKzaK_2XlvnCAtj4R0mnC0KkyD51vI0y7tOZKaJ426VrrLKcATI0EML5_L-QUOyx3i3atsfI0DnOUY236bzeLgUG9IzpTMPWV7KqkKJ-VRWIPAxDNQEkXuDFfujtzBClAQ5cJWU4WMn25u0cTZEKzz5GfMMta2uJcLd6I3l78JqrZBvH3IyA3xSqPY5uv4VvCym52Kd6iehaZ09io==",
       "badge": "UPDATE"
     },
     {
@@ -328,20 +349,6 @@
       "display_date": "2026-05-19",
       "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Vg9LD-aLfYe-Onei1h9ImVG_tZ7bwdJJ-1lVSoqNMAEOBoL3OLALLDsnCo-w2fuWDdxVmS6Q90mI-yeB_y8yo4kclwYO025WpbkRB-48U3hXiKQUA9WPhpswDrEFc9wJjRfaRiReiBY2Kxd75Uj-vs1WDsEu",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-19",
-      "display_date": "2026-05-19",
-      "text": "Hantavirus outbreak doesn't appear to have originated on Dutch cruise ship, CEO says",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG3uduTBdGYO6Xxh-BW04j68HesYN1OiQJSRD8q63YfS-wGBxWvdE35qNfTiWU0ZIzdHwBuibSVYPnMh4uRrMfrDEbkmKafBeu5xI1tT3Z7RDZDlRYsKGpdyAHjTajNU6Zr5OXsrr2iM_Bc_HkQlGY6ccCnEmbvNXwQcW90cERWRnh-cXBs-ZPC58EeE666YRiwjLrpDZDs1s",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-19",
-      "display_date": "2026-05-19",
-      "text": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1qMHFPoDD95QYcIdi_Hq2OHrJk_6EW7-DsLDwtFR7CafExK-vzxc8p67U8kCXwRWWKCtDhFpZmztlSZ3VcAjO4yBTxTGaqR_oUaLy6z3h3IihfljZAQq4UxbZccqpqu20s2bH8LJ5xPB3gTRYvkOIkvdcmQ29sstnrEG7gY42QS009Mn1H7pJm6lo84irnvqUa_Qy_jHZ3IihfljZAQq4UxbZccqpqu20s2bH8LJ5xPB3gTRYvkOIkvdcmQ29sstnrEG7gY42QS009Mn1H7pJm6lo84irnvqUa_Qy_jNVAqdMkqNDbGao=",
       "badge": "UPDATE"
     }
   ]
