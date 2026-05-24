@@ -1,9 +1,9 @@
 {
-  "confirmed": 51,
+  "confirmed": 52,
   "probable": 8,
   "deaths": 4,
   "monitoring": 353,
-  "last_updated": "2026-05-24T15:49:43.202052+00:00",
+  "last_updated": "2026-05-24T21:15:47.769198+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -78,7 +78,7 @@
       "monitoring": 0
     },
     "South Africa": {
-      "confirmed": 1,
+      "confirmed": 2,
       "probable": 0,
       "deaths": 1,
       "monitoring": 90
@@ -239,7 +239,7 @@
     },
     {
       "date": "May 24",
-      "confirmed": 51,
+      "confirmed": 52,
       "probable": 8,
       "deaths": 4,
       "monitoring": 353
@@ -312,6 +312,13 @@
     {
       "date": "2026-05-20",
       "display_date": "2026-05-20",
+      "text": "Questions and answers on the hantavirus outbreak in a cruise ship - ECDC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKwbn-dU7z9Po-IHPYto5bPJXySUtqytykQxBcLMze64iPafCqf7Ng7rprYEgBukpCMsi6QAMXSaTLVEH-I87d55LlIv5bKoB3UMoJakWGn_CTo9IdjFekLDL8fU88vt0bd1GZhX_8WsnsqSpd3Doe3KbmZeoDEseG9f0ja-0ut-IWVdIlWGx_5ExnFAkejXtRLGMHIdbfRuykg4053uzzkS5J-jobK7jAApAVmR05WAnd1yfNXHp5XCelrg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-20",
+      "display_date": "2026-05-20",
       "text": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEglUsGOPAIHwZGLgWibenhtApDsQ3Hr01B_GqXO6jPrtL8ItfEvOzwb6uv3jzvvdL8zuvylxY2eFV-Rh9cJ0jdh0rxsG0ssjBS1lo3owi2oa0g9U7hODbKzKuUuhh4RLhh26ynTI34eX6vZTEOl8leT9x1oC3Ofgn_CzKB1Do2RNGh6P3TZrNuT-QoXJfxCacdj7nE2y35OJ-diVnna1ro58NwvScSZqoVndcLxO1uXwsOV4NxXKQuJms4c3pL_dSEPiVErdWLLyeA==",
       "badge": "UPDATE"
@@ -342,13 +349,6 @@
       "display_date": "2026-05-20",
       "text": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 | CIDRAP",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET6FyAAWmvAqMa1J-BDNFBEGrQAWfiJLWu51mTJo4laokMYHu0Ia1ejv7IHtVSqKIIRzFSpwFcDD7CR4vDb-e4PID0ByEkuQhE_f8OTyqIjV6kpt-akDTw5M29KAr1MlwKfG9jbE8wXk3WmOTO_hgEsHQ9Q5UYIK8Qkgc8cXFnyew8w_WP2TcX86_laNnr2Sf75v-3ETYm5xwp3iCYhQ",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-20",
-      "display_date": "2026-05-20",
-      "text": "Andes hantavirus outbreak in cruise ship, 20 May 2026",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUhFT8q1C7RkAjgdEw0viTObIu2HSc5rHvu-Jr6PUEh2WsGdnXfV3uBgKZ61fv9baRZ6DSjUJRJ_rgICAwzSLLkXkqJrg32X-rR4xZ6W1Ul1HWZjuyQeSdAkLh4sNoAjmpGHGEOnL5gdpuX_braA3DPCTqhY3sdnKpMadZ-g9KgtEL2KSVzGjWK5p8zh2hI96Odq8fA5xZlbBLgDhaDxbUam9bt5GrKIQQ1dgQxXmOrkAlRQc9DbmXArg",
       "badge": "UPDATE"
     }
   ]
