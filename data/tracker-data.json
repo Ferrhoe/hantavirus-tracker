@@ -2,8 +2,8 @@
   "confirmed": 55,
   "probable": 8,
   "deaths": 4,
-  "monitoring": 353,
-  "last_updated": "2026-05-25T12:52:23.514589+00:00",
+  "monitoring": 246,
+  "last_updated": "2026-05-25T21:59:11.257752+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -21,7 +21,7 @@
       "confirmed": 10,
       "probable": 1,
       "deaths": 0,
-      "monitoring": 10
+      "monitoring": 35
     },
     "Denmark": {
       "confirmed": 0,
@@ -57,7 +57,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 2,
-      "monitoring": 131
+      "monitoring": 24
     },
     "New Zealand": {
       "confirmed": 0,
@@ -87,7 +87,7 @@
       "confirmed": 18,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 14
+      "monitoring": 12
     },
     "Sweden": {
       "confirmed": 0,
@@ -117,7 +117,7 @@
       "confirmed": 1,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 41
+      "monitoring": 18
     },
     "Tristan da Cunha": {
       "confirmed": 0,
@@ -249,10 +249,17 @@
       "confirmed": 55,
       "probable": 8,
       "deaths": 4,
-      "monitoring": 353
+      "monitoring": 246
     }
   ],
   "news": [
+    {
+      "date": "2026-05-25",
+      "display_date": "2026-05-25",
+      "text": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus - CBC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpJnTOfTjfwW8zMasysKRtB3L-uM6TUT_diOEKJNvO48fMVoM-zbrMGqVvKxYYtBsb1EjAR5xGjSoc_wgRWQN8ftRMVueV6Seustj1VsyegudaNksQdS9DVynqXs_fCpSuwozZxe9BkE4AUKciIM01GsBbYh-YnI02JLzR7coP_lbAAUweyWVJNzlMX_1CEItb-Wg_k5djNYjM1RE",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-23",
       "display_date": "2026-05-23",
@@ -349,13 +356,6 @@
       "display_date": "2026-05-20",
       "text": "Hantavirus-hit cruise operator says ship was not source of outbreak - National - Global News",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr5y81O6JCcbPUY0xg4rmbls7Mv9EiLtyn3QFUA0Z4wR9uZGp19kKEx_jOhopEA4sswPPYFbIz4Eq-5isaKgnja1xzS2B5haLG3-uSG98S8l6BCEaAaHFDpDtmArCEhSrkfe4XXQoflm1mgm8xZkderfSXZmos-6pg5jG3OfTCnO94AU-mniovzHkx__fUbpc1mAoio6dDV44ZAlPCJg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-20",
-      "display_date": "2026-05-20",
-      "text": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 | CIDRAP",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET6FyAAWmvAqMa1J-BDNFBEGrQAWfiJLWu51mTJo4laokMYHu0Ia1ejv7IHtVSqKIIRzFSpwFcDD7CR4vDb-e4PID0ByEkuQhE_f8OTyqIjV6kpt-akDTw5M29KAr1MlwKfG9jbE8wXk3WmOTO_hgEsHQ9Q5UYIK8Qkgc8cXFnyew8w_WP2TcX86_laNnr2Sf75v-3ETYm5xwp3iCYhQ",
       "badge": "UPDATE"
     }
   ]
