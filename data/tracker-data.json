@@ -1,9 +1,9 @@
 {
-  "confirmed": 55,
-  "probable": 8,
+  "confirmed": 56,
+  "probable": 9,
   "deaths": 4,
-  "monitoring": 246,
-  "last_updated": "2026-05-25T21:59:11.257752+00:00",
+  "monitoring": 272,
+  "last_updated": "2026-05-26T19:36:15.258759+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -21,7 +21,7 @@
       "confirmed": 10,
       "probable": 1,
       "deaths": 0,
-      "monitoring": 35
+      "monitoring": 36
     },
     "Denmark": {
       "confirmed": 0,
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 3,
+      "confirmed": 4,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -109,7 +109,7 @@
     },
     "United Kingdom": {
       "confirmed": 2,
-      "probable": 3,
+      "probable": 4,
       "deaths": 0,
       "monitoring": 22
     },
@@ -117,7 +117,7 @@
       "confirmed": 1,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 18
+      "monitoring": 43
     },
     "Tristan da Cunha": {
       "confirmed": 0,
@@ -250,9 +250,37 @@
       "probable": 8,
       "deaths": 4,
       "monitoring": 246
+    },
+    {
+      "date": "May 26",
+      "confirmed": 56,
+      "probable": 9,
+      "deaths": 4,
+      "monitoring": 272
     }
   ],
   "news": [
+    {
+      "date": "2026-05-26",
+      "display_date": "2026-05-26",
+      "text": "Passenger Tests Positive For Hantavirus Weeks After Leaving Infected Cruise Ship (Latest Updates) - Forbes",
+      "link": "https://www.forbes.com/sites/brucelee/2026/05/26/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-26",
+      "display_date": "2026-05-26",
+      "text": "Spanish government confirms new case of hantavirus linked to cruise ship - Global News",
+      "link": "https://globalnews.ca/news/10524456/spanish-government-confirms-new-case-of-hantavirus-linked-to-cruise-ship/",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-26",
+      "display_date": "2026-05-26",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://www.ecdc.europa.eu/en/newsroom/andes-hantavirus-outbreak-cruise-ship",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-25",
       "display_date": "2026-05-25",
@@ -326,36 +354,15 @@
     {
       "date": "2026-05-20",
       "display_date": "2026-05-20",
+      "text": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 | CIDRAP",
+      "link": "https://www.cidrap.umn.edu/news-perspective/2026/05/public-health-alerts-andes-hantavirus-cruise-ship-2026",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-20",
+      "display_date": "2026-05-20",
       "text": "Questions and answers on the hantavirus outbreak in a cruise ship - ECDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKwbn-dU7z9Po-IHPYto5bPJXySUtqytykQxBcLMze64iPafCqf7Ng7rprYEgBukpCMsi6QAMXSaTLVEH-I87d55LlIv5bKoB3UMoJakWGn_CTo9IdjFekLDL8fU88vt0bd1GZhX_8WsnsqSpd3Doe3KbmZeoDEseG9f0ja-0ut-IWVdIlWGx_5ExnFAkejXtRLGMHIdbfRuykg4053uzzkS5J-jobK7jAApAVmR05WAnd1yfNXHp5XCelrg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-20",
-      "display_date": "2026-05-20",
-      "text": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEglUsGOPAIHwZGLgWibenhtApDsQ3Hr01B_GqXO6jPrtL8ItfEvOzwb6uv3jzvvdL8zuvylxY2eFV-Rh9cJ0jdh0rxsG0ssjBS1lo3owi2oa0g9U7hODbKzKuUuhh4RLhh26ynTI34eX6vZTEOl8leT9x1oC3Ofgn_CzKB1Do2RNGh6P3TZrNuT-QoXJfxCacdj7nE2y35OJ-diVnna1ro58NwvScSZqoVndcLxO1uXwsOV4NxXKQuJms4c3pL_dSEPiVErdWLLyeA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-20",
-      "display_date": "2026-05-20",
-      "text": "Hantavirus-hit cruise operator says ship was not source of outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgblDDCOBSxAY3tRS7nyTZOcXTd3d85JzmSF6AQ52TIGvsE56mxjFv6FySlySyN5ggcltgmWkDtY8iADzanvs8FRw_U0Msvwlbyr4nySv_BBTomir3kgSnR65woX9BPSzjm6kV0F17s73FBVOlV5gJ3ceMjIiL4_0E4_hoX81GZVRcKEUWMJmx-2HORsm5KY30bfeZdtRUGVxMvmxcvg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-20",
-      "display_date": "2026-05-20",
-      "text": "Current information about hantavirus - RIVM",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiO_HaDd_X74T_qVrm6MJA88mGOZJFRMilpEUEmblYvXTeLsqzm5gfyIDaaeWmx3roskHUX0QnNIedEkRnBIpqI4ng3oRQmRUwI_fLs0SijIT6leStaVyjrdWpDnv51hjCYqk0p5tf0CRiCJUIMscC",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-20",
-      "display_date": "2026-05-20",
-      "text": "Hantavirus-hit cruise operator says ship was not source of outbreak - National - Global News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr5y81O6JCcbPUY0xg4rmbls7Mv9EiLtyn3QFUA0Z4wR9uZGp19kKEx_jOhopEA4sswPPYFbIz4Eq-5isaKgnja1xzS2B5haLG3-uSG98S8l6BCEaAaHFDpDtmArCEhSrkfe4XXQoflm1mgm8xZkderfSXZmos-6pg5jG3OfTCnO94AU-mniovzHkx__fUbpc1mAoio6dDV44ZAlPCJg==",
       "badge": "UPDATE"
     }
   ]
