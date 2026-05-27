@@ -3,7 +3,7 @@
   "probable": 9,
   "deaths": 4,
   "monitoring": 272,
-  "last_updated": "2026-05-26T19:36:15.258759+00:00",
+  "last_updated": "2026-05-27T12:39:26.352026+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -263,6 +263,13 @@
     {
       "date": "2026-05-26",
       "display_date": "2026-05-26",
+      "text": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxU3rG3t9PDo44HbS0G5nOqboYyZMklGTP5JRdsn4ueaKo858KlTM5xP5JxZ_YQuATiVxA40mNFsn5paGcPp6itrXhV7kZ_HWtSBk9EHvg1KHshh700cKH7RrmtMmo4wy2FbWUHGU7YX6fQhzNhNRlpm5fBme0zv_e702r0OFP-iuVvy64XixoA259FpSXmLvQ39dC9YuT0W5uBXJouKMF0INGDpkzyDruqYrUX0HAlrUYQyd9yDij70=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-26",
+      "display_date": "2026-05-26",
       "text": "Passenger Tests Positive For Hantavirus Weeks After Leaving Infected Cruise Ship (Latest Updates) - Forbes",
       "link": "https://www.forbes.com/sites/brucelee/2026/05/26/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/",
       "badge": "UPDATE"
@@ -356,13 +363,6 @@
       "display_date": "2026-05-20",
       "text": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 | CIDRAP",
       "link": "https://www.cidrap.umn.edu/news-perspective/2026/05/public-health-alerts-andes-hantavirus-cruise-ship-2026",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-20",
-      "display_date": "2026-05-20",
-      "text": "Questions and answers on the hantavirus outbreak in a cruise ship - ECDC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKwbn-dU7z9Po-IHPYto5bPJXySUtqytykQxBcLMze64iPafCqf7Ng7rprYEgBukpCMsi6QAMXSaTLVEH-I87d55LlIv5bKoB3UMoJakWGn_CTo9IdjFekLDL8fU88vt0bd1GZhX_8WsnsqSpd3Doe3KbmZeoDEseG9f0ja-0ut-IWVdIlWGx_5ExnFAkejXtRLGMHIdbfRuykg4053uzzkS5J-jobK7jAApAVmR05WAnd1yfNXHp5XCelrg==",
       "badge": "UPDATE"
     }
   ]
