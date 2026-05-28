@@ -1,9 +1,9 @@
 {
-  "confirmed": 60,
+  "confirmed": 65,
   "probable": 9,
   "deaths": 4,
   "monitoring": 274,
-  "last_updated": "2026-05-28T12:52:20.135228+00:00",
+  "last_updated": "2026-05-28T23:02:36.982430+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 11,
+      "confirmed": 12,
       "probable": 1,
       "deaths": 0,
       "monitoring": 36
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 19,
+      "confirmed": 20,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 4,
+      "confirmed": 5,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 19,
+      "confirmed": 21,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -260,13 +260,20 @@
     },
     {
       "date": "May 28",
-      "confirmed": 60,
+      "confirmed": 65,
       "probable": 9,
       "deaths": 4,
       "monitoring": 274
     }
   ],
   "news": [
+    {
+      "date": "2026-05-28",
+      "display_date": "2026-05-28",
+      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67KG7w20RWLkgXaW8evd576okBW8lN_WgPsgcDmifOXApbzaNlX2vgOtJa-261INpq3_lDgFQrD-mfDBtXN6jQDFQVn5QNYtFN6J3fpPRDQb68sXtWo7MR94HoqilxYNkTyx6lKK-OnfisVtpZhuWVB-rtF-gEos6uOxw6PXiGeY=",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-27",
       "display_date": "2026-05-27",
@@ -363,13 +370,6 @@
       "display_date": "2026-05-21",
       "text": "Questions about hantavirus? We've got answers. - Tacoma-Pierce County Health Department",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHglifxqua_tZup3uHCf_A2KeLlSvpuugF0A0M9f0iPeHdQX-Wubw9SOsKx3Yaz-IZc5JhpTqI9yuY_NNKmLIdjybipADVJGsMOS2ZOEKp8PZP6SBoYF1dd0lwF4XH0X4Vnpvk0Ya3oJ5w-7Kecf-UraZcZcSGg_SNKEminAQM=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-21",
-      "display_date": "2026-05-21",
-      "text": "Molecular evolutionary analysis of the current MV Hondius Andes virus outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF60wM3JIUBrbnLRu6gOqmEET7Ig3jttEN00wmy5U-68WgIRQDgp72GCMv1Ozfz77EyGIAOxJnjKHYcwFZor-LFRp3f1TXrKARP6HnDqsktXw4kLGMGWsS4WtYZRZQtFvE5UIgx0RF7bfPWpkyTkmCo8XQhf0n7yiDRS-GX0dL4yqxKvgXeVr6ETMncv89JBYKWsHLWPv9HtsatLlc9ATpB0tjpmXBivSU==",
       "badge": "UPDATE"
     }
   ]
