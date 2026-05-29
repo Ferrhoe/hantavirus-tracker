@@ -2,8 +2,8 @@
   "confirmed": 65,
   "probable": 9,
   "deaths": 4,
-  "monitoring": 274,
-  "last_updated": "2026-05-28T23:02:36.982430+00:00",
+  "monitoring": 303,
+  "last_updated": "2026-05-29T12:28:35.400025+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -136,6 +136,12 @@
       "probable": 0,
       "deaths": 0,
       "monitoring": 1
+    },
+    "Saint Helena": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 29
     }
   },
   "timeline": [
@@ -270,6 +276,13 @@
     {
       "date": "2026-05-28",
       "display_date": "2026-05-28",
+      "text": "Experimental Hantavirus Treatment Sent To EU Countries Where Patients Are Being Treated (Latest Updates)",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUlAkzvFUEFfszpHBUmuIO_HpR9s6QHJ4Mo_d7V2mZ3R7CRXmkLBVQhN21hE6sAfEOK9uqupMlYnPaxJnWH1YkL-EXaxErPEB5s4Aph6toiNFI0mPQK3oIYsC22MPGeKExbDScXSg-1Vrdhk7CwGrPIN7l_bKYRYpcj8rqvkJbQwftG8K4F5-QgaqIh-EUVpkkAbzbvwpHuxhQGz6AAc_2r5JQU7Pai0NwAOjPm9Z7cjmoeIOUFM4R5wOaOSABztnsMXNXsIJRLg1grI4fXwwwL1ReRpIAHQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-28",
+      "display_date": "2026-05-28",
       "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67KG7w20RWLkgXaW8evd576okBW8lN_WgPsgcDmifOXApbzaNlX2vgOtJa-261INpq3_lDgFQrD-mfDBtXN6jQDFQVn5QNYtFN6J3fpPRDQb68sXtWo7MR94HoqilxYNkTyx6lKK-OnfisVtpZhuWVB-rtF-gEos6uOxw6PXiGeY=",
       "badge": "UPDATE"
@@ -363,13 +376,6 @@
       "display_date": "2026-05-21",
       "text": "Andes hantavirus outbreak in cruise ship, 21 May 2026 - ECDC - European Union",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw4FzqKAMnXgS6KLeHAoulI39IGwGk1TwMsKWHOyEKzaK_2XlvnCAtj4R0mnC0KkyD51vI0y7tOZKaJ426VrrLKcATI0EML5_L-QUOyx3i3atsfI0DnOUY236bzeLgUG9IzpTMPWV7KqkKJ-VRWIPAxDNQEkXuDFfujtzBClAQ5cJWU4WMn25u0cTZEKzz5GfMMta2uJcLd6I3l78JqrZBvH3IyA3xSqPY5uv4VvCym52Kd6iehaZ09io==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-21",
-      "display_date": "2026-05-21",
-      "text": "Questions about hantavirus? We've got answers. - Tacoma-Pierce County Health Department",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHglifxqua_tZup3uHCf_A2KeLlSvpuugF0A0M9f0iPeHdQX-Wubw9SOsKx3Yaz-IZc5JhpTqI9yuY_NNKmLIdjybipADVJGsMOS2ZOEKp8PZP6SBoYF1dd0lwF4XH0X4Vnpvk0Ya3oJ5w-7Kecf-UraZcZcSGg_SNKEminAQM=",
       "badge": "UPDATE"
     }
   ]
