@@ -3,7 +3,7 @@
   "probable": 9,
   "deaths": 4,
   "monitoring": 303,
-  "last_updated": "2026-05-29T12:28:35.400025+00:00",
+  "last_updated": "2026-05-29T22:55:19.390395+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -274,6 +274,20 @@
   ],
   "news": [
     {
+      "date": "2026-05-29",
+      "display_date": "2026-05-29",
+      "text": "Hantavirus Patients Under Quarantine Could Go Home\u2014If They Agree To 24/7 Surveillance, Report Says (Latest Updates) - Forbes",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuO-1YUld0F47qYaGqKyCJJ1iB44Gq0Um800Wf8V14wlgrVOPiCbO05Yg-PsagC3Z8w8Id6kGqfWwm_XgJXSze5Z_K1-zIGJYe8h6cB1ivEsewjjvLLDHjvElYc9FaDIp41phCLZrN03pU45qO1uw-x-Gtcd44otm60OXzg7_Gt6QrX1zE7oxx9tB9P47bv94ig4IotNSLTPTY--EdtKdqxF56nS8josxaWiTPXQ-7hZ2yHL-QoZM5iOXBaxAYb8UP3CCTb2jloMB6y31VGf5Gg_i3nffVs7te8MHwlW_uJg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-29",
+      "display_date": "2026-05-29",
+      "text": "WHO DON Update: Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOJG8I9LH3oNG6jGP7GJBXeeREQybOB-iFfWChkME9fh59b_8Jz2XYE9g1hwAQi5v-CR7xpDJFdmi0Y0qerwDwtyeCEPoyRl66N0Bz2-R3mPuM9olxHGgRtfxhnzEWWK20W08AOmYHA6Ot8Wuglhm1Q1ZYSKcc45WNQUKkrhNuBZOdAOD6cpsk",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-05-28",
       "display_date": "2026-05-28",
       "text": "Experimental Hantavirus Treatment Sent To EU Countries Where Patients Are Being Treated (Latest Updates)",
@@ -285,6 +299,13 @@
       "display_date": "2026-05-28",
       "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67KG7w20RWLkgXaW8evd576okBW8lN_WgPsgcDmifOXApbzaNlX2vgOtJa-261INpq3_lDgFQrD-mfDBtXN6jQDFQVn5QNYtFN6J3fpPRDQb68sXtWo7MR94HoqilxYNkTyx6lKK-OnfisVtpZhuWVB-rtF-gEos6uOxw6PXiGeY=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-27",
+      "display_date": "2026-05-27",
+      "text": "Cruise Ship Hantavirus Outbreak Grows to 13 Confirmed Cases | The Transmission",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRrnGp2347-zttQUMqD5qQWWWcsNW9B7PbkcuCdqLQAWHEQ0ss-z9utOMoCidqHtk4ReMxb-1eo0q-RMgi4MFDoL-4hp0OzGmu5piyoXQQQDlQqZLAMid1IbOXCvWQ9vOcvG2HRWtDi1cWNw3t19cjMTTynJcKSl8FW-4Loz_1BpNbbTSSl-UXdumAp440c0D3VVp3QnjO9zsk96rineDlNOLB5Gm8JLB-GWECLCKSFb",
       "badge": "UPDATE"
     },
     {
@@ -355,27 +376,6 @@
       "display_date": "2026-05-23",
       "text": "Potential geographical and ecological origin of the MV Hondius Andes virus outbreak",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGssq_HafoBRI0srqXcaSP8P7kMLlFa7XiMC7kQl4yageDyWq0Q6D6LU7o7zekaabqd7WsGkjMAtQKTTx-5lCdOUPT7r8SLm6ILSHNmDtbvA7MiCPYBmc4__mYIRok1JWwSUoCeuzv2r_-iYUe5S0u4sX4sTsv0dTtTcFC13PSn0R6Y1WInU7gfQeblwl7KNDGRuuGGp2Igc09BVqAGtDCZG4FDnW6Z75S4w5Lqw==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-22",
-      "display_date": "2026-05-22",
-      "text": "Andes hantavirus outbreak in cruise ship, 24 May 2026 - ECDC - European Union",
-      "link": "https://www.ecdc.europa.eu/en/news-events/andes-hantavirus-outbreak-cruise-ship-24-may-2026",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-22",
-      "display_date": "2026-05-22",
-      "text": "MV Hondius hantavirus outbreak - Wikipedia",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPIgK72qFFw9uLw2zdsYMO_ntilZG1czYEgUBzlgyfJiGvkPitZ9r0keTgXuTYfsU255YIXWFcQcclyPD0auGO_Plytc9A3r4GSPMTlGp_d_02OWgI8QaSvoAsigUEfgrcM1OvyqB3i8TRhj-iEhhb0050AiXXCw==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-21",
-      "display_date": "2026-05-21",
-      "text": "Andes hantavirus outbreak in cruise ship, 21 May 2026 - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw4FzqKAMnXgS6KLeHAoulI39IGwGk1TwMsKWHOyEKzaK_2XlvnCAtj4R0mnC0KkyD51vI0y7tOZKaJ426VrrLKcATI0EML5_L-QUOyx3i3atsfI0DnOUY236bzeLgUG9IzpTMPWV7KqkKJ-VRWIPAxDNQEkXuDFfujtzBClAQ5cJWU4WMn25u0cTZEKzz5GfMMta2uJcLd6I3l78JqrZBvH3IyA3xSqPY5uv4VvCym52Kd6iehaZ09io==",
       "badge": "UPDATE"
     }
   ]
