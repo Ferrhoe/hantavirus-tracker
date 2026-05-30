@@ -1,9 +1,9 @@
 {
-  "confirmed": 65,
+  "confirmed": 66,
   "probable": 9,
   "deaths": 4,
   "monitoring": 303,
-  "last_updated": "2026-05-29T22:55:19.390395+00:00",
+  "last_updated": "2026-05-30T09:05:18.468680+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 5,
+      "confirmed": 6,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -270,9 +270,23 @@
       "probable": 9,
       "deaths": 4,
       "monitoring": 274
+    },
+    {
+      "date": "May 30",
+      "confirmed": 66,
+      "probable": 9,
+      "deaths": 4,
+      "monitoring": 303
     }
   ],
   "news": [
+    {
+      "date": "2026-05-29",
+      "display_date": "2026-05-29",
+      "text": "What's going around? Hantavirus outbreak update: what Virginians need to know this week",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-GLcaUCuSXzwSzzW4T_DFVgfdgm197MXczEfqyZttAcw9M0w00LFAZUsfooIBogmAZnox5L-KcsHfstnHKwnDQiTrxywLAjyC1PXz8duK62Y80MU4Vntzi6S1hSie0UMyqG-BdYK2zGH9p-bk5cdx80mA6k1vLEMfzajEodPOer4dMLbtSyZK9CKHAZistv1wpBMYaNEX8-kX-vHDwbzOSrnN7GWJj_oaTPR6n7-VXMVopVYai0o7-NKBWA==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-29",
       "display_date": "2026-05-29",
@@ -369,13 +383,6 @@
       "display_date": "2026-05-23",
       "text": "New hantavirus infection confirmed in Hondius crew member isolated in Netherlands",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqpWR4BFAalVZhW4YklSmB9jUlcHzlAKZCwOd5OFOvW4arlusjZ-cO0Jl3b0wMqonCIhlNgd96Y0jwbJkwscWLppJjvIK1GuPZn7QGUY8Ej94tKw1cwaveWQte5qfTAw23k2zL4QNCDUZza54o_c_mdqaGN8tOig6ldjG9ixemN7wJocQCXjWU76CZEwXCk8yvJc3lWMk-4JJ4qU3IG-FGRYyRIA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-23",
-      "display_date": "2026-05-23",
-      "text": "Potential geographical and ecological origin of the MV Hondius Andes virus outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGssq_HafoBRI0srqXcaSP8P7kMLlFa7XiMC7kQl4yageDyWq0Q6D6LU7o7zekaabqd7WsGkjMAtQKTTx-5lCdOUPT7r8SLm6ILSHNmDtbvA7MiCPYBmc4__mYIRok1JWwSUoCeuzv2r_-iYUe5S0u4sX4sTsv0dTtTcFC13PSn0R6Y1WInU7gfQeblwl7KNDGRuuGGp2Igc09BVqAGtDCZG4FDnW6Z75S4w5Lqw==",
       "badge": "UPDATE"
     }
   ]
