@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 309,
-  "last_updated": "2026-05-31T15:58:16.493620+00:00",
+  "last_updated": "2026-05-31T21:38:42.272383+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -304,6 +304,13 @@
     {
       "date": "2026-05-29",
       "display_date": "2026-05-29",
+      "text": "2 New Yorkers being monitored for hantavirus will finish quarantine in their homes",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_KWzITGyqsmlHvepGFyKGCpp_l18hjYz93nwqHbjbdiZ_hae5IzXWyBqAC_4kSl7M-_1p9--kZJ3DSWZMbCw30nnPasgukBJyX6t6ya8KpsH_eOUL7QJsUMOFrs-8LpOgTskfFqksu0MB0qL_VSFRt5FeCFIn0q6CBKBkwhhefTOd",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-29",
+      "display_date": "2026-05-29",
       "text": "What's going around? Hantavirus outbreak update: what Virginians need to know this week",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-GLcaUCuSXzwSzzW4T_DFVgfdgm197MXczEfqyZttAcw9M0w00LFAZUsfooIBogmAZnox5L-KcsHfstnHKwnDQiTrxywLAjyC1PXz8duK62Y80MU4Vntzi6S1hSie0UMyqG-BdYK2zGH9p-bk5cdx80mA6k1vLEMfzajEodPOer4dMLbtSyZK9CKHAZistv1wpBMYaNEX8-kX-vHDwbzOSrnN7GWJj_oaTPR6n7-VXMVopVYai0o7-NKBWA==",
       "badge": "UPDATE"
@@ -339,6 +346,13 @@
     {
       "date": "2026-05-27",
       "display_date": "2026-05-27",
+      "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdmuF9BpAD7CwwyqJPFZFieVMrQqfiqZpE3xbflpvZCtywg5W8Y7SzUrle6U_-qg0AN8p7zsn8BlV4lNPCi2Lzefwlv8BFeuK-3fqgtwutZLiH-o-_a1HdLaESIWoL01UKz-YXxzkA4_V4cKXcLFb-VMwsqAMA8i76Fjte6apOBXaUYWGt9WVtM_hhGv_znaqNUPgWOA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-27",
+      "display_date": "2026-05-27",
       "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUleR3lG2_8ku3zJrX9FHBof6-vGVlAgL_FAGk7pI3Wv1LQiFUH3WZYe3LDFv72zRWEHXFU5ArtgDWnGHrA0ifKwecjUkNVf9Pfdf29pbSCjUVMbONOtxBPAq6PxUuYjRoxlrh7hYlPzXoY7nxmxVw8rTRyTnBajKf8i_VtYUMXre48d7bQhBZMls57vLxH-CFL6FBxJc=",
       "badge": "UPDATE"
@@ -367,29 +381,15 @@
     {
       "date": "2026-05-26",
       "display_date": "2026-05-26",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJZWiQxS3sILCeeVkC-80VvbEmu0e1k3-RNl1CPaKB0Xt8pd_bIaNDTVDqxpAsKl90W-Ci1av9Rxp0tHq7BHLfOGK3XtB4V3jSDAvFY1pt-rwlvgMULqi7BpU-0vwKbTJAQHQB2zNJykkYdGzdnhugFqLJRs4PXPmt_1v96uGYwsQ6bAR8UGVE0IvEYuijU6T9h0VJHAjKttn5PFJODCvto3f6qh0V0Cr-D--XmpfgxdaDPDG4cNzRjI=",
+      "text": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA7FJHnDtqwiu0isbuljCzt5YvEorUzRMG8CLe2FquSm_qmBHDOGWHv621i1f1aG44HcH1YAeIWYqsyCeMKFRs24nfKkqrH_Fa0o5OvmA5Grk3FbYRSRe8m3hmTFTkSzAEEJ4UqpMYeFkCYQW48lRhMZizc8vuNU-i3DnzepGmNQn4iOG1DJbVDguDWQte9QSJTEU3xIz5ax9PQa0WAKDZrQPybA==",
       "badge": "UPDATE"
     },
     {
       "date": "2026-05-26",
       "display_date": "2026-05-26",
-      "text": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness - Florida Hospital News and Healthcare Report",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9LYc5skFFriUi0313EPWIsr070S7biH5UH6-cX_z6Mx_-K6npiTwrmePlUzm2owrum4EsQLHq2a79euJumxbBE0wP9O41rz765ogOftQdfCOyExtBgVOcFAttwO_hpHjYRVML_HBS9P_VH16jOjQh500MpGQogM23kURjyiM3KkhFvfGcNFpPQxMvmabUVl-k55wBG4oDGqKRHFQVsr9LT8f8Y3M=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-26",
-      "display_date": "2026-05-26",
-      "text": "The MV Hondius: A Case for Real-Time Epidemiological Surveillance",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlnLXSbeljJGSSncPP8H2EEXcdXF9uDzXu7Cm-EFtPyy0NJ0K7tdwYHCJPaC5byuHF9xaQn4PtZl6AYbRsziVgk5Wh4r881ceIQFjlo3jVI27b058nExqouOG3-GhvS9sTpDDe-Trz42Prix4nxyJW0d8VJ1uyen6hz4RyTqpzdHnNiQMDYmGeAZQR4Pl3xs0Yb596lzcp7Z_p6CY=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-26",
-      "display_date": "2026-05-26",
-      "text": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxU3rG3t9PDo44HbS0G5nOqboYyZMklGTP5JRdsn4ueaKo858KlTM5xP5JxZ_YQuATiVxA40mNFsn5paGcPp6itrXhV7kZ_HWtSBk9EHvg1KHshh700cKH7RrmtMmo4wy2FbWUHGU7YX6fQhzNhNRlpm5fBme0zv_e702r0OFP-iuVvy64XixoA259FpSXmLvQ39dC9YuT0W5uBXJouKMF0INGDpkzyDruqYrUX0HAlrUYQyd9yDij70=",
+      "text": "Andes hantavirus outbreak in cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYp6Z6lgRpxeiSKdqtp-ixor58pNeb-qoOTVN48FlKXNF8IeYm16WL6hSYJLfAieYmTuOlZAWvETKREMolEwOVPk622cQJqMuyD9KyMAyj0kzf5ZgWFDEO2rfxfErTUCCyEv_0XqYIgvxQ0Q86Ro7WXqkDgboa393Wrw2CSNrmTS4jCi0oMznjQf-TywsT76_OdQccudiRWSfDnSGOC41YoVxg6qVBc8VAX_pKakUbU1grFDSAtvLFYQ==",
       "badge": "UPDATE"
     }
   ]
