@@ -1,9 +1,9 @@
 {
-  "confirmed": 77,
+  "confirmed": 80,
   "probable": 10,
   "deaths": 4,
   "monitoring": 309,
-  "last_updated": "2026-05-31T10:00:37.227340+00:00",
+  "last_updated": "2026-05-31T15:58:16.493620+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 15,
+      "confirmed": 16,
       "probable": 1,
       "deaths": 0,
       "monitoring": 36
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 9,
+      "confirmed": 10,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 24,
+      "confirmed": 25,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -280,7 +280,7 @@
     },
     {
       "date": "May 31",
-      "confirmed": 77,
+      "confirmed": 80,
       "probable": 10,
       "deaths": 4,
       "monitoring": 309
@@ -339,6 +339,13 @@
     {
       "date": "2026-05-27",
       "display_date": "2026-05-27",
+      "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUleR3lG2_8ku3zJrX9FHBof6-vGVlAgL_FAGk7pI3Wv1LQiFUH3WZYe3LDFv72zRWEHXFU5ArtgDWnGHrA0ifKwecjUkNVf9Pfdf29pbSCjUVMbONOtxBPAq6PxUuYjRoxlrh7hYlPzXoY7nxmxVw8rTRyTnBajKf8i_VtYUMXre48d7bQhBZMls57vLxH-CFL6FBxJc=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-27",
+      "display_date": "2026-05-27",
       "text": "Cruise Ship Undergoes Additional Cleaning Following Deadly Hantavirus Outbreak",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJrmIDgIRnBVzHyiEgSWmiyOaaTR-25fiYf0dEHUETNzzjnSD0UfWooXKQ3H0Ghfx8pN_RlN_8tIXlqmc9z44RM2b8oywe4DBoqgZy83y93o6n2QjaG9snC2tccGzLYtRwK-n8OGpGuamh5YR9R7hW-nz10hx_sVEO3GJNwmNw-433mCUd7jBrjZIdCTGZcHA75BZOtlBmHpj13nJwEgq3BPPPYL-R-IIGj4KTeEhuNZsTCYa_LxQ5Y4oTjeywxA-m7Re70=",
       "badge": "UPDATE"
@@ -360,6 +367,13 @@
     {
       "date": "2026-05-26",
       "display_date": "2026-05-26",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJZWiQxS3sILCeeVkC-80VvbEmu0e1k3-RNl1CPaKB0Xt8pd_bIaNDTVDqxpAsKl90W-Ci1av9Rxp0tHq7BHLfOGK3XtB4V3jSDAvFY1pt-rwlvgMULqi7BpU-0vwKbTJAQHQB2zNJykkYdGzdnhugFqLJRs4PXPmt_1v96uGYwsQ6bAR8UGVE0IvEYuijU6T9h0VJHAjKttn5PFJODCvto3f6qh0V0Cr-D--XmpfgxdaDPDG4cNzRjI=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-26",
+      "display_date": "2026-05-26",
       "text": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness - Florida Hospital News and Healthcare Report",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9LYc5skFFriUi0313EPWIsr070S7biH5UH6-cX_z6Mx_-K6npiTwrmePlUzm2owrum4EsQLHq2a79euJumxbBE0wP9O41rz765ogOftQdfCOyExtBgVOcFAttwO_hpHjYRVML_HBS9P_VH16jOjQh500MpGQogM23kURjyiM3KkhFvfGcNFpPQxMvmabUVl-k55wBG4oDGqKRHFQVsr9LT8f8Y3M=",
       "badge": "UPDATE"
@@ -376,20 +390,6 @@
       "display_date": "2026-05-26",
       "text": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxU3rG3t9PDo44HbS0G5nOqboYyZMklGTP5JRdsn4ueaKo858KlTM5xP5JxZ_YQuATiVxA40mNFsn5paGcPp6itrXhV7kZ_HWtSBk9EHvg1KHshh700cKH7RrmtMmo4wy2FbWUHGU7YX6fQhzNhNRlpm5fBme0zv_e702r0OFP-iuVvy64XixoA259FpSXmLvQ39dC9YuT0W5uBXJouKMF0INGDpkzyDruqYrUX0HAlrUYQyd9yDij70=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-26",
-      "display_date": "2026-05-26",
-      "text": "Passenger Tests Positive For Hantavirus Weeks After Leaving Infected Cruise Ship (Latest Updates) - Forbes",
-      "link": "https://www.forbes.com/sites/brucelee/2026/05/26/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-26",
-      "display_date": "2026-05-26",
-      "text": "Spanish government confirms new case of hantavirus linked to cruise ship - Global News",
-      "link": "https://globalnews.ca/news/10524456/spanish-government-confirms-new-case-of-hantavirus-linked-to-cruise-ship/",
       "badge": "UPDATE"
     }
   ]
