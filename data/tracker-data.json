@@ -1,9 +1,9 @@
 {
-  "confirmed": 73,
-  "probable": 9,
+  "confirmed": 77,
+  "probable": 10,
   "deaths": 4,
-  "monitoring": 303,
-  "last_updated": "2026-05-30T21:39:03.471428+00:00",
+  "monitoring": 309,
+  "last_updated": "2026-05-31T10:00:37.227340+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 14,
+      "confirmed": 15,
       "probable": 1,
       "deaths": 0,
       "monitoring": 36
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 21,
+      "confirmed": 22,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 8,
+      "confirmed": 9,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -75,7 +75,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 2
     },
     "South Africa": {
       "confirmed": 2,
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 23,
+      "confirmed": 24,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -109,7 +109,7 @@
     },
     "United Kingdom": {
       "confirmed": 2,
-      "probable": 4,
+      "probable": 5,
       "deaths": 0,
       "monitoring": 22
     },
@@ -123,7 +123,7 @@
       "confirmed": 0,
       "probable": 1,
       "deaths": 0,
-      "monitoring": 5
+      "monitoring": 9
     },
     "Pitcairn Islands": {
       "confirmed": 0,
@@ -277,9 +277,30 @@
       "probable": 9,
       "deaths": 4,
       "monitoring": 303
+    },
+    {
+      "date": "May 31",
+      "confirmed": 77,
+      "probable": 10,
+      "deaths": 4,
+      "monitoring": 309
     }
   ],
   "news": [
+    {
+      "date": "2026-05-31",
+      "display_date": "2026-05-31",
+      "text": "MV Hondius cruise ship given all-clear to sail after deadly hantavirus outbreak - Manchester Evening News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHyXM5M5Q8m9zXUJ1WKyG-kv-focqFvUhVfmGed6jLiQ4fDvcsDp8FBW725cLA2kxY7u2_Ph6l1ib577Oz5ZaBayoaIeF-U8xoRbTUwx1aCzDt84d0JgfiEYQXW5Ic2SkWk6rcX0pjUDiQbz3FwwdfhbOMTqX2Fpaw2baXOA7T7D_OSuujaK_G0lU1lCkf5zYZjWEkmHI5sw=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-31",
+      "display_date": "2026-05-31",
+      "text": "MV Hondius fully disinfected after deadly hantavirus outbreak; Cleared for voyages",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86rEQIN9Y3hN9UefIzDJQt50heO6oi9-xjdY5g3eNnxYJ1jNF-9AJXlFm0cgdU86gfvsa86cmeC2HkCo7AWK9Bc01vZ09F5uhqyy4g82YA0avwN11MvarEb5ZTsHKWNCHZaGKMDmntU165ZMZn9bnm_V9LnIhqoj6Is3HD-V0q2yykerPTJRyKXsro9WpDESlMsLndjVMD05__6l2MzHa",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-05-29",
       "display_date": "2026-05-29",
@@ -369,20 +390,6 @@
       "display_date": "2026-05-26",
       "text": "Spanish government confirms new case of hantavirus linked to cruise ship - Global News",
       "link": "https://globalnews.ca/news/10524456/spanish-government-confirms-new-case-of-hantavirus-linked-to-cruise-ship/",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-26",
-      "display_date": "2026-05-26",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://www.ecdc.europa.eu/en/newsroom/andes-hantavirus-outbreak-cruise-ship",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-25",
-      "display_date": "2026-05-25",
-      "text": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus - CBC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpJnTOfTjfwW8zMasysKRtB3L-uM6TUT_diOEKJNvO48fMVoM-zbrMGqVvKxYYtBsb1EjAR5xGjSoc_wgRWQN8ftRMVueV6Seustj1VsyegudaNksQdS9DVynqXs_fCpSuwozZxe9BkE4AUKciIM01GsBbYh-YnI02JLzR7coP_lbAAUweyWVJNzlMX_1CEItb-Wg_k5djNYjM1RE",
       "badge": "UPDATE"
     }
   ]
