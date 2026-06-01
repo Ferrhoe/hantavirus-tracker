@@ -1,9 +1,9 @@
 {
-  "confirmed": 80,
+  "confirmed": 84,
   "probable": 10,
   "deaths": 4,
-  "monitoring": 309,
-  "last_updated": "2026-05-31T21:38:42.272383+00:00",
+  "monitoring": 284,
+  "last_updated": "2026-06-01T19:31:00.561421+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 16,
+      "confirmed": 17,
       "probable": 1,
       "deaths": 0,
       "monitoring": 36
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 22,
+      "confirmed": 23,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 10,
+      "confirmed": 11,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 25,
+      "confirmed": 26,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -117,7 +117,7 @@
       "confirmed": 2,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 43
+      "monitoring": 18
     },
     "Tristan da Cunha": {
       "confirmed": 0,
@@ -284,6 +284,13 @@
       "probable": 10,
       "deaths": 4,
       "monitoring": 309
+    },
+    {
+      "date": "Jun 1",
+      "confirmed": 84,
+      "probable": 10,
+      "deaths": 4,
+      "monitoring": 284
     }
   ],
   "news": [
@@ -381,15 +388,15 @@
     {
       "date": "2026-05-26",
       "display_date": "2026-05-26",
-      "text": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA7FJHnDtqwiu0isbuljCzt5YvEorUzRMG8CLe2FquSm_qmBHDOGWHv621i1f1aG44HcH1YAeIWYqsyCeMKFRs24nfKkqrH_Fa0o5OvmA5Grk3FbYRSRe8m3hmTFTkSzAEEJ4UqpMYeFkCYQW48lRhMZizc8vuNU-i3DnzepGmNQn4iOG1DJbVDguDWQte9QSJTEU3xIz5ax9PQa0WAKDZrQPybA==",
+      "text": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness - Florida Hospital News and Healthcare Report",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKfy_DL6d8R8272gySptnuGbGnbtHpvp-5C55eIB4xLaFJtt0Pg5SFEwA4lfMcsjXQnwVmIlR1EpLZ7vg87Cpltj2C8U0fWWhmI0KiueMfr2G15_hLHEiRFMNszVzAvXm0xBOPV2tw0PTVSvqQouZi9A0doBnCltvBkNC3UFpPGv4W7NLezBHh5d5T5Bx1K0I-cUu3FNl_6T7VboYKDYE-GTqfzwM=",
       "badge": "UPDATE"
     },
     {
       "date": "2026-05-26",
       "display_date": "2026-05-26",
-      "text": "Andes hantavirus outbreak in cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYp6Z6lgRpxeiSKdqtp-ixor58pNeb-qoOTVN48FlKXNF8IeYm16WL6hSYJLfAieYmTuOlZAWvETKREMolEwOVPk622cQJqMuyD9KyMAyj0kzf5ZgWFDEO2rfxfErTUCCyEv_0XqYIgvxQ0Q86Ro7WXqkDgboa393Wrw2CSNrmTS4jCi0oMznjQf-TywsT76_OdQccudiRWSfDnSGOC41YoVxg6qVBc8VAX_pKakUbU1grFDSAtvLFYQ==",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH44kG7D_AB5gDpLSIbWEBq5nKoobs0SNet1SIVWkVV3dRFY6c6_GqnJFQXOwhqwIRrgxmjZaWBv_fuHynKAtcKAQceDNgPFU8OettlsBMt1jnox8MfeZkF_cPRTPa_GPi1zHGFfCijWvkHQYpZmCAZXE1CZhGA34aDbpwjT9QGyLC9TAh_tvd60yxIvlo9pLW_77x6YF8MD7tyB2Pq4TgxY2-F2Pm1iRs7Yuv2Gek9Nku2cd70WX9e7ck=",
       "badge": "UPDATE"
     }
   ]
