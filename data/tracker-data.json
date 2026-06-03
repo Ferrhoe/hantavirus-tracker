@@ -2,8 +2,8 @@
   "confirmed": 84,
   "probable": 10,
   "deaths": 4,
-  "monitoring": 284,
-  "last_updated": "2026-06-02T13:02:53.906462+00:00",
+  "monitoring": 307,
+  "last_updated": "2026-06-03T00:15:59.549650+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -117,7 +117,7 @@
       "confirmed": 2,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 18
+      "monitoring": 41
     },
     "Tristan da Cunha": {
       "confirmed": 0,
@@ -295,6 +295,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-02",
+      "display_date": "2026-06-02",
+      "text": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again | Hartford Daily Voice",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdy6rjF7y4MCq8mun3weLiOeMNlLxL4Qy65DChH_iqajVvPO0UXsgpw52aV10HIkzi4SarWLyYbts2MavZBEHC9Ph4mvVLvtTOYRS8-sHhke0fND2PPTZiIFpndL2BXlDRgpdu2rGWTrZZMGFV7emObrvsWaetkNQfBtZGI2HmHmz8ZCdmmfk1GFysf5sGP0EXh2K4C3WUAs4k5MfZ8aCT",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-05-31",
       "display_date": "2026-05-31",
       "text": "MV Hondius cruise ship given all-clear to sail after deadly hantavirus outbreak - Manchester Evening News",
@@ -390,13 +397,6 @@
       "display_date": "2026-05-26",
       "text": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness - Florida Hospital News and Healthcare Report",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKfy_DL6d8R8272gySptnuGbGnbtHpvp-5C55eIB4xLaFJtt0Pg5SFEwA4lfMcsjXQnwVmIlR1EpLZ7vg87Cpltj2C8U0fWWhmI0KiueMfr2G15_hLHEiRFMNszVzAvXm0xBOPV2tw0PTVSvqQouZi9A0doBnCltvBkNC3UFpPGv4W7NLezBHh5d5T5Bx1K0I-cUu3FNl_6T7VboYKDYE-GTqfzwM=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-26",
-      "display_date": "2026-05-26",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH44kG7D_AB5gDpLSIbWEBq5nKoobs0SNet1SIVWkVV3dRFY6c6_GqnJFQXOwhqwIRrgxmjZaWBv_fuHynKAtcKAQceDNgPFU8OettlsBMt1jnox8MfeZkF_cPRTPa_GPi1zHGFfCijWvkHQYpZmCAZXE1CZhGA34aDbpwjT9QGyLC9TAh_tvd60yxIvlo9pLW_77x6YF8MD7tyB2Pq4TgxY2-F2Pm1iRs7Yuv2Gek9Nku2cd70WX9e7ck=",
       "badge": "UPDATE"
     }
   ]
