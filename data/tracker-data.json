@@ -1,9 +1,9 @@
 {
-  "confirmed": 88,
+  "confirmed": 92,
   "probable": 10,
   "deaths": 4,
   "monitoring": 307,
-  "last_updated": "2026-06-04T11:37:43.224820+00:00",
+  "last_updated": "2026-06-04T19:49:49.949861+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 18,
+      "confirmed": 19,
       "probable": 1,
       "deaths": 0,
       "monitoring": 36
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 24,
+      "confirmed": 25,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 12,
+      "confirmed": 13,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 27,
+      "confirmed": 28,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -298,6 +298,13 @@
       "probable": 10,
       "deaths": 4,
       "monitoring": 307
+    },
+    {
+      "date": "Jun 4",
+      "confirmed": 92,
+      "probable": 10,
+      "deaths": 4,
+      "monitoring": 307
     }
   ],
   "news": [
@@ -320,6 +327,13 @@
       "display_date": "2026-05-31",
       "text": "MV Hondius fully disinfected after deadly hantavirus outbreak; Cleared for voyages",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86rEQIN9Y3hN9UefIzDJQt50heO6oi9-xjdY5g3eNnxYJ1jNF-9AJXlFm0cgdU86gfvsa86cmeC2HkCo7AWK9Bc01vZ09F5uhqyy4g82YA0avwN11MvarEb5ZTsHKWNCHZaGKMDmntU165ZMZn9bnm_V9LnIhqoj6Is3HD-V0q2yykerPTJRyKXsro9WpDESlMsLndjVMD05__6l2MzHa",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-29",
+      "display_date": "2026-05-29",
+      "text": "Hantavirus Patients Under Quarantine Could Go Home\u2014If They Agree To 24/7 Surveillance, Report Says (Latest Updates)",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKfhJhkhOwXtc7HZwRfSJWwcKprOxhA2SedpEJJCYt7cMxyEnUIVSRE3NRwLtRopJ3pJALHI_hSyjsVGw7KXNPLgjNJny6ySSDAp8Ic9WwDaR2St_ipBjvC-Q1BJY6v1N2SB_g_nz3BKIAhvv6_tByfwwj3X2qxNFQySR5Di6UCYn8F44S-5qNakiNAKyn-Yd4-ow4UaJcItBPDi6aGR2wOhO9K6GexQp9fiG7s5lZBq_cqkViSmwTz2piZkFp01s5B-O1p-HPZ3LmLG-zxy5cHQD_XfeJLt-od7DStBZdRI=",
       "badge": "UPDATE"
     },
     {
@@ -397,13 +411,6 @@
       "display_date": "2026-05-27",
       "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases | CIDRAP",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMBqh41v9uV7VAZSKDhJ_xWc7hnqe2D6rVbrNIg26eEwCxP2yM2i_5_VRthhh_-ItXa-qtu_7R2wDFHFzC9S1hdSV_vXf4MghQY54W-WIlp-gNQsfJMtn4t5pQ9NOxKqWMHonbeLaHrHvG6AaDm8aL-acxXeF_Z-gvCyT6aSAgGDEC3BK68gkImthmDPNcXrfJ6PwyRsPh-j0Taf7X6e7g",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-26",
-      "display_date": "2026-05-26",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ6KL01rOjwRraRCVGaRGjzYTmigwlKqkE298UhorRij5PaY5UylUFtjOA_955dlr7Mfcppmmuhia0LM_mWUpNadsnK6J6OwNWZJHtrufy4arUHKgrqUWKEWbhQUEtokzHvCVGkHX-DhofKND2ezaNKxvn24lyT1XcPY7ygAzUwrsQs8D3fSUCRhDhQKlBsNFITooX6yoJXv66wdzdWfH0ST9wRXjuIzpsnJ2FclGqbZknt1_cTixVOg==",
       "badge": "UPDATE"
     }
   ]
