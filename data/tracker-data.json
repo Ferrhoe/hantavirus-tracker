@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 307,
-  "last_updated": "2026-06-04T19:49:49.949861+00:00",
+  "last_updated": "2026-06-05T11:55:43.406025+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -309,6 +309,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-04",
+      "display_date": "2026-06-04",
+      "text": "First Spanish hantavirus patient from MV Hondius outbreak discharged - The Star",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYv024wSVHTz1bZ6oR41Ze41bydJZTGPCA9km5Fme5BeSnuWnpkS9qn6xAg_JtN3RQjMp3pW0uICCmDXP6-0v7cEqMnwBmS6fusaJe6dJCpnHnCUYzZ5r_v3lDSY_CHihSt9AR5vQIuoymPv_6qZ9xahg7o16jgl1UuzhDfINsZPycHbQV6FpjRkIuzZmjI1p7W_Y7DLzQ8pn7NyQpHVsBW73O2NCobPt2XSK0uGIC",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-02",
       "display_date": "2026-06-02",
       "text": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again | Hartford Daily Voice",
@@ -404,13 +411,6 @@
       "display_date": "2026-05-27",
       "text": "Cruise Ship Hantavirus Outbreak Grows to 13 Confirmed Cases | The Transmission",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRrnGp2347-zttQUMqD5qQWWWcsNW9B7PbkcuCdqLQAWHEQ0ss-z9utOMoCidqHtk4ReMxb-1eo0q-RMgi4MFDoL-4hp0OzGmu5piyoXQQQDlQqZLAMid1IbOXCvWQ9vOcvG2HRWtDi1cWNw3t19cjMTTynJcKSl8FW-4Loz_1BpNbbTSSl-UXdumAp440c0D3VVp3QnjO9zsk96rineDlNOLB5Gm8JLB-GWECLCKSFb",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-27",
-      "display_date": "2026-05-27",
-      "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases | CIDRAP",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMBqh41v9uV7VAZSKDhJ_xWc7hnqe2D6rVbrNIg26eEwCxP2yM2i_5_VRthhh_-ItXa-qtu_7R2wDFHFzC9S1hdSV_vXf4MghQY54W-WIlp-gNQsfJMtn4t5pQ9NOxKqWMHonbeLaHrHvG6AaDm8aL-acxXeF_Z-gvCyT6aSAgGDEC3BK68gkImthmDPNcXrfJ6PwyRsPh-j0Taf7X6e7g",
       "badge": "UPDATE"
     }
   ]
