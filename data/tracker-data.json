@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 307,
-  "last_updated": "2026-06-06T16:05:48.165439+00:00",
+  "last_updated": "2026-06-06T21:46:25.057406+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -330,6 +330,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-06-03",
+      "display_date": "2026-06-03",
+      "text": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock",
+      "link": "https://www.medpagetoday.com/infectiousdisease/publichealth/109876",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-02",
       "display_date": "2026-06-02",
       "text": "Andes Hantavirus FAQs: What to Know as Quarantined Cruise Passengers Return Home",
@@ -411,13 +418,6 @@
       "display_date": "2026-05-28",
       "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG67KG7w20RWLkgXaW8evd576okBW8lN_WgPsgcDmifOXApbzaNlX2vgOtJa-261INpq3_lDgFQrD-mfDBtXN6jQDFQVn5QNYtFN6J3fpPRDQb68sXtWo7MR94HoqilxYNkTyx6lKK-OnfisVtpZhuWVB-rtF-gEos6uOxw6PXiGeY=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-27",
-      "display_date": "2026-05-27",
-      "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyI5b9cPFnEdrwPLpaLQFjqgkm_CRrQAL5lYyZy2txXTCs21XU-301KtH6hMOR5XJPRyltgBVhP_Da8k3TPBY_m1yf4TrQsLKMK6tTeNWurzOU2y68etneG9owLouytAS1u6ViDpBFe_JPCjMUBu_wBu-oolwacjQgGrNFY0vYmEHSnUXVYIEsJOK-HMC7LvK8INm5cDs=",
       "badge": "UPDATE"
     }
   ]
