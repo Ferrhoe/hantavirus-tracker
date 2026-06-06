@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 307,
-  "last_updated": "2026-06-05T18:31:53.913256+00:00",
+  "last_updated": "2026-06-06T09:14:48.323803+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -316,10 +316,24 @@
   ],
   "news": [
     {
+      "date": "2026-06-05",
+      "display_date": "2026-06-05",
+      "text": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvO5SITNOQ98akr1KyNPH4D64ZMmsNUWT3va9_ECAw7gN2QjAercp6xmQhp6RSjtxyTnC1b2OjiUHALFinziEHaVgi-bZqvmsU5siLJhg-IHRse45i1McYQsbP6U_qdwMQbu6vXrWq85yaVNoSEEy-6bIowvkIrCar598Bq3UsrR7bySUhml_iQ60",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-04",
       "display_date": "2026-06-04",
       "text": "First Spanish hantavirus patient from MV Hondius outbreak discharged - The Star",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYv024wSVHTz1bZ6oR41Ze41bydJZTGPCA9km5Fme5BeSnuWnpkS9qn6xAg_JtN3RQjMp3pW0uICCmDXP6-0v7cEqMnwBmS6fusaJe6dJCpnHnCUYzZ5r_v3lDSY_CHihSt9AR5vQIuoymPv_6qZ9xahg7o16jgl1UuzhDfINsZPycHbQV6FpjRkIuzZmjI1p7W_Y7DLzQ8pn7NyQpHVsBW73O2NCobPt2XSK0uGIC",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-02",
+      "display_date": "2026-06-02",
+      "text": "Andes Hantavirus FAQs: What to Know as Quarantined Cruise Passengers Return Home",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6uyAKC9fjdy1_GDPirN-VqItkyJ1S6_1dcbcoOWV03VKlhBq7Wipeppo7lveWRi2gmbug09D99C66AjBwAOacUPrAQNaYNXRv53NJ9xVSzazMBRGeyM4iwem4Qelg1Ehvnetyb_v9Uc5hRKKA4jwYcWpM-0HRRqJbY9UWTDGmbC6eeDH95YE95uvs4waJAtcBFCkY2wUp9oBdn_rAFfM-dLnY4Q",
       "badge": "UPDATE"
     },
     {
@@ -381,6 +395,13 @@
     {
       "date": "2026-05-28",
       "display_date": "2026-05-28",
+      "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq-quQIr41_V0T0vX37vxQ7l6kv-5YerU371gxheqlvtwaaTbaGZlXJ5aMG2J-tqtkVXF1hAP8O7gCUR5EVLUErXmyTSbXjfxXOycs0OUpv7zMzFuQocRM9yk6OMMYWscsHeywfeC1ZCVUC9nn0ArjrCFBtzOOZtJO9hcfUronGecRXuMrVQHQbC6Kc86YxCD1db5Cq5ug0Tf81_o76X2xg7_A00O6eDrYCERU",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-05-28",
+      "display_date": "2026-05-28",
       "text": "Experimental Hantavirus Treatment Sent To EU Countries Where Patients Are Being Treated (Latest Updates)",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUlAkzvFUEFfszpHBUmuIO_HpR9s6QHJ4Mo_d7V2mZ3R7CRXmkLBVQhN21hE6sAfEOK9uqupMlYnPaxJnWH1YkL-EXaxErPEB5s4Aph6toiNFI0mPQK3oIYsC22MPGeKExbDScXSg-1Vrdhk7CwGrPIN7l_bKYRYpcj8rqvkJbQwftG8K4F5-QgaqIh-EUVpkkAbzbvwpHuxhQGz6AAc_2r5JQU7Pai0NwAOjPm9Z7cjmoeIOUFM4R5wOaOSABztnsMXNXsIJRLg1grI4fXwwwL1ReRpIAHQ==",
       "badge": "UPDATE"
@@ -397,27 +418,6 @@
       "display_date": "2026-05-27",
       "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdmuF9BpAD7CwwyqJPFZFieVMrQqfiqZpE3xbflpvZCtywg5W8Y7SzUrle6U_-qg0AN8p7zsn8BlV4lNPCi2Lzefwlv8BFeuK-3fqgtwutZLiH-o-_a1HdLaESIWoL01UKz-YXxzkA4_V4cKXcLFb-VMwsqAMA8i76Fjte6apOBXaUYWGt9WVtM_hhGv_znaqNUPgWOA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-27",
-      "display_date": "2026-05-27",
-      "text": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUleR3lG2_8ku3zJrX9FHBof6-vGVlAgL_FAGk7pI3Wv1LQiFUH3WZYe3LDFv72zRWEHXFU5ArtgDWnGHrA0ifKwecjUkNVf9Pfdf29pbSCjUVMbONOtxBPAq6PxUuYjRoxlrh7hYlPzXoY7nxmxVw8rTRyTnBajKf8i_VtYUMXre48d7bQhBZMls57vLxH-CFL6FBxJc=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-27",
-      "display_date": "2026-05-27",
-      "text": "Cruise Ship Undergoes Additional Cleaning Following Deadly Hantavirus Outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfJrmIDgIRnBVzHyiEgSWmiyOaaTR-25fiYf0dEHUETNzzjnSD0UfWooXKQ3H0Ghfx8pN_RlN_8tIXlqmc9z44RM2b8oywe4DBoqgZy83y93o6n2QjaG9snC2tccGzLYtRwK-n8OGpGuamh5YR9R7hW-nz10hx_sVEO3GJNwmNw-433mCUd7jBrjZIdCTGZcHA75BZOtlBmHpj13nJwEgq3BPPPYL-R-IIGj4KTeEhuNZsTCYa_LxQ5Y4oTjeywxA-m7Re70=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-27",
-      "display_date": "2026-05-27",
-      "text": "Cruise Ship Hantavirus Outbreak Grows to 13 Confirmed Cases | The Transmission",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRrnGp2347-zttQUMqD5qQWWWcsNW9B7PbkcuCdqLQAWHEQ0ss-z9utOMoCidqHtk4ReMxb-1eo0q-RMgi4MFDoL-4hp0OzGmu5piyoXQQQDlQqZLAMid1IbOXCvWQ9vOcvG2HRWtDi1cWNw3t19cjMTTynJcKSl8FW-4Loz_1BpNbbTSSl-UXdumAp440c0D3VVp3QnjO9zsk96rineDlNOLB5Gm8JLB-GWECLCKSFb",
       "badge": "UPDATE"
     }
   ]
