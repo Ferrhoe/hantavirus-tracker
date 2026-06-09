@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 307,
-  "last_updated": "2026-06-09T11:47:32.348196+00:00",
+  "last_updated": "2026-06-09T19:38:05.935929+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -323,6 +323,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-09",
+      "display_date": "2026-06-09",
+      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
+      "link": "https://www.cdc.gov/hantavirus/outbreaks/andes-virus-cruise-ship-2026.html",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-07",
       "display_date": "2026-06-07",
       "text": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
@@ -418,13 +425,6 @@
       "display_date": "2026-05-29",
       "text": "2 New Yorkers being monitored for hantavirus will finish quarantine in their homes",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_KWzITGyqsmlHvepGFyKGCpp_l18hjYz93nwqHbjbdiZ_hae5IzXWyBqAC_4kSl7M-_1p9--kZJ3DSWZMbCw30nnPasgukBJyX6t6ya8KpsH_eOUL7QJsUMOFrs-8LpOgTskfFqksu0MB0qL_VSFRt5FeCFIn0q6CBKBkwhhefTOd",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-29",
-      "display_date": "2026-05-29",
-      "text": "What's going around? Hantavirus outbreak update: what Virginians need to know this week",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-GLcaUCuSXzwSzzW4T_DFVgfdgm197MXczEfqyZttAcw9M0w00LFAZUsfooIBogmAZnox5L-KcsHfstnHKwnDQiTrxywLAjyC1PXz8duK62Y80MU4Vntzi6S1hSie0UMyqG-BdYK2zGH9p-bk5cdx80mA6k1vLEMfzajEodPOer4dMLbtSyZK9CKHAZistv1wpBMYaNEX8-kX-vHDwbzOSrnN7GWJj_oaTPR6n7-VXMVopVYai0o7-NKBWA==",
       "badge": "UPDATE"
     }
   ]
