@@ -1,9 +1,9 @@
 {
-  "confirmed": 101,
+  "confirmed": 104,
   "probable": 10,
   "deaths": 4,
   "monitoring": 307,
-  "last_updated": "2026-06-10T23:17:24.928204+00:00",
+  "last_updated": "2026-06-11T04:23:39.969579+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 20,
+      "confirmed": 21,
       "probable": 1,
       "deaths": 0,
       "monitoring": 36
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 15,
+      "confirmed": 16,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 30,
+      "confirmed": 31,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -319,9 +319,23 @@
       "probable": 10,
       "deaths": 4,
       "monitoring": 307
+    },
+    {
+      "date": "Jun 11",
+      "confirmed": 104,
+      "probable": 10,
+      "deaths": 4,
+      "monitoring": 307
     }
   ],
   "news": [
+    {
+      "date": "2026-06-09",
+      "display_date": "2026-06-09",
+      "text": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say | CBC News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPrLwMcIiQpHppEKdcPxzY8_SQ7wm6zi-CzBjLrBXt3DFLgD4a5Yem9fxDKWuPd3HfrTKTY3jZIQox-XStYrmw7B1mSY2YihBeAx1bqc26rc0TsVEfQdNRpGkPLWycAHVx9uvHKqvFk1zM_534MHA_XJBQnMrQCEx-UL9uHRr5P5HygCEzR5u_paoN7IMVfxTUGwT8YCETUsJEGfcRtjdNxFLE",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-06-09",
       "display_date": "2026-06-09",
@@ -418,13 +432,6 @@
       "display_date": "2026-05-29",
       "text": "Rapid risk assessment: Hantavirus (Andes virus) linked to international cruise ship outbreak",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFRsVRTD5YaFi5ELJsBnW58rB-d561PIBbNIB51gGYIq5pcLdhEajBfGpUpqvw3Zd13HIt1Z0MVD0QJ-R5r0vm_0_1ipXhWPbM47YRUHhmrdwFwxfdB2bw7L2M6nvw0zYvKHMPpUmeLYZSGV7oAVuJTsYmpb0zeFouGa9LzBWro1gFMD6zwqHjyiDafZk2mTiPcJyrb_heOEOj8UN1aiKDEAd532KqghX1o1bUllXR5zcrDxaM0K_6xiqG-IFWlzLbb4mgMewYWw-pyQVfD_WPcEDWWVdon8MMa3KjR87FsQs2IN9dqZPvP9Zi4Qu-vNxPn-bCCtXjK_N7LMuHlyNdnbnwjf-vCswYmdwzP0W888qc2bnQZPb",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-29",
-      "display_date": "2026-05-29",
-      "text": "Hantavirus Patients Under Quarantine Could Go Home\u2014If They Agree To 24/7 Surveillance, Report Says (Latest Updates)",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbKfhJhkhOwXtc7HZwRfSJWwcKprOxhA2SedpEJJCYt7cMxyEnUIVSRE3NRwLtRopJ3pJALHI_hSyjsVGw7KXNPLgjNJny6ySSDAp8Ic9WwDaR2St_ipBjvC-Q1BJY6v1N2SB_g_nz3BKIAhvv6_tByfwwj3X2qxNFQySR5Di6UCYn8F44S-5qNakiNAKyn-Yd4-ow4UaJcItBPDi6aGR2wOhO9K6GexQp9fiG7s5lZBq_cqkViSmwTz2piZkFp01s5B-O1p-HPZ3LmLG-zxy5cHQD_XfeJLt-od7DStBZdRI=",
       "badge": "UPDATE"
     }
   ]
