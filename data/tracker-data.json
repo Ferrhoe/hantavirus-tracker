@@ -2,8 +2,8 @@
   "confirmed": 104,
   "probable": 10,
   "deaths": 4,
-  "monitoring": 307,
-  "last_updated": "2026-06-11T10:48:06.391242+00:00",
+  "monitoring": 308,
+  "last_updated": "2026-06-11T16:14:11.599297+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -21,7 +21,7 @@
       "confirmed": 21,
       "probable": 1,
       "deaths": 0,
-      "monitoring": 36
+      "monitoring": 37
     },
     "Denmark": {
       "confirmed": 0,
@@ -325,7 +325,7 @@
       "confirmed": 104,
       "probable": 10,
       "deaths": 4,
-      "monitoring": 307
+      "monitoring": 308
     }
   ],
   "news": [
