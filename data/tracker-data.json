@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 308,
-  "last_updated": "2026-06-11T20:28:17.575955+00:00",
+  "last_updated": "2026-06-12T04:26:18.419880+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -330,6 +330,20 @@
   ],
   "news": [
     {
+      "date": "2026-06-11",
+      "display_date": "2026-06-11",
+      "text": "Hantavirus Cruise Passenger Says She's Being Held 'Hostage' In Nebraska Quarantine (Latest Updates)",
+      "link": "https://www.forbes.com/sites/brucelee/2026/06/11/hantavirus-cruise-passenger-says-shes-being-held-hostage-in-nebraska-quarantine-latest-updates/",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-11",
+      "display_date": "2026-06-11",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://www.ecdc.europa.eu/en/newsroom/andes-hantavirus-outbreak-cruise-ship",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-09",
       "display_date": "2026-06-09",
       "text": "Hantavirus - Virginia Department of Health",
@@ -418,20 +432,6 @@
       "display_date": "2026-06-02",
       "text": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again | Hartford Daily Voice",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdy6rjF7y4MCq8mun3weLiOeMNlLxL4Qy65DChH_iqajVvPO0UXsgpw52aV10HIkzi4SarWLyYbts2MavZBEHC9Ph4mvVLvtTOYRS8-sHhke0fND2PPTZiIFpndL2BXlDRgpdu2rGWTrZZMGFV7emObrvsWaetkNQfBtZGI2HmHmz8ZCdmmfk1GFysf5sGP0EXh2K4C3WUAs4k5MfZ8aCT",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-31",
-      "display_date": "2026-05-31",
-      "text": "MV Hondius cruise ship given all-clear to sail after deadly hantavirus outbreak - Manchester Evening News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHyXM5M5Q8m9zXUJ1WKyG-kv-focqFvUhVfmGed6jLiQ4fDvcsDp8FBW725cLA2kxY7u2_Ph6l1ib577Oz5ZaBayoaIeF-U8xoRbTUwx1aCzDt84d0JgfiEYQXW5Ic2SkWk6rcX0pjUDiQbz3FwwdfhbOMTqX2Fpaw2baXOA7T7D_OSuujaK_G0lU1lCkf5zYZjWEkmHI5sw=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-05-31",
-      "display_date": "2026-05-31",
-      "text": "MV Hondius fully disinfected after deadly hantavirus outbreak; Cleared for voyages",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86rEQIN9Y3hN9UefIzDJQt50heO6oi9-xjdY5g3eNnxYJ1jNF-9AJXlFm0cgdU86gfvsa86cmeC2HkCo7AWK9Bc01vZ09F5uhqyy4g82YA0avwN11MvarEb5ZTsHKWNCHZaGKMDmntU165ZMZn9bnm_V9LnIhqoj6Is3HD-V0q2yykerPTJRyKXsro9WpDESlMsLndjVMD05__6l2MzHa",
       "badge": "UPDATE"
     }
   ]
