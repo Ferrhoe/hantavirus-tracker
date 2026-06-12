@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 308,
-  "last_updated": "2026-06-12T15:26:28.652114+00:00",
+  "last_updated": "2026-06-12T20:17:19.172801+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -332,6 +332,20 @@
     {
       "date": "2026-06-12",
       "display_date": "2026-06-12",
+      "text": "Dutch expedition ship Hondius resumes cruises after fatal hantavirus outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpv21CqHJ_VHOjc6q3pyNUZjlH2dPnLtZMLnhtZwusIwdMo3AA7wBL-c3BKJClbr8FbeHwiJT0eCQl6R3fgf1mjO9_Hg0snV50HD2OsOH4P7rmlHqM8y-HcZiqjXVSrTRIR6U12Dg82ys9e2mQOlecWgDvsofQbx6l19pf3AwiNlHrh6Xujvt9ZcMYYoEhn1WlMUR8JbQMRc3fj0NJqgjv",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-12",
+      "display_date": "2026-06-12",
+      "text": "Hantavirus: the hidden agricultural hazard exposed by the MV hondius cruise outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqOQQLpo0cvEoyP0jl8wCOtyxV4td1XxGYSLqjFM26Zt4CWxZC1yS9L-ylBifUUiiEog3lsSU9kv79a3FIAI4JdGKt9_kHjMHRAkkKb0vSjYfWsChIivFg-0n1-i4VPWjFywaqyhvw2pfs7Q==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-12",
+      "display_date": "2026-06-12",
       "text": "Americans Are Still in Nebraska Quarantine from the Cruise Ship Hantavirus Outbreak. Here Is the Latest on the Most Unusual U.S. Health Emergency of 2026. - Medical Daily",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuC7FaRzhyQ3q-AzvH7DJdnwEKXHt0hdIrm-kAkEjpY9L5cbClqnSgKCWT5_Gc1ifXOxQ4Optccie-kydPkTzEKeeiVmiMELUV6aG7ZkCFwV-0hKPKlVv5hBckrhdnI0WzhmGNhDghM2UKnnXutUTb9NIirbPcXKNkV3WTAp31D8ELfGJnpS57o0Wy5MK9aQa9gJe7kVkNh7ikXvbao4VK08U=",
       "badge": "UPDATE"
@@ -418,20 +432,6 @@
       "display_date": "2026-06-04",
       "text": "First Spanish hantavirus patient from MV Hondius outbreak discharged - The Star",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYv024wSVHTz1bZ6oR41Ze41bydJZTGPCA9km5Fme5BeSnuWnpkS9qn6xAg_JtN3RQjMp3pW0uICCmDXP6-0v7cEqMnwBmS6fusaJe6dJCpnHnCUYzZ5r_v3lDSY_CHihSt9AR5vQIuoymPv_6qZ9xahg7o16jgl1UuzhDfINsZPycHbQV6FpjRkIuzZmjI1p7W_Y7DLzQ8pn7NyQpHVsBW73O2NCobPt2XSK0uGIC",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-03",
-      "display_date": "2026-06-03",
-      "text": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock",
-      "link": "https://www.medpagetoday.com/infectiousdisease/publichealth/109876",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-02",
-      "display_date": "2026-06-02",
-      "text": "Andes Hantavirus FAQs: What to Know as Quarantined Cruise Passengers Return Home",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6uyAKC9fjdy1_GDPirN-VqItkyJ1S6_1dcbcoOWV03VKlhBq7Wipeppo7lveWRi2gmbug09D99C66AjBwAOacUPrAQNaYNXRv53NJ9xVSzazMBRGeyM4iwem4Qelg1Ehvnetyb_v9Uc5hRKKA4jwYcWpM-0HRRqJbY9UWTDGmbC6eeDH95YE95uvs4waJAtcBFCkY2wUp9oBdn_rAFfM-dLnY4Q",
       "badge": "UPDATE"
     }
   ]
