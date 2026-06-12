@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 4,
   "monitoring": 308,
-  "last_updated": "2026-06-12T10:22:42.946211+00:00",
+  "last_updated": "2026-06-12T15:26:28.652114+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -330,6 +330,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-12",
+      "display_date": "2026-06-12",
+      "text": "Americans Are Still in Nebraska Quarantine from the Cruise Ship Hantavirus Outbreak. Here Is the Latest on the Most Unusual U.S. Health Emergency of 2026. - Medical Daily",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuC7FaRzhyQ3q-AzvH7DJdnwEKXHt0hdIrm-kAkEjpY9L5cbClqnSgKCWT5_Gc1ifXOxQ4Optccie-kydPkTzEKeeiVmiMELUV6aG7ZkCFwV-0hKPKlVv5hBckrhdnI0WzhmGNhDghM2UKnnXutUTb9NIirbPcXKNkV3WTAp31D8ELfGJnpS57o0Wy5MK9aQa9gJe7kVkNh7ikXvbao4VK08U=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-11",
       "display_date": "2026-06-11",
       "text": "Hantavirus Cruise Passenger Says She's Being Held 'Hostage' In Nebraska Quarantine (Latest Updates)",
@@ -425,13 +432,6 @@
       "display_date": "2026-06-02",
       "text": "Andes Hantavirus FAQs: What to Know as Quarantined Cruise Passengers Return Home",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6uyAKC9fjdy1_GDPirN-VqItkyJ1S6_1dcbcoOWV03VKlhBq7Wipeppo7lveWRi2gmbug09D99C66AjBwAOacUPrAQNaYNXRv53NJ9xVSzazMBRGeyM4iwem4Qelg1Ehvnetyb_v9Uc5hRKKA4jwYcWpM-0HRRqJbY9UWTDGmbC6eeDH95YE95uvs4waJAtcBFCkY2wUp9oBdn_rAFfM-dLnY4Q",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-02",
-      "display_date": "2026-06-02",
-      "text": "Cruise Ship Tied To Deadly Hantavirus Outbreak Will Set Sail Again | Hartford Daily Voice",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdy6rjF7y4MCq8mun3weLiOeMNlLxL4Qy65DChH_iqajVvPO0UXsgpw52aV10HIkzi4SarWLyYbts2MavZBEHC9Ph4mvVLvtTOYRS8-sHhke0fND2PPTZiIFpndL2BXlDRgpdu2rGWTrZZMGFV7emObrvsWaetkNQfBtZGI2HmHmz8ZCdmmfk1GFysf5sGP0EXh2K4C3WUAs4k5MfZ8aCT",
       "badge": "UPDATE"
     }
   ]
