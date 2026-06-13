@@ -1,9 +1,9 @@
 {
-  "confirmed": 104,
+  "confirmed": 108,
   "probable": 10,
   "deaths": 4,
   "monitoring": 308,
-  "last_updated": "2026-06-12T20:17:19.172801+00:00",
+  "last_updated": "2026-06-13T04:14:44.124094+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 21,
+      "confirmed": 22,
       "probable": 1,
       "deaths": 0,
       "monitoring": 37
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 27,
+      "confirmed": 28,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 16,
+      "confirmed": 17,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 31,
+      "confirmed": 32,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -323,6 +323,13 @@
     {
       "date": "Jun 11",
       "confirmed": 104,
+      "probable": 10,
+      "deaths": 4,
+      "monitoring": 308
+    },
+    {
+      "date": "Jun 13",
+      "confirmed": 108,
       "probable": 10,
       "deaths": 4,
       "monitoring": 308
