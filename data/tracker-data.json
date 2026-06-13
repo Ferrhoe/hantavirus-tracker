@@ -1,9 +1,9 @@
 {
-  "confirmed": 108,
+  "confirmed": 111,
   "probable": 10,
   "deaths": 4,
-  "monitoring": 308,
-  "last_updated": "2026-06-13T04:14:44.124094+00:00",
+  "monitoring": 285,
+  "last_updated": "2026-06-13T09:24:05.655846+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 22,
+      "confirmed": 23,
       "probable": 1,
       "deaths": 0,
       "monitoring": 37
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 17,
+      "confirmed": 18,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 32,
+      "confirmed": 33,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -117,7 +117,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 41
+      "monitoring": 18
     },
     "Tristan da Cunha": {
       "confirmed": 0,
@@ -329,10 +329,10 @@
     },
     {
       "date": "Jun 13",
-      "confirmed": 108,
+      "confirmed": 111,
       "probable": 10,
       "deaths": 4,
-      "monitoring": 308
+      "monitoring": 285
     }
   ],
   "news": [
@@ -393,6 +393,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-06-08",
+      "display_date": "2026-06-08",
+      "text": "Hantavirus Outbreak Tracker \u2014 MV Hondius Cruise Ship 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHApb1OecMKWlh2f9Sp3WfAL4wNDVMwGXCY4Glix9QZ6yY2li4lY_LoJVK2Z1skUASv6hk6KeUoOYTNN1r_jgler5kn5uh-iOi_6mHmdrfScJZr",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-07",
       "display_date": "2026-06-07",
       "text": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
@@ -432,13 +439,6 @@
       "display_date": "2026-06-05",
       "text": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvO5SITNOQ98akr1KyNPH4D64ZMmsNUWT3va9_ECAw7gN2QjAercp6xmQhp6RSjtxyTnC1b2OjiUHALFinziEHaVgi-bZqvmsU5siLJhg-IHRse45i1McYQsbP6U_qdwMQbu6vXrWq85yaVNoSEEy-6bIowvkIrCar598Bq3UsrR7bySUhml_iQ60",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-04",
-      "display_date": "2026-06-04",
-      "text": "First Spanish hantavirus patient from MV Hondius outbreak discharged - The Star",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYv024wSVHTz1bZ6oR41Ze41bydJZTGPCA9km5Fme5BeSnuWnpkS9qn6xAg_JtN3RQjMp3pW0uICCmDXP6-0v7cEqMnwBmS6fusaJe6dJCpnHnCUYzZ5r_v3lDSY_CHihSt9AR5vQIuoymPv_6qZ9xahg7o16jgl1UuzhDfINsZPycHbQV6FpjRkIuzZmjI1p7W_Y7DLzQ8pn7NyQpHVsBW73O2NCobPt2XSK0uGIC",
       "badge": "UPDATE"
     }
   ]
