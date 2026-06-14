@@ -1,9 +1,9 @@
 {
-  "confirmed": 124,
+  "confirmed": 126,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 289,
-  "last_updated": "2026-06-14T09:43:45.467377+00:00",
+  "monitoring": 312,
+  "last_updated": "2026-06-14T14:13:43.857544+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 20,
+      "confirmed": 21,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 36,
+      "confirmed": 37,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -117,7 +117,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 18
+      "monitoring": 41
     },
     "Tristan da Cunha": {
       "confirmed": 1,
@@ -336,13 +336,20 @@
     },
     {
       "date": "Jun 14",
-      "confirmed": 124,
+      "confirmed": 126,
       "probable": 10,
       "deaths": 5,
-      "monitoring": 289
+      "monitoring": 312
     }
   ],
   "news": [
+    {
+      "date": "2026-06-13",
+      "display_date": "2026-06-13",
+      "text": "US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island",
+      "link": "https://www.cruise.blog/news/us-spends-750k-to-evacuate-american-woman-who-was-on-hantavirus-hit-cruise-from-remote-island",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-06-12",
       "display_date": "2026-06-12",
@@ -439,13 +446,6 @@
       "display_date": "2026-06-05",
       "text": "MV Hondius Hantavirus Outbreak \u2014 HantaTracker",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXhmNnhe72Bhdv9eEMQMGE3Sy9LJHqDmHunwwsi1S5yX1CMWAc3tDtHjuVFJ_piD_wM5Dr6WsGmUQB3PwNBY6wx848QTquSbxVwc8jKXDsEVMTakU5iA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-05",
-      "display_date": "2026-06-05",
-      "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-JmnZGc0FpCQRqjabgQiFz33RrIgZqsTncQqDOZ4_qHVYdwKS997xg0hHSEoCY4StN5vphJjn6mXC1WqlwPJgzUFjd_Cvjr4jpD11-f6L3CkTbiMZzHmge1ws8VWT7xscsd5c0aiq7EZtDam8Q3rhJKutHnj8y1-0BOW6W4qLhcqZlam7FfwzTwm-A8_XPKtA5nefwaHM66mNFqbsSa70BotYhE8PSAnj52D4",
       "badge": "UPDATE"
     }
   ]
