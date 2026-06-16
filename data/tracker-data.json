@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 289,
-  "last_updated": "2026-06-15T21:10:21.557674+00:00",
+  "last_updated": "2026-06-16T04:52:30.790218+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -351,6 +351,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-15",
+      "display_date": "2026-06-15",
+      "text": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar | The Guardian",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDp1JX7HGnTkXGjqYUEyUnyhSsXg7p2nFR9_MHLtwMsBh0LWFfyFnX-_6ScnxMBh1QGyhPNUMG4h5eu2U-4NYwNvOtxd-Jw6GKJH2Kyolaarr_oJqOadL-MNHk7kVPvgR83m2tqLtFK3yJgia-Uyl9xtyVs72adQlQSBvaH6gusjrb70QHGEQjQ9ICQUPXEPnDmurPOvPuiekejjhdRXY4DDyUA==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-13",
       "display_date": "2026-06-13",
       "text": "US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island",
@@ -446,13 +453,6 @@
       "display_date": "2026-06-06",
       "text": "Hantavirus monitoring completed for Texas passengers from the MV Hondius",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrCHq6aogUpFDe4v4gnpPbptedVBUFxCKwaR75rNFqUcc4PPZ8ZPON85otaZHxZmQZMQQiM2PHMWrS0gdzBgaPuW-UZiSsDoOGmE-S6PSzxw6bFkSq8jpNKWOSZerJqvrRO2h0tz53DYjZuV_EofjNrWptGKGVP2FKTDptkW5sNTwICe3uNPVR24ZQqRyz-r9DMkfLqXs4r5OmHuST",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-05",
-      "display_date": "2026-06-05",
-      "text": "MV Hondius Hantavirus Outbreak \u2014 HantaTracker",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXhmNnhe72Bhdv9eEMQMGE3Sy9LJHqDmHunwwsi1S5yX1CMWAc3tDtHjuVFJ_piD_wM5Dr6WsGmUQB3PwNBY6wx848QTquSbxVwc8jKXDsEVMTakU5iA==",
       "badge": "UPDATE"
     }
   ]
