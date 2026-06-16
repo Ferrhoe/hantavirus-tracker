@@ -2,8 +2,8 @@
   "confirmed": 135,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 313,
-  "last_updated": "2026-06-16T11:21:27.363685+00:00",
+  "monitoring": 319,
+  "last_updated": "2026-06-16T17:05:00.869315+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -57,7 +57,7 @@
       "confirmed": 23,
       "probable": 0,
       "deaths": 2,
-      "monitoring": 24
+      "monitoring": 27
     },
     "New Zealand": {
       "confirmed": 0,
@@ -111,7 +111,7 @@
       "confirmed": 3,
       "probable": 5,
       "deaths": 0,
-      "monitoring": 42
+      "monitoring": 45
     },
     "United States": {
       "confirmed": 3,
@@ -353,10 +353,24 @@
       "confirmed": 135,
       "probable": 10,
       "deaths": 5,
-      "monitoring": 313
+      "monitoring": 319
     }
   ],
   "news": [
+    {
+      "date": "2026-06-16",
+      "display_date": "2026-06-16",
+      "text": "Countries Differ On Discharge Criteria For Andes Hantavirus Patients",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX67Un6QhlRJR2xzAFqRhvuu7X8uQQMn8dfvpffgO7uUUcjP7OGtSefEIjlcZJgtsXR_115Ukojd-dgGElVjoPQFQRHnSjPSVJ63n0oUtwSfk1tr7MW76FUnjk1Jhb1pYeBynsuVXniMR-0StHMIH_sPJBVqmYey-b9FwmG2_tLFFolFPbH6nl8p32fwphaWDvNx5H_jLYxFJjOFTPDi52",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-15",
+      "display_date": "2026-06-15",
+      "text": "Recent Andes virus outbreak on the MV Hondius cruise",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL8sdI4QCLMFoKGRaSNOaXg21d8ejZS9H-gVVsNvEO0njgwpNaIcixPDQt9z5YtG11oZ8CC5ABA_vI0vlvPisx2QgfXFyY0kiizJYxAIWvJ1hexCWT14iYdahSKrp3lkTD0yOTReZL783c-jeJejrPjxSu9-HW9UxdrXa7m8eDq9c4b_9hoL-bdUo3Hg==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-06-15",
       "display_date": "2026-06-15",
@@ -446,20 +460,6 @@
       "display_date": "2026-06-09",
       "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
       "link": "https://www.cdc.gov/hantavirus/outbreaks/andes-virus-cruise-ship-2026.html",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-08",
-      "display_date": "2026-06-08",
-      "text": "Hantavirus Outbreak Tracker \u2014 MV Hondius Cruise Ship 2026",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHApb1OecMKWlh2f9Sp3WfAL4wNDVMwGXCY4Glix9QZ6yY2li4lY_LoJVK2Z1skUASv6hk6KeUoOYTNN1r_jgler5kn5uh-iOi_6mHmdrfScJZr",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-07",
-      "display_date": "2026-06-07",
-      "text": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG38Ri3fbF0JtJZRqYhA9GEV4ckb8mR97CzLou9oQLgJLMSVUPDhMEhx9H8lUml7ieZU0xYQuAQgM6nk5kIhnPs1cZamA_MYjBuJ4pjUlqhlcY6fb115GzsNeTCENxXUDFWqCa7SfhWH2Ajmjt5pkNZMdle9x5eVGB-GN7pscCFKmE",
       "badge": "UPDATE"
     }
   ]
