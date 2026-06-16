@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 319,
-  "last_updated": "2026-06-16T17:05:00.869315+00:00",
+  "last_updated": "2026-06-16T20:58:34.275628+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -416,6 +416,13 @@
     {
       "date": "2026-06-11",
       "display_date": "2026-06-11",
+      "text": "Hantavirus Cruise Ship Outbreak 2026: 3 Dead, 10 Americans Still in Quarantine After M/V Hondius Outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzfLkTIlWxUIROkjY7ay3gNwEKCBmBnueXdlAxYX2oCkBekPzshzfjsO_BLcDbyQoJHazAoksCdIWfzYOtIMBgc12nancUs0Fgjt18q00IWXbe3m9gXLC974nRv-CHpNJ8WFDtiPKQsdTOViC09YxPMyi8T6c0YXr7PUec8m0Fqmpfn8oSe7zG78h7uEODi8F6FKq3kejslGzEloNjkAwJ3Eo==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-11",
+      "display_date": "2026-06-11",
       "text": "Hantavirus Cruise Passenger Says She's Being Held 'Hostage' In Nebraska Quarantine (Latest Updates) - Forbes",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYHG0jvnSYHzDvc-6FAM978SaqRznqTOpS8UUHBEjccutU5IrndmZUxY82s4WMnQ4wj2glEvEOzZX_zpNFpuBe2sGqt9r8FVVn7maI_PavFZ0vezvxbKug_N9iXszn5eiRm1VXPxPIektM0PMqpG_EOB5AkpPlvAMlEZeqyPxOeNnpFZHbX2434pwFMThqeTUGonDBBwBTl3bep2LYvPLYKYH042N4o2XnTolnXEG4lBQYeWtG-te35ZAYuHkDO5cdR3He4bFd4znMz6qg8ya-",
       "badge": "UPDATE"
@@ -453,13 +460,6 @@
       "display_date": "2026-06-09",
       "text": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say | CBC News",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPrLwMcIiQpHppEKdcPxzY8_SQ7wm6zi-CzBjLrBXt3DFLgD4a5Yem9fxDKWuPd3HfrTKTY3jZIQox-XStYrmw7B1mSY2YihBeAx1bqc26rc0TsVEfQdNRpGkPLWycAHVx9uvHKqvFk1zM_534MHA_XJBQnMrQCEx-UL9uHRr5P5HygCEzR5u_paoN7IMVfxTUGwT8YCETUsJEGfcRtjdNxFLE",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-09",
-      "display_date": "2026-06-09",
-      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
-      "link": "https://www.cdc.gov/hantavirus/outbreaks/andes-virus-cruise-ship-2026.html",
       "badge": "UPDATE"
     }
   ]
