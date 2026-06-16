@@ -1,9 +1,9 @@
 {
-  "confirmed": 131,
+  "confirmed": 135,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 289,
-  "last_updated": "2026-06-16T04:52:30.790218+00:00",
+  "monitoring": 313,
+  "last_updated": "2026-06-16T11:21:27.363685+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 26,
+      "confirmed": 27,
       "probable": 1,
       "deaths": 0,
       "monitoring": 37
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 31,
+      "confirmed": 32,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 22,
+      "confirmed": 23,
       "probable": 0,
       "deaths": 2,
       "monitoring": 24
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 39,
+      "confirmed": 40,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -111,7 +111,7 @@
       "confirmed": 3,
       "probable": 5,
       "deaths": 0,
-      "monitoring": 22
+      "monitoring": 42
     },
     "United States": {
       "confirmed": 3,
@@ -123,7 +123,7 @@
       "confirmed": 1,
       "probable": 1,
       "deaths": 0,
-      "monitoring": 9
+      "monitoring": 13
     },
     "Pitcairn Islands": {
       "confirmed": 0,
@@ -347,9 +347,23 @@
       "probable": 10,
       "deaths": 5,
       "monitoring": 289
+    },
+    {
+      "date": "Jun 16",
+      "confirmed": 135,
+      "probable": 10,
+      "deaths": 5,
+      "monitoring": 313
     }
   ],
   "news": [
+    {
+      "date": "2026-06-15",
+      "display_date": "2026-06-15",
+      "text": "When Hantavirus Meets Mass Panic: Cornell Scientists on Trust and Future Pandemic Communication",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4sj6BE1C7dwBTozvuYaMkYX5-dMbRiCDDVp6SpAtsVxEhfs_lYDeVwWgteXzU7lmQq0REjDEhgxa8Fe06hSZOoExtEIyZjL09sQeclv0HQ92lIOItf2tw0mSxq0JkGWAN_aBPNQH_FLfmvAASm5lw55aF7HO_Pi--rydPwjGiB8pn2oZlDODrdYlpWx2N2rfiJYxcOchNPTSBqQifbvzFJ-roNbOcwyYHZe-05b7rRn86OhBuLZuPpd0cYGX53jFxrdomWg==",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-06-15",
       "display_date": "2026-06-15",
@@ -383,6 +397,13 @@
       "display_date": "2026-06-12",
       "text": "Americans Are Still in Nebraska Quarantine from the Cruise Ship Hantavirus Outbreak. Here Is the Latest on the Most Unusual U.S. Health Emergency of 2026. - Medical Daily",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuC7FaRzhyQ3q-AzvH7DJdnwEKXHt0hdIrm-kAkEjpY9L5cbClqnSgKCWT5_Gc1ifXOxQ4Optccie-kydPkTzEKeeiVmiMELUV6aG7ZkCFwV-0hKPKlVv5hBckrhdnI0WzhmGNhDghM2UKnnXutUTb9NIirbPcXKNkV3WTAp31D8ELfGJnpS57o0Wy5MK9aQa9gJe7kVkNh7ikXvbao4VK08U=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-11",
+      "display_date": "2026-06-11",
+      "text": "Hantavirus Cruise Passenger Says She's Being Held 'Hostage' In Nebraska Quarantine (Latest Updates) - Forbes",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYHG0jvnSYHzDvc-6FAM978SaqRznqTOpS8UUHBEjccutU5IrndmZUxY82s4WMnQ4wj2glEvEOzZX_zpNFpuBe2sGqt9r8FVVn7maI_PavFZ0vezvxbKug_N9iXszn5eiRm1VXPxPIektM0PMqpG_EOB5AkpPlvAMlEZeqyPxOeNnpFZHbX2434pwFMThqeTUGonDBBwBTl3bep2LYvPLYKYH042N4o2XnTolnXEG4lBQYeWtG-te35ZAYuHkDO5cdR3He4bFd4znMz6qg8ya-",
       "badge": "UPDATE"
     },
     {
@@ -439,20 +460,6 @@
       "display_date": "2026-06-07",
       "text": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG38Ri3fbF0JtJZRqYhA9GEV4ckb8mR97CzLou9oQLgJLMSVUPDhMEhx9H8lUml7ieZU0xYQuAQgM6nk5kIhnPs1cZamA_MYjBuJ4pjUlqhlcY6fb115GzsNeTCENxXUDFWqCa7SfhWH2Ajmjt5pkNZMdle9x5eVGB-GN7pscCFKmE",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-07",
-      "display_date": "2026-06-07",
-      "text": "Hantavirus: Of mice, men and cruise ships - MJA InSight",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Q4F9bMMUFpPFnWS0sjOR4UuolFiHBSFyhKoZKwShKcKIuY0gdM9EPCeB7ObFR_2Q1zWEurFJuwyROJzPWMZeUWto2LMVbccIJY2xyk7E7rrRu8waEoSIm4QLdyaNs9_d_QLSzwq93rmrAqUHlDsHlp1v62_jewtzQeFCMVv9K1uaVPIARIuPJw==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-06",
-      "display_date": "2026-06-06",
-      "text": "Hantavirus monitoring completed for Texas passengers from the MV Hondius",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrCHq6aogUpFDe4v4gnpPbptedVBUFxCKwaR75rNFqUcc4PPZ8ZPON85otaZHxZmQZMQQiM2PHMWrS0gdzBgaPuW-UZiSsDoOGmE-S6PSzxw6bFkSq8jpNKWOSZerJqvrRO2h0tz53DYjZuV_EofjNrWptGKGVP2FKTDptkW5sNTwICe3uNPVR24ZQqRyz-r9DMkfLqXs4r5OmHuST",
       "badge": "UPDATE"
     }
   ]
