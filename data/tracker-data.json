@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 319,
-  "last_updated": "2026-06-17T04:42:55.272878+00:00",
+  "last_updated": "2026-06-17T11:08:20.901768+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -416,6 +416,13 @@
     {
       "date": "2026-06-11",
       "display_date": "2026-06-11",
+      "text": "Andes hantavirus outbreak in cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqk8yeqjyyGKkPMSO-ZBkNgG_0EhTk0jy7ehUhU-IPKM9TwwmX_biRzkoKXluKDeLyIECl1mmKDpzHNbxL0zpEyOCH0i27PWRNh3TbE567uiMhd8oyhI-S3PStnALr3xl1ID8mTqYHc68yCJBXlww9eypWZc65rhSHZpOiDNaLWw9tVJbAyQe5RT0l8qKyQCdpVEC2tzJzCycxlwXNTNYeETJqEL9EkYIOQOHxzZ6yK7wRnJrvYZUHUH74=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-11",
+      "display_date": "2026-06-11",
       "text": "Hantavirus Cruise Ship Outbreak 2026: 3 Dead, 10 Americans Still in Quarantine After M/V Hondius Outbreak",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzfLkTIlWxUIROkjY7ay3gNwEKCBmBnueXdlAxYX2oCkBekPzshzfjsO_BLcDbyQoJHazAoksCdIWfzYOtIMBgc12nancUs0Fgjt18q00IWXbe3m9gXLC974nRv-CHpNJ8WFDtiPKQsdTOViC09YxPMyi8T6c0YXr7PUec8m0Fqmpfn8oSe7zG78h7uEODi8F6FKq3kejslGzEloNjkAwJ3Eo==",
       "badge": "UPDATE"
@@ -453,13 +460,6 @@
       "display_date": "2026-06-09",
       "text": "Hantavirus - Virginia Department of Health",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTkc9TiygrLTYofDUK-p5xiKX8iKLKsK8LekO5ajuuBYxEvP2hjg58PTFfbeGqlhM-9EEC2KYiG4U3arXIMAN9nZal1mpeptMhTkAw8MlNXxndFBjiCwL50c27eYfxmxQW8o4=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-09",
-      "display_date": "2026-06-09",
-      "text": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say | CBC News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPrLwMcIiQpHppEKdcPxzY8_SQ7wm6zi-CzBjLrBXt3DFLgD4a5Yem9fxDKWuPd3HfrTKTY3jZIQox-XStYrmw7B1mSY2YihBeAx1bqc26rc0TsVEfQdNRpGkPLWycAHVx9uvHKqvFk1zM_534MHA_XJBQnMrQCEx-UL9uHRr5P5HygCEzR5u_paoN7IMVfxTUGwT8YCETUsJEGfcRtjdNxFLE",
       "badge": "UPDATE"
     }
   ]
