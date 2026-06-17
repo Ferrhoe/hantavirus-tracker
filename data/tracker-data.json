@@ -1,9 +1,9 @@
 {
-  "confirmed": 135,
+  "confirmed": 139,
   "probable": 10,
   "deaths": 5,
   "monitoring": 319,
-  "last_updated": "2026-06-17T11:08:20.901768+00:00",
+  "last_updated": "2026-06-17T15:46:37.132655+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 27,
+      "confirmed": 28,
       "probable": 1,
       "deaths": 0,
       "monitoring": 37
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 32,
+      "confirmed": 33,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 23,
+      "confirmed": 24,
       "probable": 0,
       "deaths": 2,
       "monitoring": 27
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 40,
+      "confirmed": 41,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -354,6 +354,13 @@
       "probable": 10,
       "deaths": 5,
       "monitoring": 319
+    },
+    {
+      "date": "Jun 17",
+      "confirmed": 139,
+      "probable": 10,
+      "deaths": 5,
+      "monitoring": 319
     }
   ],
   "news": [
@@ -416,6 +423,13 @@
     {
       "date": "2026-06-11",
       "display_date": "2026-06-11",
+      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7vJA88O0w1T9oV7fPHfPq1i1Njm93onJkHnuRYR4IQ_WyBbTMI-mW4gfE0UP1gUSAzGLwujlpMgo3P9-5QAJHx5e8TTyLxCCOwU0KGL2iaum8DlK6WMERJtWSxjeUQ-bTPG2ezac5VpxiXApJFpFtoRDT4qoG",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-11",
+      "display_date": "2026-06-11",
       "text": "Andes hantavirus outbreak in cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqk8yeqjyyGKkPMSO-ZBkNgG_0EhTk0jy7ehUhU-IPKM9TwwmX_biRzkoKXluKDeLyIECl1mmKDpzHNbxL0zpEyOCH0i27PWRNh3TbE567uiMhd8oyhI-S3PStnALr3xl1ID8mTqYHc68yCJBXlww9eypWZc65rhSHZpOiDNaLWw9tVJbAyQe5RT0l8qKyQCdpVEC2tzJzCycxlwXNTNYeETJqEL9EkYIOQOHxzZ6yK7wRnJrvYZUHUH74=",
       "badge": "UPDATE"
@@ -453,13 +467,6 @@
       "display_date": "2026-06-11",
       "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
       "link": "https://www.ecdc.europa.eu/en/newsroom/andes-hantavirus-outbreak-cruise-ship",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-09",
-      "display_date": "2026-06-09",
-      "text": "Hantavirus - Virginia Department of Health",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTkc9TiygrLTYofDUK-p5xiKX8iKLKsK8LekO5ajuuBYxEvP2hjg58PTFfbeGqlhM-9EEC2KYiG4U3arXIMAN9nZal1mpeptMhTkAw8MlNXxndFBjiCwL50c27eYfxmxQW8o4=",
       "badge": "UPDATE"
     }
   ]
