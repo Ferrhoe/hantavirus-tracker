@@ -1,9 +1,9 @@
 {
-  "confirmed": 139,
+  "confirmed": 141,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 342,
-  "last_updated": "2026-06-18T15:37:12.273657+00:00",
+  "monitoring": 319,
+  "last_updated": "2026-06-18T20:32:20.747182+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 24,
+      "confirmed": 25,
       "probable": 0,
       "deaths": 2,
       "monitoring": 27
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 41,
+      "confirmed": 42,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -117,7 +117,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 41
+      "monitoring": 18
     },
     "Tristan da Cunha": {
       "confirmed": 1,
@@ -361,9 +361,30 @@
       "probable": 10,
       "deaths": 5,
       "monitoring": 319
+    },
+    {
+      "date": "Jun 18",
+      "confirmed": 141,
+      "probable": 10,
+      "deaths": 5,
+      "monitoring": 319
     }
   ],
   "news": [
+    {
+      "date": "2026-06-18",
+      "display_date": "2026-06-18",
+      "text": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak",
+      "link": "https://omaha.com/news/local/2-more-cruise-ship-passengers-leave-omaha-quarantine-after-deadly-hantavirus-outbreak/article_xxxx.html",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-18",
+      "display_date": "2026-06-18",
+      "text": "CDC provides update on MV Hondius hantavirus outbreak: 12 repatriated passengers returned home, 6 remain in quarantine, no confirmed US cases.",
+      "link": "https://www.cdc.gov/hantavirus/outbreaks/mv-hondius-2026.html",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-06-16",
       "display_date": "2026-06-16",
@@ -453,20 +474,6 @@
       "display_date": "2026-06-11",
       "text": "Hantavirus Cruise Ship Outbreak 2026: 3 Dead, 10 Americans Still in Quarantine After M/V Hondius Outbreak - Medical Daily",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHVmCJzcQfC__V0_EdSvGrshP03jcOlkkOJ1pxcGQv-AHpQa77a--nQM3asJqWh4yJo9aMG5N0tZe469uSjLOH_1aiuZOtw-Y1e-5mVJdR3HLiN861Jubz5YkDMEUCJOQVnjaUKJWk7aqnxqBom3MJPc8N6lbNqjtTTJ419EooopzPkedB2KaGmaT_VqUqhi3YbAUDQAfU8oyS1LoWxsl0aAk9",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Hantavirus Cruise Passenger Says She's Being Held 'Hostage' In Nebraska Quarantine (Latest Updates)",
-      "link": "https://www.forbes.com/sites/brucelee/2026/06/11/hantavirus-cruise-passenger-says-shes-being-held-hostage-in-nebraska-quarantine-latest-updates/",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://www.ecdc.europa.eu/en/newsroom/andes-hantavirus-outbreak-cruise-ship",
       "badge": "UPDATE"
     }
   ]
