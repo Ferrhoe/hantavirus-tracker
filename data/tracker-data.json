@@ -1,9 +1,9 @@
 {
-  "confirmed": 141,
+  "confirmed": 146,
   "probable": 10,
   "deaths": 5,
   "monitoring": 342,
-  "last_updated": "2026-06-19T15:31:49.418016+00:00",
+  "last_updated": "2026-06-19T19:55:23.053063+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 28,
+      "confirmed": 29,
       "probable": 1,
       "deaths": 0,
       "monitoring": 37
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 33,
+      "confirmed": 34,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 25,
+      "confirmed": 26,
       "probable": 0,
       "deaths": 2,
       "monitoring": 27
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 42,
+      "confirmed": 44,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -368,9 +368,23 @@
       "probable": 10,
       "deaths": 5,
       "monitoring": 319
+    },
+    {
+      "date": "Jun 19",
+      "confirmed": 146,
+      "probable": 10,
+      "deaths": 5,
+      "monitoring": 342
     }
   ],
   "news": [
+    {
+      "date": "2026-06-19",
+      "display_date": "2026-06-19",
+      "text": "The real reason a hantavirus disaster was averted - The Guardian",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZvbDIyAxgTTyKfEdN0JGR9XWJqHMr4i2yAhUtMDFTlaDMVDPAriUMBuwFddaIcOG4Q7-XKwv4me47DbrjI_n8U5NbKXoFV7EnyW6bJ-FH-Zq9c6ox0xpJt5zcrlAi3PS1QoUIdH6y1ThC_E-0Tntc5BccSRj-8A-_Eadi9TrwlEbRSj7tTaQ9PwmuDcIptf6ik2FdSy6ktJ0L",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-06-19",
       "display_date": "2026-06-19",
@@ -411,6 +425,13 @@
       "display_date": "2026-06-18",
       "text": "CDC provides update on MV Hondius hantavirus outbreak: 12 repatriated passengers returned home, 6 remain in quarantine, no confirmed US cases.",
       "link": "https://www.cdc.gov/hantavirus/outbreaks/mv-hondius-2026.html",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-17",
+      "display_date": "2026-06-17",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNx0f1kqsiaCow_I1hVycMKqMVadHAWBfqGy99C-4zsJwHmLNi57A7T7UuyrJwp_Dhz8iCRWAxgfcvc7M4JDhlw62KyFARORQd912kPkWDMR2o9XKF83yQY4tIps3gG_JdOkngLmXJnDimX6IDwaaQE92lXRDY1ZdIAj8KnqOYOjGVjX9SQ91QNz5d-3T1lnv12A04TXdHfassyC7wei6F0cURW9NnGHJV9-qNS4cFH37F-zEXH2UwY4w=",
       "badge": "UPDATE"
     },
     {
@@ -460,20 +481,6 @@
       "display_date": "2026-06-12",
       "text": "Dutch expedition ship Hondius resumes cruises after fatal hantavirus outbreak",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpv21CqHJ_VHOjc6q3pyNUZjlH2dPnLtZMLnhtZwusIwdMo3AA7wBL-c3BKJClbr8FbeHwiJT0eCQl6R3fgf1mjO9_Hg0snV50HD2OsOH4P7rmlHqM8y-HcZiqjXVSrTRIR6U12Dg82ys9e2mQOlecWgDvsofQbx6l19pf3AwiNlHrh6Xujvt9ZcMYYoEhn1WlMUR8JbQMRc3fj0NJqgjv",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-12",
-      "display_date": "2026-06-12",
-      "text": "Hantavirus: the hidden agricultural hazard exposed by the MV hondius cruise outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqOQQLpo0cvEoyP0jl8wCOtyxV4td1XxGYSLqjFM26Zt4CWxZC1yS9L-ylBifUUiiEog3lsSU9kv79a3FIAI4JdGKt9_kHjMHRAkkKb0vSjYfWsChIivFg-0n1-i4VPWjFywaqyhvw2pfs7Q==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-12",
-      "display_date": "2026-06-12",
-      "text": "Americans Are Still in Nebraska Quarantine from the Cruise Ship Hantavirus Outbreak. Here Is the Latest on the Most Unusual U.S. Health Emergency of 2026. - Medical Daily",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuC7FaRzhyQ3q-AzvH7DJdnwEKXHt0hdIrm-kAkEjpY9L5cbClqnSgKCWT5_Gc1ifXOxQ4Optccie-kydPkTzEKeeiVmiMELUV6aG7ZkCFwV-0hKPKlVv5hBckrhdnI0WzhmGNhDghM2UKnnXutUTb9NIirbPcXKNkV3WTAp31D8ELfGJnpS57o0Wy5MK9aQa9gJe7kVkNh7ikXvbao4VK08U=",
       "badge": "UPDATE"
     }
   ]
