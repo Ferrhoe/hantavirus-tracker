@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 319,
-  "last_updated": "2026-06-18T20:32:20.747182+00:00",
+  "last_updated": "2026-06-19T04:53:18.556596+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -386,6 +386,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-06-17",
+      "display_date": "2026-06-17",
+      "text": "Interim guidance: Public health management of contacts of Andes virus cases from MV Hondius cruise ship (May 26, 2026) - Canada.ca",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoa_zKCfxKgz5_MzxU9-de1qWCQJw6ZF1sdOrePTZ0V25SU4SYVzyYdH5lEDbuzHhoEqyGa1yaC3bChM9dIRa_PdgmSDIgZkW1FoGWptx7qJhRdV0XtFAh82Wk1WNzLGqEttpoc_T69L6YVHIVd2_UVp7D1UqeebY4Ekm_GFJ0sKpf5zIBz7ogGyROvbk-9tC5ry4nDuBTlL-qcAArRiHxi8SZ07P1JyZpZcrCgu8LMNlXVJ5wKJSS2IwGrxj1NX1E9FLMElqS0k20Mf63jrGc2i0UVJrDCzFAKXjIqie2XY8ogJbblViWfKrJo1FqaBKHaVgg3YbE40hVbMBQlf2Su5usFon6MXwIBi55MAV5-CEXkV0",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-16",
       "display_date": "2026-06-16",
       "text": "Countries Differ On Discharge Criteria For Andes Hantavirus Patients",
@@ -444,6 +451,13 @@
     {
       "date": "2026-06-11",
       "display_date": "2026-06-11",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn5ySL_LABXdUIqVmz24qBxwsX7cr8N_ZFN1C8rguv7fhkJDfNnQgivBMFtXgXapkrPMI_AxQRreIjgH6P1zRCSBQwXtYOZTIo9q7EYGeReJEL9X9ODpEVDfiAA_cCAf_Wr_3kaU5mYxoq1IyFUOfqtKcTPHNlFmZXb0e1B6RmxfusDlOy8pDcrDTusMxNJE28BrG7d1tvhwJB-4Qf27QcHdcDGq-eo0C2udJ74m20wH2Ghm3ElifWNwc",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-11",
+      "display_date": "2026-06-11",
       "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7vJA88O0w1T9oV7fPHfPq1i1Njm93onJkHnuRYR4IQ_WyBbTMI-mW4gfE0UP1gUSAzGLwujlpMgo3P9-5QAJHx5e8TTyLxCCOwU0KGL2iaum8DlK6WMERJtWSxjeUQ-bTPG2ezac5VpxiXApJFpFtoRDT4qoG",
       "badge": "UPDATE"
@@ -460,20 +474,6 @@
       "display_date": "2026-06-11",
       "text": "Hantavirus Cruise Ship Outbreak 2026: 3 Dead, 10 Americans Still in Quarantine After M/V Hondius Outbreak",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzfLkTIlWxUIROkjY7ay3gNwEKCBmBnueXdlAxYX2oCkBekPzshzfjsO_BLcDbyQoJHazAoksCdIWfzYOtIMBgc12nancUs0Fgjt18q00IWXbe3m9gXLC974nRv-CHpNJ8WFDtiPKQsdTOViC09YxPMyi8T6c0YXr7PUec8m0Fqmpfn8oSe7zG78h7uEODi8F6FKq3kejslGzEloNjkAwJ3Eo==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Hantavirus Cruise Passenger Says She's Being Held 'Hostage' In Nebraska Quarantine (Latest Updates) - Forbes",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYHG0jvnSYHzDvc-6FAM978SaqRznqTOpS8UUHBEjccutU5IrndmZUxY82s4WMnQ4wj2glEvEOzZX_zpNFpuBe2sGqt9r8FVVn7maI_PavFZ0vezvxbKug_N9iXszn5eiRm1VXPxPIektM0PMqpG_EOB5AkpPlvAMlEZeqyPxOeNnpFZHbX2434pwFMThqeTUGonDBBwBTl3bep2LYvPLYKYH042N4o2XnTolnXEG4lBQYeWtG-te35ZAYuHkDO5cdR3He4bFd4znMz6qg8ya-",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Hantavirus Cruise Ship Outbreak 2026: 3 Dead, 10 Americans Still in Quarantine After M/V Hondius Outbreak - Medical Daily",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHVmCJzcQfC__V0_EdSvGrshP03jcOlkkOJ1pxcGQv-AHpQa77a--nQM3asJqWh4yJo9aMG5N0tZe469uSjLOH_1aiuZOtw-Y1e-5mVJdR3HLiN861Jubz5YkDMEUCJOQVnjaUKJWk7aqnxqBom3MJPc8N6lbNqjtTTJ419EooopzPkedB2KaGmaT_VqUqhi3YbAUDQAfU8oyS1LoWxsl0aAk9",
       "badge": "UPDATE"
     }
   ]
