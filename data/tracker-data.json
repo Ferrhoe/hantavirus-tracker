@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 342,
-  "last_updated": "2026-06-19T10:46:17.015793+00:00",
+  "last_updated": "2026-06-19T15:31:49.418016+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -372,6 +372,34 @@
   ],
   "news": [
     {
+      "date": "2026-06-19",
+      "display_date": "2026-06-19",
+      "text": "What did we learn from the hantavirus cruise ship scare? - CP24",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_vn6usFXg59VYPDT6FQKjieiZvGdytmpQmOctF5izf02SKl-HvuH6qkwFOhUF-ZH_tiM6VkaYAOZRSXWlzIO1bqyM7e3Yfh9yEBOqQ01Pzj9RxnUNelf-symrV3pi5_QvJx8gXpP3P4i7qeYa2f08O2-FVXYKOqSBX8zlI3wo5cfwD2S1WlPgTZoagK9T5AD0QDWrenjGxcM-N1axQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-19",
+      "display_date": "2026-06-19",
+      "text": "Almost all passengers, crew from hantavirus ship out of quarantine | National Post",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjL8Da0daVPCOei68I90mPNsNmuc9obqf_-ugdxzTN-bt-3vszD_qrbWzGQhmdRhrji1PUKGawteZmnCjr8td7pWp-Ekz8TJ0IeJeYaPge_49wqP0fTKy1OU69G9vVBdppHEQm5Bb2BR_eGQ9MDilR_D3rnS7oOpxHxVYax5QnBuXbBHSCMp56AfBrEWOB8lYEE_9jP65TAaiT",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-19",
+      "display_date": "2026-06-19",
+      "text": "Andes virus outbreak linked to expedition cruise ship travel, multi-country investigation and response, April to June 2026 - Eurosurveillance",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHgdXpSCYOc-JgPuuVRE963l2xTBS1yQvGg0T0xqhOxxUdAA67NGqvvyIC5M1O19sYNHTiWuYnk2bG2skiBoV7fk3K1bpekY6Ptcb8DvhzHGGbQY15rmK1zGvOdNI1D0KL0VmYweD1mKm1GCBVPfd6SWdz8yyU6sJTc-egG4k_kYu_lEcCMME_NhiU2YyfENDnphVstQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-18",
+      "display_date": "2026-06-18",
+      "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYlEg6rPr6RQ-r7ZTIpocX-3SNCcRJ2nN_lxal7FqlIu5SuortOVJcBAkFoltqwpVuL-VpNmtSr7HpvDnfb81L_Y8UhNpsbx-5qm0TUzJTfmCLs0EkxmJaHnof4-rLYAUEhK0Hh67zMfdlX2RypCm2iWOznH2gtpluTLJPXj0UTe41CR3IGMOtQMBfK-WcLV7NHcFKbQHQh46CEptcWxtEhTAMr_BmJHo6-_Ow==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-18",
       "display_date": "2026-06-18",
       "text": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak",
@@ -446,34 +474,6 @@
       "display_date": "2026-06-12",
       "text": "Americans Are Still in Nebraska Quarantine from the Cruise Ship Hantavirus Outbreak. Here Is the Latest on the Most Unusual U.S. Health Emergency of 2026. - Medical Daily",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuC7FaRzhyQ3q-AzvH7DJdnwEKXHt0hdIrm-kAkEjpY9L5cbClqnSgKCWT5_Gc1ifXOxQ4Optccie-kydPkTzEKeeiVmiMELUV6aG7ZkCFwV-0hKPKlVv5hBckrhdnI0WzhmGNhDghM2UKnnXutUTb9NIirbPcXKNkV3WTAp31D8ELfGJnpS57o0Wy5MK9aQa9gJe7kVkNh7ikXvbao4VK08U=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn5ySL_LABXdUIqVmz24qBxwsX7cr8N_ZFN1C8rguv7fhkJDfNnQgivBMFtXgXapkrPMI_AxQRreIjgH6P1zRCSBQwXtYOZTIo9q7EYGeReJEL9X9ODpEVDfiAA_cCAf_Wr_3kaU5mYxoq1IyFUOfqtKcTPHNlFmZXb0e1B6RmxfusDlOy8pDcrDTusMxNJE28BrG7d1tvhwJB-4Qf27QcHdcDGq-eo0C2udJ74m20wH2Ghm3ElifWNwc",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7vJA88O0w1T9oV7fPHfPq1i1Njm93onJkHnuRYR4IQ_WyBbTMI-mW4gfE0UP1gUSAzGLwujlpMgo3P9-5QAJHx5e8TTyLxCCOwU0KGL2iaum8DlK6WMERJtWSxjeUQ-bTPG2ezac5VpxiXApJFpFtoRDT4qoG",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Andes hantavirus outbreak in cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqk8yeqjyyGKkPMSO-ZBkNgG_0EhTk0jy7ehUhU-IPKM9TwwmX_biRzkoKXluKDeLyIECl1mmKDpzHNbxL0zpEyOCH0i27PWRNh3TbE567uiMhd8oyhI-S3PStnALr3xl1ID8mTqYHc68yCJBXlww9eypWZc65rhSHZpOiDNaLWw9tVJbAyQe5RT0l8qKyQCdpVEC2tzJzCycxlwXNTNYeETJqEL9EkYIOQOHxzZ6yK7wRnJrvYZUHUH74=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-11",
-      "display_date": "2026-06-11",
-      "text": "Hantavirus Cruise Ship Outbreak 2026: 3 Dead, 10 Americans Still in Quarantine After M/V Hondius Outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzfLkTIlWxUIROkjY7ay3gNwEKCBmBnueXdlAxYX2oCkBekPzshzfjsO_BLcDbyQoJHazAoksCdIWfzYOtIMBgc12nancUs0Fgjt18q00IWXbe3m9gXLC974nRv-CHpNJ8WFDtiPKQsdTOViC09YxPMyi8T6c0YXr7PUec8m0Fqmpfn8oSe7zG78h7uEODi8F6FKq3kejslGzEloNjkAwJ3Eo==",
       "badge": "UPDATE"
     }
   ]
