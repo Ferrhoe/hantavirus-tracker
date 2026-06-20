@@ -1,9 +1,9 @@
 {
-  "confirmed": 150,
+  "confirmed": 154,
   "probable": 10,
   "deaths": 5,
   "monitoring": 342,
-  "last_updated": "2026-06-20T04:08:17.756229+00:00",
+  "last_updated": "2026-06-20T09:26:00.100794+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 30,
+      "confirmed": 31,
       "probable": 1,
       "deaths": 0,
       "monitoring": 37
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 35,
+      "confirmed": 36,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -54,7 +54,7 @@
       "monitoring": 1
     },
     "Netherlands": {
-      "confirmed": 27,
+      "confirmed": 28,
       "probable": 0,
       "deaths": 2,
       "monitoring": 27
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 45,
+      "confirmed": 46,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -378,13 +378,20 @@
     },
     {
       "date": "Jun 20",
-      "confirmed": 150,
+      "confirmed": 154,
       "probable": 10,
       "deaths": 5,
       "monitoring": 342
     }
   ],
   "news": [
+    {
+      "date": "2026-06-19",
+      "display_date": "2026-06-19",
+      "text": "Hantavirus cruise ship quarantine ends in Netherlands - The Straits Times",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDrYMgwYojRKd94Qg36MGFRjOmeaSLYJRs2lT6J9p7PVnWfp1nJH-XZb3Yo4dhlJwsJmLumj0EjsqbyYuy_IQMWNAZwJW1EzZfuae6y2qF5GMI9hm71QXymY6flzEONew2qdzbeySxdD3ot6foM3uUl_hd8aYiR8R2aq118U3q0sAZ0BkhvFhXomfThEmwCz3dWvUtNWE1Xv6BCFRzSMbAtMSjey7Q-PjTfN-fscoDQm6x8QpV8hGyfTU=",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-06-19",
       "display_date": "2026-06-19",
@@ -411,6 +418,13 @@
       "display_date": "2026-06-19",
       "text": "Andes virus outbreak linked to expedition cruise ship travel, multi-country investigation and response, April to June 2026 - Eurosurveillance",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHgdXpSCYOc-JgPuuVRE963l2xTBS1yQvGg0T0xqhOxxUdAA67NGqvvyIC5M1O19sYNHTiWuYnk2bG2skiBoV7fk3K1bpekY6Ptcb8DvhzHGGbQY15rmK1zGvOdNI1D0KL0VmYweD1mKm1GCBVPfd6SWdz8yyU6sJTc-egG4k_kYu_lEcCMME_NhiU2YyfENDnphVstQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-18",
+      "display_date": "2026-06-18",
+      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOrVS9P65tZzzOOBmdZkDHn7KBD1-HXnqZf3WElUYj5hGMQF3ykSDUD4UjqgGZSGHGDGfVEhAVUacKC0tIqPdPrOxYdSFGtCywyLJSlZWvsXsnbLgqwhEkqR1lGIabb5lEjCTE4JLYRcYdGGO7oAO0op3ZaDbD",
       "badge": "UPDATE"
     },
     {
@@ -474,20 +488,6 @@
       "display_date": "2026-06-15",
       "text": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar | The Guardian",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDp1JX7HGnTkXGjqYUEyUnyhSsXg7p2nFR9_MHLtwMsBh0LWFfyFnX-_6ScnxMBh1QGyhPNUMG4h5eu2U-4NYwNvOtxd-Jw6GKJH2Kyolaarr_oJqOadL-MNHk7kVPvgR83m2tqLtFK3yJgia-Uyl9xtyVs72adQlQSBvaH6gusjrb70QHGEQjQ9ICQUPXEPnDmurPOvPuiekejjhdRXY4DDyUA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-13",
-      "display_date": "2026-06-13",
-      "text": "US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island",
-      "link": "https://www.cruise.blog/news/us-spends-750k-to-evacuate-american-woman-who-was-on-hantavirus-hit-cruise-from-remote-island",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-12",
-      "display_date": "2026-06-12",
-      "text": "Dutch expedition ship Hondius resumes cruises after fatal hantavirus outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpv21CqHJ_VHOjc6q3pyNUZjlH2dPnLtZMLnhtZwusIwdMo3AA7wBL-c3BKJClbr8FbeHwiJT0eCQl6R3fgf1mjO9_Hg0snV50HD2OsOH4P7rmlHqM8y-HcZiqjXVSrTRIR6U12Dg82ys9e2mQOlecWgDvsofQbx6l19pf3AwiNlHrh6Xujvt9ZcMYYoEhn1WlMUR8JbQMRc3fj0NJqgjv",
       "badge": "UPDATE"
     }
   ]
