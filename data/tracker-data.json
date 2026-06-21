@@ -2,8 +2,8 @@
   "confirmed": 154,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 342,
-  "last_updated": "2026-06-20T19:44:03.520716+00:00",
+  "monitoring": 319,
+  "last_updated": "2026-06-21T04:49:15.200119+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -117,7 +117,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 41
+      "monitoring": 18
     },
     "Tristan da Cunha": {
       "confirmed": 1,
@@ -388,6 +388,13 @@
     {
       "date": "2026-06-19",
       "display_date": "2026-06-19",
+      "text": "Tristan da Cunha Hantavirus Outbreak 2026",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFVx-lNXWvRPyBlCkMAN-U94b8wccJT02huH8E7Yv4wv_bxfAs-XHFR0o3nQuZRaqgy5SInkatdkLEUprp4EvXDUPrYxUqexoCZ-Q6aI0qY7BcDv2SDKAUi_OKxA7HD8MlbL9qFlBwg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-19",
+      "display_date": "2026-06-19",
       "text": "Hantavirus cruise ship quarantine ends in Netherlands - The Straits Times",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDrYMgwYojRKd94Qg36MGFRjOmeaSLYJRs2lT6J9p7PVnWfp1nJH-XZb3Yo4dhlJwsJmLumj0EjsqbyYuy_IQMWNAZwJW1EzZfuae6y2qF5GMI9hm71QXymY6flzEONew2qdzbeySxdD3ot6foM3uUl_hd8aYiR8R2aq118U3q0sAZ0BkhvFhXomfThEmwCz3dWvUtNWE1Xv6BCFRzSMbAtMSjey7Q-PjTfN-fscoDQm6x8QpV8hGyfTU=",
       "badge": "UPDATE"
@@ -451,6 +458,13 @@
     {
       "date": "2026-06-17",
       "display_date": "2026-06-17",
+      "text": "Andes hantavirus outbreak in cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS-xxpCX987MtKY4eu5F1og1RYMVAoKGzuTjGa19bwcE1WA26KdVHJgrdUK0MI6zop8wmAHGXiy0LWmK8AxCHmPj_bd6UtVV7sWkQqxadu7CF28V2xj7SCCEc1JQx_mGXuFQ6xEhqmiCeotKINL6jepI-4d7sF4W9ntLqMEmhRZUdVbpFr7vADvIMNwd-s7CSqPu3Xaf3SfNXx5jyNWdALDNtmfovm2IS3J7Kk8DB3gqKivLA-zrkTiPI=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-17",
+      "display_date": "2026-06-17",
       "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNx0f1kqsiaCow_I1hVycMKqMVadHAWBfqGy99C-4zsJwHmLNi57A7T7UuyrJwp_Dhz8iCRWAxgfcvc7M4JDhlw62KyFARORQd912kPkWDMR2o9XKF83yQY4tIps3gG_JdOkngLmXJnDimX6IDwaaQE92lXRDY1ZdIAj8KnqOYOjGVjX9SQ91QNz5d-3T1lnv12A04TXdHfassyC7wei6F0cURW9NnGHJV9-qNS4cFH37F-zEXH2UwY4w=",
       "badge": "UPDATE"
@@ -474,20 +488,6 @@
       "display_date": "2026-06-15",
       "text": "Recent Andes virus outbreak on the MV Hondius cruise",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL8sdI4QCLMFoKGRaSNOaXg21d8ejZS9H-gVVsNvEO0njgwpNaIcixPDQt9z5YtG11oZ8CC5ABA_vI0vlvPisx2QgfXFyY0kiizJYxAIWvJ1hexCWT14iYdahSKrp3lkTD0yOTReZL783c-jeJejrPjxSu9-HW9UxdrXa7m8eDq9c4b_9hoL-bdUo3Hg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-15",
-      "display_date": "2026-06-15",
-      "text": "When Hantavirus Meets Mass Panic: Cornell Scientists on Trust and Future Pandemic Communication",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4sj6BE1C7dwBTozvuYaMkYX5-dMbRiCDDVp6SpAtsVxEhfs_lYDeVwWgteXzU7lmQq0REjDEhgxa8Fe06hSZOoExtEIyZjL09sQeclv0HQ92lIOItf2tw0mSxq0JkGWAN_aBPNQH_FLfmvAASm5lw55aF7HO_Pi--rydPwjGiB8pn2oZlDODrdYlpWx2N2rfiJYxcOchNPTSBqQifbvzFJ-roNbOcwyYHZe-05b7rRn86OhBuLZuPpd0cYGX53jFxrdomWg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-15",
-      "display_date": "2026-06-15",
-      "text": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar | The Guardian",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHDp1JX7HGnTkXGjqYUEyUnyhSsXg7p2nFR9_MHLtwMsBh0LWFfyFnX-_6ScnxMBh1QGyhPNUMG4h5eu2U-4NYwNvOtxd-Jw6GKJH2Kyolaarr_oJqOadL-MNHk7kVPvgR83m2tqLtFK3yJgia-Uyl9xtyVs72adQlQSBvaH6gusjrb70QHGEQjQ9ICQUPXEPnDmurPOvPuiekejjhdRXY4DDyUA==",
       "badge": "UPDATE"
     }
   ]
