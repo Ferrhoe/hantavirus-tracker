@@ -2,8 +2,8 @@
   "confirmed": 158,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 327,
-  "last_updated": "2026-06-22T12:13:54.399586+00:00",
+  "monitoring": 309,
+  "last_updated": "2026-06-22T20:55:00.922126+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -117,7 +117,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 18
+      "monitoring": 0
     },
     "Tristan da Cunha": {
       "confirmed": 1,
@@ -393,6 +393,20 @@
   ],
   "news": [
     {
+      "date": "2026-06-22",
+      "display_date": "2026-06-22",
+      "text": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska",
+      "link": "https://www.latimes.com/world/2026/jun/22/hantavirus-quarantine-ends-nebraska",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-22",
+      "display_date": "2026-06-22",
+      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus",
+      "link": "https://www.cdc.gov/hantavirus/outbreaks/andes-virus-cruise-ship-2026.html",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-20",
       "display_date": "2026-06-20",
       "text": "Hantavirus Outbreak Tracker 2026 \u2014 Live Cases, Map & Updates | HORIZON",
@@ -481,20 +495,6 @@
       "display_date": "2026-06-17",
       "text": "Andes hantavirus outbreak in cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS-xxpCX987MtKY4eu5F1og1RYMVAoKGzuTjGa19bwcE1WA26KdVHJgrdUK0MI6zop8wmAHGXiy0LWmK8AxCHmPj_bd6UtVV7sWkQqxadu7CF28V2xj7SCCEc1JQx_mGXuFQ6xEhqmiCeotKINL6jepI-4d7sF4W9ntLqMEmhRZUdVbpFr7vADvIMNwd-s7CSqPu3Xaf3SfNXx5jyNWdALDNtmfovm2IS3J7Kk8DB3gqKivLA-zrkTiPI=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-17",
-      "display_date": "2026-06-17",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNx0f1kqsiaCow_I1hVycMKqMVadHAWBfqGy99C-4zsJwHmLNi57A7T7UuyrJwp_Dhz8iCRWAxgfcvc7M4JDhlw62KyFARORQd912kPkWDMR2o9XKF83yQY4tIps3gG_JdOkngLmXJnDimX6IDwaaQE92lXRDY1ZdIAj8KnqOYOjGVjX9SQ91QNz5d-3T1lnv12A04TXdHfassyC7wei6F0cURW9NnGHJV9-qNS4cFH37F-zEXH2UwY4w=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-17",
-      "display_date": "2026-06-17",
-      "text": "Interim guidance: Public health management of contacts of Andes virus cases from MV Hondius cruise ship (May 26, 2026) - Canada.ca",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoa_zKCfxKgz5_MzxU9-de1qWCQJw6ZF1sdOrePTZ0V25SU4SYVzyYdH5lEDbuzHhoEqyGa1yaC3bChM9dIRa_PdgmSDIgZkW1FoGWptx7qJhRdV0XtFAh82Wk1WNzLGqEttpoc_T69L6YVHIVd2_UVp7D1UqeebY4Ekm_GFJ0sKpf5zIBz7ogGyROvbk-9tC5ry4nDuBTlL-qcAArRiHxi8SZ07P1JyZpZcrCgu8LMNlXVJ5wKJSS2IwGrxj1NX1E9FLMElqS0k20Mf63jrGc2i0UVJrDCzFAKXjIqie2XY8ogJbblViWfKrJo1FqaBKHaVgg3YbE40hVbMBQlf2Su5usFon6MXwIBi55MAV5-CEXkV0",
       "badge": "UPDATE"
     }
   ]
