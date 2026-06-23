@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 350,
-  "last_updated": "2026-06-23T03:58:45.808528+00:00",
+  "last_updated": "2026-06-23T09:54:18.601688+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -393,6 +393,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-23",
+      "display_date": "2026-06-23",
+      "text": "Andes virus cases on MV Hondius highlight hidden risks of confined travel",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMzTtf108OsjJjgObckD5Qb1HA3rGSjlqMWIqpdtfc9Xiu6CsgLMTI-s5Sv3vOfocYZKn5UGPKA_d5TY7wRqlol4tU2e9uOMRyFueaDLQcwlY_feFaJQkUiSeIWDVgIh_mU4z6HJCOWjTaEZ_r2iuHt7NBhFesCexnnmLxbAGu3gsdYjKN0--RykPfo7wfxy6AmFgvWD9nxngyG3kE2G2vZ9_IvKHBGR7ne0780peNIB029-8=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-22",
       "display_date": "2026-06-22",
       "text": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska",
@@ -488,13 +495,6 @@
       "display_date": "2026-06-18",
       "text": "CDC provides update on MV Hondius hantavirus outbreak: 12 repatriated passengers returned home, 6 remain in quarantine, no confirmed US cases.",
       "link": "https://www.cdc.gov/hantavirus/outbreaks/mv-hondius-2026.html",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-17",
-      "display_date": "2026-06-17",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXipjt26nschLoQ1TRbZliubdSzaOqXnV0epdZtO2lUWPSkN_6tYOntvYGfac2UwtnuLgkskiG_Mo5bmlO1LMqJ_wqhWUnyPRgAeQ9xEQQrL-Ow_c1CS6qDzKxQizsbZWugJaCbi8ZqmvPJS7-ambTf-NSxAm_h_RUpXvbLbBtU9b90FZqSw4lJMyZLRhYcy0Cd70vDTprwBxU_pHOUPmZDjC2dTRV85Yie_CQL8FatPhtXVWuhgwgzo=",
       "badge": "UPDATE"
     }
   ]
