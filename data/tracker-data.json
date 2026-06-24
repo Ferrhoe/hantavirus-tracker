@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 350,
-  "last_updated": "2026-06-23T20:12:42.895871+00:00",
+  "last_updated": "2026-06-24T04:04:03.984759+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -423,6 +423,13 @@
     {
       "date": "2026-06-19",
       "display_date": "2026-06-19",
+      "text": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar | The Guardian",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZBAshfOrt8SfrkVaRqfTnvEu2zlbwTx1OYwVo8HcXfG-xRDQW51sua0JFlM9JmaPQSAF00CM_3Vx-Nr_Obp2C5WJP5A_5BxfZqjnN55qjLK94BW3gNtjskwqpIcZoOBaQjVZwpx4yYspTuI3EgaBbKU6xTmhHkq66xhSZ04nvteSQu1EUd6qZa08jCsU1qT6codEy8T_RKC46xm7NzTdAlvv5CA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-19",
+      "display_date": "2026-06-19",
       "text": "Tristan da Cunha Hantavirus Outbreak 2026",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFVx-lNXWvRPyBlCkMAN-U94b8wccJT02huH8E7Yv4wv_bxfAs-XHFR0o3nQuZRaqgy5SInkatdkLEUprp4EvXDUPrYxUqexoCZ-Q6aI0qY7BcDv2SDKAUi_OKxA7HD8MlbL9qFlBwg==",
       "badge": "UPDATE"
@@ -488,13 +495,6 @@
       "display_date": "2026-06-18",
       "text": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak",
       "link": "https://omaha.com/news/local/2-more-cruise-ship-passengers-leave-omaha-quarantine-after-deadly-hantavirus-outbreak/article_xxxx.html",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-18",
-      "display_date": "2026-06-18",
-      "text": "CDC provides update on MV Hondius hantavirus outbreak: 12 repatriated passengers returned home, 6 remain in quarantine, no confirmed US cases.",
-      "link": "https://www.cdc.gov/hantavirus/outbreaks/mv-hondius-2026.html",
       "badge": "UPDATE"
     }
   ]
