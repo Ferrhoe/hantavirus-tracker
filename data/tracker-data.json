@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 309,
-  "last_updated": "2026-06-24T19:53:52.105953+00:00",
+  "last_updated": "2026-06-25T04:02:56.331797+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -408,6 +408,20 @@
     {
       "date": "2026-06-24",
       "display_date": "2026-06-24",
+      "text": "US public health agency concludes hantavirus response as outbreak eases",
+      "link": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
+      "text": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes",
+      "link": "https://www.ajmc.com/view/cdc-officially-ends-hantavirus-response-as-outbreak-risk-recedes",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
       "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8yMVPY3lt4ZT5rPL1AppMGH649JXhotQNHvf0cokrCoVaEol-gZDfjFnq87E0UUImoDaefE_fKmCsnJzQIptXlAEgECwb9o2MJAed1tSSowH23zlhMWi4WJwHRHkATHhE2fq2vBWlPDFMU2F4Bclwwx91vdxf8g8JV8mmyIGlnkq1_sTzTY4nvZ45jPPK7PAfJg_wUHRvSzQ_cng_L7-jAcnChp4Dm_7YCEWTtXst7GYsp5A=",
       "badge": "UPDATE"
@@ -494,20 +508,6 @@
       "display_date": "2026-06-18",
       "text": "Two more cruise ship passengers depart from National Quarantine Unit",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF73l3ANOUyLqWXDExUe1hC0a_nZ5S5uCQzNtvbhjZMPmwawxXDWwAnaqkqi-ObSL63G_-3cUFZwXDz0cOjb9tITLituzlx-hDbXkZv1vF6nNxeVhPAKIYtD1Te6rw9T9TOZpg0tIQEflZsjYN_LnQSwzp41AWB97h2FucJqs7zYRBdxXETjoanFkU7XETjoanFkU7UmyFjJwITruxaJVraDap2210nJ_MruoTjMO8YKlfLu4=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-18",
-      "display_date": "2026-06-18",
-      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOrVS9P65tZzzOOBmdZkDHn7KBD1-HXnqZf3WElUYj5hGMQF3ykSDUD4UjqgGZSGHGDGfVEhAVUacKC0tIqPdPrOxYdSFGtCywyLJSlZWvsXsnbLgqwhEkqR1lGIabb5lEjCTE4JLYRcYdGGO7oAO0op3ZaDbD",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-18",
-      "display_date": "2026-06-18",
-      "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYlEg6rPr6RQ-r7ZTIpocX-3SNCcRJ2nN_lxal7FqlIu5SuortOVJcBAkFoltqwpVuL-VpNmtSr7HpvDnfb81L_Y8UhNpsbx-5qm0TUzJTfmCLs0EkxmJaHnof4-rLYAUEhK0Hh67zMfdlX2RypCm2iWOznH2gtpluTLJPXj0UTe41CR3IGMOtQMBfK-WcLV7NHcFKbQHQh46CEptcWxtEhTAMr_BmJHo6-_Ow==",
       "badge": "UPDATE"
     }
   ]
