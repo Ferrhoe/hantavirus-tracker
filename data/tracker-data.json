@@ -1,9 +1,9 @@
 {
-  "confirmed": 162,
+  "confirmed": 164,
   "probable": 10,
   "deaths": 5,
   "monitoring": 309,
-  "last_updated": "2026-06-25T09:35:33.459294+00:00",
+  "last_updated": "2026-06-25T14:43:19.316562+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -72,7 +72,7 @@
       "monitoring": 1
     },
     "Singapore": {
-      "confirmed": 0,
+      "confirmed": 1,
       "probable": 0,
       "deaths": 0,
       "monitoring": 2
@@ -144,7 +144,7 @@
       "monitoring": 37
     },
     "Greece": {
-      "confirmed": 0,
+      "confirmed": 1,
       "probable": 0,
       "deaths": 0,
       "monitoring": 0
@@ -402,6 +402,13 @@
       "probable": 10,
       "deaths": 5,
       "monitoring": 309
+    },
+    {
+      "date": "Jun 25",
+      "confirmed": 164,
+      "probable": 10,
+      "deaths": 5,
+      "monitoring": 309
     }
   ],
   "news": [
@@ -431,6 +438,13 @@
       "display_date": "2026-06-23",
       "text": "Andes virus cases on MV Hondius highlight hidden risks of confined travel",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMzTtf108OsjJjgObckD5Qb1HA3rGSjlqMWIqpdtfc9Xiu6CsgLMTI-s5Sv3vOfocYZKn5UGPKA_d5TY7wRqlol4tU2e9uOMRyFueaDLQcwlY_feFaJQkUiSeIWDVgIh_mU4z6HJCOWjTaEZ_r2iuHt7NBhFesCexnnmLxbAGu3gsdYjKN0--RykPfo7wfxy6AmFgvWD9nxngyG3kE2G2vZ9_IvKHBGR7ne0780peNIB029-8=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-22",
+      "display_date": "2026-06-22",
+      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj4IKS8RI9_Di1v5ROCajQhmnKwzbt3yVEXirMI9dks39yiacWRC1aM5WLFznRuRKmQzbc8EBFcpV1fWdxYzKZZjFrBCU1yYK1_L_OUBoMxgf85d-URRSi6aYZvUxcOxdWNUd4pz_SZ2EvTm1IQBm4s2jGRUNB",
       "badge": "UPDATE"
     },
     {
@@ -501,13 +515,6 @@
       "display_date": "2026-06-19",
       "text": "Andes virus outbreak linked to expedition cruise ship travel, multi-country investigation and response, April to June 2026 - Eurosurveillance",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHgdXpSCYOc-JgPuuVRE963l2xTBS1yQvGg0T0xqhOxxUdAA67NGqvvyIC5M1O19sYNHTiWuYnk2bG2skiBoV7fk3K1bpekY6Ptcb8DvhzHGGbQY15rmK1zGvOdNI1D0KL0VmYweD1mKm1GCBVPfd6SWdz8yyU6sJTc-egG4k_kYu_lEcCMME_NhiU2YyfENDnphVstQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-18",
-      "display_date": "2026-06-18",
-      "text": "Two more cruise ship passengers depart from National Quarantine Unit",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF73l3ANOUyLqWXDExUe1hC0a_nZ5S5uCQzNtvbhjZMPmwawxXDWwAnaqkqi-ObSL63G_-3cUFZwXDz0cOjb9tITLituzlx-hDbXkZv1vF6nNxeVhPAKIYtD1Te6rw9T9TOZpg0tIQEflZsjYN_LnQSwzp41AWB97h2FucJqs7zYRBdxXETjoanFkU7XETjoanFkU7UmyFjJwITruxaJVraDap2210nJ_MruoTjMO8YKlfLu4=",
       "badge": "UPDATE"
     }
   ]
