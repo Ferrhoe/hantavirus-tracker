@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 309,
-  "last_updated": "2026-06-26T04:08:28.579416+00:00",
+  "last_updated": "2026-06-26T09:36:37.731497+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -422,6 +422,13 @@
     {
       "date": "2026-06-24",
       "display_date": "2026-06-24",
+      "text": "Hantavirus self-isolation complete for 34 Canadians, Health Canada says",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGA4ltwxLGeI9d-y1D_-rXEDkyONmOpyP3sg5LbbL5jX2SyGHWV6dG1kElZOncFLVTVEqtCW4JOCjuRfz3katgJSYs-53PstwQ059P7GzHrYhsQXZoZC2mYr8NOQAPFcFRkAOcPmsi401KcfQeEuT5e3Ciy7mUPdADkmyBjw5-TlKU5RcwOOlhdkN5yMk7Epg6OR6FyEkT0839Nf6q",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
       "text": "US public health agency concludes hantavirus response as outbreak eases",
       "link": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
       "badge": "UPDATE"
@@ -508,13 +515,6 @@
       "display_date": "2026-06-19",
       "text": "The real reason a hantavirus disaster was averted - The Guardian",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZvbDIyAxgTTyKfEdN0JGR9XWJqHMr4i2yAhUtMDFTlaDMVDPAriUMBuwFddaIcOG4Q7-XKwv4me47DbrjI_n8U5NbKXoFV7EnyW6bJ-FH-Zq9c6ox0xpJt5zcrlAi3PS1QoUIdH6y1ThC_E-0Tntc5BccSRj-8A-_Eadi9TrwlEbRSj7tTaQ9PwmuDcIptf6ik2FdSy6ktJ0L",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-19",
-      "display_date": "2026-06-19",
-      "text": "What did we learn from the hantavirus cruise ship scare? - CP24",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_vn6usFXg59VYPDT6FQKjieiZvGdytmpQmOctF5izf02SKl-HvuH6qkwFOhUF-ZH_tiM6VkaYAOZRSXWlzIO1bqyM7e3Yfh9yEBOqQ01Pzj9RxnUNelf-symrV3pi5_QvJx8gXpP3P4i7qeYa2f08O2-FVXYKOqSBX8zlI3wo5cfwD2S1WlPgTZoagK9T5AD0QDWrenjGxcM-N1axQ==",
       "badge": "UPDATE"
     }
   ]
