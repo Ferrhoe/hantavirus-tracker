@@ -2,8 +2,8 @@
   "confirmed": 164,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 309,
-  "last_updated": "2026-06-26T09:36:37.731497+00:00",
+  "monitoring": 310,
+  "last_updated": "2026-06-26T14:35:36.275628+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -51,7 +51,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 1
+      "monitoring": 2
     },
     "Netherlands": {
       "confirmed": 30,
