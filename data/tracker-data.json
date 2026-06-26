@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 309,
-  "last_updated": "2026-06-25T20:07:55.460645+00:00",
+  "last_updated": "2026-06-26T04:08:28.579416+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -413,6 +413,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-25",
+      "display_date": "2026-06-25",
+      "text": "WHO: Hantavirus outbreak should formally end on July 2",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQzqJtV6XX1dxWCZtl8h3bn0-xxyGNd6KqKzKtArqDHm_qmM8c6z9PDpTv5TDvTBZ68h_uu1KjQY2_qdppM1gT7ivCm-tVb-ydTT9vyaOabCXyYtgpDlxtEaXmopDIw20wjIosUpqGSZfpLJkWPexqyWqfPYYqgTQBc53r9f-AF3aSrG5ft_vpKszKtI_x_-rVnMbTbNVIt6Odn5GSMygsqunp6uGHrbwe5qbQoPjhhtY7HylH3c=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-24",
       "display_date": "2026-06-24",
       "text": "US public health agency concludes hantavirus response as outbreak eases",
@@ -431,6 +438,13 @@
       "display_date": "2026-06-24",
       "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8yMVPY3lt4ZT5rPL1AppMGH649JXhotQNHvf0cokrCoVaEol-gZDfjFnq87E0UUImoDaefE_fKmCsnJzQIptXlAEgECwb9o2MJAed1tSSowH23zlhMWi4WJwHRHkATHhE2fq2vBWlPDFMU2F4Bclwwx91vdxf8g8JV8mmyIGlnkq1_sTzTY4nvZ45jPPK7PAfJg_wUHRvSzQ_cng_L7-jAcnChp4Dm_7YCEWTtXst7GYsp5A=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-23",
+      "display_date": "2026-06-23",
+      "text": "All US passengers from hantavirus-hit ship return to home states",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tMTf4O7WTef0uvvQYmKDbXyC_s1FvWPiJGgV5_GB7DKxuoKtohSFvH8vRwqwgp6j_F4ytr8fiVs77ncWL4p5bTFYRNJkMe9_89ypSrO6amtd4pVh0w04ylC6lvkFdB2c9QvixR5DYTXH96aKzGBYQbXNeOyST7abc4qc9-QKHJhOjOvvLG2RIHXPhu2KKWxLpXTQKxSL5Q==",
       "badge": "UPDATE"
     },
     {
@@ -501,20 +515,6 @@
       "display_date": "2026-06-19",
       "text": "What did we learn from the hantavirus cruise ship scare? - CP24",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn_vn6usFXg59VYPDT6FQKjieiZvGdytmpQmOctF5izf02SKl-HvuH6qkwFOhUF-ZH_tiM6VkaYAOZRSXWlzIO1bqyM7e3Yfh9yEBOqQ01Pzj9RxnUNelf-symrV3pi5_QvJx8gXpP3P4i7qeYa2f08O2-FVXYKOqSBX8zlI3wo5cfwD2S1WlPgTZoagK9T5AD0QDWrenjGxcM-N1axQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-19",
-      "display_date": "2026-06-19",
-      "text": "Almost all passengers, crew from hantavirus ship out of quarantine | National Post",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjL8Da0daVPCOei68I90mPNsNmuc9obqf_-ugdxzTN-bt-3vszD_qrbWzGQhmdRhrji1PUKGawteZmnCjr8td7pWp-Ekz8TJ0IeJeYaPge_49wqP0fTKy1OU69G9vVBdppHEQm5Bb2BR_eGQ9MDilR_D3rnS7oOpxHxVYax5QnBuXbBHSCMp56AfBrEWOB8lYEE_9jP65TAaiT",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-19",
-      "display_date": "2026-06-19",
-      "text": "Andes virus outbreak linked to expedition cruise ship travel, multi-country investigation and response, April to June 2026 - Eurosurveillance",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHgdXpSCYOc-JgPuuVRE963l2xTBS1yQvGg0T0xqhOxxUdAA67NGqvvyIC5M1O19sYNHTiWuYnk2bG2skiBoV7fk3K1bpekY6Ptcb8DvhzHGGbQY15rmK1zGvOdNI1D0KL0VmYweD1mKm1GCBVPfd6SWdz8yyU6sJTc-egG4k_kYu_lEcCMME_NhiU2YyfENDnphVstQ==",
       "badge": "UPDATE"
     }
   ]
