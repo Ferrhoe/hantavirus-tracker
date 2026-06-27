@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 271,
-  "last_updated": "2026-06-27T13:53:33.697699+00:00",
+  "last_updated": "2026-06-27T19:28:15.799231+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -478,6 +478,13 @@
     {
       "date": "2026-06-22",
       "display_date": "2026-06-22",
+      "text": "MV Hondius hantavirus outbreak - Wikipedia (Quarantine updates in Netherlands)",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJi_N8ZurV5dhMrlZ04bsD_bgPNM82UVpE9v6wFAmEFtDbz4yTDjXw-T9Phgf_u6_oD-je6T8CMWm8XrcaUYfkxe7tnME75rwLmPg6NGSe9PZY-mGIvIQdfkx1sOvKLRHct_a4KkOKH1F-0UwIZeExIIl1ub2zpg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-22",
+      "display_date": "2026-06-22",
       "text": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska - LA Times",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIq1Hy2gQIb_xZVv1YJZrDg0WP2xrBZQiJ971pFdsb0tK5e_-WDTvvSBtzrpSnOFoB8BTGF6xqqKONIMxpp2QDECvUcVc_84uV9XOW8UOXtEsmaH4bGqom2UoJ5cpoUVBXoHC3D8dkWV7mLBFHMsvNGxp_1HfuPT0bXO3UKExUs3n3sy1qkkUdd8PzCHFw_XKnQwv-qXMt3GE3qU0wrIL3KbcQx-Y9JgTOeVfSWsY2WtVURw",
       "badge": "UPDATE"
@@ -508,13 +515,6 @@
       "display_date": "2026-06-20",
       "text": "Hantavirus Outbreak Tracker 2026 \u2014 Live Cases, Map & Updates | HORIZON",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCdW6hNsMIBPy5j3dmsCLuZWakXMFrOipQs093vPC4XwpRdL_7sPubSqxqlmfFaG-p5EXnUKMRxroiQGZ4Ejjuw7-LxW_0H2ie8FliGz7rZkh0GKNPKw==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-19",
-      "display_date": "2026-06-19",
-      "text": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar | The Guardian",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZBAshfOrt8SfrkVaRqfTnvEu2zlbwTx1OYwVo8HcXfG-xRDQW51sua0JFlM9JmaPQSAF00CM_3Vx-Nr_Obp2C5WJP5A_5BxfZqjnN55qjLK94BW3gNtjskwqpIcZoOBaQjVZwpx4yYspTuI3EgaBbKU6xTmhHkq66xhSZ04nvteSQu1EUd6qZa08jCsU1qT6codEy8T_RKC46xm7NzTdAlvv5CA==",
       "badge": "UPDATE"
     }
   ]
