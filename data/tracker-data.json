@@ -2,8 +2,8 @@
   "confirmed": 164,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 310,
-  "last_updated": "2026-06-27T03:54:13.756419+00:00",
+  "monitoring": 271,
+  "last_updated": "2026-06-27T08:43:12.812858+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -51,7 +51,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 2
+      "monitoring": 0
     },
     "Netherlands": {
       "confirmed": 30,
@@ -141,7 +141,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 37
+      "monitoring": 0
     },
     "Greece": {
       "confirmed": 1,
@@ -478,6 +478,13 @@
     {
       "date": "2026-06-22",
       "display_date": "2026-06-22",
+      "text": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska - LA Times",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIq1Hy2gQIb_xZVv1YJZrDg0WP2xrBZQiJ971pFdsb0tK5e_-WDTvvSBtzrpSnOFoB8BTGF6xqqKONIMxpp2QDECvUcVc_84uV9XOW8UOXtEsmaH4bGqom2UoJ5cpoUVBXoHC3D8dkWV7mLBFHMsvNGxp_1HfuPT0bXO3UKExUs3n3sy1qkkUdd8PzCHFw_XKnQwv-qXMt3GE3qU0wrIL3KbcQx-Y9JgTOeVfSWsY2WtVURw",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-22",
+      "display_date": "2026-06-22",
       "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj4IKS8RI9_Di1v5ROCajQhmnKwzbt3yVEXirMI9dks39yiacWRC1aM5WLFznRuRKmQzbc8EBFcpV1fWdxYzKZZjFrBCU1yYK1_L_OUBoMxgf85d-URRSi6aYZvUxcOxdWNUd4pz_SZ2EvTm1IQBm4s2jGRUNB",
       "badge": "UPDATE"
@@ -508,13 +515,6 @@
       "display_date": "2026-06-19",
       "text": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar | The Guardian",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZBAshfOrt8SfrkVaRqfTnvEu2zlbwTx1OYwVo8HcXfG-xRDQW51sua0JFlM9JmaPQSAF00CM_3Vx-Nr_Obp2C5WJP5A_5BxfZqjnN55qjLK94BW3gNtjskwqpIcZoOBaQjVZwpx4yYspTuI3EgaBbKU6xTmhHkq66xhSZ04nvteSQu1EUd6qZa08jCsU1qT6codEy8T_RKC46xm7NzTdAlvv5CA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-19",
-      "display_date": "2026-06-19",
-      "text": "Tristan da Cunha Hantavirus Outbreak 2026",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFVx-lNXWvRPyBlCkMAN-U94b8wccJT02huH8E7Yv4wv_bxfAs-XHFR0o3nQuZRaqgy5SInkatdkLEUprp4EvXDUPrYxUqexoCZ-Q6aI0qY7BcDv2SDKAUi_OKxA7HD8MlbL9qFlBwg==",
       "badge": "UPDATE"
     }
   ]
