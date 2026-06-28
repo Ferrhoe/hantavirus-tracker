@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 271,
-  "last_updated": "2026-06-27T19:28:15.799231+00:00",
+  "last_updated": "2026-06-28T04:17:49.877760+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -422,6 +422,13 @@
     {
       "date": "2026-06-25",
       "display_date": "2026-06-25",
+      "text": "Hantavirus Outbreak 2026 Map: Cases, Deaths & Countries Affected | MV Hondius Tracker",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9U1yEflJtnLQbjeDI8mqJWVKRCOzIBkwFNTA_HaZ9lJA2gOFjJpppVMSBUhQtCsE59YTCy5JpUe1sRwx_Dix5cJx_zqmlZMlLPLNHmSQvv-f2xsIapHe7fdE=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-25",
+      "display_date": "2026-06-25",
       "text": "WHO: Hantavirus outbreak should formally end on July 2",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQzqJtV6XX1dxWCZtl8h3bn0-xxyGNd6KqKzKtArqDHm_qmM8c6z9PDpTv5TDvTBZ68h_uu1KjQY2_qdppM1gT7ivCm-tVb-ydTT9vyaOabCXyYtgpDlxtEaXmopDIw20wjIosUpqGSZfpLJkWPexqyWqfPYYqgTQBc53r9f-AF3aSrG5ft_vpKszKtI_x_-rVnMbTbNVIt6Odn5GSMygsqunp6uGHrbwe5qbQoPjhhtY7HylH3c=",
       "badge": "UPDATE"
@@ -508,13 +515,6 @@
       "display_date": "2026-06-22",
       "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus",
       "link": "https://www.cdc.gov/hantavirus/outbreaks/andes-virus-cruise-ship-2026.html",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-20",
-      "display_date": "2026-06-20",
-      "text": "Hantavirus Outbreak Tracker 2026 \u2014 Live Cases, Map & Updates | HORIZON",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCdW6hNsMIBPy5j3dmsCLuZWakXMFrOipQs093vPC4XwpRdL_7sPubSqxqlmfFaG-p5EXnUKMRxroiQGZ4Ejjuw7-LxW_0H2ie8FliGz7rZkh0GKNPKw==",
       "badge": "UPDATE"
     }
   ]
