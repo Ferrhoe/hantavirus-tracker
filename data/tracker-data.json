@@ -1,9 +1,9 @@
 {
-  "confirmed": 164,
+  "confirmed": 167,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 271,
-  "last_updated": "2026-06-28T13:58:36.198176+00:00",
+  "monitoring": 273,
+  "last_updated": "2026-06-28T19:37:21.617118+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 1
     },
     "Canada": {
-      "confirmed": 33,
+      "confirmed": 34,
       "probable": 1,
       "deaths": 0,
       "monitoring": 37
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 38,
+      "confirmed": 39,
       "probable": 1,
       "deaths": 0,
       "monitoring": 22
@@ -51,7 +51,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 2
     },
     "Netherlands": {
       "confirmed": 30,
@@ -84,7 +84,7 @@
       "monitoring": 90
     },
     "Spain": {
-      "confirmed": 48,
+      "confirmed": 49,
       "probable": 0,
       "deaths": 0,
       "monitoring": 14
@@ -409,6 +409,13 @@
       "probable": 10,
       "deaths": 5,
       "monitoring": 309
+    },
+    {
+      "date": "Jun 28",
+      "confirmed": 167,
+      "probable": 10,
+      "deaths": 5,
+      "monitoring": 273
     }
   ],
   "news": [
@@ -431,6 +438,13 @@
       "display_date": "2026-06-25",
       "text": "WHO: Hantavirus outbreak should formally end on July 2",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQzqJtV6XX1dxWCZtl8h3bn0-xxyGNd6KqKzKtArqDHm_qmM8c6z9PDpTv5TDvTBZ68h_uu1KjQY2_qdppM1gT7ivCm-tVb-ydTT9vyaOabCXyYtgpDlxtEaXmopDIw20wjIosUpqGSZfpLJkWPexqyWqfPYYqgTQBc53r9f-AF3aSrG5ft_vpKszKtI_x_-rVnMbTbNVIt6Odn5GSMygsqunp6uGHrbwe5qbQoPjhhtY7HylH3c=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
+      "text": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqWOS69gR5SZ56D-5UbO-E8QMZyBGhm6OEHdgQYHoXXUteWGBIl2iulJVsH_yHLzd0VVgJCJ8LH3SmFnNrfJzZIp3AqG352V0YY-wrlmztBps-g0J_vikI_dounAj6bZz7wPR-XUiq3h-Y1ZSzud3BY-EojFFt9H-vSpEoxK4K5GKhDPEETBHzDy_5WrHzW469min5GxtsPYG-SUe0gW20MNXo5z80kuY02A==",
       "badge": "UPDATE"
     },
     {
@@ -508,13 +522,6 @@
       "display_date": "2026-06-22",
       "text": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska - LA Times",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIq1Hy2gQIb_xZVv1YJZrDg0WP2xrBZQiJ971pFdsb0tK5e_-WDTvvSBtzrpSnOFoB8BTGF6xqqKONIMxpp2QDECvUcVc_84uV9XOW8UOXtEsmaH4bGqom2UoJ5cpoUVBXoHC3D8dkWV7mLBFHMsvNGxp_1HfuPT0bXO3UKExUs3n3sy1qkkUdd8PzCHFw_XKnQwv-qXMt3GE3qU0wrIL3KbcQx-Y9JgTOeVfSWsY2WtVURw",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-22",
-      "display_date": "2026-06-22",
-      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj4IKS8RI9_Di1v5ROCajQhmnKwzbt3yVEXirMI9dks39yiacWRC1aM5WLFznRuRKmQzbc8EBFcpV1fWdxYzKZZjFrBCU1yYK1_L_OUBoMxgf85d-URRSi6aYZvUxcOxdWNUd4pz_SZ2EvTm1IQBm4s2jGRUNB",
       "badge": "UPDATE"
     }
   ]
