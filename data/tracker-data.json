@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 271,
-  "last_updated": "2026-06-28T04:17:49.877760+00:00",
+  "last_updated": "2026-06-28T09:20:20.441600+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -436,6 +436,20 @@
     {
       "date": "2026-06-24",
       "display_date": "2026-06-24",
+      "text": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpJIGPiVHX01RUiHXzMhN8S33NjigINdpQqizrxOIiPNZpgw5i2sE_tR5bGwS8V7MTlYCwJq4Vq5zLUN3gxLcsObOrTZ36Dx7QtLMfQ1ptCW96Kmgld5dHTk45FjA1w9ITeVdOxiEeM-8AdteunFyKFKaMiVchw9UXfiRjw2bkdWDB_sMz_K_3uq2g5mazqy6xKZWO8Q",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
+      "text": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFgBegApi3KvDnSMCAUSPvBTw_vmkWdDaEGBGzpDHs4iXDAgKN1EUVVKE8wBr3SaZoOib7fZwCAjEKKA0jjetGbYhMcbpwc0_wduOxKqytas7yX2y8ycTR3nCToaxTm76K8MbRkK0cOWlSrGESMwFJXgt1qmPi--jLL0b15IhzATqMDhdGZmf-_HqV1FfoxQmepuXL",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
       "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship | CIDRAP",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7vvrMml8q4PAvIXOdV-h6IjCd7HbjQzlNAOXCMq2DgYuGPzAmCoSHDYhaHCKc7qtVVw7388VE6e9JNKxoqprLNuZPXr5u86Uhaf01lPDzlO4RkkJouB9z-sgxw0o-siUJq9hEA2rhA-i92fkbIt1wkd9h9c5f_c06eeE0Jvd-iGRqLrpABUXR5M7Qr_1bdD8L8-5k5_ohPiT2w6nWw-4Ol86iXi-AGuw6jMSHp-ZmizyFVMI",
       "badge": "UPDATE"
@@ -501,20 +515,6 @@
       "display_date": "2026-06-22",
       "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - CDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj4IKS8RI9_Di1v5ROCajQhmnKwzbt3yVEXirMI9dks39yiacWRC1aM5WLFznRuRKmQzbc8EBFcpV1fWdxYzKZZjFrBCU1yYK1_L_OUBoMxgf85d-URRSi6aYZvUxcOxdWNUd4pz_SZ2EvTm1IQBm4s2jGRUNB",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-22",
-      "display_date": "2026-06-22",
-      "text": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska",
-      "link": "https://www.latimes.com/world/2026/jun/22/hantavirus-quarantine-ends-nebraska",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-22",
-      "display_date": "2026-06-22",
-      "text": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus",
-      "link": "https://www.cdc.gov/hantavirus/outbreaks/andes-virus-cruise-ship-2026.html",
       "badge": "UPDATE"
     }
   ]
