@@ -2,8 +2,8 @@
   "confirmed": 168,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 256,
-  "last_updated": "2026-06-29T15:55:34.960981+00:00",
+  "monitoring": 260,
+  "last_updated": "2026-06-29T20:05:42.470446+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -57,7 +57,7 @@
       "confirmed": 30,
       "probable": 0,
       "deaths": 2,
-      "monitoring": 27
+      "monitoring": 1
     },
     "New Zealand": {
       "confirmed": 0,
@@ -141,7 +141,7 @@
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 30
     },
     "Greece": {
       "confirmed": 1,
@@ -428,7 +428,7 @@
       "confirmed": 168,
       "probable": 10,
       "deaths": 5,
-      "monitoring": 256
+      "monitoring": 260
     }
   ],
   "news": [
@@ -444,6 +444,13 @@
       "display_date": "2026-06-26",
       "text": "Differentiated Contact Tracing for Emerging Zoonotic Hantavirus and Ebolavirus Infections: Lessons from the 2026 Andes Virus (MV Hondius) and Bundibugyo Virus Outbreaks",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETqBVyQZYeRtcZjnw4Gbmjd7Wf8bJGbsBb2nuUSO1FA7FXJce_70ZWSSn68lg5KkqmjQ_JJXH_BVg8--aXN5WFC-OQfNIbEZUHNAqlTDd_kEPzaCxaTHEIHCZVP5CTPPsamg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-25",
+      "display_date": "2026-06-25",
+      "text": "Hantavirus - Virginia Department of Health",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZFADbksd87SI95dlXUiWDjfDgeu3H9tAnjEUrSshvW65I31GU-jzgEohbg3ltHmJGfEfnym6aPE78SoVhS9bdLplfWtysjLyIbA2InbgiUMO_3CRghC_f8wqsTMQPTg83fEw=",
       "badge": "UPDATE"
     },
     {
@@ -528,13 +535,6 @@
       "display_date": "2026-06-24",
       "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8yMVPY3lt4ZT5rPL1AppMGH649JXhotQNHvf0cokrCoVaEol-gZDfjFnq87E0UUImoDaefE_fKmCsnJzQIptXlAEgECwb9o2MJAed1tSSowH23zlhMWi4WJwHRHkATHhE2fq2vBWlPDFMU2F4Bclwwx91vdxf8g8JV8mmyIGlnkq1_sTzTY4nvZ45jPPK7PAfJg_wUHRvSzQ_cng_L7-jAcnChp4Dm_7YCEWTtXst7GYsp5A=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-23",
-      "display_date": "2026-06-23",
-      "text": "Andes virus cases on MV Hondius highlight hidden risks of confined travel",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg3a87uOFzErrlRR2HRuI-LBiZ2d7l2nDTPSkbDQqKYHjhmfIoniJchI8-p3dGatPfKoFl6b4n7ff4PdnzmF7_WOLJWoYv5v9bp29det3sKUXJwU9KaE93ZNPMF4UUcz_90cyf-R4vwGq7qfibQsZ1l0FEwjzdJpgkzrco3dIzh3oBoknAKcbxsLw1yCOZ9j_f25nisDWTX6XDQaNrO0f8ayf6zPQhNfrlCcN8RdPFNUgka7s=",
       "badge": "UPDATE"
     }
   ]
