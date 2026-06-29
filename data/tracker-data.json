@@ -1,9 +1,9 @@
 {
-  "confirmed": 167,
+  "confirmed": 168,
   "probable": 10,
   "deaths": 5,
   "monitoring": 273,
-  "last_updated": "2026-06-28T19:37:21.617118+00:00",
+  "last_updated": "2026-06-29T04:23:24.919078+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -120,7 +120,7 @@
       "monitoring": 0
     },
     "Tristan da Cunha": {
-      "confirmed": 1,
+      "confirmed": 2,
       "probable": 1,
       "deaths": 0,
       "monitoring": 17
@@ -416,14 +416,35 @@
       "probable": 10,
       "deaths": 5,
       "monitoring": 273
+    },
+    {
+      "date": "Jun 29",
+      "confirmed": 168,
+      "probable": 10,
+      "deaths": 5,
+      "monitoring": 273
     }
   ],
   "news": [
     {
       "date": "2026-06-26",
       "display_date": "2026-06-26",
+      "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqAftgU4gv3Py7CoCBeLQI_ChT7mV9GJt4kIre4kacYnYtAFd5E8U_c8aYCGQzcvKj51XWrlo72RFXjs1JDA-45egxn0zTPxbxdxtveq_ji6llAcjn__pJAja1qoY6L_9TYcUa30-OEj532Zw2diVd1rcpoml_AK7RTkl1_VNMZGBIVdmcpVIdeOpZ_ECCvDg78mx5qQwX7phQUKZXzTe43vXp4cm066dfyTUc",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-26",
+      "display_date": "2026-06-26",
       "text": "Differentiated Contact Tracing for Emerging Zoonotic Hantavirus and Ebolavirus Infections: Lessons from the 2026 Andes Virus (MV Hondius) and Bundibugyo Virus Outbreaks",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETqBVyQZYeRtcZjnw4Gbmjd7Wf8bJGbsBb2nuUSO1FA7FXJce_70ZWSSn68lg5KkqmjQ_JJXH_BVg8--aXN5WFC-OQfNIbEZUHNAqlTDd_kEPzaCxaTHEIHCZVP5CTPPsamg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-25",
+      "display_date": "2026-06-25",
+      "text": "Hantavirus Shows How Little Has Changed: News Article - Independent Institute",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxIxcpKHw_FZdDN3hqkLbxPwjVlQBSRvnvyEqdUZneFT9cnlpRz91vNtfT8Z8NglcEg790VB2xfPs6pI4mnwj6Nzkd7J4YNPFqILqwwDxoilCov-XLNILUuXjrG3sO-GRGoslRVyyJV8GQ1NQRnELZoclQHKi2ei0EIKWXumu5nzyYeTWl629yF1e-grmEk0tdQ==",
       "badge": "UPDATE"
     },
     {
@@ -438,6 +459,13 @@
       "display_date": "2026-06-25",
       "text": "WHO: Hantavirus outbreak should formally end on July 2",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQzqJtV6XX1dxWCZtl8h3bn0-xxyGNd6KqKzKtArqDHm_qmM8c6z9PDpTv5TDvTBZ68h_uu1KjQY2_qdppM1gT7ivCm-tVb-ydTT9vyaOabCXyYtgpDlxtEaXmopDIw20wjIosUpqGSZfpLJkWPexqyWqfPYYqgTQBc53r9f-AF3aSrG5ft_vpKszKtI_x_-rVnMbTbNVIt6Odn5GSMygsqunp6uGHrbwe5qbQoPjhhtY7HylH3c=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
+      "text": "Hantavirus quarantine ends; no cases in the US - Boston 25 News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZNoMxPhO292xaUoNObeoGt6f95h-b--xIsMfPhg-C5jvAI8uWCc2jOdEzPUb_hthCxc79aIPUr8g-SXuqFvJrZdmHWspRASwRD87U8oI7j62rdNZ5GA7ldnuYhu4ZvwUfE4LwuI0S4bEjUaS0ETOTSCioOQ3Tfr5KPbSwNCgdzcwI1aKNubntvUplxgZsi15mrkUhbcXlRm-60JGNQA1OmMfYylvMF8=",
       "badge": "UPDATE"
     },
     {
@@ -501,27 +529,6 @@
       "display_date": "2026-06-23",
       "text": "All US passengers from hantavirus-hit ship return to home states",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tMTf4O7WTef0uvvQYmKDbXyC_s1FvWPiJGgV5_GB7DKxuoKtohSFvH8vRwqwgp6j_F4ytr8fiVs77ncWL4p5bTFYRNJkMe9_89ypSrO6amtd4pVh0w04ylC6lvkFdB2c9QvixR5DYTXH96aKzGBYQbXNeOyST7abc4qc9-QKHJhOjOvvLG2RIHXPhu2KKWxLpXTQKxSL5Q==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-23",
-      "display_date": "2026-06-23",
-      "text": "Andes virus cases on MV Hondius highlight hidden risks of confined travel",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMzTtf108OsjJjgObckD5Qb1HA3rGSjlqMWIqpdtfc9Xiu6CsgLMTI-s5Sv3vOfocYZKn5UGPKA_d5TY7wRqlol4tU2e9uOMRyFueaDLQcwlY_feFaJQkUiSeIWDVgIh_mU4z6HJCOWjTaEZ_r2iuHt7NBhFesCexnnmLxbAGu3gsdYjKN0--RykPfo7wfxy6AmFgvWD9nxngyG3kE2G2vZ9_IvKHBGR7ne0780peNIB029-8=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-22",
-      "display_date": "2026-06-22",
-      "text": "MV Hondius hantavirus outbreak - Wikipedia (Quarantine updates in Netherlands)",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJi_N8ZurV5dhMrlZ04bsD_bgPNM82UVpE9v6wFAmEFtDbz4yTDjXw-T9Phgf_u6_oD-je6T8CMWm8XrcaUYfkxe7tnME75rwLmPg6NGSe9PZY-mGIvIQdfkx1sOvKLRHct_a4KkOKH1F-0UwIZeExIIl1ub2zpg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-22",
-      "display_date": "2026-06-22",
-      "text": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska - LA Times",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIq1Hy2gQIb_xZVv1YJZrDg0WP2xrBZQiJ971pFdsb0tK5e_-WDTvvSBtzrpSnOFoB8BTGF6xqqKONIMxpp2QDECvUcVc_84uV9XOW8UOXtEsmaH4bGqom2UoJ5cpoUVBXoHC3D8dkWV7mLBFHMsvNGxp_1HfuPT0bXO3UKExUs3n3sy1qkkUdd8PzCHFw_XKnQwv-qXMt3GE3qU0wrIL3KbcQx-Y9JgTOeVfSWsY2WtVURw",
       "badge": "UPDATE"
     }
   ]
