@@ -2,8 +2,8 @@
   "confirmed": 168,
   "probable": 10,
   "deaths": 5,
-  "monitoring": 273,
-  "last_updated": "2026-06-29T04:23:24.919078+00:00",
+  "monitoring": 256,
+  "last_updated": "2026-06-29T11:09:44.737022+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -123,7 +123,7 @@
       "confirmed": 2,
       "probable": 1,
       "deaths": 0,
-      "monitoring": 17
+      "monitoring": 0
     },
     "Pitcairn Islands": {
       "confirmed": 0,
@@ -422,7 +422,7 @@
       "confirmed": 168,
       "probable": 10,
       "deaths": 5,
-      "monitoring": 273
+      "monitoring": 256
     }
   ],
   "news": [
@@ -527,8 +527,8 @@
     {
       "date": "2026-06-23",
       "display_date": "2026-06-23",
-      "text": "All US passengers from hantavirus-hit ship return to home states",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tMTf4O7WTef0uvvQYmKDbXyC_s1FvWPiJGgV5_GB7DKxuoKtohSFvH8vRwqwgp6j_F4ytr8fiVs77ncWL4p5bTFYRNJkMe9_89ypSrO6amtd4pVh0w04ylC6lvkFdB2c9QvixR5DYTXH96aKzGBYQbXNeOyST7abc4qc9-QKHJhOjOvvLG2RIHXPhu2KKWxLpXTQKxSL5Q==",
+      "text": "Andes virus cases on MV Hondius highlight hidden risks of confined travel",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg3a87uOFzErrlRR2HRuI-LBiZ2d7l2nDTPSkbDQqKYHjhmfIoniJchI8-p3dGatPfKoFl6b4n7ff4PdnzmF7_WOLJWoYv5v9bp29det3sKUXJwU9KaE93ZNPMF4UUcz_90cyf-R4vwGq7qfibQsZ1l0FEwjzdJpgkzrco3dIzh3oBoknAKcbxsLw1yCOZ9j_f25nisDWTX6XDQaNrO0f8ayf6zPQhNfrlCcN8RdPFNUgka7s=",
       "badge": "UPDATE"
     }
   ]
