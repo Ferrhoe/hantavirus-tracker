@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 256,
-  "last_updated": "2026-06-29T11:09:44.737022+00:00",
+  "last_updated": "2026-06-29T15:55:34.960981+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -145,6 +145,12 @@
     },
     "Greece": {
       "confirmed": 1,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Philippines": {
+      "confirmed": 0,
       "probable": 0,
       "deaths": 0,
       "monitoring": 0
