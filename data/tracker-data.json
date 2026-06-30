@@ -1,9 +1,9 @@
 {
   "confirmed": 168,
-  "probable": 10,
+  "probable": 11,
   "deaths": 5,
   "monitoring": 260,
-  "last_updated": "2026-06-30T09:48:35.424984+00:00",
+  "last_updated": "2026-06-30T14:29:14.304359+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -109,7 +109,7 @@
     },
     "United Kingdom": {
       "confirmed": 3,
-      "probable": 5,
+      "probable": 6,
       "deaths": 0,
       "monitoring": 45
     },
@@ -427,6 +427,13 @@
       "date": "Jun 29",
       "confirmed": 168,
       "probable": 10,
+      "deaths": 5,
+      "monitoring": 260
+    },
+    {
+      "date": "Jun 30",
+      "confirmed": 168,
+      "probable": 11,
       "deaths": 5,
       "monitoring": 260
     }
