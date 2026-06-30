@@ -3,7 +3,7 @@
   "probable": 10,
   "deaths": 5,
   "monitoring": 260,
-  "last_updated": "2026-06-29T20:05:42.470446+00:00",
+  "last_updated": "2026-06-30T04:03:52.987136+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -433,6 +433,13 @@
   ],
   "news": [
     {
+      "date": "2026-06-29",
+      "display_date": "2026-06-29",
+      "text": "Canadians exposed to hantavirus on cruise ship complete isolation period | CBC News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEM70fzvh7o9An2v-ewOYqcHoeJDbSh6FXNk9ASd3J825DmFswexx5c0xtZTpIK34g4aS9b0V-TU6SSHu83uX5gIyEB4haNUWbEmbmJANVE97LeHec3navdVOsRhwack_BO6AYJ4Sv7xLDBZUK1o8u9KqebTYl0L4gEao3hMj0_6WqA4GKNSZte7Y=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-26",
       "display_date": "2026-06-26",
       "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
@@ -528,13 +535,6 @@
       "display_date": "2026-06-24",
       "text": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes",
       "link": "https://www.ajmc.com/view/cdc-officially-ends-hantavirus-response-as-outbreak-risk-recedes",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8yMVPY3lt4ZT5rPL1AppMGH649JXhotQNHvf0cokrCoVaEol-gZDfjFnq87E0UUImoDaefE_fKmCsnJzQIptXlAEgECwb9o2MJAed1tSSowH23zlhMWi4WJwHRHkATHhE2fq2vBWlPDFMU2F4Bclwwx91vdxf8g8JV8mmyIGlnkq1_sTzTY4nvZ45jPPK7PAfJg_wUHRvSzQ_cng_L7-jAcnChp4Dm_7YCEWTtXst7GYsp5A=",
       "badge": "UPDATE"
     }
   ]
