@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 300,
-  "last_updated": "2026-07-01T09:58:48.273919+00:00",
+  "last_updated": "2026-07-01T14:47:02.945707+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -498,6 +498,20 @@
     {
       "date": "2026-06-24",
       "display_date": "2026-06-24",
+      "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyJ9V9uXaaPk3MJcG_6GRpR8Zst82qesa51xO5fy-RID9gqwsGOA4MlYaKBk2yTyOUvHwE0-XF7FLWSYbbYZQNxke8wnrpM4q9MVK4YKqK08_oigibVOiljD_cuOXLmEydmXBKLLWizpC2PBA_qRC2ZLMeykWB-pce8dCboX0L0qUvFRn61jKsIargXHZfaud0WKJ2EZIPxvEGm4gYxNz8XAglevz2nZvYri9Hjm7BHj_5Muo=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
+      "text": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3CojSto-pfRjCRUKoRbcbuQPjP99XqLogo9xtPVvVPNcK6U6LK0jf37aip6HH7wWfLtH__HOgROJk8fTZql17PkRl1mLNp1-mKsUFe9FdQdNK7xSABkj0jjzqnRjIUarNQUdtjdcSvUuyXYleD1Ldelk2NBjeN5q0S1Y_DVX-7zZJzoCoknHjZLPsJdf5ZEJMwPZ_4Q==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
       "text": "Hantavirus quarantine ends; no cases in the US - Boston 25 News",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZNoMxPhO292xaUoNObeoGt6f95h-b--xIsMfPhg-C5jvAI8uWCc2jOdEzPUb_hthCxc79aIPUr8g-SXuqFvJrZdmHWspRASwRD87U8oI7j62rdNZ5GA7ldnuYhu4ZvwUfE4LwuI0S4bEjUaS0ETOTSCioOQ3Tfr5KPbSwNCgdzcwI1aKNubntvUplxgZsi15mrkUhbcXlRm-60JGNQA1OmMfYylvMF8=",
       "badge": "UPDATE"
@@ -528,20 +542,6 @@
       "display_date": "2026-06-24",
       "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship | CIDRAP",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7vvrMml8q4PAvIXOdV-h6IjCd7HbjQzlNAOXCMq2DgYuGPzAmCoSHDYhaHCKc7qtVVw7388VE6e9JNKxoqprLNuZPXr5u86Uhaf01lPDzlO4RkkJouB9z-sgxw0o-siUJq9hEA2rhA-i92fkbIt1wkd9h9c5f_c06eeE0Jvd-iGRqLrpABUXR5M7Qr_1bdD8L8-5k5_ohPiT2w6nWw-4Ol86iXi-AGuw6jMSHp-ZmizyFVMI",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "Hantavirus self-isolation complete for 34 Canadians, Health Canada says",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGA4ltwxLGeI9d-y1D_-rXEDkyONmOpyP3sg5LbbL5jX2SyGHWV6dG1kElZOncFLVTVEqtCW4JOCjuRfz3katgJSYs-53PstwQ059P7GzHrYhsQXZoZC2mYr8NOQAPFcFRkAOcPmsi401KcfQeEuT5e3Ciy7mUPdADkmyBjw5-TlKU5RcwOOlhdkN5yMk7Epg6OR6FyEkT0839Nf6q",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "US public health agency concludes hantavirus response as outbreak eases",
-      "link": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases",
       "badge": "UPDATE"
     }
   ]
