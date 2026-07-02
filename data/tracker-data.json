@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 291,
-  "last_updated": "2026-07-02T14:14:33.680515+00:00",
+  "last_updated": "2026-07-02T19:38:35.740603+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -447,6 +447,20 @@
   ],
   "news": [
     {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
+      "text": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoTy11lhpaWwnKPxW45M9xlNxlrSRra8Cx_hoiqZPsZ4UsEr3gtOWpzb6AFNB4TA_HrdLB3FTNn1y3IooayjzHmPs3oFMYzsnzx1d427JNZOnxQ6uUe4yOXw5843gwUQfdqQr2UmcDHkBWK8V-e_3wSXVLordQeZ9VoYvoP3tDlEMyOJYlguWpTvYr_OJD3uE1OljqX3HDCMEXb8M6qMj-mznETExKD_g09pPbBRS0K8bo0TfrFSho",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
+      "text": "WHO says cruise ship-linked hantavirus outbreak over - CTV News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoCz9DJS8iwSAQfcDLFJp_dTBU8oovDn61bS92ptcJt2ndA2V_nz4vRP4o18U0Yhi4DxM4n6UFbMgOA4WfS1eG7sRi2jSK_SiAkAnnvrFbZkVcHtKLTlycgm4hLJdJ_BPYpFvNlAlVBgv44twYHbEpzxwuR4QZ6Zr5z1ibZfnaUda25ememOTsLliXu-Qaj0hrDwf9ng==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-06-30",
       "display_date": "2026-06-30",
       "text": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship",
@@ -535,20 +549,6 @@
       "display_date": "2026-06-24",
       "text": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqWOS69gR5SZ56D-5UbO-E8QMZyBGhm6OEHdgQYHoXXUteWGBIl2iulJVsH_yHLzd0VVgJCJ8LH3SmFnNrfJzZIp3AqG352V0YY-wrlmztBps-g0J_vikI_dounAj6bZz7wPR-XUiq3h-Y1ZSzud3BY-EojFFt9H-vSpEoxK4K5GKhDPEETBHzDy_5WrHzW469min5GxtsPYG-SUe0gW20MNXo5z80kuY02A==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpJIGPiVHX01RUiHXzMhN8S33NjigINdpQqizrxOIiPNZpgw5i2sE_tR5bGwS8V7MTlYCwJq4Vq5zLUN3gxLcsObOrTZ36Dx7QtLMfQ1ptCW96Kmgld5dHTk45FjA1w9ITeVdOxiEeM-8AdteunFyKFKaMiVchw9UXfiRjw2bkdWDB_sMz_K_3uq2g5mazqy6xKZWO8Q",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFgBegApi3KvDnSMCAUSPvBTw_vmkWdDaEGBGzpDHs4iXDAgKN1EUVVKE8wBr3SaZoOib7fZwCAjEKKA0jjetGbYhMcbpwc0_wduOxKqytas7yX2y8ycTR3nCToaxTm76K8MbRkK0cOWlSrGESMwFJXgt1qmPi--jLL0b15IhzATqMDhdGZmf-_HqV1FfoxQmepuXL",
       "badge": "UPDATE"
     }
   ]
