@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 300,
-  "last_updated": "2026-07-01T20:03:24.984331+00:00",
+  "last_updated": "2026-07-02T03:59:18.411975+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -498,6 +498,13 @@
     {
       "date": "2026-06-24",
       "display_date": "2026-06-24",
+      "text": "Cruise ship hantavirus outbreak turns into a global contact tracing test - 2 Minute Medicine",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBBr0xZ0m9H-0NfjN8qtCiAU_vjejyrm8v0McZHCSirAPx51hmpDn84vxwQkw_9k-zxr0ajZ27cXGaOGDDyX_I-kNsfe07BMq7XED_lx58AxyIXmfFvTPiB1zoCbPC5j6P31iUDydBTVHQLmFjGMFYCEhRroGGHOBii7QiPhVH8N8_kHmIAPa-9Pqs0EOeu5rfnxHWg2ZqtHUP4YDe9_LVJiKw",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
       "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyJ9V9uXaaPk3MJcG_6GRpR8Zst82qesa51xO5fy-RID9gqwsGOA4MlYaKBk2yTyOUvHwE0-XF7FLWSYbbYZQNxke8wnrpM4q9MVK4YKqK08_oigibVOiljD_cuOXLmEydmXBKLLWizpC2PBA_qRC2ZLMeykWB-pce8dCboX0L0qUvFRn61jKsIargXHZfaud0WKJ2EZIPxvEGm4gYxNz8XAglevz2nZvYri9Hjm7BHj_5Muo=",
       "badge": "UPDATE"
@@ -535,13 +542,6 @@
       "display_date": "2026-06-24",
       "text": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFgBegApi3KvDnSMCAUSPvBTw_vmkWdDaEGBGzpDHs4iXDAgKN1EUVVKE8wBr3SaZoOib7fZwCAjEKKA0jjetGbYhMcbpwc0_wduOxKqytas7yX2y8ycTR3nCToaxTm76K8MbRkK0cOWlSrGESMwFJXgt1qmPi--jLL0b15IhzATqMDhdGZmf-_HqV1FfoxQmepuXL",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship | CIDRAP",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7vvrMml8q4PAvIXOdV-h6IjCd7HbjQzlNAOXCMq2DgYuGPzAmCoSHDYhaHCKc7qtVVw7388VE6e9JNKxoqprLNuZPXr5u86Uhaf01lPDzlO4RkkJouB9z-sgxw0o-siUJq9hEA2rhA-i92fkbIt1wkd9h9c5f_c06eeE0Jvd-iGRqLrpABUXR5M7Qr_1bdD8L8-5k5_ohPiT2w6nWw-4Ol86iXi-AGuw6jMSHp-ZmizyFVMI",
       "badge": "UPDATE"
     }
   ]
