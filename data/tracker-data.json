@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-03T14:20:28.886902+00:00",
+  "last_updated": "2026-07-03T19:37:12.711875+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -447,6 +447,20 @@
   ],
   "news": [
     {
+      "date": "2026-07-03",
+      "display_date": "2026-07-03",
+      "text": "Hantavirus outbreak linked to cruise ship is over, say officials | The BMJ",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGji3KteIUzyiEYf9GlCHCfO_zS4GHoDMpJDdVjymEwo7m4jKxkamdvBOJwS6_8ly3D2mOB4uHlSbgvZhGKAEPyU1UNzNc_bAMgZZnFfFhCu1BtIeY4DqLXNfbVRtZrRGwS4PwlTf_jvALCYNzJLNG6aKTSBB0=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-03",
+      "display_date": "2026-07-03",
+      "text": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - National | Globalnews.ca",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5rHAm6pHIWiYN3q-ajOKC-0apQaTX8J70EFMPDtFQ9sTJM5H4ghZttJ7e3uAw3Sc_QWb5V2o7yhgtuRoe02KHD2gzZge6Ve-jWsqjnsKC0qWplArAY40eS1CJlJNdC_do_cyhZTdqxgIYlzKgxDVsYz8lg7RceD0K93DtoCuGU3v4plBRe8Zb",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
       "text": "WHO declares cruise ship hantavirus outbreak over - The Hindu",
@@ -535,20 +549,6 @@
       "display_date": "2026-06-25",
       "text": "WHO: Hantavirus outbreak should formally end on July 2",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQzqJtV6XX1dxWCZtl8h3bn0-xxyGNd6KqKzKtArqDHm_qmM8c6z9PDpTv5TDvTBZ68h_uu1KjQY2_qdppM1gT7ivCm-tVb-ydTT9vyaOabCXyYtgpDlxtEaXmopDIw20wjIosUpqGSZfpLJkWPexqyWqfPYYqgTQBc53r9f-AF3aSrG5ft_vpKszKtI_x_-rVnMbTbNVIt6Odn5GSMygsqunp6uGHrbwe5qbQoPjhhtY7HylH3c=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcVixHdcSAlIU4rKUdXCFLrYzG6q7RPqF3d8tkv1uogJwqyR4YWklr4RBZTU1lW8f6lZJ-5LHUCjo8XVcC3YUTjMNNMk9ktTNSHMwjqcw2bclotiCJXjeAWQwHMi41Vwm4xbytBSHghhEEPS-oR8ZQrK1Ho80tQ9Pkv_caDcZcpDfSwXeVSdaIO8WKZthJs8nrJg0Z",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "Cruise ship hantavirus outbreak turns into a global contact tracing test - 2 Minute Medicine",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBBr0xZ0m9H-0NfjN8qtCiAU_vjejyrm8v0McZHCSirAPx51hmpDn84vxwQkw_9k-zxr0ajZ27cXGaOGDDyX_I-kNsfe07BMq7XED_lx58AxyIXmfFvTPiB1zoCbPC5j6P31iUDydBTVHQLmFjGMFYCEhRroGGHOBii7QiPhVH8N8_kHmIAPa-9Pqs0EOeu5rfnxHWg2ZqtHUP4YDe9_LVJiKw",
       "badge": "UPDATE"
     }
   ]
