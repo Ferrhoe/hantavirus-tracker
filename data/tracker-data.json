@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-03T03:42:08.787764+00:00",
+  "last_updated": "2026-07-03T09:26:47.935579+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -449,6 +449,20 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "WHO declares cruise ship hantavirus outbreak over - The Hindu",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBMI_q0hGHEobRQvIPONJ-pj-owJ8UIW8vBmEigZPpnrifg_URTPMnrIqJENt55TBNOpIYILZfuJJVNl7Veewt-SgRVhlPE_c3Utj2u1SNU8t0tyGdMrNAdIm5n3xJxOV8AUFTwRkydx60qoNOFlBS8gxAHwx85t3JP7ifzL61TVMkOBcG4zEKSVmWeuAU6KXNCOlUS9Fom4dABMWuiTFQAzpNqlz8CiiD",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
+      "text": "Deadly hantavirus outbreak is officially over, WHO says | WORLD - WNG.org",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgeEcUvtzVp7YfBdG0jFwj1EqlsTHTTH0nTCyPJlM7UR2UbGofpdVjn4q5Tb2M-cbpngtMzH5MfHEKakm_fA9wt5MszsxrDKj2kgEVin0CFANDZZXjpLsJMawi-b8U3ue_D_UMVxW6hqov_xT9Y7c-NsEtJ6rojmuJPuLA",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMalupoPiN4h7iGRHcE2qTLnb8l4f-rhJ5Aj7dwlX9zPLh1Xs3uLNIXWY2bBKs7mXCFLhsL4_4M2RHhBAehuBZN1wBvn9X6NDqcnt3QCrh8u9rN9qywItNOybzmubTu54NdB1XvEhwsZ1zXELpJFwrzQWr61SbKmE7nvu9KIWkjA==",
       "badge": "UPDATE"
@@ -526,29 +540,15 @@
     {
       "date": "2026-06-24",
       "display_date": "2026-06-24",
+      "text": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcVixHdcSAlIU4rKUdXCFLrYzG6q7RPqF3d8tkv1uogJwqyR4YWklr4RBZTU1lW8f6lZJ-5LHUCjo8XVcC3YUTjMNNMk9ktTNSHMwjqcw2bclotiCJXjeAWQwHMi41Vwm4xbytBSHghhEEPS-oR8ZQrK1Ho80tQ9Pkv_caDcZcpDfSwXeVSdaIO8WKZthJs8nrJg0Z",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-06-24",
+      "display_date": "2026-06-24",
       "text": "Cruise ship hantavirus outbreak turns into a global contact tracing test - 2 Minute Medicine",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBBr0xZ0m9H-0NfjN8qtCiAU_vjejyrm8v0McZHCSirAPx51hmpDn84vxwQkw_9k-zxr0ajZ27cXGaOGDDyX_I-kNsfe07BMq7XED_lx58AxyIXmfFvTPiB1zoCbPC5j6P31iUDydBTVHQLmFjGMFYCEhRroGGHOBii7QiPhVH8N8_kHmIAPa-9Pqs0EOeu5rfnxHWg2ZqtHUP4YDe9_LVJiKw",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyJ9V9uXaaPk3MJcG_6GRpR8Zst82qesa51xO5fy-RID9gqwsGOA4MlYaKBk2yTyOUvHwE0-XF7FLWSYbbYZQNxke8wnrpM4q9MVK4YKqK08_oigibVOiljD_cuOXLmEydmXBKLLWizpC2PBA_qRC2ZLMeykWB-pce8dCboX0L0qUvFRn61jKsIargXHZfaud0WKJ2EZIPxvEGm4gYxNz8XAglevz2nZvYri9Hjm7BHj_5Muo=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3CojSto-pfRjCRUKoRbcbuQPjP99XqLogo9xtPVvVPNcK6U6LK0jf37aip6HH7wWfLtH__HOgROJk8fTZql17PkRl1mLNp1-mKsUFe9FdQdNK7xSABkj0jjzqnRjIUarNQUdtjdcSvUuyXYleD1Ldelk2NBjeN5q0S1Y_DVX-7zZJzoCoknHjZLPsJdf5ZEJMwPZ_4Q==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-24",
-      "display_date": "2026-06-24",
-      "text": "Hantavirus quarantine ends; no cases in the US - Boston 25 News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZNoMxPhO292xaUoNObeoGt6f95h-b--xIsMfPhg-C5jvAI8uWCc2jOdEzPUb_hthCxc79aIPUr8g-SXuqFvJrZdmHWspRASwRD87U8oI7j62rdNZ5GA7ldnuYhu4ZvwUfE4LwuI0S4bEjUaS0ETOTSCioOQ3Tfr5KPbSwNCgdzcwI1aKNubntvUplxgZsi15mrkUhbcXlRm-60JGNQA1OmMfYylvMF8=",
       "badge": "UPDATE"
     }
   ]
