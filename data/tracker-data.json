@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-03T19:37:12.711875+00:00",
+  "last_updated": "2026-07-04T03:36:05.600018+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -463,6 +463,13 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "MV Hondius hantavirus outbreak - Wikipedia",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJGdmQh2uxRb6PkdP81AcxXXPhnrfqIU86ALlLlVnBrf0TDUQE9FKnxih_4Hl2kEjwcp8A1Dle5RVfcWy9g99Y9LQrpK-vkGFsOT2GPl-IgjGW0ymyYYJNicGXdo_vMCUoqc2_uClps3w6ruVQ6ExkpIlVgWE",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "WHO declares cruise ship hantavirus outbreak over - The Hindu",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBMI_q0hGHEobRQvIPONJ-pj-owJ8UIW8vBmEigZPpnrifg_URTPMnrIqJENt55TBNOpIYILZfuJJVNl7Veewt-SgRVhlPE_c3Utj2u1SNU8t0tyGdMrNAdIm5n3xJxOV8AUFTwRkydx60qoNOFlBS8gxAHwx85t3JP7ifzL61TVMkOBcG4zEKSVmWeuAU6KXNCOlUS9Fom4dABMWuiTFQAzpNqlz8CiiD",
       "badge": "UPDATE"
@@ -542,13 +549,6 @@
       "display_date": "2026-06-25",
       "text": "Hantavirus Outbreak 2026 Map: Cases, Deaths & Countries Affected | MV Hondius Tracker",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9U1yEflJtnLQbjeDI8mqJWVKRCOzIBkwFNTA_HaZ9lJA2gOFjJpppVMSBUhQtCsE59YTCy5JpUe1sRwx_Dix5cJx_zqmlZMlLPLNHmSQvv-f2xsIapHe7fdE=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-25",
-      "display_date": "2026-06-25",
-      "text": "WHO: Hantavirus outbreak should formally end on July 2",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEQzqJtV6XX1dxWCZtl8h3bn0-xxyGNd6KqKzKtArqDHm_qmM8c6z9PDpTv5TDvTBZ68h_uu1KjQY2_qdppM1gT7ivCm-tVb-ydTT9vyaOabCXyYtgpDlxtEaXmopDIw20wjIosUpqGSZfpLJkWPexqyWqfPYYqgTQBc53r9f-AF3aSrG5ft_vpKszKtI_x_-rVnMbTbNVIt6Odn5GSMygsqunp6uGHrbwe5qbQoPjhhtY7HylH3c=",
       "badge": "UPDATE"
     }
   ]
