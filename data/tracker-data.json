@@ -1,9 +1,9 @@
 {
-  "confirmed": 174,
+  "confirmed": 175,
   "probable": 11,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-04T03:36:05.600018+00:00",
+  "last_updated": "2026-07-04T08:44:34.405934+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -36,7 +36,7 @@
       "monitoring": 0
     },
     "Germany": {
-      "confirmed": 0,
+      "confirmed": 1,
       "probable": 0,
       "deaths": 1,
       "monitoring": 0
@@ -443,6 +443,13 @@
       "probable": 11,
       "deaths": 5,
       "monitoring": 291
+    },
+    {
+      "date": "Jul 4",
+      "confirmed": 175,
+      "probable": 11,
+      "deaths": 5,
+      "monitoring": 0
     }
   ],
   "news": [
