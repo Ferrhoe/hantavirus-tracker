@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-05T19:24:59.685438+00:00",
+  "last_updated": "2026-07-06T04:03:15.359846+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -454,6 +454,13 @@
   ],
   "news": [
     {
+      "date": "2026-07-05",
+      "display_date": "2026-07-05",
+      "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqLDqB6dK9rbewDZXpEoyiGOJq4zTJBTVcyvl1yTrsSFkxoh7Vv9dhAFg3lRzOM1uheibZMGfFVfOjdLRYOTdBNRddJbTsT2Id63C1BaVuwZi7ogkHE3ToDO8aZXr0TxW-d1pntT49eHJ79GaQ94J6iVyrULHXhZL42jv5oHNxQNHaQ7qcA0HoCZWNvfeBKoXmJpvRSA==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-03",
       "display_date": "2026-07-03",
       "text": "Hantavirus outbreak linked to cruise ship is over, say officials | The BMJ",
@@ -549,13 +556,6 @@
       "display_date": "2026-06-25",
       "text": "Hantavirus Shows How Little Has Changed: News Article - Independent Institute",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxIxcpKHw_FZdDN3hqkLbxPwjVlQBSRvnvyEqdUZneFT9cnlpRz91vNtfT8Z8NglcEg790VB2xfPs6pI4mnwj6Nzkd7J4YNPFqILqwwDxoilCov-XLNILUuXjrG3sO-GRGoslRVyyJV8GQ1NQRnELZoclQHKi2ei0EIKWXumu5nzyYeTWl629yF1e-grmEk0tdQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-25",
-      "display_date": "2026-06-25",
-      "text": "Hantavirus Outbreak 2026 Map: Cases, Deaths & Countries Affected | MV Hondius Tracker",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9U1yEflJtnLQbjeDI8mqJWVKRCOzIBkwFNTA_HaZ9lJA2gOFjJpppVMSBUhQtCsE59YTCy5JpUe1sRwx_Dix5cJx_zqmlZMlLPLNHmSQvv-f2xsIapHe7fdE=",
       "badge": "UPDATE"
     }
   ]
