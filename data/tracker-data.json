@@ -3,7 +3,7 @@
   "probable": 11,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-06T04:03:15.359846+00:00",
+  "last_updated": "2026-07-06T10:47:13.065523+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -477,6 +477,13 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "Outbreak Updates - NaTHNaC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsZTERBuaXwehkXY48lcd1wOWUj_8n4ojbg8pRYMA64yjdaVDyVOstEG3lBLsM8TihZs8AYRyMwLwfq8fJxkbp9n4n-xBCycDsEGhXm8c2a22ia4EBVq9OAjRVSD0ajEefiaNaVC8T12pS6RMPpw==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "MV Hondius hantavirus outbreak - Wikipedia",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJGdmQh2uxRb6PkdP81AcxXXPhnrfqIU86ALlLlVnBrf0TDUQE9FKnxih_4Hl2kEjwcp8A1Dle5RVfcWy9g99Y9LQrpK-vkGFsOT2GPl-IgjGW0ymyYYJNicGXdo_vMCUoqc2_uClps3w6ruVQ6ExkpIlVgWE",
       "badge": "UPDATE"
@@ -549,13 +556,6 @@
       "display_date": "2026-06-25",
       "text": "Hantavirus - Virginia Department of Health",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZFADbksd87SI95dlXUiWDjfDgeu3H9tAnjEUrSshvW65I31GU-jzgEohbg3ltHmJGfEfnym6aPE78SoVhS9bdLplfWtysjLyIbA2InbgiUMO_3CRghC_f8wqsTMQPTg83fEw=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-25",
-      "display_date": "2026-06-25",
-      "text": "Hantavirus Shows How Little Has Changed: News Article - Independent Institute",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxIxcpKHw_FZdDN3hqkLbxPwjVlQBSRvnvyEqdUZneFT9cnlpRz91vNtfT8Z8NglcEg790VB2xfPs6pI4mnwj6Nzkd7J4YNPFqILqwwDxoilCov-XLNILUuXjrG3sO-GRGoslRVyyJV8GQ1NQRnELZoclQHKi2ei0EIKWXumu5nzyYeTWl629yF1e-grmEk0tdQ==",
       "badge": "UPDATE"
     }
   ]
