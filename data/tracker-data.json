@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-07T14:48:14.715755+00:00",
+  "last_updated": "2026-07-07T20:02:54.757661+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -463,6 +463,13 @@
     {
       "date": "2026-07-05",
       "display_date": "2026-07-05",
+      "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over | NL Times",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIUOBo0Qj5ck4UCyg-DiOdaPRu2FkvAFAfxqBXz6t6LrU41phMfWq74qddK7A9pweqOJWeMhW7JwbgWVx52-8FK_p2tgkQdjz4hrkSt1g97gnYwO5cNm51JApsW2GR3cjKM6jHpW3bCE4vNANsKJFYzHp_G8X69eIqJDK31x8XzQjyEwLj0WXDOcjXFPUw3b-bs71rXw==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-05",
+      "display_date": "2026-07-05",
       "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqLDqB6dK9rbewDZXpEoyiGOJq4zTJBTVcyvl1yTrsSFkxoh7Vv9dhAFg3lRzOM1uheibZMGfFVfOjdLRYOTdBNRddJbTsT2Id63C1BaVuwZi7ogkHE3ToDO8aZXr0TxW-d1pntT49eHJ79GaQ94J6iVyrULHXhZL42jv5oHNxQNHaQ7qcA0HoCZWNvfeBKoXmJpvRSA==",
       "badge": "UPDATE"
@@ -486,6 +493,13 @@
       "display_date": "2026-07-03",
       "text": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - National | Globalnews.ca",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5rHAm6pHIWiYN3q-ajOKC-0apQaTX8J70EFMPDtFQ9sTJM5H4ghZttJ7e3uAw3Sc_QWb5V2o7yhgtuRoe02KHD2gzZge6Ve-jWsqjnsKC0qWplArAY40eS1CJlJNdC_do_cyhZTdqxgIYlzKgxDVsYz8lg7RceD0K93DtoCuGU3v4plBRe8Zb",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
+      "text": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER-ymHxOGih2IeTcwkBLR1H4V8KiTSl5ixer1ymjUbPHkXNCpo_lzyCfJsCQU3wEuTtN7EUhdFFMWSp76f2-pZN1KHu4RY99bKo--ZfaxGMxWKsBsmjfcVg5aT_VQnUySSfUltOk3-LLivXqIsxC6zyAvlI9od3zNZvLMw",
       "badge": "UPDATE"
     },
     {
@@ -549,20 +563,6 @@
       "display_date": "2026-06-30",
       "text": "Self-isolation ends for travellers exposed to hantavirus-stricken cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHxG268U5bvLC7mwFuxWZB4tHSmD-ey_vGVcVKBMFoUM_g5KaoJJFB9RyxhnOqJogPLwMyvnCnhwEu1MkwFIlNGXKS_dwUtsjueMj507enPBDhacJ9YR4rtuejSMEezeWhZG8PE-qX6GajgqxltXMAN1p6dJZtfW5p-dbpIyPONpJojj_bdkNuuwa9bhUjODEMoqBBYHTfEAt2OkE-nrE9vZL9eOhEURnPUH-3ZbmIdXdk",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-29",
-      "display_date": "2026-06-29",
-      "text": "Canadians exposed to hantavirus on cruise ship complete isolation period | CBC News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEM70fzvh7o9An2v-ewOYqcHoeJDbSh6FXNk9ASd3J825DmFswexx5c0xtZTpIK34g4aS9b0V-TU6SSHu83uX5gIyEB4haNUWbEmbmJANVE97LeHec3navdVOsRhwack_BO6AYJ4Sv7xLDBZUK1o8u9KqebTYl0L4gEao3hMj0_6WqA4GKNSZte7Y=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-26",
-      "display_date": "2026-06-26",
-      "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqAftgU4gv3Py7CoCBeLQI_ChT7mV9GJt4kIre4kacYnYtAFd5E8U_c8aYCGQzcvKj51XWrlo72RFXjs1JDA-45egxn0zTPxbxdxtveq_ji6llAcjn__pJAja1qoY6L_9TYcUa30-OEj532Zw2diVd1rcpoml_AK7RTkl1_VNMZGBIVdmcpVIdeOpZ_ECCvDg78mx5qQwX7phQUKZXzTe43vXp4cm066dfyTUc",
       "badge": "UPDATE"
     }
   ]
