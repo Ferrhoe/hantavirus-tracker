@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-07T03:51:50.439350+00:00",
+  "last_updated": "2026-07-07T09:51:42.036726+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -450,6 +450,13 @@
       "probable": 11,
       "deaths": 5,
       "monitoring": 0
+    },
+    {
+      "date": "Jul 7",
+      "confirmed": 175,
+      "probable": 12,
+      "deaths": 5,
+      "monitoring": 0
     }
   ],
   "news": [
@@ -479,6 +486,13 @@
       "display_date": "2026-07-03",
       "text": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - National | Globalnews.ca",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5rHAm6pHIWiYN3q-ajOKC-0apQaTX8J70EFMPDtFQ9sTJM5H4ghZttJ7e3uAw3Sc_QWb5V2o7yhgtuRoe02KHD2gzZge6Ve-jWsqjnsKC0qWplArAY40eS1CJlJNdC_do_cyhZTdqxgIYlzKgxDVsYz8lg7RceD0K93DtoCuGU3v4plBRe8Zb",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
+      "text": "Hantavirus, international waters - BEACON",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5TdTLHC4L2WoJQoiKhTiPNjZbcQL658tpJEAKBk0c8P03wKe_kW86w9Ln6ANVN3fvueq8MUrqbUliSeOXi64AQXKGo-C5t_u7EyfnfjKcHj1pjH1esQpf0syupaZN7S6PNQJqJf0SkTYBNksJEgfiGbjmBJG8vCjXOZOoQiNN2yewqEJ3RAr7Yk2IFbhp3ixaJpci24tfN0kjbtHhUhYrkQSydeB7Ac4HFwzzwuzJLKj1-_NTkjtR",
       "badge": "UPDATE"
     },
     {
@@ -549,13 +563,6 @@
       "display_date": "2026-06-26",
       "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqAftgU4gv3Py7CoCBeLQI_ChT7mV9GJt4kIre4kacYnYtAFd5E8U_c8aYCGQzcvKj51XWrlo72RFXjs1JDA-45egxn0zTPxbxdxtveq_ji6llAcjn__pJAja1qoY6L_9TYcUa30-OEj532Zw2diVd1rcpoml_AK7RTkl1_VNMZGBIVdmcpVIdeOpZ_ECCvDg78mx5qQwX7phQUKZXzTe43vXp4cm066dfyTUc",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-06-26",
-      "display_date": "2026-06-26",
-      "text": "Differentiated Contact Tracing for Emerging Zoonotic Hantavirus and Ebolavirus Infections: Lessons from the 2026 Andes Virus (MV Hondius) and Bundibugyo Virus Outbreaks",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETqBVyQZYeRtcZjnw4Gbmjd7Wf8bJGbsBb2nuUSO1FA7FXJce_70ZWSSn68lg5KkqmjQ_JJXH_BVg8--aXN5WFC-OQfNIbEZUHNAqlTDd_kEPzaCxaTHEIHCZVP5CTPPsamg==",
       "badge": "UPDATE"
     }
   ]
