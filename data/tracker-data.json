@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-08T19:40:09.866628+00:00",
+  "last_updated": "2026-07-09T03:43:19.083886+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -461,6 +461,13 @@
   ],
   "news": [
     {
+      "date": "2026-07-08",
+      "display_date": "2026-07-08",
+      "text": "Deadly hantavirus outbreak over, WHO announces - Juta MedicalBrief",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqvnCKcmUyKtJ3IHi7dRtfA_p-BdBoezavyf_EX-leZfayPvgY9vz6DqZQn104MK9hDsbYd3sh6tpZFmYw1ioGyVO7ZplY6ndTSyH6ZO7tXVXJl4qTYcNoJX-JH1Y592a0-fitLSVIBHhb5u21uwfQAdpnZEy6PxTpCx2WsW_ajb6zQbTnceV7",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-07",
       "display_date": "2026-07-07",
       "text": "Preparing for Andes Virus Outbreaks to Prevent Transmission in Healthcare Settings",
@@ -556,13 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoTy11lhpaWwnKPxW45M9xlNxlrSRra8Cx_hoiqZPsZ4UsEr3gtOWpzb6AFNB4TA_HrdLB3FTNn1y3IooayjzHmPs3oFMYzsnzx1d427JNZOnxQ6uUe4yOXw5843gwUQfdqQr2UmcDHkBWK8V-e_3wSXVLordQeZ9VoYvoP3tDlEMyOJYlguWpTvYr_OJD3uE1OljqX3HDCMEXb8M6qMj-mznETExKD_g09pPbBRS0K8bo0TfrFSho",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "WHO says cruise ship-linked hantavirus outbreak over - CTV News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoCz9DJS8iwSAQfcDLFJp_dTBU8oovDn61bS92ptcJt2ndA2V_nz4vRP4o18U0Yhi4DxM4n6UFbMgOA4WfS1eG7sRi2jSK_SiAkAnnvrFbZkVcHtKLTlycgm4hLJdJ_BPYpFvNlAlVBgv44twYHbEpzxwuR4QZ6Zr5z1ibZfnaUda25ememOTsLliXu-Qaj0hrDwf9ng==",
       "badge": "UPDATE"
     }
   ]
