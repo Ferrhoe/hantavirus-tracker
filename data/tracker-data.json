@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-10T14:38:23.829870+00:00",
+  "last_updated": "2026-07-10T19:39:35.338247+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -475,6 +475,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-07-06",
+      "display_date": "2026-07-06",
+      "text": "Hantavirus",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELuO-0OtMUqBqftqcfcz8mae6kaqLkYOHsEy8ytWSobRVw0DIgiFRCoA-1gMLwZwOy54zjlVaNvifE0dV3BE50SX-VLRBHVonko8bjKruzRsJ6KbcZFJylSb00OrP8kbfl8A==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-05",
       "display_date": "2026-07-05",
       "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over | NL Times",
@@ -519,6 +526,20 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "Taking the world's temperature: WHO chief spotlights global health emergencies",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsvV6-2vFCOaOTko758zOSxmyjCtu4iyFYDdSZfAYMgGhAvGWrbSPm83ShoWEy6xgwXsjfUuNaZHqgF-FqGihQ2J6f1qBtXTpnRJ7gI1u_ktGQLB29uFjCaThOKsifgPtMmOcTREo=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
+      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB8X7fPuhsteNj1Fpwt7OyoLbkgHdG-cUd7kuKENZL-D3aFZSKR9YBrWDq3I-AqMA2zP9xHhZXYYklDYSW2IZ7W3jF9_g-26-j13hWn_-lb7k8flj-43140B-XNuGrIsTPhsnXlNkvr764lRhzM--WgD2tvZbvKrAqaI8SgdErxQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "Andes hantavirus outbreak in cruise ship",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFv7J3W_OYQTT17ZkdsYLjauhikOCa7otHozDxT5EzSc52OdPhxfMdYr3hexODYkbhbQe_aebz_dxztASznTczzL9pWzpW-47GhG3yHnrj-y1UAJ5O4hH0XXiNQYJBCQ2deQ_PEiv2FIT-thveg7jmZ3SrBpFWG-T9gIo46fPqwmpkQ8ycHRPPygftvppnqpPwybFQYb5rr9JfeH8aoxFkrEWUl8TQvlRr_L_s7lp3SqhiO95m-OhRgg==",
       "badge": "UPDATE"
@@ -542,27 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Outbreak Updates - NaTHNaC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsZTERBuaXwehkXY48lcd1wOWUj_8n4ojbg8pRYMA64yjdaVDyVOstEG3lBLsM8TihZs8AYRyMwLwfq8fJxkbp9n4n-xBCycDsEGhXm8c2a22ia4EBVq9OAjRVSD0ajEefiaNaVC8T12pS6RMPpw==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "MV Hondius hantavirus outbreak - Wikipedia",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJGdmQh2uxRb6PkdP81AcxXXPhnrfqIU86ALlLlVnBrf0TDUQE9FKnxih_4Hl2kEjwcp8A1Dle5RVfcWy9g99Y9LQrpK-vkGFsOT2GPl-IgjGW0ymyYYJNicGXdo_vMCUoqc2_uClps3w6ruVQ6ExkpIlVgWE",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "WHO declares cruise ship hantavirus outbreak over - The Hindu",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBMI_q0hGHEobRQvIPONJ-pj-owJ8UIW8vBmEigZPpnrifg_URTPMnrIqJENt55TBNOpIYILZfuJJVNl7Veewt-SgRVhlPE_c3Utj2u1SNU8t0tyGdMrNAdIm5n3xJxOV8AUFTwRkydx60qoNOFlBS8gxAHwx85t3JP7ifzL61TVMkOBcG4zEKSVmWeuAU6KXNCOlUS9Fom4dABMWuiTFQAzpNqlz8CiiD",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Deadly hantavirus outbreak is officially over, WHO says | WORLD - WNG.org",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgeEcUvtzVp7YfBdG0jFwj1EqlsTHTTH0nTCyPJlM7UR2UbGofpdVjn4q5Tb2M-cbpngtMzH5MfHEKakm_fA9wt5MszsxrDKj2kgEVin0CFANDZZXjpLsJMawi-b8U3ue_D_UMVxW6hqov_xT9Y7c-NsEtJ6rojmuJPuLA",
       "badge": "UPDATE"
     }
   ]
