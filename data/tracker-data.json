@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-10T09:43:41.204201+00:00",
+  "last_updated": "2026-07-10T14:38:23.829870+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -519,6 +519,13 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "Andes hantavirus outbreak in cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFv7J3W_OYQTT17ZkdsYLjauhikOCa7otHozDxT5EzSc52OdPhxfMdYr3hexODYkbhbQe_aebz_dxztASznTczzL9pWzpW-47GhG3yHnrj-y1UAJ5O4hH0XXiNQYJBCQ2deQ_PEiv2FIT-thveg7jmZ3SrBpFWG-T9gIo46fPqwmpkQ8ycHRPPygftvppnqpPwybFQYb5rr9JfeH8aoxFkrEWUl8TQvlRr_L_s7lp3SqhiO95m-OhRgg==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER-ymHxOGih2IeTcwkBLR1H4V8KiTSl5ixer1ymjUbPHkXNCpo_lzyCfJsCQU3wEuTtN7EUhdFFMWSp76f2-pZN1KHu4RY99bKo--ZfaxGMxWKsBsmjfcVg5aT_VQnUySSfUltOk3-LLivXqIsxC6zyAvlI9od3zNZvLMw",
       "badge": "UPDATE"
@@ -556,13 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Deadly hantavirus outbreak is officially over, WHO says | WORLD - WNG.org",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgeEcUvtzVp7YfBdG0jFwj1EqlsTHTTH0nTCyPJlM7UR2UbGofpdVjn4q5Tb2M-cbpngtMzH5MfHEKakm_fA9wt5MszsxrDKj2kgEVin0CFANDZZXjpLsJMawi-b8U3ue_D_UMVxW6hqov_xT9Y7c-NsEtJ6rojmuJPuLA",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMalupoPiN4h7iGRHcE2qTLnb8l4f-rhJ5Aj7dwlX9zPLh1Xs3uLNIXWY2bBKs7mXCFLhsL4_4M2RHhBAehuBZN1wBvn9X6NDqcnt3QCrh8u9rN9qywItNOybzmubTu54NdB1XvEhwsZ1zXELpJFwrzQWr61SbKmE7nvu9KIWkjA==",
       "badge": "UPDATE"
     }
   ]
