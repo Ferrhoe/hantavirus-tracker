@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-11T08:03:34.096061+00:00",
+  "last_updated": "2026-07-11T13:37:14.856090+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -477,6 +477,13 @@
     {
       "date": "2026-07-06",
       "display_date": "2026-07-06",
+      "text": "Hantavirus - Virginia Department of Health",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkMW8icitZFY1G-EQdywPxPKHq3m2rn6geZCKlIHYlN0Y2CPXgFshuZ3gfc1VSHCmahOT4ce4-0R_dIo9dJ4Ld_SAA06tl2ckd-bmBObAW3rjHvrrtDCX4CMuOh5cPyTTiFA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-06",
+      "display_date": "2026-07-06",
       "text": "Hantavirus",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELuO-0OtMUqBqftqcfcz8mae6kaqLkYOHsEy8ytWSobRVw0DIgiFRCoA-1gMLwZwOy54zjlVaNvifE0dV3BE50SX-VLRBHVonko8bjKruzRsJ6KbcZFJylSb00OrP8kbfl8A==",
       "badge": "UPDATE"
@@ -556,13 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB8X7fPuhsteNj1Fpwt7OyoLbkgHdG-cUd7kuKENZL-D3aFZSKR9YBrWDq3I-AqMA2zP9xHhZXYYklDYSW2IZ7W3jF9_g-26-j13hWn_-lb7k8flj-43140B-XNuGrIsTPhsnXlNkvr764lRhzM--WgD2tvZbvKrAqaI8SgdErxQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Andes hantavirus outbreak in cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFv7J3W_OYQTT17ZkdsYLjauhikOCa7otHozDxT5EzSc52OdPhxfMdYr3hexODYkbhbQe_aebz_dxztASznTczzL9pWzpW-47GhG3yHnrj-y1UAJ5O4hH0XXiNQYJBCQ2deQ_PEiv2FIT-thveg7jmZ3SrBpFWG-T9gIo46fPqwmpkQ8ycHRPPygftvppnqpPwybFQYb5rr9JfeH8aoxFkrEWUl8TQvlRr_L_s7lp3SqhiO95m-OhRgg==",
       "badge": "UPDATE"
     }
   ]
