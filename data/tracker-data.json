@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-12T03:24:09.217568+00:00",
+  "last_updated": "2026-07-12T08:24:51.293902+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -477,6 +477,13 @@
     {
       "date": "2026-07-06",
       "display_date": "2026-07-06",
+      "text": "HHS Suspends Hantavirus Monitoring | RT - Respiratory Therapy",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9xzDoiNIQ2eXJJ3bj53EpTRnOQ2_4v5jr2uEsY0eJjqGpYyRbMNc9BK066HOz14KH9Vxmskqc1539tq0lp7Afj4qcr84_g6dPwm5lmM2rLyBtfpePpvMmaaCx2xdyj44f7SG-18TtdyePx15orf-XpxnWRQy4UBhBJZvm7LvHom8XsD5ESN0IntTPfBo9_f0Gj3If8Oy4Q_K5ydjGWp7t0pKUVl6GDsoXTPHbxxagvTHEQ4yD",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-06",
+      "display_date": "2026-07-06",
       "text": "Hantavirus - Virginia Department of Health",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkMW8icitZFY1G-EQdywPxPKHq3m2rn6geZCKlIHYlN0Y2CPXgFshuZ3gfc1VSHCmahOT4ce4-0R_dIo9dJ4Ld_SAA06tl2ckd-bmBObAW3rjHvrrtDCX4CMuOh5cPyTTiFA==",
       "badge": "UPDATE"
@@ -533,6 +540,13 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "MV Hondius hantavirus outbreak - Wikipedia",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqt4zmw5TybO_yM2qwgh-Sj_GHVYY5p3eZLO_zBXrDID-RX-mbU2KvUfJMmil9oeu_CDQU--g3awifjo-1ydFDNSJCsJwzcMxs_nu4f7wamMtYVJtOe6tJqrsTgp0l2rJmPXL-Hf66CjK7dvWNqIhPX6dLGnhj",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "Outbreak Updates - NaTHNaC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1ljq1noZ1Y9YUJzqDl5XAEKq_Mh4gjI2r5NxKqWOgiiD_DQxDIhzEmZgbdauoM6bpwD2qSvTh2h0TbMNo3TnDLNgAkghP_sU6jIcouoSoKbFmOJfds0D33l2TgNibMsyfCvpzulKY2gMimnM5kg==",
       "badge": "UPDATE"
@@ -549,20 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgp1AcSR8uUU3dzxNlU7YNW6TXRetGYR7PCM-sy6IpJMG7B50jh4NIlzjO5vKDqvZK5dJ5SIszFFj9Ovl8cTbzVozpIuZEb7fsq_DJf7NjYks_DRqTxaY7socGXNGuFP8kZqfeqqewb2eqF8EgiF65UN8_xJazfvyC4Zyibi6VIfMuoLGesct6TtrjCMBeIuferRvo-hr8UFDNGqbyvWpWDYB4l4KyippUw-X0aelUB_1c2Ed72For1PE=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Taking the world's temperature: WHO chief spotlights global health emergencies",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsvV6-2vFCOaOTko758zOSxmyjCtu4iyFYDdSZfAYMgGhAvGWrbSPm83ShoWEy6xgwXsjfUuNaZHqgF-FqGihQ2J6f1qBtXTpnRJ7gI1u_ktGQLB29uFjCaThOKsifgPtMmOcTREo=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB8X7fPuhsteNj1Fpwt7OyoLbkgHdG-cUd7kuKENZL-D3aFZSKR9YBrWDq3I-AqMA2zP9xHhZXYYklDYSW2IZ7W3jF9_g-26-j13hWn_-lb7k8flj-43140B-XNuGrIsTPhsnXlNkvr764lRhzM--WgD2tvZbvKrAqaI8SgdErxQ==",
       "badge": "UPDATE"
     }
   ]
