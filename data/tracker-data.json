@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-12T13:37:08.746995+00:00",
+  "last_updated": "2026-07-12T19:11:54.896681+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -461,6 +461,13 @@
   ],
   "news": [
     {
+      "date": "2026-07-12",
+      "display_date": "2026-07-12",
+      "text": "Hantavirus outbreak from cruise ship officially ends - The Star",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyv22fuWCs2fjnonxIC7B8SFMayd3W82AQ2FSX-IUDtPWe74NSBW219bPPcWkxg6PwiGuVhdyIeEBoUfgW4Fy1F-C6wFLmAJCY7EU3ZeFd7w_sKLLs_jwCQt5UA7XaRvaTCcX61z4dda8nClgCIk6EMrjmCWkn9bC_z6tPBWchH1RcrqxQ5vaAeznAPMEFiglN--eLg1JhH4kbtzoAvW1E6LLSdQ2e",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-08",
       "display_date": "2026-07-08",
       "text": "Deadly hantavirus outbreak over, WHO announces - Juta MedicalBrief",
@@ -556,13 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Outbreak Updates - NaTHNaC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1ljq1noZ1Y9YUJzqDl5XAEKq_Mh4gjI2r5NxKqWOgiiD_DQxDIhzEmZgbdauoM6bpwD2qSvTh2h0TbMNo3TnDLNgAkghP_sU6jIcouoSoKbFmOJfds0D33l2TgNibMsyfCvpzulKY2gMimnM5kg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Taking the world's temperature: WHO chief spotlights global health emergencies - UN News",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5N7acJaPhGOfrkjCZIg18cskhbv9AM2dRLe-7XOW9kECZK8Rf4JNbSaWU7s9xZzfhqmX2_Xi_guXjl2Ppnd8wqdInFGUf0DjYbLLDmLCn2Um9jLf-Bc2_hLhNWEOynhM78BqmlFA=",
       "badge": "UPDATE"
     }
   ]
