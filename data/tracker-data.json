@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-12T08:24:51.293902+00:00",
+  "last_updated": "2026-07-12T13:37:08.746995+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -540,6 +540,13 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENr5wA5qje8lFIkZ5cbyP48VY2NVWGCfyGImQi7eHPalA7A-oH1tRfwToeFXsBg3oSCeO3-PC83RM8DUEqA8EVQIbtAbHOXqzvdahghLpWmxIcOr45q05CiPnTmfx9kVYnWWZDUE-mEzUCU_UjftILp60IxM-uJvH2G-4OJFCcv1w=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "MV Hondius hantavirus outbreak - Wikipedia",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqt4zmw5TybO_yM2qwgh-Sj_GHVYY5p3eZLO_zBXrDID-RX-mbU2KvUfJMmil9oeu_CDQU--g3awifjo-1ydFDNSJCsJwzcMxs_nu4f7wamMtYVJtOe6tJqrsTgp0l2rJmPXL-Hf66CjK7dvWNqIhPX6dLGnhj",
       "badge": "UPDATE"
@@ -556,13 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Taking the world's temperature: WHO chief spotlights global health emergencies - UN News",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5N7acJaPhGOfrkjCZIg18cskhbv9AM2dRLe-7XOW9kECZK8Rf4JNbSaWU7s9xZzfhqmX2_Xi_guXjl2Ppnd8wqdInFGUf0DjYbLLDmLCn2Um9jLf-Bc2_hLhNWEOynhM78BqmlFA=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgp1AcSR8uUU3dzxNlU7YNW6TXRetGYR7PCM-sy6IpJMG7B50jh4NIlzjO5vKDqvZK5dJ5SIszFFj9Ovl8cTbzVozpIuZEb7fsq_DJf7NjYks_DRqTxaY7socGXNGuFP8kZqfeqqewb2eqF8EgiF65UN8_xJazfvyC4Zyibi6VIfMuoLGesct6TtrjCMBeIuferRvo-hr8UFDNGqbyvWpWDYB4l4KyippUw-X0aelUB_1c2Ed72For1PE=",
       "badge": "UPDATE"
     }
   ]
