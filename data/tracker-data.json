@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-13T09:36:45.064934+00:00",
+  "last_updated": "2026-07-13T14:45:11.201168+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -547,6 +547,13 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK5fSXGlUkl8encdGrze371kcy3269r25k2LCxk9gy0DNWqh6MqUkh2-HXD7VmTehel4WCVKQ3uKHipCVcV9amdMYZjbLLf1lhuv1LWGsyEmFQqKgMLK5zuKuOH7ejYxZa3VwroHv7aNdsd5Qrh-HAiXCn-8YSuXk9U34y1bEN2-YOwugcLrNXEKtwX0pAEvKzodzQOCkFuEU-IDHL9k5RmsgKgYB9xKGjf0AxkYUDWPHDdUOQ6Gxc64o=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-02",
+      "display_date": "2026-07-02",
       "text": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA313f-UUXlrFAs5y0MGljunyPKGPjs7LmX5lCBqWr-lfsTrV2GBHiLpt3DqGZTHksqW8fB07rHT0XVY1ODBQgXw4ZkKfQCaFII_OwADjk8k9OyxdaON2Bgs1BM9--DXFScdQTaDEhl80SdX35nE_UuDAxBMlnwThvZXBxVZTFVqYXAhsMc0adJz9gR25_LIX-pXG3xpJgjXoXXWGfAY8uT21RocdNeREO8LWVKhpO8ymPMSp0FDjd",
       "badge": "UPDATE"
@@ -556,13 +563,6 @@
       "display_date": "2026-07-02",
       "text": "Hantavirus, international waters - BEACON",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRH4IJPsOEdxR3kFY7yVObmZuTYMQ-xIxH88KD555Wq_zDUOzzAqzCB_rnId-vc8UzCtheX_2_pxF0i5iLLSQtYXJpE1SBSz39Wu7ZTRkDDRHML1QUODc0bcL1xRWLR0j8R5zALVT0Y_GmjltGsnMoX2fh_ma6dV0vWHbhuISlViStuIqaMO-35JUerEhtkb3bTh0RIBoUv8g4qQSCDFl5KOnPqOxvg2NEG7xGJRHI9rbkjhlMpA=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENr5wA5qje8lFIkZ5cbyP48VY2NVWGCfyGImQi7eHPalA7A-oH1tRfwToeFXsBg3oSCeO3-PC83RM8DUEqA8EVQIbtAbHOXqzvdahghLpWmxIcOr45q05CiPnTmfx9kVYnWWZDUE-mEzUCU_UjftILp60IxM-uJvH2G-4OJFCcv1w=",
       "badge": "UPDATE"
     }
   ]
