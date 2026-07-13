@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-13T14:45:11.201168+00:00",
+  "last_updated": "2026-07-13T19:29:29.989152+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -468,6 +468,20 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-07-11",
+      "display_date": "2026-07-11",
+      "text": "Hantavirus outbreak offers lessons for the next pandemic",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtVK37nbFLpVWWKNojWpMn-drLlva-iTQlOS37Qo_ZcWCGz9Fg6qr0MZNvc_8d2qzPHGMOeoYD6RM-8hw2jSSIu_csbqQGfZfvNIsxQg4WiGaXFyiyTVcsR2SRMJw9tgcOMgw9cRMH5mz-I0ON0NMvKz6DtUYMdBA40XmxizJ3ALtGPLAM5NgaL7NfB-wow==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-08",
+      "display_date": "2026-07-08",
+      "text": "HHS Concludes Hantavirus Response for M/V Hondius Cruise",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaDTqFZLZGF99Dc_WsBVA8Nq4PDTUGdB17swq5Qzr7W0BxWNiqhKs2V-yQyas833meVh-IM1SS3e85pAIDwE89aRUlQxkAJ4_Ss6hCE8g8s7aKX0xcefWfuSaoUd5z3KlZorMHjYOd1o1qsnSxmyXT34ejIne-LOJ0dzCDMCjKKA==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-08",
       "display_date": "2026-07-08",
       "text": "Deadly hantavirus outbreak over, WHO announces - Juta MedicalBrief",
@@ -547,22 +561,8 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK5fSXGlUkl8encdGrze371kcy3269r25k2LCxk9gy0DNWqh6MqUkh2-HXD7VmTehel4WCVKQ3uKHipCVcV9amdMYZjbLLf1lhuv1LWGsyEmFQqKgMLK5zuKuOH7ejYxZa3VwroHv7aNdsd5Qrh-HAiXCn-8YSuXk9U34y1bEN2-YOwugcLrNXEKtwX0pAEvKzodzQOCkFuEU-IDHL9k5RmsgKgYB9xKGjf0AxkYUDWPHDdUOQ6Gxc64o=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead - Forbes",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA313f-UUXlrFAs5y0MGljunyPKGPjs7LmX5lCBqWr-lfsTrV2GBHiLpt3DqGZTHksqW8fB07rHT0XVY1ODBQgXw4ZkKfQCaFII_OwADjk8k9OyxdaON2Bgs1BM9--DXFScdQTaDEhl80SdX35nE_UuDAxBMlnwThvZXBxVZTFVqYXAhsMc0adJz9gR25_LIX-pXG3xpJgjXoXXWGfAY8uT21RocdNeREO8LWVKhpO8ymPMSp0FDjd",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Hantavirus, international waters - BEACON",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRH4IJPsOEdxR3kFY7yVObmZuTYMQ-xIxH88KD555Wq_zDUOzzAqzCB_rnId-vc8UzCtheX_2_pxF0i5iLLSQtYXJpE1SBSz39Wu7ZTRkDDRHML1QUODc0bcL1xRWLR0j8R5zALVT0Y_GmjltGsnMoX2fh_ma6dV0vWHbhuISlViStuIqaMO-35JUerEhtkb3bTh0RIBoUv8g4qQSCDFl5KOnPqOxvg2NEG7xGJRHI9rbkjhlMpA=",
+      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hxvr11nlOqgAoZk-T8pYChI9S_6h2j_lCxLcTOw188mGuVnoO1_ei34OulLm9P8wQwiUC0hRXIqwZXVgyt-UlCisZn0TyRKMaPucXU2RLTyHXhGxzKE2ZlVliFA_nxQWCJTF83wQwu0j9NySxMhZeeBDyW-IPFg_aupQ5dnFq0s=",
       "badge": "UPDATE"
     }
   ]
