@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-14T02:50:33.161089+00:00",
+  "last_updated": "2026-07-14T08:16:17.770607+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -482,6 +482,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-07-09",
+      "display_date": "2026-07-09",
+      "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhCmrfK9UZ8cAWeAyH-zTVAm9n2isEK76oL6P15laj_y5QvfkHRJ3xPvg2MawpNM0WVPVtZE3Lp4vN8sq-ohEXMVywY8yAYRqA76JjmjtYCgm32_ydMHBcTXRc_1_jwQE4bibbm6Djxw32mRl5Q6LDOO8=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-08",
       "display_date": "2026-07-08",
       "text": "HHS Concludes Hantavirus Response for M/V Hondius Cruise",
@@ -563,13 +570,6 @@
       "display_date": "2026-07-03",
       "text": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - National | Globalnews.ca",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5rHAm6pHIWiYN3q-ajOKC-0apQaTX8J70EFMPDtFQ9sTJM5H4ghZttJ7e3uAw3Sc_QWb5V2o7yhgtuRoe02KHD2gzZge6Ve-jWsqjnsKC0qWplArAY40eS1CJlJNdC_do_cyhZTdqxgIYlzKgxDVsYz8lg7RceD0K93DtoCuGU3v4plBRe8Zb",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-02",
-      "display_date": "2026-07-02",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFELS8-yQaxvGoDiTe2x_yHo_mEFuoF7Ac_F6BNSwptjkMYo4puuuglyqj6MvEz1s0bICABwZYW26urH1Rn2uQW7zbOdXU4rLIpcE1poMqRqcVVM2QV4aNGgS6_60GgHyN9CsVQbmC_r1G4O73e5rYwSPaZQ6G7YJM22TR3NXEPijz4LYmFWtkjgv0futuXwZjNgabI6RDXfFVud55-iKtrvWAwVyJogf_k1_XXrFRJZUGSjetvuyC3huw=",
       "badge": "UPDATE"
     }
   ]
