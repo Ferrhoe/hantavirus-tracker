@@ -1,9 +1,9 @@
 {
-  "confirmed": 175,
+  "confirmed": 176,
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-13T19:29:29.989152+00:00",
+  "last_updated": "2026-07-14T02:50:33.161089+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -120,7 +120,7 @@
       "monitoring": 0
     },
     "Tristan da Cunha": {
-      "confirmed": 2,
+      "confirmed": 3,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -457,6 +457,13 @@
       "probable": 12,
       "deaths": 5,
       "monitoring": 0
+    },
+    {
+      "date": "Jul 14",
+      "confirmed": 176,
+      "probable": 12,
+      "deaths": 5,
+      "monitoring": 0
     }
   ],
   "news": [
@@ -561,8 +568,8 @@
     {
       "date": "2026-07-02",
       "display_date": "2026-07-02",
-      "text": "Hantavirus outbreak linked to cruise ship travel, Multi-locations",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hxvr11nlOqgAoZk-T8pYChI9S_6h2j_lCxLcTOw188mGuVnoO1_ei34OulLm9P8wQwiUC0hRXIqwZXVgyt-UlCisZn0TyRKMaPucXU2RLTyHXhGxzKE2ZlVliFA_nxQWCJTF83wQwu0j9NySxMhZeeBDyW-IPFg_aupQ5dnFq0s=",
+      "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFELS8-yQaxvGoDiTe2x_yHo_mEFuoF7Ac_F6BNSwptjkMYo4puuuglyqj6MvEz1s0bICABwZYW26urH1Rn2uQW7zbOdXU4rLIpcE1poMqRqcVVM2QV4aNGgS6_60GgHyN9CsVQbmC_r1G4O73e5rYwSPaZQ6G7YJM22TR3NXEPijz4LYmFWtkjgv0futuXwZjNgabI6RDXfFVud55-iKtrvWAwVyJogf_k1_XXrFRJZUGSjetvuyC3huw=",
       "badge": "UPDATE"
     }
   ]
