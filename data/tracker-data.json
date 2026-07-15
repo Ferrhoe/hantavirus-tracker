@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-15T08:22:40.107155+00:00",
+  "last_updated": "2026-07-15T13:52:08.348361+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -468,6 +468,13 @@
   ],
   "news": [
     {
+      "date": "2026-07-14",
+      "display_date": "2026-07-14",
+      "text": "Hantavirus: Cruise liner crisis ends as last passenger leaves isolation",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPbvhl0cqF-_v3Z06z0iO4TFZKDOiE-ZNdjMfNdXfFj4X7zo1zy6GrPCYMkoOG-gj_eYywjQ1eAJHyDS4g5UnVKiVzbBW90IOC5ZvaBYcqXAmgLiLZfGRLiLRWCvMiLGcmpHzbk5HoNLFtJlRXbTMIFfXRRT23xqGtOhVPKGcSx9mAoYTaPGAUblF_WGD0",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-12",
       "display_date": "2026-07-12",
       "text": "Hantavirus outbreak from cruise ship officially ends - The Star",
@@ -563,13 +570,6 @@
       "display_date": "2026-07-03",
       "text": "Hantavirus outbreak linked to cruise ship is over, say officials | The BMJ",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGji3KteIUzyiEYf9GlCHCfO_zS4GHoDMpJDdVjymEwo7m4jKxkamdvBOJwS6_8ly3D2mOB4uHlSbgvZhGKAEPyU1UNzNc_bAMgZZnFfFhCu1BtIeY4DqLXNfbVRtZrRGwS4PwlTf_jvALCYNzJLNG6aKTSBB0=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-03",
-      "display_date": "2026-07-03",
-      "text": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - National | Globalnews.ca",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5rHAm6pHIWiYN3q-ajOKC-0apQaTX8J70EFMPDtFQ9sTJM5H4ghZttJ7e3uAw3Sc_QWb5V2o7yhgtuRoe02KHD2gzZge6Ve-jWsqjnsKC0qWplArAY40eS1CJlJNdC_do_cyhZTdqxgIYlzKgxDVsYz8lg7RceD0K93DtoCuGU3v4plBRe8Zb",
       "badge": "UPDATE"
     }
   ]
