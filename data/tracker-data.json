@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 41,
-  "last_updated": "2026-07-19T19:12:38.724675+00:00",
+  "last_updated": "2026-07-20T03:34:53.209625+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -475,6 +475,13 @@
   ],
   "news": [
     {
+      "date": "2026-07-19",
+      "display_date": "2026-07-19",
+      "text": "Analysis of the 2026 MV Hondius cruise ship outbreak confirms 13 cases of Andes orthohantavirus (23% case fatality). Genomic and contact tracing data demonstrate human-to-human transmission in a confined maritime setting.",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_jv2dLwZ3nFvmMdW91QwjkwS8i-v2pU36vnkUQuAvypMHzbYBxRUbx7zSRycr_Cu8LoaKYBLKAI_aHZVnsHsteHDuALtV-DLthY4oA80gfbKux8aoCepFyeePc91yvNv6Z2KByvYf_GcDr-1gY-9gn0_BYXkczPf5PFAyyjx_LcIPT2ay0KRFUYCPVn7ElKf57leUjx185Nk=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-14",
       "display_date": "2026-07-14",
       "text": "Hantavirus: Cruise liner crisis ends as last passenger leaves isolation",
@@ -570,13 +577,6 @@
       "display_date": "2026-07-03",
       "text": "MV Hondius Andes virus outbreak contained WHO declares; 42-day monitoring complete; new hantavirus variant found in Tierra del Fuego rodents.",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu6aOj_ESY3QG6DjoNqsuRRfdCJrMTw79VodS0t-CcTkp4lZjGVd52JwllXLMou0Cb_gagD2G3L5cQTC2VGqf49n47CLeFz6cJ2CsjwA3STi76aFmdWFaEQ1detpXtPXPxVMt5pu2kh9rWWFYkmD0dH7Bl0wfGWm4a4DMPEuGzbileUmZVUjhOM5LbPG5LKmQxZ0GnZdDJCoXVu4wd3wz7VpLUE7OVFoNGstnQTqwK2EJv1PPg",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-03",
-      "display_date": "2026-07-03",
-      "text": "Hantavirus outbreak linked to cruise ship is over, say officials | The BMJ",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGji3KteIUzyiEYf9GlCHCfO_zS4GHoDMpJDdVjymEwo7m4jKxkamdvBOJwS6_8ly3D2mOB4uHlSbgvZhGKAEPyU1UNzNc_bAMgZZnFfFhCu1BtIeY4DqLXNfbVRtZrRGwS4PwlTf_jvALCYNzJLNG6aKTSBB0=",
       "badge": "UPDATE"
     }
   ]
