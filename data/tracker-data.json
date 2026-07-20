@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 41,
-  "last_updated": "2026-07-20T09:23:49.223185+00:00",
+  "last_updated": "2026-07-20T14:16:26.394367+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -503,6 +503,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-07-10",
+      "display_date": "2026-07-10",
+      "text": "Hantavirus Outbreak Calls Attention to Industry's Role in Health Emergencies",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4g6mG_D096FhDf_XKdGbhqGklV8UA-YRzjGZFOLhmzCHrPcLmw9zYrsXSnqRyAnT46tdq1QWM8AN_3Nk0NJF2zo68x1168ETK17OLUNCxJYad2V3gjVWlwL1zoc7m8OyIjrcNAG7IREhIZG1F4EiJHCgBe-3ZXvO",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-09",
       "display_date": "2026-07-09",
       "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
@@ -570,13 +577,6 @@
       "display_date": "2026-07-03",
       "text": "Hantavirus outbreak linked to cruise ship is over, say officials - The BMJ",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk8A4Edj2jmT4O9Jjo6fyL21our3462kziZmCfvJelIErApbRYpXvG1O6kO-XGbplj2eUiB0H4akS4SzXYv8XpAtJigjNP2-jfs9AHeKJ3HRXudzbMsYyTQYg_RYxXraTcw5AV2RnMsVcP",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-03",
-      "display_date": "2026-07-03",
-      "text": "MV Hondius Andes virus outbreak contained WHO declares; 42-day monitoring complete; new hantavirus variant found in Tierra del Fuego rodents.",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu6aOj_ESY3QG6DjoNqsuRRfdCJrMTw79VodS0t-CcTkp4lZjGVd52JwllXLMou0Cb_gagD2G3L5cQTC2VGqf49n47CLeFz6cJ2CsjwA3STi76aFmdWFaEQ1detpXtPXPxVMt5pu2kh9rWWFYkmD0dH7Bl0wfGWm4a4DMPEuGzbileUmZVUjhOM5LbPG5LKmQxZ0GnZdDJCoXVu4wd3wz7VpLUE7OVFoNGstnQTqwK2EJv1PPg",
       "badge": "UPDATE"
     }
   ]
