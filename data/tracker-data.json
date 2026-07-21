@@ -1,9 +1,9 @@
 {
-  "confirmed": 178,
+  "confirmed": 179,
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-21T14:03:25.238930+00:00",
+  "last_updated": "2026-07-21T19:37:53.941245+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -120,7 +120,7 @@
       "monitoring": 0
     },
     "Tristan da Cunha": {
-      "confirmed": 5,
+      "confirmed": 6,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -471,6 +471,13 @@
       "probable": 12,
       "deaths": 5,
       "monitoring": 41
+    },
+    {
+      "date": "Jul 21",
+      "confirmed": 179,
+      "probable": 12,
+      "deaths": 5,
+      "monitoring": 0
     }
   ],
   "news": [
@@ -507,6 +514,13 @@
       "display_date": "2026-07-10",
       "text": "Hantavirus Outbreak Calls Attention to Industry's Role in Health Emergencies",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4g6mG_D096FhDf_XKdGbhqGklV8UA-YRzjGZFOLhmzCHrPcLmw9zYrsXSnqRyAnT46tdq1QWM8AN_3Nk0NJF2zo68x1168ETK17OLUNCxJYad2V3gjVWlwL1zoc7m8OyIjrcNAG7IREhIZG1F4EiJHCgBe-3ZXvO",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-09",
+      "display_date": "2026-07-09",
+      "text": "How Industry Can Help Prevent the Next Cruise Ship Outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiMw_AbLYERV6hUsp6AT4hHQqP-cOWGo9GL4rlNGUDKFpxo8ygAbTnEpD2pFpkSQQ9kNI6SoTicb8UqeaRnK8aOhVylrz3BlzhLwoleT9rgLoyLD1F8ebamsQdQOhtiyDwe8y88UzyM5sIkd5-g9XwEvarv1OX3jAF6frhVidxo8X3XCXv2I3fqnq6njsTWCb0Q_UDke0Agu3PMEWlJ3d5",
       "badge": "UPDATE"
     },
     {
@@ -570,13 +584,6 @@
       "display_date": "2026-07-05",
       "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqLDqB6dK9rbewDZXpEoyiGOJq4zTJBTVcyvl1yTrsSFkxoh7Vv9dhAFg3lRzOM1uheibZMGfFVfOjdLRYOTdBNRddJbTsT2Id63C1BaVuwZi7ogkHE3ToDO8aZXr0TxW-d1pntT49eHJ79GaQ94J6iVyrULHXhZL42jv5oHNxQNHaQ7qcA0HoCZWNvfeBKoXmJpvRSA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-03",
-      "display_date": "2026-07-03",
-      "text": "Hantavirus - cruise ship",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbLlh0L7jVIY-a4s8QR-z0ZR9vZKz-6ZVceqWJgSGg57uCqfyC8Oo-nclzM45j_9ad7wYIXMWrQG7dU1e-uEq0Lo2tP3ipfQOlwSFUljejJWUyhq-Lrvm2s04kfJBaJ0LuCtJuFqyhb7s_f9VkhI=",
       "badge": "UPDATE"
     }
   ]
