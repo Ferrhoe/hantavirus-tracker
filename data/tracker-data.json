@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-20T19:48:59.329024+00:00",
+  "last_updated": "2026-07-21T03:15:31.249462+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -575,8 +575,8 @@
     {
       "date": "2026-07-03",
       "display_date": "2026-07-03",
-      "text": "Hantavirus outbreak linked to cruise ship is over, say officials - The BMJ",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk8A4Edj2jmT4O9Jjo6fyL21our3462kziZmCfvJelIErApbRYpXvG1O6kO-XGbplj2eUiB0H4akS4SzXYv8XpAtJigjNP2-jfs9AHeKJ3HRXudzbMsYyTQYg_RYxXraTcw5AV2RnMsVcP",
+      "text": "Hantavirus - cruise ship",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbLlh0L7jVIY-a4s8QR-z0ZR9vZKz-6ZVceqWJgSGg57uCqfyC8Oo-nclzM45j_9ad7wYIXMWrQG7dU1e-uEq0Lo2tP3ipfQOlwSFUljejJWUyhq-Lrvm2s04kfJBaJ0LuCtJuFqyhb7s_f9VkhI=",
       "badge": "UPDATE"
     }
   ]
