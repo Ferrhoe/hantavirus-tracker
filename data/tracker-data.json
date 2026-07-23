@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-22T19:27:33.370745+00:00",
+  "last_updated": "2026-07-23T03:20:11.262764+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -489,6 +489,13 @@
   ],
   "news": [
     {
+      "date": "2026-07-20",
+      "display_date": "2026-07-20",
+      "text": "After cruise ship outbreak, review examines how hantavirus affects the brain.",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRTkpUrcdZcS_NmsP2P_k8YR-xIVrAwIrxngeu1qF9RfouNxDjGWeZt_zbgGLuUNzB3n6VudpeQoi49xJWDU3rNxg-x783X8NsJy2_U51_RfqHV3I1MEjhysC4kRR_AJHhGJTdGxkN6-FjDB3UHki79oEIJU3O4ScOToQDUHVeVg7PqhdMiItVncNt_jyF0IOWJWj0FHPIbjZpWGz-kjW0MA==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-19",
       "display_date": "2026-07-19",
       "text": "Analysis of the 2026 MV Hondius cruise ship outbreak confirms 13 cases of Andes orthohantavirus (23% case fatality). Genomic and contact tracing data demonstrate human-to-human transmission in a confined maritime setting.",
@@ -584,13 +591,6 @@
       "display_date": "2026-07-05",
       "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over | NL Times",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIUOBo0Qj5ck4UCyg-DiOdaPRu2FkvAFAfxqBXz6t6LrU41phMfWq74qddK7A9pweqOJWeMhW7JwbgWVx52-8FK_p2tgkQdjz4hrkSt1g97gnYwO5cNm51JApsW2GR3cjKM6jHpW3bCE4vNANsKJFYzHp_G8X69eIqJDK31x8XzQjyEwLj0WXDOcjXFPUw3b-bs71rXw==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-05",
-      "display_date": "2026-07-05",
-      "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqLDqB6dK9rbewDZXpEoyiGOJq4zTJBTVcyvl1yTrsSFkxoh7Vv9dhAFg3lRzOM1uheibZMGfFVfOjdLRYOTdBNRddJbTsT2Id63C1BaVuwZi7ogkHE3ToDO8aZXr0TxW-d1pntT49eHJ79GaQ94J6iVyrULHXhZL42jv5oHNxQNHaQ7qcA0HoCZWNvfeBKoXmJpvRSA==",
       "badge": "UPDATE"
     }
   ]
