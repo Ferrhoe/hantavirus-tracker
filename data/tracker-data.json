@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-23T08:37:14.710264+00:00",
+  "last_updated": "2026-07-23T14:11:32.334610+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -510,6 +510,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-07-17",
+      "display_date": "2026-07-17",
+      "text": "The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2rmN-DjS38q5fE_86yBuDxQgRmaw_axINTVpzGAp74OfUt4TxXHtJmAsLSu4KkR1tOEfj2GXWyZRxfgOxCAiEPVJNoWR6Ic_c8kLa0ogCX1OZvU6sK2q8GrOS1xyHc4jNEsFJQYQkhMr9xmon2cIs64DLhBaz6A4x9AYGNLS0JccxHMP3DsPBoCX-JPWB-06EK2AiHmFiceaSI2h6Cc95ze6d2sQ8Qwi0olY=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-14",
       "display_date": "2026-07-14",
       "text": "Hantavirus: Cruise liner crisis ends as last passenger leaves isolation",
@@ -591,13 +598,6 @@
       "display_date": "2026-07-06",
       "text": "Hantavirus",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELuO-0OtMUqBqftqcfcz8mae6kaqLkYOHsEy8ytWSobRVw0DIgiFRCoA-1gMLwZwOy54zjlVaNvifE0dV3BE50SX-VLRBHVonko8bjKruzRsJ6KbcZFJylSb00OrP8kbfl8A==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-05",
-      "display_date": "2026-07-05",
-      "text": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over | NL Times",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIUOBo0Qj5ck4UCyg-DiOdaPRu2FkvAFAfxqBXz6t6LrU41phMfWq74qddK7A9pweqOJWeMhW7JwbgWVx52-8FK_p2tgkQdjz4hrkSt1g97gnYwO5cNm51JApsW2GR3cjKM6jHpW3bCE4vNANsKJFYzHp_G8X69eIqJDK31x8XzQjyEwLj0WXDOcjXFPUw3b-bs71rXw==",
       "badge": "UPDATE"
     }
   ]
