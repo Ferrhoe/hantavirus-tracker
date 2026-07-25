@@ -2,8 +2,8 @@
   "confirmed": 184,
   "probable": 12,
   "deaths": 5,
-  "monitoring": 0,
-  "last_updated": "2026-07-25T03:12:48.597683+00:00",
+  "monitoring": 41,
+  "last_updated": "2026-07-25T08:13:10.153684+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -117,7 +117,7 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 41
     },
     "Tristan da Cunha": {
       "confirmed": 8,
@@ -498,6 +498,13 @@
     {
       "date": "2026-07-24",
       "display_date": "2026-07-24",
+      "text": "Hantavirus Tracker 2026 \u2014 Live Outbreak Map, Cases & Deaths | HORIZON",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGdjqiQ0aZcm209n9IdCBlq_VJz2hU-942HMUcTzNQ5cAL6_32GwUrMO9T68LoIuY_D2w_mUc-c4fsa2XzAPO1LD0dENVYZvNFmFqEJcMjWh-27klCzQY=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-24",
+      "display_date": "2026-07-24",
       "text": "No, cruise ships aren't floating petri dishes | Popular Science",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4irRrLQ2P0g3R_yt4y-9kaN7fdOQfCqioue_ByjTbL1Y0xZT65qdMolNrzo3IQCNppXLBMt8QIAuDMJo_WmKZICqNuzPHednmR9bJ4i5CSHBmcDrtGg3x0r4yKdrrZqPds3XgikMXPrvYgu0REn1tIYEqeYtn9g==",
       "badge": "UPDATE"
@@ -591,13 +598,6 @@
       "display_date": "2026-07-06",
       "text": "HHS Suspends Hantavirus Monitoring | RT - Respiratory Therapy",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9xzDoiNIQ2eXJJ3bj53EpTRnOQ2_4v5jr2uEsY0eJjqGpYyRbMNc9BK066HOz14KH9Vxmskqc1539tq0lp7Afj4qcr84_g6dPwm5lmM2rLyBtfpePpvMmaaCx2xdyj44f7SG-18TtdyePx15orf-XpxnWRQy4UBhBJZvm7LvHom8XsD5ESN0IntTPfBo9_f0Gj3If8Oy4Q_K5ydjGWp7t0pKUVl6GDsoXTPHbxxagvTHEQ4yD",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-06",
-      "display_date": "2026-07-06",
-      "text": "Hantavirus - Virginia Department of Health",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkMW8icitZFY1G-EQdywPxPKHq3m2rn6geZCKlIHYlN0Y2CPXgFshuZ3gfc1VSHCmahOT4ce4-0R_dIo9dJ4Ld_SAA06tl2ckd-bmBObAW3rjHvrrtDCX4CMuOh5cPyTTiFA==",
       "badge": "UPDATE"
     }
   ]
