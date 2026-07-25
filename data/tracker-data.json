@@ -3,7 +3,7 @@
   "probable": 12,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-24T19:36:19.587556+00:00",
+  "last_updated": "2026-07-25T03:12:48.597683+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -496,6 +496,13 @@
   ],
   "news": [
     {
+      "date": "2026-07-24",
+      "display_date": "2026-07-24",
+      "text": "No, cruise ships aren't floating petri dishes | Popular Science",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4irRrLQ2P0g3R_yt4y-9kaN7fdOQfCqioue_ByjTbL1Y0xZT65qdMolNrzo3IQCNppXLBMt8QIAuDMJo_WmKZICqNuzPHednmR9bJ4i5CSHBmcDrtGg3x0r4yKdrrZqPds3XgikMXPrvYgu0REn1tIYEqeYtn9g==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-20",
       "display_date": "2026-07-20",
       "text": "After cruise ship outbreak, review examines how hantavirus affects the brain.",
@@ -591,13 +598,6 @@
       "display_date": "2026-07-06",
       "text": "Hantavirus - Virginia Department of Health",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkMW8icitZFY1G-EQdywPxPKHq3m2rn6geZCKlIHYlN0Y2CPXgFshuZ3gfc1VSHCmahOT4ce4-0R_dIo9dJ4Ld_SAA06tl2ckd-bmBObAW3rjHvrrtDCX4CMuOh5cPyTTiFA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-06",
-      "display_date": "2026-07-06",
-      "text": "Hantavirus",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELuO-0OtMUqBqftqcfcz8mae6kaqLkYOHsEy8ytWSobRVw0DIgiFRCoA-1gMLwZwOy54zjlVaNvifE0dV3BE50SX-VLRBHVonko8bjKruzRsJ6KbcZFJylSb00OrP8kbfl8A==",
       "badge": "UPDATE"
     }
   ]
