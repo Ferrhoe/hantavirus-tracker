@@ -1,9 +1,9 @@
 {
   "confirmed": 186,
-  "probable": 12,
+  "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-07-30T19:40:04.542294+00:00",
+  "last_updated": "2026-07-31T03:25:20.863210+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -55,7 +55,7 @@
     },
     "Netherlands": {
       "confirmed": 32,
-      "probable": 0,
+      "probable": 1,
       "deaths": 2,
       "monitoring": 0
     },
@@ -504,6 +504,13 @@
       "date": "Jul 30",
       "confirmed": 186,
       "probable": 12,
+      "deaths": 5,
+      "monitoring": 0
+    },
+    {
+      "date": "Jul 31",
+      "confirmed": 186,
+      "probable": 13,
       "deaths": 5,
       "monitoring": 0
     }
