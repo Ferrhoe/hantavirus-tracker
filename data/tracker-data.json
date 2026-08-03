@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-02T19:17:52.085831+00:00",
+  "last_updated": "2026-08-03T03:25:19.773156+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -561,6 +561,13 @@
     {
       "date": "2026-07-19",
       "display_date": "2026-07-19",
+      "text": "Hantavirus (2026 Multi\u2011Country Outbreak) - ABSA International",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9xbZGLcvhS5LIiywNe9WVzp8j6DSQ9sjD9-FTroV-eNa3zDJbWqhtFctaMY1QJSJ6UrRowY2SJ8XflTgOudwg_41ldPKaDJYuxn1WZKcstc3sbiSxxfa1MZ7plU_vwsLsE-AdqWALczgui-rOPA3HTa4w=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-19",
+      "display_date": "2026-07-19",
       "text": "Analysis of the 2026 MV Hondius cruise ship outbreak confirms 13 cases of Andes orthohantavirus (23% case fatality). Genomic and contact tracing data demonstrate human-to-human transmission in a confined maritime setting.",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_jv2dLwZ3nFvmMdW91QwjkwS8i-v2pU36vnkUQuAvypMHzbYBxRUbx7zSRycr_Cu8LoaKYBLKAI_aHZVnsHsteHDuALtV-DLthY4oA80gfbKux8aoCepFyeePc91yvNv6Z2KByvYf_GcDr-1gY-9gn0_BYXkczPf5PFAyyjx_LcIPT2ay0KRFUYCPVn7ElKf57leUjx185Nk=",
       "badge": "UPDATE"
@@ -612,13 +619,6 @@
       "display_date": "2026-07-09",
       "text": "How Industry Can Help Prevent the Next Cruise Ship Outbreak | Think Global Health",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzkmICHHcDFNw1I01gYBMZIlBObGBKpqWkFIQQIp9zTiWuQK7VOAC-1lyUks4uLozpwAFbMqYswBCVXwIooOOK0Gms7wKmFuncOSUrbHrFJyxFb-9JcC-Al9DGe9tb4p-6CAmTdkFm8chhALYvAE2p1i-CTv0cejX6Yyz7yQo2M3RKvbT1h-PaOOaSVzDlw39MwygwKUFAJ3tJC_dVuO-I",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-09",
-      "display_date": "2026-07-09",
-      "text": "How Industry Can Help Prevent the Next Cruise Ship Outbreak",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiMw_AbLYERV6hUsp6AT4hHQqP-cOWGo9GL4rlNGUDKFpxo8ygAbTnEpD2pFpkSQQ9kNI6SoTicb8UqeaRnK8aOhVylrz3BlzhLwoleT9rgLoyLD1F8ebamsQdQOhtiyDwe8y88UzyM5sIkd5-g9XwEvarv1OX3jAF6frhVidxo8X3XCXv2I3fqnq6njsTWCb0Q_UDke0Agu3PMEWlJ3d5",
       "badge": "UPDATE"
     }
   ]
