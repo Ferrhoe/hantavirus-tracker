@@ -2,8 +2,8 @@
   "confirmed": 187,
   "probable": 13,
   "deaths": 5,
-  "monitoring": 0,
-  "last_updated": "2026-08-06T08:44:46.599939+00:00",
+  "monitoring": 119,
+  "last_updated": "2026-08-06T14:23:13.715886+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -75,19 +75,19 @@
       "confirmed": 1,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 2
     },
     "South Africa": {
       "confirmed": 4,
       "probable": 1,
       "deaths": 2,
-      "monitoring": 0
+      "monitoring": 65
     },
     "Spain": {
       "confirmed": 52,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 14
     },
     "Sweden": {
       "confirmed": 0,
@@ -111,13 +111,13 @@
       "confirmed": 3,
       "probable": 6,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 20
     },
     "United States": {
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 18
     },
     "Tristan da Cunha": {
       "confirmed": 11,
@@ -150,6 +150,12 @@
       "monitoring": 0
     },
     "Philippines": {
+      "confirmed": 0,
+      "probable": 0,
+      "deaths": 0,
+      "monitoring": 0
+    },
+    "Italy": {
       "confirmed": 0,
       "probable": 0,
       "deaths": 0,
