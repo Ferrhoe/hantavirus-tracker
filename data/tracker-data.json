@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-05T19:42:21.325861+00:00",
+  "last_updated": "2026-08-06T02:54:22.986103+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -524,6 +524,13 @@
   ],
   "news": [
     {
+      "date": "2026-08-06",
+      "display_date": "2026-08-06",
+      "text": "From Hantavirus to Ebola: Rebuilding Trust in Health and Biosecurity Governance - RSIS",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4YJMuh8WwgRAVL8CkaO0Skm5-pLhe2vsDDBMXshXsa2sIOZiPzGW7MqX51ItZCDrdyelTwm_650pCWvu_ktoHuXqG3sRr5UwGp0vEhEwlAp2M0xkVnlRykcDN96nIOrV-850nmc0N4_ZFkI10R2GAwWO4noBJMOvXHW39t2vuLEri0HgXGdvZdl1bNEB5j0Y9aniHvBrTqHchBPA2TrS5UacqEKklATcVrHXNli-8mwC7pI=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-29",
       "display_date": "2026-07-29",
       "text": "Hantavirus kills three people in Venezuela - Juta MedicalBrief",
@@ -619,13 +626,6 @@
       "display_date": "2026-07-10",
       "text": "Hantavirus Outbreak Calls Attention to Industry's Role in Health Emergencies",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4g6mG_D096FhDf_XKdGbhqGklV8UA-YRzjGZFOLhmzCHrPcLmw9zYrsXSnqRyAnT46tdq1QWM8AN_3Nk0NJF2zo68x1168ETK17OLUNCxJYad2V3gjVWlwL1zoc7m8OyIjrcNAG7IREhIZG1F4EiJHCgBe-3ZXvO",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-09",
-      "display_date": "2026-07-09",
-      "text": "How Industry Can Help Prevent the Next Cruise Ship Outbreak | Think Global Health",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzkmICHHcDFNw1I01gYBMZIlBObGBKpqWkFIQQIp9zTiWuQK7VOAC-1lyUks4uLozpwAFbMqYswBCVXwIooOOK0Gms7wKmFuncOSUrbHrFJyxFb-9JcC-Al9DGe9tb4p-6CAmTdkFm8chhALYvAE2p1i-CTv0cejX6Yyz7yQo2M3RKvbT1h-PaOOaSVzDlw39MwygwKUFAJ3tJC_dVuO-I",
       "badge": "UPDATE"
     }
   ]
