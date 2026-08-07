@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 101,
-  "last_updated": "2026-08-07T13:14:24.133964+00:00",
+  "last_updated": "2026-08-07T19:03:39.631998+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -539,6 +539,13 @@
     {
       "date": "2026-08-06",
       "display_date": "2026-08-06",
+      "text": "Hantavirus detected in France tourist now isolated in Spain - CNA",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhVn4IUzSrUz_uiN6o3ue4pm97tswXoPU3f9SI8c_FOZeFupaeUAdtoedGeh-DoJJdrNv3broob_Ux2DvqZowD3mQ4BUHzUi2R49s2SjF56Sk3Q6z6H06O9ijm-BDxoG3o3On8ZUF9o8Y95TyS9KF1-NKAOss2HhaUmUraIdfR_xsMSyNqES_V-Fi_QiWmSHf4jRasdbPjmA==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-08-06",
+      "display_date": "2026-08-06",
       "text": "From Hantavirus to Ebola: Rebuilding Trust in Health and Biosecurity Governance - RSIS",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4YJMuh8WwgRAVL8CkaO0Skm5-pLhe2vsDDBMXshXsa2sIOZiPzGW7MqX51ItZCDrdyelTwm_650pCWvu_ktoHuXqG3sRr5UwGp0vEhEwlAp2M0xkVnlRykcDN96nIOrV-850nmc0N4_ZFkI10R2GAwWO4noBJMOvXHW39t2vuLEri0HgXGdvZdl1bNEB5j0Y9aniHvBrTqHchBPA2TrS5UacqEKklATcVrHXNli-8mwC7pI=",
       "badge": "UPDATE"
@@ -632,13 +639,6 @@
       "display_date": "2026-07-11",
       "text": "Hantavirus outbreak offers lessons for the next pandemic",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtVK37nbFLpVWWKNojWpMn-drLlva-iTQlOS37Qo_ZcWCGz9Fg6qr0MZNvc_8d2qzPHGMOeoYD6RM-8hw2jSSIu_csbqQGfZfvNIsxQg4WiGaXFyiyTVcsR2SRMJw9tgcOMgw9cRMH5mz-I0ON0NMvKz6DtUYMdBA40XmxizJ3ALtGPLAM5NgaL7NfB-wow==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-10",
-      "display_date": "2026-07-10",
-      "text": "Hantavirus Outbreak Calls Attention to Industry's Role in Health Emergencies",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw4g6mG_D096FhDf_XKdGbhqGklV8UA-YRzjGZFOLhmzCHrPcLmw9zYrsXSnqRyAnT46tdq1QWM8AN_3Nk0NJF2zo68x1168ETK17OLUNCxJYad2V3gjVWlwL1zoc7m8OyIjrcNAG7IREhIZG1F4EiJHCgBe-3ZXvO",
       "badge": "UPDATE"
     }
   ]
