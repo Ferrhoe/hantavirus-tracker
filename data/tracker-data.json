@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-09T07:02:57.279227+00:00",
+  "last_updated": "2026-08-09T12:59:30.132240+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -595,6 +595,13 @@
     {
       "date": "2026-07-19",
       "display_date": "2026-07-19",
+      "text": "Analysis of the 2026 MV Hondius cruise ship outbreak confirms 13 cases of Andes orthohantavirus (23% case fatality). Genomic and contact tracing data demonstrate human-to-human transmission in a confined maritime setting. : r/science - Reddit",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWuQJc6_O0Wb67rvbsAPdAC0D7UIXRWwI1MOBlKGsKNEeAp2vLrt4cH63Zsjgogl7FM67jj-AMnNexja9onAK1EyBalsYsBbTcBalYY_cEtB8yZ_1Zii9GWIcQdSBcvCbYp7vzec7MkFqD0n7F8vTaENdYdjKnsQZ7l-qysjGz6aSSEws1oGYKor-EKga6RUbmUvveehGtPBk",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-19",
+      "display_date": "2026-07-19",
       "text": "Hantavirus (2026 Multi\u2011Country Outbreak) - ABSA International",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9xbZGLcvhS5LIiywNe9WVzp8j6DSQ9sjD9-FTroV-eNa3zDJbWqhtFctaMY1QJSJ6UrRowY2SJ8XflTgOudwg_41ldPKaDJYuxn1WZKcstc3sbiSxxfa1MZ7plU_vwsLsE-AdqWALczgui-rOPA3HTa4w=",
       "badge": "UPDATE"
@@ -632,13 +639,6 @@
       "display_date": "2026-07-12",
       "text": "Hantavirus outbreak from cruise ship officially ends - The Star",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyv22fuWCs2fjnonxIC7B8SFMayd3W82AQ2FSX-IUDtPWe74NSBW219bPPcWkxg6PwiGuVhdyIeEBoUfgW4Fy1F-C6wFLmAJCY7EU3ZeFd7w_sKLLs_jwCQt5UA7XaRvaTCcX61z4dda8nClgCIk6EMrjmCWkn9bC_z6tPBWchH1RcrqxQ5vaAeznAPMEFiglN--eLg1JhH4kbtzoAvW1E6LLSdQ2e",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-11",
-      "display_date": "2026-07-11",
-      "text": "Hantavirus outbreak offers lessons for the next pandemic",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDtVK37nbFLpVWWKNojWpMn-drLlva-iTQlOS37Qo_ZcWCGz9Fg6qr0MZNvc_8d2qzPHGMOeoYD6RM-8hw2jSSIu_csbqQGfZfvNIsxQg4WiGaXFyiyTVcsR2SRMJw9tgcOMgw9cRMH5mz-I0ON0NMvKz6DtUYMdBA40XmxizJ3ALtGPLAM5NgaL7NfB-wow==",
       "badge": "UPDATE"
     }
   ]
