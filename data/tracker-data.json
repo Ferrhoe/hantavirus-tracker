@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-10T07:49:20.542376+00:00",
+  "last_updated": "2026-08-10T13:18:21.778492+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -539,6 +539,13 @@
     {
       "date": "2026-08-06",
       "display_date": "2026-08-06",
+      "text": "Hantavirus 2026 \u2014 current situation and case tracking",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyBlf6Z3lw6GM1xe1jqaB-7gGaN2htPskuaBk5o0ThWsji67IiINBHS-lwUpPKKOmzVeK0vXCi-lxeL-BKR-zjKhXEf4A04hmLG0J-O30Cq-6FkjL8xQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-08-06",
+      "display_date": "2026-08-06",
       "text": "Hantavirus detected in France tourist now isolated in Spain - CNA",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhVn4IUzSrUz_uiN6o3ue4pm97tswXoPU3f9SI8c_FOZeFupaeUAdtoedGeh-DoJJdrNv3broob_Ux2DvqZowD3mQ4BUHzUi2R49s2SjF56Sk3Q6z6H06O9ijm-BDxoG3o3On8ZUF9o8Y95TyS9KF1-NKAOss2HhaUmUraIdfR_xsMSyNqES_V-Fi_QiWmSHf4jRasdbPjmA==",
       "badge": "UPDATE"
@@ -632,13 +639,6 @@
       "display_date": "2026-07-12",
       "text": "Hantavirus outbreak from cruise ship officially ends | The Star",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeR3XPmWZNAb5KyAF06Lv84vv96kYe2rCJKrSigjhmLF_chR2c4iNaigWMQWL_iSGsdKlmsPFhf1OgL7X5dSnT4uOlDh0vc-eSXeWvMakaqpKZ2nR9mV2H0VcUzpysAZYH-4TLFEgv4eJSquUOyRpIUuq2rsfqguoOciLcYX8b2KmpPsMSXnCYPkqr5YdoHlqknyPkOcQqVM_yzhCBRfBMpb1kE31m",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-12",
-      "display_date": "2026-07-12",
-      "text": "Hantavirus outbreak from cruise ship officially ends - The Star",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyv22fuWCs2fjnonxIC7B8SFMayd3W82AQ2FSX-IUDtPWe74NSBW219bPPcWkxg6PwiGuVhdyIeEBoUfgW4Fy1F-C6wFLmAJCY7EU3ZeFd7w_sKLLs_jwCQt5UA7XaRvaTCcX61z4dda8nClgCIk6EMrjmCWkn9bC_z6tPBWchH1RcrqxQ5vaAeznAPMEFiglN--eLg1JhH4kbtzoAvW1E6LLSdQ2e",
       "badge": "UPDATE"
     }
   ]
