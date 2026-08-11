@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-11T02:02:12.360409+00:00",
+  "last_updated": "2026-08-11T07:15:39.117230+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -537,6 +537,13 @@
   ],
   "news": [
     {
+      "date": "2026-08-10",
+      "display_date": "2026-08-10",
+      "text": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness - News-Medical.Net",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhbMqlKzoIOp1A5SCvcwmbqV5kW1_-M8wZfZkJ5ib4nwTdXmyZJd0jU98A0Rq4A19wNJG_-QYBC1IL7APrN8DKz71tqXZsdQ4S12Uf2SmV1GIJVdfZAas2Sl2jQFY7w-xsu3641Egi6yiUVqy56dQdKAqnlHcR3xvhkKUFeWBugESe0cP2zr-a5of_pj-HUAS6T4msg7_hcdfv8JJ-i6YTCUvKkaGo8CoGPp2ZKdUIIMbuUHJWE7oXY5m9pxYfFWq08X5QtNESQ==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-08-06",
       "display_date": "2026-08-06",
       "text": "Hantavirus 2026 \u2014 current situation and case tracking",
@@ -632,13 +639,6 @@
       "display_date": "2026-07-14",
       "text": "Hantavirus: Cruise liner crisis ends as last passenger leaves isolation",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPbvhl0cqF-_v3Z06z0iO4TFZKDOiE-ZNdjMfNdXfFj4X7zo1zy6GrPCYMkoOG-gj_eYywjQ1eAJHyDS4g5UnVKiVzbBW90IOC5ZvaBYcqXAmgLiLZfGRLiLRWCvMiLGcmpHzbk5HoNLFtJlRXbTMIFfXRRT23xqGtOhVPKGcSx9mAoYTaPGAUblF_WGD0",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-12",
-      "display_date": "2026-07-12",
-      "text": "Hantavirus outbreak from cruise ship officially ends | The Star",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeR3XPmWZNAb5KyAF06Lv84vv96kYe2rCJKrSigjhmLF_chR2c4iNaigWMQWL_iSGsdKlmsPFhf1OgL7X5dSnT4uOlDh0vc-eSXeWvMakaqpKZ2nR9mV2H0VcUzpysAZYH-4TLFEgv4eJSquUOyRpIUuq2rsfqguoOciLcYX8b2KmpPsMSXnCYPkqr5YdoHlqknyPkOcQqVM_yzhCBRfBMpb1kE31m",
       "badge": "UPDATE"
     }
   ]
