@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-14T02:18:51.037693+00:00",
+  "last_updated": "2026-08-14T07:39:06.799039+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -586,6 +586,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-07-23",
+      "display_date": "2026-07-23",
+      "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJRk4LihYfvDiG59rQGAMVtjv4zYIqjSexUlbgfDjSTgHRPJuAG_uP9-BRY_yluhjUMTZ9zHepDqbY1kHsjaqWmFhOhZmM5e3u3n4CeH0nkFsGiIKDtW95begJaHEkr2UFTc_r_JwflZq3m8Uebb8bCC4D",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-07-22",
       "display_date": "2026-07-22",
       "text": "Andes hantavirus outbreak in cruise ship - ECDC - European Union",
@@ -632,13 +639,6 @@
       "display_date": "2026-07-17",
       "text": "The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2rmN-DjS38q5fE_86yBuDxQgRmaw_axINTVpzGAp74OfUt4TxXHtJmAsLSu4KkR1tOEfj2GXWyZRxfgOxCAiEPVJNoWR6Ic_c8kLa0ogCX1OZvU6sK2q8GrOS1xyHc4jNEsFJQYQkhMr9xmon2cIs64DLhBaz6A4x9AYGNLS0JccxHMP3DsPBoCX-JPWB-06EK2AiHmFiceaSI2h6Cc95ze6d2sQ8Qwi0olY=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-14",
-      "display_date": "2026-07-14",
-      "text": "Hantavirus: Cruise liner crisis ends as last passenger leaves isolation",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPbvhl0cqF-_v3Z06z0iO4TFZKDOiE-ZNdjMfNdXfFj4X7zo1zy6GrPCYMkoOG-gj_eYywjQ1eAJHyDS4g5UnVKiVzbBW90IOC5ZvaBYcqXAmgLiLZfGRLiLRWCvMiLGcmpHzbk5HoNLFtJlRXbTMIFfXRRT23xqGtOhVPKGcSx9mAoYTaPGAUblF_WGD0",
       "badge": "UPDATE"
     }
   ]
