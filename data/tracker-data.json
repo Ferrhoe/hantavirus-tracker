@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-15T18:35:17.018875+00:00",
+  "last_updated": "2026-08-16T01:38:07.205834+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -537,6 +537,13 @@
   ],
   "news": [
     {
+      "date": "2026-08-15",
+      "display_date": "2026-08-15",
+      "text": "Hantavirus tracing - LAist",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcSxVGkiPcyxmNgKx7MhfV34jHTJ4R7rgVvIxARRyGIj-df2YcP0Y72rxqq5abprO8DTdVEOV3maDbpYzfv2xh3i_h5uBeiMz-8RxyWwicc9Nm_FBGKtCEx-gCfYtrk1XITiuNnS69HKWaUsUidooprZMLVpjuIQEt5H5iGSXmed9B846j_znfcWHH4zXByg3FR6n5WZFDJ5AARAsJNMrr-Ot0XZNrmEXALvdHLBpjs0o=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-08-10",
       "display_date": "2026-08-10",
       "text": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness - News-Medical.Net",
@@ -632,13 +639,6 @@
       "display_date": "2026-07-19",
       "text": "Analysis of the 2026 MV Hondius cruise ship outbreak confirms 13 cases of Andes orthohantavirus (23% case fatality). Genomic and contact tracing data demonstrate human-to-human transmission in a confined maritime setting.",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_jv2dLwZ3nFvmMdW91QwjkwS8i-v2pU36vnkUQuAvypMHzbYBxRUbx7zSRycr_Cu8LoaKYBLKAI_aHZVnsHsteHDuALtV-DLthY4oA80gfbKux8aoCepFyeePc91yvNv6Z2KByvYf_GcDr-1gY-9gn0_BYXkczPf5PFAyyjx_LcIPT2ay0KRFUYCPVn7ElKf57leUjx185Nk=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-17",
-      "display_date": "2026-07-17",
-      "text": "The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2rmN-DjS38q5fE_86yBuDxQgRmaw_axINTVpzGAp74OfUt4TxXHtJmAsLSu4KkR1tOEfj2GXWyZRxfgOxCAiEPVJNoWR6Ic_c8kLa0ogCX1OZvU6sK2q8GrOS1xyHc4jNEsFJQYQkhMr9xmon2cIs64DLhBaz6A4x9AYGNLS0JccxHMP3DsPBoCX-JPWB-06EK2AiHmFiceaSI2h6Cc95ze6d2sQ8Qwi0olY=",
       "badge": "UPDATE"
     }
   ]
