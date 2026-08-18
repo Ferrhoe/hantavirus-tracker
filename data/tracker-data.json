@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-18T12:54:58.591012+00:00",
+  "last_updated": "2026-08-18T18:43:22.174271+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -537,6 +537,13 @@
   ],
   "news": [
     {
+      "date": "2026-08-18",
+      "display_date": "2026-08-18",
+      "text": "The Wellness-Risk Paradox at Sea: Wellness Positioning, Outbreak Exposure and Health-Quality Assurance in the Cruise Sector",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS3VzcDirjdK_2cN4gJZqF730Kj7d52an-fI9rX63ECti6kZcy2ECk6yR8PVpuXXbJpf4tgIANAwKZ_gL2Cgm-zKJvGktvbtkiDRx1RqKSeaCggHokkCxbXmMrInlRSTI=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-08-15",
       "display_date": "2026-08-15",
       "text": "Hantavirus tracing - LAist",
@@ -595,6 +602,13 @@
     {
       "date": "2026-07-23",
       "display_date": "2026-07-23",
+      "text": "Current information about hantavirus",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1DnIygVg8JPihsBaCcItOdcBqjuiyHftKhmLwHd4lW-DteWF3lsDQmuypCujuQ9AluQ2eG0u004RrN8PqKQJVwJrsMiFasgzFUmUQjan68YoCdDxffAH6B_DyXsqIW9O0ZljsjLMPrQa9HCt4Hxo=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-07-23",
+      "display_date": "2026-07-23",
       "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJRk4LihYfvDiG59rQGAMVtjv4zYIqjSexUlbgfDjSTgHRPJuAG_uP9-BRY_yluhjUMTZ9zHepDqbY1kHsjaqWmFhOhZmM5e3u3n4CeH0nkFsGiIKDtW95begJaHEkr2UFTc_r_JwflZq3m8Uebb8bCC4D",
       "badge": "UPDATE"
@@ -625,20 +639,6 @@
       "display_date": "2026-07-19",
       "text": "Analysis of the 2026 MV Hondius cruise ship outbreak confirms 13 cases of Andes orthohantavirus (23% case fatality). Genomic and contact tracing data demonstrate human-to-human transmission in a confined maritime setting. : r/science - Reddit",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWuQJc6_O0Wb67rvbsAPdAC0D7UIXRWwI1MOBlKGsKNEeAp2vLrt4cH63Zsjgogl7FM67jj-AMnNexja9onAK1EyBalsYsBbTcBalYY_cEtB8yZ_1Zii9GWIcQdSBcvCbYp7vzec7MkFqD0n7F8vTaENdYdjKnsQZ7l-qysjGz6aSSEws1oGYKor-EKga6RUbmUvveehGtPBk",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-19",
-      "display_date": "2026-07-19",
-      "text": "Hantavirus (2026 Multi\u2011Country Outbreak) - ABSA International",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9xbZGLcvhS5LIiywNe9WVzp8j6DSQ9sjD9-FTroV-eNa3zDJbWqhtFctaMY1QJSJ6UrRowY2SJ8XflTgOudwg_41ldPKaDJYuxn1WZKcstc3sbiSxxfa1MZ7plU_vwsLsE-AdqWALczgui-rOPA3HTa4w=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-19",
-      "display_date": "2026-07-19",
-      "text": "Analysis of the 2026 MV Hondius cruise ship outbreak confirms 13 cases of Andes orthohantavirus (23% case fatality). Genomic and contact tracing data demonstrate human-to-human transmission in a confined maritime setting.",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_jv2dLwZ3nFvmMdW91QwjkwS8i-v2pU36vnkUQuAvypMHzbYBxRUbx7zSRycr_Cu8LoaKYBLKAI_aHZVnsHsteHDuALtV-DLthY4oA80gfbKux8aoCepFyeePc91yvNv6Z2KByvYf_GcDr-1gY-9gn0_BYXkczPf5PFAyyjx_LcIPT2ay0KRFUYCPVn7ElKf57leUjx185Nk=",
       "badge": "UPDATE"
     }
   ]
