@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 5,
   "monitoring": 0,
-  "last_updated": "2026-08-23T06:48:33.447531+00:00",
+  "last_updated": "2026-08-23T12:48:29.723423+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -544,6 +544,13 @@
   ],
   "news": [
     {
+      "date": "2026-08-20",
+      "display_date": "2026-08-20",
+      "text": "Hantavirus outbreak 2026 - Public Health - European Commission - Europa.eu",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNEYiT5YK_krumH4Q_d2EjhZb_PZ7lJP6GS_TEdDwxsVdoXz2B86je3Qo9vruw45ozMfi6fd5jN5pPx-U6Ty0DtHcLuk9xvgfw1wgCZv7WmHOLiBNRRa2Nm5XPrY7WcoYHQKKeS85G8pqYhgrrSg98BLceNptu0pu16fHolHloqA0MMOcuFH6rp3dyi1KvlAtdv6R4WoP_NLqhDxShWyDl8HlMlYLl1uAfyrx8",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-08-18",
       "display_date": "2026-08-18",
       "text": "The Wellness-Risk Paradox at Sea: Wellness Positioning, Outbreak Exposure and Health-Quality Assurance in the Cruise Sector",
@@ -639,13 +646,6 @@
       "display_date": "2026-07-20",
       "text": "After cruise ship outbreak, review examines how hantavirus affects the brain.",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRTkpUrcdZcS_NmsP2P_k8YR-xIVrAwIrxngeu1qF9RfouNxDjGWeZt_zbgGLuUNzB3n6VudpeQoi49xJWDU3rNxg-x783X8NsJy2_U51_RfqHV3I1MEjhysC4kRR_AJHhGJTdGxkN6-FjDB3UHki79oEIJU3O4ScOToQDUHVeVg7PqhdMiItVncNt_jyF0IOWJWj0FHPIbjZpWGz-kjW0MA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-19",
-      "display_date": "2026-07-19",
-      "text": "Hantavirus (2026 Multi-Country Outbreak) - ABSA International",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG62i7fRIOIWUDk6Gq1Iw9Sa1ijrtmTy3iLukoVxoe0qgcg6BgCS_FBymO6WPuhLX-ZDDpVNonXkUDZd_FGjvZOPuJq82ebN3tN-crkz_0ndU_Ek7Wjh38sPWQPYLjJ9iBWL7QTlhS0x2cFkohmhhvjVM1",
       "badge": "UPDATE"
     }
   ]
