@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-09-03T03:47:45.320820+00:00",
+  "last_updated": "2026-09-03T10:56:47.448583+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -558,6 +558,13 @@
   ],
   "news": [
     {
+      "date": "2026-09-03",
+      "display_date": "2026-09-03",
+      "text": "Leading Change in a Connected World | Australian Government Department of Health, Disability and Ageing",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsVpfwJzphkX70PRfypTQXZRqgRX1YExOcj_wW3GU5sCuipibaxBrQGOKM46wXC3JgwRaxR0FFqM-5Bqk9nr6iKV8XbllOdziPN2GweaTCE26jQ2QFpwHKlnzQJWgZE4UhLW1JMp-SnmbSMassrCSyvPlKpCQ9Mu0kLnDJNtSdbxMDcJfUtsTHcQ==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-08-22",
       "display_date": "2026-08-22",
       "text": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article | Mount Sinai",
@@ -653,13 +660,6 @@
       "display_date": "2026-07-23",
       "text": "Current information about hantavirus",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1DnIygVg8JPihsBaCcItOdcBqjuiyHftKhmLwHd4lW-DteWF3lsDQmuypCujuQ9AluQ2eG0u004RrN8PqKQJVwJrsMiFasgzFUmUQjan68YoCdDxffAH6B_DyXsqIW9O0ZljsjLMPrQa9HCt4Hxo=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-23",
-      "display_date": "2026-07-23",
-      "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJRk4LihYfvDiG59rQGAMVtjv4zYIqjSexUlbgfDjSTgHRPJuAG_uP9-BRY_yluhjUMTZ9zHepDqbY1kHsjaqWmFhOhZmM5e3u3n4CeH0nkFsGiIKDtW95begJaHEkr2UFTc_r_JwflZq3m8Uebb8bCC4D",
       "badge": "UPDATE"
     }
   ]
