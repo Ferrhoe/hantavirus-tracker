@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-09-05T10:17:11.489934+00:00",
+  "last_updated": "2026-09-05T14:53:49.984485+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -565,6 +565,13 @@
   ],
   "news": [
     {
+      "date": "2026-09-04",
+      "display_date": "2026-09-04",
+      "text": "Managing a maritime emergency: how Oceanwide Expeditions responded to a deadly hantavirus outbreak - Cruise & Ferry Review",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9aZMUSeqtnaijo7byJ0yhlxCP5OXlg0IoFuinT3hS38tfynztF2fE2ZCNuCryI8QK4QdC8A4tWM-sfSeGxlQspIwgfu2yvSLqRX2ugdbDmC8sp_vMW4hVgFev_EwO8GmRhtTQbGfHIkyJ62h4LQYKUY_1qsjrTFzOmspOzBCCzqBAf0AsBURqfk4gmgBAUcsA2mgoSC0quu6He2Hc5d88K3Ervg4-15G-2GwZHjqWesP8YqeMhlFXk4Xppe0eLOWQ2GHE",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-09-03",
       "display_date": "2026-09-03",
       "text": "Leading Change in a Connected World | Australian Government Department of Health, Disability and Ageing",
@@ -660,13 +667,6 @@
       "display_date": "2026-07-24",
       "text": "No, cruise ships aren't floating petri dishes | Popular Science",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4irRrLQ2P0g3R_yt4y-9kaN7fdOQfCqioue_ByjTbL1Y0xZT65qdMolNrzo3IQCNppXLBMt8QIAuDMJo_WmKZICqNuzPHednmR9bJ4i5CSHBmcDrtGg3x0r4yKdrrZqPds3XgikMXPrvYgu0REn1tIYEqeYtn9g==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-23",
-      "display_date": "2026-07-23",
-      "text": "Current information about hantavirus",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1DnIygVg8JPihsBaCcItOdcBqjuiyHftKhmLwHd4lW-DteWF3lsDQmuypCujuQ9AluQ2eG0u004RrN8PqKQJVwJrsMiFasgzFUmUQjan68YoCdDxffAH6B_DyXsqIW9O0ZljsjLMPrQa9HCt4Hxo=",
       "badge": "UPDATE"
     }
   ]
