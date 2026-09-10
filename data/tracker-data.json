@@ -1,9 +1,9 @@
 {
-  "confirmed": 197,
+  "confirmed": 202,
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-09-10T16:08:26.410644+00:00",
+  "last_updated": "2026-09-10T20:40:22.102901+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 0
     },
     "Canada": {
-      "confirmed": 37,
+      "confirmed": 38,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 42,
+      "confirmed": 43,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -54,7 +54,7 @@
       "monitoring": 0
     },
     "Netherlands": {
-      "confirmed": 33,
+      "confirmed": 34,
       "probable": 1,
       "deaths": 3,
       "monitoring": 0
@@ -84,7 +84,7 @@
       "monitoring": 0
     },
     "Spain": {
-      "confirmed": 54,
+      "confirmed": 55,
       "probable": 0,
       "deaths": 0,
       "monitoring": 0
@@ -120,7 +120,7 @@
       "monitoring": 0
     },
     "Tristan da Cunha": {
-      "confirmed": 16,
+      "confirmed": 17,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -564,7 +564,7 @@
     },
     {
       "date": "Sep 10",
-      "confirmed": 197,
+      "confirmed": 202,
       "probable": 13,
       "deaths": 6,
       "monitoring": 0
