@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-09-12T10:23:31.634221+00:00",
+  "last_updated": "2026-09-12T15:18:42.426516+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -579,6 +579,13 @@
   ],
   "news": [
     {
+      "date": "2026-09-11",
+      "display_date": "2026-09-11",
+      "text": "Rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in the European Union/European Economic Area (EU/EEA)",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-G-8muJ4thCaQZijvc4ZrdSbbx15YeTty_kKpcyeJ7OaY8Yk88y9gCvOJuL-s22ex0OOBqVObBLCXUI5cod-QwbD4Ww5g2i5xgEiBDWYZw6kRfpdhdH4r39awgZ_JU96NfjxzQMoVKAnFW67XN1wy2vqGHwHD7ZkTeFIqpu5ja1P0sgBd3YRGRzur7cOFPALq9Sj3ulT-0mBCP4EDnYREJ8awTJ4MTOOjChWkVA7zA6vnhi4sQAMkgDBSA==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-09-04",
       "display_date": "2026-09-04",
       "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
@@ -674,13 +681,6 @@
       "display_date": "2026-07-29",
       "text": "Hantavirus kills three people in Venezuela - Juta MedicalBrief",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNs2S7sE6lC_aQFrShD-bY2UVznt21y9QY043a9VkX2qwrczTDZhXh5LzBqjxkUNoWL5z2OhGNuCeA8_HfjvTUq_C0LBVRhTrxVojNK_D-fPXBLHqm_Wu6NCD_rvJS0pga0Fk7Z-TAxdU6J4bj6Br5h7WsBPN3nBVezvRfUP93f2UBpqE=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-07-24",
-      "display_date": "2026-07-24",
-      "text": "Hantavirus Tracker 2026 \u2014 Live Outbreak Map, Cases & Deaths | HORIZON",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGdjqiQ0aZcm209n9IdCBlq_VJz2hU-942HMUcTzNQ5cAL6_32GwUrMO9T68LoIuY_D2w_mUc-c4fsa2XzAPO1LD0dENVYZvNFmFqEJcMjWh-27klCzQY=",
       "badge": "UPDATE"
     }
   ]
