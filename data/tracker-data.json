@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-09-22T04:12:20.947804+00:00",
+  "last_updated": "2026-09-22T11:16:15.764667+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -600,6 +600,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-09-18",
+      "display_date": "2026-09-18",
+      "text": "Updated rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in",
+      "link": "https://www.ecdc.europa.eu/en/publications-data/updated-rapid-scientific-advice-management-contacts-following-sporadic-imported",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-09-11",
       "display_date": "2026-09-11",
       "text": "Rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in the European Union/European Economic Area (EU/EEA)",
@@ -688,13 +695,6 @@
       "display_date": "2026-08-06",
       "text": "Hantavirus detected in France tourist now isolated in Spain - CNA",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhVn4IUzSrUz_uiN6o3ue4pm97tswXoPU3f9SI8c_FOZeFupaeUAdtoedGeh-DoJJdrNv3broob_Ux2DvqZowD3mQ4BUHzUi2R49s2SjF56Sk3Q6z6H06O9ijm-BDxoG3o3On8ZUF9o8Y95TyS9KF1-NKAOss2HhaUmUraIdfR_xsMSyNqES_V-Fi_QiWmSHf4jRasdbPjmA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-06",
-      "display_date": "2026-08-06",
-      "text": "From Hantavirus to Ebola: Rebuilding Trust in Health and Biosecurity Governance - RSIS",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4YJMuh8WwgRAVL8CkaO0Skm5-pLhe2vsDDBMXshXsa2sIOZiPzGW7MqX51ItZCDrdyelTwm_650pCWvu_ktoHuXqG3sRr5UwGp0vEhEwlAp2M0xkVnlRykcDN96nIOrV-850nmc0N4_ZFkI10R2GAwWO4noBJMOvXHW39t2vuLEri0HgXGdvZdl1bNEB5j0Y9aniHvBrTqHchBPA2TrS5UacqEKklATcVrHXNli-8mwC7pI=",
       "badge": "UPDATE"
     }
   ]
