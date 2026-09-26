@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-09-26T16:06:06.982546+00:00",
+  "last_updated": "2026-09-26T20:52:06.057737+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -616,6 +616,13 @@
     {
       "date": "2026-09-18",
       "display_date": "2026-09-18",
+      "text": "Updated rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in - ECDC",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsRcMisFLJ5dhFCAebhePnRbyJ8cvhiv4lsecVCbVPfO0-DFJmdaqcXQ-ATCijjpqU_nAc2J9HcCQaiH0rMCgV36_SGyn47Dx7saEEXMyFIF6SKx0_sJCDaV-FynpWtrXCAzgl4SK2-h9nqbxAF79lBUZx2JZDllAHMEmBE63gECy4EonSH4P8LVk8pTYV651bPKp4A16lWNGEQzudMQyJDwTl5773wAQtPn5dqc7d8BZsTdIH92F9iWKRRvFnuQ==",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-09-18",
+      "display_date": "2026-09-18",
       "text": "Updated rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in",
       "link": "https://www.ecdc.europa.eu/en/publications-data/updated-rapid-scientific-advice-management-contacts-following-sporadic-imported",
       "badge": "UPDATE"
@@ -702,13 +709,6 @@
       "display_date": "2026-08-06",
       "text": "Hantavirus 2026 \u2014 current situation and case tracking",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyBlf6Z3lw6GM1xe1jqaB-7gGaN2htPskuaBk5o0ThWsji67IiINBHS-lwUpPKKOmzVeK0vXCi-lxeL-BKR-zjKhXEf4A04hmLG0J-O30Cq-6FkjL8xQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-06",
-      "display_date": "2026-08-06",
-      "text": "Hantavirus detected in France tourist now isolated in Spain - CNA",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhVn4IUzSrUz_uiN6o3ue4pm97tswXoPU3f9SI8c_FOZeFupaeUAdtoedGeh-DoJJdrNv3broob_Ux2DvqZowD3mQ4BUHzUi2R49s2SjF56Sk3Q6z6H06O9ijm-BDxoG3o3On8ZUF9o8Y95TyS9KF1-NKAOss2HhaUmUraIdfR_xsMSyNqES_V-Fi_QiWmSHf4jRasdbPjmA==",
       "badge": "UPDATE"
     }
   ]
