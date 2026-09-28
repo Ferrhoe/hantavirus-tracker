@@ -1,9 +1,9 @@
 {
-  "confirmed": 215,
+  "confirmed": 216,
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-09-28T04:38:26.038305+00:00",
+  "last_updated": "2026-09-28T13:23:15.764790+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -120,7 +120,7 @@
       "monitoring": 0
     },
     "Tristan da Cunha": {
-      "confirmed": 22,
+      "confirmed": 23,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -600,6 +600,13 @@
     {
       "date": "Sep 23",
       "confirmed": 215,
+      "probable": 13,
+      "deaths": 6,
+      "monitoring": 0
+    },
+    {
+      "date": "Sep 28",
+      "confirmed": 216,
       "probable": 13,
       "deaths": 6,
       "monitoring": 0
