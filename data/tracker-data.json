@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-10-10T12:12:42.302000+00:00",
+  "last_updated": "2026-10-10T21:23:26.564354+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -614,6 +614,13 @@
   ],
   "news": [
     {
+      "date": "2026-10-08",
+      "display_date": "2026-10-08",
+      "text": "Hantavirus Tracker 2026 \u2014 Live Outbreak Map, Cases & Deaths | HORIZON",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFllDdw_cxh-MIIA8XB0W45ytP0Qwwx9rtBseuqYYXNnLh9jRFizCQcTDIWqq8GP2jVcDo0iVjMKl8ISMUReqpltpMI99Xra7XE35LXyZoGF_jiNe52Mg==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-09-21",
       "display_date": "2026-09-21",
       "text": "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
@@ -709,13 +716,6 @@
       "display_date": "2026-08-08",
       "text": "Hantavirus 2026 \u2014 current situation and case tracking - HantaTracker",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx9ivfEKiWJgb-seejXBmPCoJQKKRJLCCAyWl4x-1JxnX-VojxLkxg4xVLkJ-fnZ-duxRgiAg3q4CiZHcKaeyPB2Vc2X2geoZFYHoHw0mG7ZuNHBCkFA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-06",
-      "display_date": "2026-08-06",
-      "text": "Hantavirus 2026 \u2014 current situation and case tracking",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyBlf6Z3lw6GM1xe1jqaB-7gGaN2htPskuaBk5o0ThWsji67IiINBHS-lwUpPKKOmzVeK0vXCi-lxeL-BKR-zjKhXEf4A04hmLG0J-O30Cq-6FkjL8xQ==",
       "badge": "UPDATE"
     }
   ]
