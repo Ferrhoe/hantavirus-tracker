@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-10-11T12:26:07.678180+00:00",
+  "last_updated": "2026-10-11T21:41:44.233418+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -628,6 +628,13 @@
       "badge": "UPDATE"
     },
     {
+      "date": "2026-10-01",
+      "display_date": "2026-10-01",
+      "text": "Hondius Andes Hantavirus Update: Contact Tracing Intensifies as Outbreak Progresses",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH46YX0HO7cuWjqAYv6AJTDRN-viw930o_e-fSYOAV01g-rdN_gy4m8lk5U6jWGvJyucwy_OTtEXLhSuoCdw4voR4Yp2wQ0F2Z3bQalc5BqEoMvtQT5S8W5UzlhpTtljDrekUignn96Nrjpma0oCuZHlLLebJwRZpZarvmEoSK0xrVRNirv4MWv1XtsnrmIZPDaX40NjnHxOr3uCqBZlyQi01T-gmhzz-86Uu9iKp_WSpYEHTufg3Yex4lO5g==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-09-21",
       "display_date": "2026-09-21",
       "text": "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
@@ -709,13 +716,6 @@
       "display_date": "2026-08-15",
       "text": "Hantavirus tracing - LAist",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcSxVGkiPcyxmNgKx7MhfV34jHTJ4R7rgVvIxARRyGIj-df2YcP0Y72rxqq5abprO8DTdVEOV3maDbpYzfv2xh3i_h5uBeiMz-8RxyWwicc9Nm_FBGKtCEx-gCfYtrk1XITiuNnS69HKWaUsUidooprZMLVpjuIQEt5H5iGSXmed9B846j_znfcWHH4zXByg3FR6n5WZFDJ5AARAsJNMrr-Ot0XZNrmEXALvdHLBpjs0o=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-10",
-      "display_date": "2026-08-10",
-      "text": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness - News-Medical.Net",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhbMqlKzoIOp1A5SCvcwmbqV5kW1_-M8wZfZkJ5ib4nwTdXmyZJd0jU98A0Rq4A19wNJG_-QYBC1IL7APrN8DKz71tqXZsdQ4S12Uf2SmV1GIJVdfZAas2Sl2jQFY7w-xsu3641Egi6yiUVqy56dQdKAqnlHcR3xvhkKUFeWBugESe0cP2zr-a5of_pj-HUAS6T4msg7_hcdfv8JJ-i6YTCUvKkaGo8CoGPp2ZKdUIIMbuUHJWE7oXY5m9pxYfFWq08X5QtNESQ==",
       "badge": "UPDATE"
     }
   ]
