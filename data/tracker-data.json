@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-10-11T05:00:05.968941+00:00",
+  "last_updated": "2026-10-11T12:26:07.678180+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -614,6 +614,13 @@
   ],
   "news": [
     {
+      "date": "2026-10-10",
+      "display_date": "2026-10-10",
+      "text": "The hantavirus outbreak aboard the MV Hondius tested our collective ability to respond to a rapidly evolving health emergency. World Health Organization (WHO), Spain and many more countries and part - Facebook",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-xXrHqlga8xVL5hn94-gcAhLvTPLe9X6e6QG9JMGYclDm8TO7CxGcdGuBQeFlf9n7g0GwArQ4y6bzDfvTpO88G7PHxfP283H1ofU66NSIMBcIP5IaQAtASNbmewdFsyrZwWB6yCUpPff2gss1bsleVeGTgCX7uqZkhoM1m4Eg4TKVNzYbyEVr9aiU3ATsywZmP3fI1gQojD1GZw9fuLsLMKSTqbyNWqWSEN9Q_nv-Ds0R6QAeHKXqRClbkn5thBz8oByPE0J42yZ4CUsE9Fg=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-10-08",
       "display_date": "2026-10-08",
       "text": "Hantavirus Tracker 2026 \u2014 Live Outbreak Map, Cases & Deaths | HORIZON",
@@ -709,13 +716,6 @@
       "display_date": "2026-08-10",
       "text": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness - News-Medical.Net",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhbMqlKzoIOp1A5SCvcwmbqV5kW1_-M8wZfZkJ5ib4nwTdXmyZJd0jU98A0Rq4A19wNJG_-QYBC1IL7APrN8DKz71tqXZsdQ4S12Uf2SmV1GIJVdfZAas2Sl2jQFY7w-xsu3641Egi6yiUVqy56dQdKAqnlHcR3xvhkKUFeWBugESe0cP2zr-a5of_pj-HUAS6T4msg7_hcdfv8JJ-i6YTCUvKkaGo8CoGPp2ZKdUIIMbuUHJWE7oXY5m9pxYfFWq08X5QtNESQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-08",
-      "display_date": "2026-08-08",
-      "text": "Hantavirus 2026 \u2014 current situation and case tracking - HantaTracker",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx9ivfEKiWJgb-seejXBmPCoJQKKRJLCCAyWl4x-1JxnX-VojxLkxg4xVLkJ-fnZ-duxRgiAg3q4CiZHcKaeyPB2Vc2X2geoZFYHoHw0mG7ZuNHBCkFA==",
       "badge": "UPDATE"
     }
   ]
