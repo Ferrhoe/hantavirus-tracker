@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-10-16T03:55:11.951307+00:00",
+  "last_updated": "2026-10-16T11:04:35.443969+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -614,6 +614,13 @@
   ],
   "news": [
     {
+      "date": "2026-10-13",
+      "display_date": "2026-10-13",
+      "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-WPMxl5cRBmMD0ofyZ398lbtqPHuaQJGB7GZm6y_up3DWIi54-eD03QTQC7esDf5jHMgzseEc87Z2HDAuUzKLwFVnN-cIAWSfbewvh4B8JA5BC7UbVS06uv49TUu_DEpHCZL_3JQHxFfNXCsemaI1CKo",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-10-10",
       "display_date": "2026-10-10",
       "text": "The hantavirus outbreak aboard the MV Hondius tested our collective ability to respond to a rapidly evolving health emergency. World Health Organization (WHO), Spain and many more countries and part - Facebook",
@@ -709,13 +716,6 @@
       "display_date": "2026-08-20",
       "text": "Hantavirus outbreak 2026 - Public Health - European Commission - Europa.eu",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNEYiT5YK_krumH4Q_d2EjhZb_PZ7lJP6GS_TEdDwxsVdoXz2B86je3Qo9vruw45ozMfi6fd5jN5pPx-U6Ty0DtHcLuk9xvgfw1wgCZv7WmHOLiBNRRa2Nm5XPrY7WcoYHQKKeS85G8pqYhgrrSg98BLceNptu0pu16fHolHloqA0MMOcuFH6rp3dyi1KvlAtdv6R4WoP_NLqhDxShWyDl8HlMlYLl1uAfyrx8",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-18",
-      "display_date": "2026-08-18",
-      "text": "The Wellness-Risk Paradox at Sea: Wellness Positioning, Outbreak Exposure and Health-Quality Assurance in the Cruise Sector",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS3VzcDirjdK_2cN4gJZqF730Kj7d52an-fI9rX63ECti6kZcy2ECk6yR8PVpuXXbJpf4tgIANAwKZ_gL2Cgm-zKJvGktvbtkiDRx1RqKSeaCggHokkCxbXmMrInlRSTI=",
       "badge": "UPDATE"
     }
   ]
