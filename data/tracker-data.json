@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-10-18T10:40:55.645382+00:00",
+  "last_updated": "2026-10-18T15:38:16.560007+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -614,6 +614,13 @@
   ],
   "news": [
     {
+      "date": "2026-10-17",
+      "display_date": "2026-10-17",
+      "text": "Hondius Andes Hantavirus Outbreak Cases Stabilize",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWtp8OaKwVGKQTAUXTB8wmkofCGhWn5A6bNXzaG1JIdisOUZPX-8kosmWpNW76b59LvKglT6c2gY3RTZXLL2_8jRVXMuWpysXw2juPwFoJVlv6ui28u0a_xQe9BDVNAv7Pwkv2kSTKDol8uDdH2ShuwnG4OFRjYLbpvQyWwRpWAyXKW7ALU3rzA2yun7Rzp0naR9a0wy-a6mHWE9YZJ7B2_9l0WEZhQK6TdYvrJRPvdGkNbHYQ4QdAT-etnQ==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-10-13",
       "display_date": "2026-10-13",
       "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
@@ -709,13 +716,6 @@
       "display_date": "2026-08-20",
       "text": "Andes hantavirus outbreak in cruise ship - ECDC - Europa.eu",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELiwWjVrEzlZRqwhiwZWY0siB_4lWMExvMW9kkJOahaVcH8AhrHeIC8qylwFu2_lwYhvHRLtZqWfhS5i-5Y2CwHnDzrwCCYAYugjX6YrBuyC6jNrYSPwRLxjdMGj8V8VUCZMXlDx1AOwbywfJ6ng__e1eQShs_cB72p0IOOowNw9FfuxNcqxtLdPq_hdsTEBWoaxfhkAyqmQBdO-eBx5skZkWz9URdlNnBrvwqPUmGeGJASq4vhIgHJkQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-20",
-      "display_date": "2026-08-20",
-      "text": "Hantavirus outbreak 2026 - Public Health - European Commission - Europa.eu",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNEYiT5YK_krumH4Q_d2EjhZb_PZ7lJP6GS_TEdDwxsVdoXz2B86je3Qo9vruw45ozMfi6fd5jN5pPx-U6Ty0DtHcLuk9xvgfw1wgCZv7WmHOLiBNRRa2Nm5XPrY7WcoYHQKKeS85G8pqYhgrrSg98BLceNptu0pu16fHolHloqA0MMOcuFH6rp3dyi1KvlAtdv6R4WoP_NLqhDxShWyDl8HlMlYLl1uAfyrx8",
       "badge": "UPDATE"
     }
   ]
