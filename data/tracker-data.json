@@ -3,7 +3,7 @@
   "probable": 13,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-10-18T15:38:16.560007+00:00",
+  "last_updated": "2026-10-18T20:21:53.949514+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -614,6 +614,13 @@
   ],
   "news": [
     {
+      "date": "2026-10-18",
+      "display_date": "2026-10-18",
+      "text": "The Guardian view on plague in Russia: what is most worrying is the lack of information",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpDxTsH_x6nWq5yxUh03wi43sIhKbhXr2qCttX3qaUffuuLbe5aWnOA95Izy4vztNLMKweGMMun16YWgfAFy89f8DB2WaLwYxm1nFLE6si9d6v6SnNbMVaLXA4gUvbhrRsnNU5sQsGJqCGcD7PopJcw9dyBW7QedjVS5nziyYMnUzO2saubkkNPxrY6Hm0Qdv9hCUuK8lode9kx-O7kUE3_qTzu0_z6rQ4_PVng-1T6pXAiXKd0fOJiW9AJyLp2KRXbOs-bfJG",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-10-17",
       "display_date": "2026-10-17",
       "text": "Hondius Andes Hantavirus Outbreak Cases Stabilize",
@@ -709,13 +716,6 @@
       "display_date": "2026-08-22",
       "text": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article | Mount Sinai",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJdtqekG04nm4QozAzxkHx4buQZm5QuTes5S_hgWkaMW6mWbiUrwbBposSdTFXfT9TIRC2BQbTLV-KBdsF1m-_7e9h_1DyC4uf_nNbHxuSLjHvMNEcktacsXpmfgeJVQpqDx3StCnxJ3FTcU09hmjzygQ0mYJDltiCkVtt2CaiPlD207Yr3UGsU8qS_b7Dk5luUINHx3nhSn3WGsSHas_vC48OJFHQnU-YZyv9wCOawySL7fispl8MeUL0RXj8Xc7fxZ0mHsZvwGk26bm0w3qgEKJLREBqionKFV3_OcYE0mJvDkuSjNCxqFeFGKPHc1MFCde0svDZc1BKv5YwjGOBkcj-v05mCaPqG0=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-20",
-      "display_date": "2026-08-20",
-      "text": "Andes hantavirus outbreak in cruise ship - ECDC - Europa.eu",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELiwWjVrEzlZRqwhiwZWY0siB_4lWMExvMW9kkJOahaVcH8AhrHeIC8qylwFu2_lwYhvHRLtZqWfhS5i-5Y2CwHnDzrwCCYAYugjX6YrBuyC6jNrYSPwRLxjdMGj8V8VUCZMXlDx1AOwbywfJ6ng__e1eQShs_cB72p0IOOowNw9FfuxNcqxtLdPq_hdsTEBWoaxfhkAyqmQBdO-eBx5skZkWz9URdlNnBrvwqPUmGeGJASq4vhIgHJkQ==",
       "badge": "UPDATE"
     }
   ]
