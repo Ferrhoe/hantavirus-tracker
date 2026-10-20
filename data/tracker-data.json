@@ -1,9 +1,9 @@
 {
-  "confirmed": 216,
+  "confirmed": 217,
   "probable": 13,
   "deaths": 6,
-  "monitoring": 38,
-  "last_updated": "2026-10-20T11:11:53.479034+00:00",
+  "monitoring": 61,
+  "last_updated": "2026-10-20T16:37:39.609059+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -117,10 +117,10 @@
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 18
+      "monitoring": 41
     },
     "Tristan da Cunha": {
-      "confirmed": 23,
+      "confirmed": 24,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -610,9 +610,23 @@
       "probable": 13,
       "deaths": 6,
       "monitoring": 0
+    },
+    {
+      "date": "Oct 20",
+      "confirmed": 217,
+      "probable": 13,
+      "deaths": 6,
+      "monitoring": 61
     }
   ],
   "news": [
+    {
+      "date": "2026-10-19",
+      "display_date": "2026-10-19",
+      "text": "Hantavirus and the mouth: Review maps early oral warning signs, salivary clues, and precautions for dental teams | EurekAlert!",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE88Z4qxchnh2ImnBi6gSz1vx6eARwzg18bU1jt8-fzyWWf_B3LZ3LWhHdR0hv6EDs-4947MrsD7zQMpdy-BKVBCmRLcQOn6juGJaQNfVQ5u5XXVxH7m4yUOiigWIF9wfr1xatKJk8MZJnS",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-10-18",
       "display_date": "2026-10-18",
@@ -709,13 +723,6 @@
       "display_date": "2026-09-03",
       "text": "Leading Change in a Connected World | Australian Government Department of Health, Disability and Ageing",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsVpfwJzphkX70PRfypTQXZRqgRX1YExOcj_wW3GU5sCuipibaxBrQGOKM46wXC3JgwRaxR0FFqM-5Bqk9nr6iKV8XbllOdziPN2GweaTCE26jQ2QFpwHKlnzQJWgZE4UhLW1JMp-SnmbSMassrCSyvPlKpCQ9Mu0kLnDJNtSdbxMDcJfUtsTHcQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-08-22",
-      "display_date": "2026-08-22",
-      "text": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article | Mount Sinai",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaJdtqekG04nm4QozAzxkHx4buQZm5QuTes5S_hgWkaMW6mWbiUrwbBposSdTFXfT9TIRC2BQbTLV-KBdsF1m-_7e9h_1DyC4uf_nNbHxuSLjHvMNEcktacsXpmfgeJVQpqDx3StCnxJ3FTcU09hmjzygQ0mYJDltiCkVtt2CaiPlD207Yr3UGsU8qS_b7Dk5luUINHx3nhSn3WGsSHas_vC48OJFHQnU-YZyv9wCOawySL7fispl8MeUL0RXj8Xc7fxZ0mHsZvwGk26bm0w3qgEKJLREBqionKFV3_OcYE0mJvDkuSjNCxqFeFGKPHc1MFCde0svDZc1BKv5YwjGOBkcj-v05mCaPqG0=",
       "badge": "UPDATE"
     }
   ]
