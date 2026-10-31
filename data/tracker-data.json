@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-10-30T22:06:07.811730+00:00",
+  "last_updated": "2026-10-31T04:52:02.500208+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -628,6 +628,13 @@
   ],
   "news": [
     {
+      "date": "2026-10-30",
+      "display_date": "2026-10-30",
+      "text": "2026 Cruise Crisis: Hantavirus Playbook & AI Visibility - Everything-PR",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTa7zEqIDyk69o5hf1hB-sXo9waSaDCmQsqhQCqha21WnnQwqNrowXldBEhPqMcoB6XcuOacz_cIMXL7GZROuXaXJW4zStTMqzyhSXNMUth52mkgreR0rvuRQJWxU8lp_24u30G3U91WugK2EFn_PbDhTlqpzTED8=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-10-19",
       "display_date": "2026-10-19",
       "text": "Hantavirus and the mouth: Review maps early oral warning signs, salivary clues, and precautions for dental teams | EurekAlert!",
@@ -723,13 +730,6 @@
       "display_date": "2026-09-04",
       "text": "Managing a maritime emergency: how Oceanwide Expeditions responded to a deadly hantavirus outbreak - Cruise & Ferry Review",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9aZMUSeqtnaijo7byJ0yhlxCP5OXlg0IoFuinT3hS38tfynztF2fE2ZCNuCryI8QK4QdC8A4tWM-sfSeGxlQspIwgfu2yvSLqRX2ugdbDmC8sp_vMW4hVgFev_EwO8GmRhtTQbGfHIkyJ62h4LQYKUY_1qsjrTFzOmspOzBCCzqBAf0AsBURqfk4gmgBAUcsA2mgoSC0quu6He2Hc5d88K3Ervg4-15G-2GwZHjqWesP8YqeMhlFXk4Xppe0eLOWQ2GHE",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-09-03",
-      "display_date": "2026-09-03",
-      "text": "Leading Change in a Connected World | Australian Government Department of Health, Disability and Ageing",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsVpfwJzphkX70PRfypTQXZRqgRX1YExOcj_wW3GU5sCuipibaxBrQGOKM46wXC3JgwRaxR0FFqM-5Bqk9nr6iKV8XbllOdziPN2GweaTCE26jQ2QFpwHKlnzQJWgZE4UhLW1JMp-SnmbSMassrCSyvPlKpCQ9Mu0kLnDJNtSdbxMDcJfUtsTHcQ==",
       "badge": "UPDATE"
     }
   ]
