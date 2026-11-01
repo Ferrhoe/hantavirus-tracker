@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-11-01T12:56:40.342876+00:00",
+  "last_updated": "2026-11-01T21:52:10.121880+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -628,6 +628,13 @@
   ],
   "news": [
     {
+      "date": "2026-11-01",
+      "display_date": "2026-11-01",
+      "text": "Biocontainment Transport of Patients with High-Consequence Infectious Diseases: A Narrative Review and Integrated Operational Framework for Emergency Medical Systems",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGglQ-vhkp0UPt6qU8VTKTPjRVZD3lu9qz1LKx7EECibdyI2toz_xMXXZUnoWZZjPLZ5j4SYJF2apR5-wxKA4RU7K9NC_Ah40DQz39HZYOwytFuhpXMfsfY4751i3JwVE8=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-10-30",
       "display_date": "2026-10-30",
       "text": "2026 Cruise Crisis: Hantavirus Playbook & AI Visibility - Everything-PR",
@@ -723,13 +730,6 @@
       "display_date": "2026-09-04",
       "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEztoyOAUyhvuKWn6eRtiuJl6cfbqjzlY-l7-A38s0Lo2e0YSgy7p2PVLJd3jIAtDWZD08YpRDx1Zwr2Y8aJ777EcWgVhgruanP3UThI0JV6eMsjvqBSg5B-Iw2FE21Dyeq2U_3EHV0zeUYF_U2XLzyesJ6AbNECDvtz2eQHEUSf1SfYxtM-pvWvU6ocM4dEJlACVteRkntzB7ZktxVgq3I_6DjtitPALwOGurf",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-09-04",
-      "display_date": "2026-09-04",
-      "text": "Managing a maritime emergency: how Oceanwide Expeditions responded to a deadly hantavirus outbreak - Cruise & Ferry Review",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9aZMUSeqtnaijo7byJ0yhlxCP5OXlg0IoFuinT3hS38tfynztF2fE2ZCNuCryI8QK4QdC8A4tWM-sfSeGxlQspIwgfu2yvSLqRX2ugdbDmC8sp_vMW4hVgFev_EwO8GmRhtTQbGfHIkyJ62h4LQYKUY_1qsjrTFzOmspOzBCCzqBAf0AsBURqfk4gmgBAUcsA2mgoSC0quu6He2Hc5d88K3Ervg4-15G-2GwZHjqWesP8YqeMhlFXk4Xppe0eLOWQ2GHE",
       "badge": "UPDATE"
     }
   ]
