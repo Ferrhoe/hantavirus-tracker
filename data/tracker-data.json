@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-11-03T23:02:25.270349+00:00",
+  "last_updated": "2026-11-04T05:37:14.231717+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -628,6 +628,13 @@
   ],
   "news": [
     {
+      "date": "2026-11-03",
+      "display_date": "2026-11-03",
+      "text": "2026 Hondius Hantavirus Outbreak Map and Tracker",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmqwTCsuZBA4b7mQ6MhKXVnzY-jBNuy2GPibi5Av_vZiiWXoTWXxqZTYed0zXJb_aFSwk4X_5ZIEtAUC3m6I4z2rU7SAfKR_M-b24kwHYkuFKtGMM0cLdKv31LCW1dRrDdDuF5zQm24WpYGRjqO0rdeXU=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-11-01",
       "display_date": "2026-11-01",
       "text": "Biocontainment Transport of Patients with High-Consequence Infectious Diseases: A Narrative Review and Integrated Operational Framework for Emergency Medical Systems",
@@ -723,13 +730,6 @@
       "display_date": "2026-09-11",
       "text": "Rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in the European Union/European Economic Area (EU/EEA)",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-G-8muJ4thCaQZijvc4ZrdSbbx15YeTty_kKpcyeJ7OaY8Yk88y9gCvOJuL-s22ex0OOBqVObBLCXUI5cod-QwbD4Ww5g2i5xgEiBDWYZw6kRfpdhdH4r39awgZ_JU96NfjxzQMoVKAnFW67XN1wy2vqGHwHD7ZkTeFIqpu5ja1P0sgBd3YRGRzur7cOFPALq9Sj3ulT-0mBCP4EDnYREJ8awTJ4MTOOjChWkVA7zA6vnhi4sQAMkgDBSA==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-09-04",
-      "display_date": "2026-09-04",
-      "text": "Hantavirus outbreak 2026 - Public Health - European Commission",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEztoyOAUyhvuKWn6eRtiuJl6cfbqjzlY-l7-A38s0Lo2e0YSgy7p2PVLJd3jIAtDWZD08YpRDx1Zwr2Y8aJ777EcWgVhgruanP3UThI0JV6eMsjvqBSg5B-Iw2FE21Dyeq2U_3EHV0zeUYF_U2XLzyesJ6AbNECDvtz2eQHEUSf1SfYxtM-pvWvU6ocM4dEJlACVteRkntzB7ZktxVgq3I_6DjtitPALwOGurf",
       "badge": "UPDATE"
     }
   ]
