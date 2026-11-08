@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 18,
-  "last_updated": "2026-11-08T13:01:22.708863+00:00",
+  "last_updated": "2026-11-08T21:52:06.674042+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -630,6 +630,13 @@
     {
       "date": "2026-11-06",
       "display_date": "2026-11-06",
+      "text": "Hantavirus Disease in a Changing World: Reservoir Ecology, Endothelial Dysfunction, Clinical Management, and the 2026 M/V Hondius Andes Virus Outbreak",
+      "link": "https://www.mdpi.com/2073-4409/15/11/765",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-11-06",
+      "display_date": "2026-11-06",
       "text": "Mount Sinai Study Identifies Single Amino Acid Change That Alters Andes Virus Protein Behavior in Human Cells",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHajUVhTcPD3NxYSWv2qZgWhfOu-wOXjkrM3jgWb9OR2QMtoLnEuVLEmErr9qvEUUDu7Ktuu17-xIuZKps8OH2xJrPgoOlxU1okzIWO3MZLw_fcjrx4evBnIwp30qndZWq1GH9OCNxpMcYLJygR5qicIX7LYymFGgOlxmxJEVNXWfzTLFmMhlSS1tUq-DHM9Hto_6JxATCedCqYWz5i8pgSc6FQOcluThCbm6QGeNIdeRZXverIXeux6-Ji9X7C7eUyM97i-_XOMwz7VsYSZAlhL6eom21a29M",
       "badge": "UPDATE"
@@ -723,13 +730,6 @@
       "display_date": "2026-09-18",
       "text": "Updated rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in - ECDC",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsRcMisFLJ5dhFCAebhePnRbyJ8cvhiv4lsecVCbVPfO0-DFJmdaqcXQ-ATCijjpqU_nAc2J9HcCQaiH0rMCgV36_SGyn47Dx7saEEXMyFIF6SKx0_sJCDaV-FynpWtrXCAzgl4SK2-h9nqbxAF79lBUZx2JZDllAHMEmBE63gECy4EonSH4P8LVk8pTYV651bPKp4A16lWNGEQzudMQyJDwTl5773wAQtPn5dqc7d8BZsTdIH92F9iWKRRvFnuQ==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-09-18",
-      "display_date": "2026-09-18",
-      "text": "Updated rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in",
-      "link": "https://www.ecdc.europa.eu/en/publications-data/updated-rapid-scientific-advice-management-contacts-following-sporadic-imported",
       "badge": "UPDATE"
     }
   ]
