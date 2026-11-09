@@ -2,8 +2,8 @@
   "confirmed": 222,
   "probable": 14,
   "deaths": 6,
-  "monitoring": 18,
-  "last_updated": "2026-11-09T05:32:03.604254+00:00",
+  "monitoring": 110,
+  "last_updated": "2026-11-09T15:42:32.205741+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -111,13 +111,13 @@
       "confirmed": 3,
       "probable": 6,
       "deaths": 0,
-      "monitoring": 0
+      "monitoring": 22
     },
     "United States": {
       "confirmed": 3,
       "probable": 0,
       "deaths": 0,
-      "monitoring": 18
+      "monitoring": 88
     },
     "Tristan da Cunha": {
       "confirmed": 25,
@@ -628,6 +628,13 @@
   ],
   "news": [
     {
+      "date": "2026-11-09",
+      "display_date": "2026-11-09",
+      "text": "No Hantavirus Spread Found After Cruise. Off-Ship Risk Likely 2% Or Less - Forbes",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcwNenm48IpFQa8lS-Ebk5JmRHtdDyLCf82o5YIdrlRRNV0lsVOau5Ek5hBk8LKhuHHZSFlAZZV3b_tg77G5ScSWZRFjjqI4oo2LZ41kXqqgxH_LlT7Yx5O3IsAWVySBAg_F3IIZ8cOd1IjbvQNWx9Hx8HBQi0P1yU55L1fcSoDsM_zlmDD2y2jeFvnXYD1_lYmhK5dMvF5tp_7e6RsNOTItegThS_e0gSt7i1NOj96y3ANKg=",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-11-06",
       "display_date": "2026-11-06",
       "text": "Hantavirus Disease in a Changing World: Reservoir Ecology, Endothelial Dysfunction, Clinical Management, and the 2026 M/V Hondius Andes Virus Outbreak",
@@ -723,13 +730,6 @@
       "display_date": "2026-09-21",
       "text": "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMK-Ou1ugomB5Wm0L5dOZm7Tv8A7EUWbJZvBfmobtRzPn7ptp6uR1KVBCM715zOuWjmciA4XcsGTTMyO_voYvbribLX47ryPygtxCrypwg6fplh9bGZyopA_9STN_ZXZSn7cfvFzqFHBGcuJ-juNm9E3U6o7rYhPiXY-v29OKRM_GoOtJJNWNKlkd1tLpMirIgEQ64W13PGEBpDHHS8oly9mQNE5d0",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-09-18",
-      "display_date": "2026-09-18",
-      "text": "Updated rapid scientific advice on the management of contacts following sporadic imported Andes orthohantavirus (ANDV) cases in - ECDC",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsRcMisFLJ5dhFCAebhePnRbyJ8cvhiv4lsecVCbVPfO0-DFJmdaqcXQ-ATCijjpqU_nAc2J9HcCQaiH0rMCgV36_SGyn47Dx7saEEXMyFIF6SKx0_sJCDaV-FynpWtrXCAzgl4SK2-h9nqbxAF79lBUZx2JZDllAHMEmBE63gECy4EonSH4P8LVk8pTYV651bPKp4A16lWNGEQzudMQyJDwTl5773wAQtPn5dqc7d8BZsTdIH92F9iWKRRvFnuQ==",
       "badge": "UPDATE"
     }
   ]
