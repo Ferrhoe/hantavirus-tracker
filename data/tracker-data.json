@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 88,
-  "last_updated": "2026-11-12T14:54:09.939814+00:00",
+  "last_updated": "2026-11-12T23:23:04.925532+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -635,6 +635,13 @@
   ],
   "news": [
     {
+      "date": "2026-11-12",
+      "display_date": "2026-11-12",
+      "text": "Human-to-Human Hantavirus Spread Confirmed on M/V Hondius | Mirage News",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgdLCfqUxYe8q7coIudI4f-2ifcOLO94yRahx8AlmLA06v1gVgFLzKrqb6ght_pqIhUw9yNgaKu1sMo_426FakN8U0WsSLB51AY0OyoMLYkPb2iWDU8PqMC0W6nSTrQ0Wu_z4z5TyZHibn7XFdtrHsh7KpJBGNWjUhHNc0D1lgiA7MDzz8CNG5mro6Q==",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-11-09",
       "display_date": "2026-11-09",
       "text": "No Hantavirus Spread Found After Cruise. Off-Ship Risk Likely 2% Or Less - Forbes",
@@ -730,13 +737,6 @@
       "display_date": "2026-09-29",
       "text": "Hondius Andes Hantavirus Update: Case Numbers Stabilize, Contact Tracing Expands",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIHS3mkwkv901QWlrkQhprrl4vUAiz2L7tUq5dwjpe4WycLbIAqjEqU4Q1kVkzdRFfO-IK_ay12KYeLabIje31pjfGqmn_lSq8OBpqsKFnZn2gvtSZtLUwDupPgfugIs4QCZZ0Lwhuti27xMBynF5zvuUSphY5A1ZMrE1KJe-REIszE-9DbsOki2_sa1x-SpWgtU0Hgscd0v1HqkI_gRxPqaZoVu2udmpPyzU8zjvK-ps5FrvFGexqRw==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-09-21",
-      "display_date": "2026-09-21",
-      "text": "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMK-Ou1ugomB5Wm0L5dOZm7Tv8A7EUWbJZvBfmobtRzPn7ptp6uR1KVBCM715zOuWjmciA4XcsGTTMyO_voYvbribLX47ryPygtxCrypwg6fplh9bGZyopA_9STN_ZXZSn7cfvFzqFHBGcuJ-juNm9E3U6o7rYhPiXY-v29OKRM_GoOtJJNWNKlkd1tLpMirIgEQ64W13PGEBpDHHS8oly9mQNE5d0",
       "badge": "UPDATE"
     }
   ]
