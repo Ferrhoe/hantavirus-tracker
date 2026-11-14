@@ -1,9 +1,9 @@
 {
-  "confirmed": 224,
+  "confirmed": 229,
   "probable": 14,
   "deaths": 6,
   "monitoring": 88,
-  "last_updated": "2026-11-13T23:25:18.712958+00:00",
+  "last_updated": "2026-11-14T05:42:42.712501+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -18,7 +18,7 @@
       "monitoring": 0
     },
     "Canada": {
-      "confirmed": 41,
+      "confirmed": 42,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -30,7 +30,7 @@
       "monitoring": 0
     },
     "France": {
-      "confirmed": 46,
+      "confirmed": 47,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -54,7 +54,7 @@
       "monitoring": 0
     },
     "Netherlands": {
-      "confirmed": 37,
+      "confirmed": 38,
       "probable": 1,
       "deaths": 3,
       "monitoring": 0
@@ -84,7 +84,7 @@
       "monitoring": 0
     },
     "Spain": {
-      "confirmed": 58,
+      "confirmed": 59,
       "probable": 0,
       "deaths": 0,
       "monitoring": 0
@@ -120,7 +120,7 @@
       "monitoring": 88
     },
     "Tristan da Cunha": {
-      "confirmed": 27,
+      "confirmed": 28,
       "probable": 1,
       "deaths": 0,
       "monitoring": 0
@@ -631,9 +631,23 @@
       "probable": 14,
       "deaths": 6,
       "monitoring": 172
+    },
+    {
+      "date": "Nov 14",
+      "confirmed": 229,
+      "probable": 14,
+      "deaths": 6,
+      "monitoring": 88
     }
   ],
   "news": [
+    {
+      "date": "2026-11-12",
+      "display_date": "2026-11-12",
+      "text": "Two Studies Reveal How Andes Virus Spread Aboard Cruise Ship and Trace Its Genetic History to Patagonia | Mount Sinai - New York",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES-OaCuZt_dNif8PmsH7-iF4gP4aeznTAvRjC6hBigbf1p6AoJpOhFS08wm1DB6EFJmw8dZJ6kaf7hdxRKQsAMKfudl59ObK8HsjAlpm38HAXI2eMmOrJRVzMKkQO39dfW5wFRYAL-cS587QKh6h1GQs7umJwC5VgdGGxCacivcNpt3LqtjnR4Dee4b0OwUsN2fT39mPLESQVO6G9pwEl3xvprgd30Oo9XOgV-WB3miCsf-aELN-IS9Iw8jaTo3pMWzG6TKJr3LMjw7BfEGjWyt8w",
+      "badge": "UPDATE"
+    },
     {
       "date": "2026-11-12",
       "display_date": "2026-11-12",
@@ -730,13 +744,6 @@
       "display_date": "2026-10-01",
       "text": "Hondius Andes Hantavirus Update: Contact Tracing Intensifies as Outbreak Progresses",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH46YX0HO7cuWjqAYv6AJTDRN-viw930o_e-fSYOAV01g-rdN_gy4m8lk5U6jWGvJyucwy_OTtEXLhSuoCdw4voR4Yp2wQ0F2Z3bQalc5BqEoMvtQT5S8W5UzlhpTtljDrekUignn96Nrjpma0oCuZHlLLebJwRZpZarvmEoSK0xrVRNirv4MWv1XtsnrmIZPDaX40NjnHxOr3uCqBZlyQi01T-gmhzz-86Uu9iKp_WSpYEHTufg3Yex4lO5g==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-09-29",
-      "display_date": "2026-09-29",
-      "text": "Hondius Andes Hantavirus Update: Case Numbers Stabilize, Contact Tracing Expands",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIHS3mkwkv901QWlrkQhprrl4vUAiz2L7tUq5dwjpe4WycLbIAqjEqU4Q1kVkzdRFfO-IK_ay12KYeLabIje31pjfGqmn_lSq8OBpqsKFnZn2gvtSZtLUwDupPgfugIs4QCZZ0Lwhuti27xMBynF5zvuUSphY5A1ZMrE1KJe-REIszE-9DbsOki2_sa1x-SpWgtU0Hgscd0v1HqkI_gRxPqaZoVu2udmpPyzU8zjvK-ps5FrvFGexqRw==",
       "badge": "UPDATE"
     }
   ]
