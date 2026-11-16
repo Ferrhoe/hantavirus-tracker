@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 88,
-  "last_updated": "2026-11-15T22:39:42.732009+00:00",
+  "last_updated": "2026-11-16T05:41:59.407490+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -642,6 +642,13 @@
   ],
   "news": [
     {
+      "date": "2026-11-15",
+      "display_date": "2026-11-15",
+      "text": "Two studies reveal how Andes Virus spread aboard a cruise ship and trace its genetic history to Patagonia - NICD",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENjPYO25dlkz-_OiYXfWrtz7du6HhPqhq5Dg82jV3M1m65JrWL9vk-DyYr_qhfyrHTkghOy3Zu7AYO25ZcBB2RqCafehJ8IlMIlMAH47DBBSSOx4bGLanbIm9A4JLSvujgS5kCb7XwsyjPaiArdLfpCtsBmEKmrixSXLOHXJHJRWNWQ3AkvswdYfstLA-yWqt9oLz-PGjaXJUrin8d_7-d_miItVigUN8U6XOV4kxQD-vhIG5aaOR-K-QFtg",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-11-12",
       "display_date": "2026-11-12",
       "text": "Two Studies Reveal How Andes Virus Spread Aboard Cruise Ship and Trace Its Genetic History to Patagonia | Mount Sinai - New York",
@@ -737,13 +744,6 @@
       "display_date": "2026-10-08",
       "text": "Hantavirus Tracker 2026 \u2014 Live Outbreak Map, Cases & Deaths | HORIZON",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFllDdw_cxh-MIIA8XB0W45ytP0Qwwx9rtBseuqYYXNnLh9jRFizCQcTDIWqq8GP2jVcDo0iVjMKl8ISMUReqpltpMI99Xra7XE35LXyZoGF_jiNe52Mg==",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-10-01",
-      "display_date": "2026-10-01",
-      "text": "Hondius Andes Hantavirus Update: Contact Tracing Intensifies as Outbreak Progresses",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH46YX0HO7cuWjqAYv6AJTDRN-viw930o_e-fSYOAV01g-rdN_gy4m8lk5U6jWGvJyucwy_OTtEXLhSuoCdw4voR4Yp2wQ0F2Z3bQalc5BqEoMvtQT5S8W5UzlhpTtljDrekUignn96Nrjpma0oCuZHlLLebJwRZpZarvmEoSK0xrVRNirv4MWv1XtsnrmIZPDaX40NjnHxOr3uCqBZlyQi01T-gmhzz-86Uu9iKp_WSpYEHTufg3Yex4lO5g==",
       "badge": "UPDATE"
     }
   ]
