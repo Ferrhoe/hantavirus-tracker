@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-11-17T01:46:27.565906+00:00",
+  "last_updated": "2026-11-17T15:44:45.668892+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -642,10 +642,24 @@
   ],
   "news": [
     {
+      "date": "2026-11-16",
+      "display_date": "2026-11-16",
+      "text": "Person-to-Person Hantavirus Transmission Confirmed on Cruise Ship - Respiratory Therapy",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzCtaTvrQJt_r7CwOa92SjDBfix4itr0fpRSs8uUqF4q5ves00SLEKVdAxWyxBtT9i5VBqIQo6_KpaYI2YMOei0onQnHxitQV9razJ3t_-_azlU9TZpU4NKWqVYWC0uZsJ6g9i9HOR9ZJiTShawHl9kDBuBw3QhvhVLxEaxSgLr75zF_DadV0iu2lZ2h8112WiJQqCIGJsyjNdHdInLvUyQtMb18BwQaUBiyZ4SP9dns0ujwBv2JEbK0W7W7y3tzAdTb2euapgOfC25Qq35Zn7ovtO2zb9",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-11-15",
       "display_date": "2026-11-15",
       "text": "Two studies reveal how Andes Virus spread aboard a cruise ship and trace its genetic history to Patagonia - NICD",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENjPYO25dlkz-_OiYXfWrtz7du6HhPqhq5Dg82jV3M1m65JrWL9vk-DyYr_qhfyrHTkghOy3Zu7AYO25ZcBB2RqCafehJ8IlMIlMAH47DBBSSOx4bGLanbIm9A4JLSvujgS5kCb7XwsyjPaiArdLfpCtsBmEKmrixSXLOHXJHJRWNWQ3AkvswdYfstLA-yWqt9oLz-PGjaXJUrin8d_7-d_miItVigUN8U6XOV4kxQD-vhIG5aaOR-K-QFtg",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-11-12",
+      "display_date": "2026-11-12",
+      "text": "Study on the cruise ship \u201cHondius\u201d leaves the most important question unanswered",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8hdUuklNDM68-1cUzTkiVZnCA-pV8Wmz7YzJk0Z7MSni4eu6f_40MallvZhsJGF1EQkIph5x2ti1yM36zB-LvEbrmmFuzJX2A74owarpyXu6Rfn4_iwFOXlFLHl0IIJhF6kYuLpttKbb0gxYELIcgJMjfSmZ_ocigpU-E-fVBeuOHXLJe8A6qWRHuy68EAg-QiL1t3cDSJX8BoJtNrxkzKbwUI8sJxLau4LoNWQetvOO2CQ==",
       "badge": "UPDATE"
     },
     {
@@ -730,20 +744,6 @@
       "display_date": "2026-10-13",
       "text": "2026 Hondius Hantavirus Outbreak Map and Tracker - GenomicEpi.com",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-WPMxl5cRBmMD0ofyZ398lbtqPHuaQJGB7GZm6y_up3DWIi54-eD03QTQC7esDf5jHMgzseEc87Z2HDAuUzKLwFVnN-cIAWSfbewvh4B8JA5BC7UbVS06uv49TUu_DEpHCZL_3JQHxFfNXCsemaI1CKo",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-10-10",
-      "display_date": "2026-10-10",
-      "text": "The hantavirus outbreak aboard the MV Hondius tested our collective ability to respond to a rapidly evolving health emergency. World Health Organization (WHO), Spain and many more countries and part - Facebook",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-xXrHqlga8xVL5hn94-gcAhLvTPLe9X6e6QG9JMGYclDm8TO7CxGcdGuBQeFlf9n7g0GwArQ4y6bzDfvTpO88G7PHxfP283H1ofU66NSIMBcIP5IaQAtASNbmewdFsyrZwWB6yCUpPff2gss1bsleVeGTgCX7uqZkhoM1m4Eg4TKVNzYbyEVr9aiU3ATsywZmP3fI1gQojD1GZw9fuLsLMKSTqbyNWqWSEN9Q_nv-Ds0R6QAeHKXqRClbkn5thBz8oByPE0J42yZ4CUsE9Fg=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-10-08",
-      "display_date": "2026-10-08",
-      "text": "Hantavirus Tracker 2026 \u2014 Live Outbreak Map, Cases & Deaths | HORIZON",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFllDdw_cxh-MIIA8XB0W45ytP0Qwwx9rtBseuqYYXNnLh9jRFizCQcTDIWqq8GP2jVcDo0iVjMKl8ISMUReqpltpMI99Xra7XE35LXyZoGF_jiNe52Mg==",
       "badge": "UPDATE"
     }
   ]
