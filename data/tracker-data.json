@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-11-20T15:09:00.037465+00:00",
+  "last_updated": "2026-11-20T23:50:06.401195+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -642,6 +642,13 @@
   ],
   "news": [
     {
+      "date": "2026-11-20",
+      "display_date": "2026-11-20",
+      "text": "Death on the high seas: scientists unravel how hantavirus spread aboard the MV Hondius",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1VxvSQGsRQg1hoQWRzanZbm4g0gAvkVQlj-h5u2eY644AE9o0LxNweTg-APJH86886tjpOhTpjcvfV5TWn7QeEgp3FCHdbxNIaRabm-VNDRmceJ7yKGSdalQBRz0op_b_TJRNMKbCMjpQ6hrJWt6ULZEe-1h_ibi3jGkkFGde-w9-WVn2z7C5yT5adVsw-heqbeCf-WkkyxuEtlVg6j1iMqA5iaUn",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-11-17",
       "display_date": "2026-11-17",
       "text": "Hantavirus Tracker 2026 \u2014 Live Outbreak Map, Cases & Deaths | HORIZON",
@@ -737,13 +744,6 @@
       "display_date": "2026-10-18",
       "text": "The Guardian view on plague in Russia: what is most worrying is the lack of information",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpDxTsH_x6nWq5yxUh03wi43sIhKbhXr2qCttX3qaUffuuLbe5aWnOA95Izy4vztNLMKweGMMun16YWgfAFy89f8DB2WaLwYxm1nFLE6si9d6v6SnNbMVaLXA4gUvbhrRsnNU5sQsGJqCGcD7PopJcw9dyBW7QedjVS5nziyYMnUzO2saubkkNPxrY6Hm0Qdv9hCUuK8lode9kx-O7kUE3_qTzu0_z6rQ4_PVng-1T6pXAiXKd0fOJiW9AJyLp2KRXbOs-bfJG",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-10-17",
-      "display_date": "2026-10-17",
-      "text": "Hondius Andes Hantavirus Outbreak Cases Stabilize",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWtp8OaKwVGKQTAUXTB8wmkofCGhWn5A6bNXzaG1JIdisOUZPX-8kosmWpNW76b59LvKglT6c2gY3RTZXLL2_8jRVXMuWpysXw2juPwFoJVlv6ui28u0a_xQe9BDVNAv7Pwkv2kSTKDol8uDdH2ShuwnG4OFRjYLbpvQyWwRpWAyXKW7ALU3rzA2yun7Rzp0naR9a0wy-a6mHWE9YZJ7B2_9l0WEZhQK6TdYvrJRPvdGkNbHYQ4QdAT-etnQ==",
       "badge": "UPDATE"
     }
   ]
