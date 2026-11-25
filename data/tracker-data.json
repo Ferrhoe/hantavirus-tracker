@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-11-25T07:47:54.650036+00:00",
+  "last_updated": "2026-11-25T21:25:16.472467+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -642,6 +642,20 @@
   ],
   "news": [
     {
+      "date": "2026-11-25",
+      "display_date": "2026-11-25",
+      "text": "Studies Trace Cruise Ship Hantavirus to Patagonia | RT - Respiratory Therapy",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn-tvpXLS-Tx_NbV_gN0JhbNg__jBpEX1f4h4gD48zkdEEoQeh9NzY8YzLgvRMwP5Un1Nktg4FVz9osbD-f3yTxSvP0mKnqQzmhcBs0AuOsLVX4ccBwCPfUJ-xyyTDZG3dc-Uv40LgaogQlJLr5iVps9qfLuAja-rmGZWVyhi7xoHzichvPAuKUUgks52uOrmxtygxoN2W2vrPmMU2rAn8CpyGELl2UNpOlQWVTIvm4OvzxTu8RkBxY5SYV8hhq7OYBHnoZEI=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-11-24",
+      "display_date": "2026-11-24",
+      "text": "Two studies provide new insights into deadly cruise ship Andes virus outbreak",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb1JQUECMPGVnAp3ke6ZFVd2aL3IUtOfJJ-t5zvE1IjcEYKmD2VEGbj2U3DiSVMrVJXGdsqCjo1bMn0NnNKElR9wabOCol3zRthP_-Ae2I6SOfNjtGUUGpi69xAGsIcO_Q3XP3TbWi-62ovl0nTXR0ROJuJqC0jj0mfu8gYx_TDdt4byMpWdj4_hBMVBxTO_uszph3tEeP8X98__t2ffZkZsg9a5v4GHHr4ZR4vP5byZZEpnOsSlH8",
+      "badge": "UPDATE"
+    },
+    {
       "date": "2026-11-20",
       "display_date": "2026-11-20",
       "text": "Death on the high seas: scientists unravel how hantavirus spread aboard the MV Hondius",
@@ -730,20 +744,6 @@
       "display_date": "2026-10-30",
       "text": "2026 Cruise Crisis: Hantavirus Playbook & AI Visibility - Everything-PR",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTa7zEqIDyk69o5hf1hB-sXo9waSaDCmQsqhQCqha21WnnQwqNrowXldBEhPqMcoB6XcuOacz_cIMXL7GZROuXaXJW4zStTMqzyhSXNMUth52mkgreR0rvuRQJWxU8lp_24u30G3U91WugK2EFn_PbDhTlqpzTED8=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-10-19",
-      "display_date": "2026-10-19",
-      "text": "Hantavirus and the mouth: Review maps early oral warning signs, salivary clues, and precautions for dental teams | EurekAlert!",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE88Z4qxchnh2ImnBi6gSz1vx6eARwzg18bU1jt8-fzyWWf_B3LZ3LWhHdR0hv6EDs-4947MrsD7zQMpdy-BKVBCmRLcQOn6juGJaQNfVQ5u5XXVxH7m4yUOiigWIF9wfr1xatKJk8MZJnS",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-10-18",
-      "display_date": "2026-10-18",
-      "text": "The Guardian view on plague in Russia: what is most worrying is the lack of information",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpDxTsH_x6nWq5yxUh03wi43sIhKbhXr2qCttX3qaUffuuLbe5aWnOA95Izy4vztNLMKweGMMun16YWgfAFy89f8DB2WaLwYxm1nFLE6si9d6v6SnNbMVaLXA4gUvbhrRsnNU5sQsGJqCGcD7PopJcw9dyBW7QedjVS5nziyYMnUzO2saubkkNPxrY6Hm0Qdv9hCUuK8lode9kx-O7kUE3_qTzu0_z6rQ4_PVng-1T6pXAiXKd0fOJiW9AJyLp2KRXbOs-bfJG",
       "badge": "UPDATE"
     }
   ]
