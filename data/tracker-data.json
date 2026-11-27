@@ -3,7 +3,7 @@
   "probable": 14,
   "deaths": 6,
   "monitoring": 0,
-  "last_updated": "2026-11-26T21:11:48.290966+00:00",
+  "last_updated": "2026-11-27T07:37:50.099142+00:00",
   "countries": {
     "Australia": {
       "confirmed": 0,
@@ -707,6 +707,13 @@
     {
       "date": "2026-11-09",
       "display_date": "2026-11-09",
+      "text": "No Hantavirus Spread Found After Cruise. Off-Ship Risk Likely 2% Or Less",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1pmtO6vhXPyWdHurvkryFvATpO_ULk_rTlxKhWWC55_L0MMHD-WUH9kGmbngg2vkXchKleVSMxxYomdLLC_PpYLIwOikJD6liz3FJC6oW2oHWskhxdxB10QKMe0myCM4GTCfjbcetuNytD2Z6tnYH4vQ_Vn7WkNHuLNwb6IIciVo2wo6LMarhFDBLTpNIBrjd_hgTNyFc5LyOLCgWjQ6vFNEaGFKzv-kYvzHRFrSLF2KbGBs=",
+      "badge": "UPDATE"
+    },
+    {
+      "date": "2026-11-09",
+      "display_date": "2026-11-09",
       "text": "No Hantavirus Spread Found After Cruise. Off-Ship Risk Likely 2% Or Less - Forbes",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcwNenm48IpFQa8lS-Ebk5JmRHtdDyLCf82o5YIdrlRRNV0lsVOau5Ek5hBk8LKhuHHZSFlAZZV3b_tg77G5ScSWZRFjjqI4oo2LZ41kXqqgxH_LlT7Yx5O3IsAWVySBAg_F3IIZ8cOd1IjbvQNWx9Hx8HBQi0P1yU55L1fcSoDsM_zlmDD2y2jeFvnXYD1_lYmhK5dMvF5tp_7e6RsNOTItegThS_e0gSt7i1NOj96y3ANKg=",
       "badge": "UPDATE"
@@ -737,13 +744,6 @@
       "display_date": "2026-11-01",
       "text": "Biocontainment Transport of Patients with High-Consequence Infectious Diseases: A Narrative Review and Integrated Operational Framework for Emergency Medical Systems",
       "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGglQ-vhkp0UPt6qU8VTKTPjRVZD3lu9qz1LKx7EECibdyI2toz_xMXXZUnoWZZjPLZ5j4SYJF2apR5-wxKA4RU7K9NC_Ah40DQz39HZYOwytFuhpXMfsfY4751i3JwVE8=",
-      "badge": "UPDATE"
-    },
-    {
-      "date": "2026-10-30",
-      "display_date": "2026-10-30",
-      "text": "2026 Cruise Crisis: Hantavirus Playbook & AI Visibility - Everything-PR",
-      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTa7zEqIDyk69o5hf1hB-sXo9waSaDCmQsqhQCqha21WnnQwqNrowXldBEhPqMcoB6XcuOacz_cIMXL7GZROuXaXJW4zStTMqzyhSXNMUth52mkgreR0rvuRQJWxU8lp_24u30G3U91WugK2EFn_PbDhTlqpzTED8=",
       "badge": "UPDATE"
     }
   ]
